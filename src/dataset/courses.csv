@@ -1,0 +1,1920 @@
+﻿semester,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer, type,type,summary
+1111.0,410007.0,BTBT10014,中一中科學班，上限90人 通識校基本 通識跨院,"General Biology
+GECLGEC[ECE,COS,CHK] GECIDAST",普通生物學（一）,90,82,"W5-SA320[GF],M34-SC106[GF]",3.0,3.0,林勇欣、趙啟宏、蘇昱誠,,1,
+1111.0,410008.0,BTBT10014,上限90人 通識校基本 通識跨院,"General Biology
+GECLGEC[ECE,COS,CHK] GECIDAST",普通生物學（一）,90,83,W6R56-SA320[GF],3.0,3.0,林勇欣、鄒協成、莊碧簪,,1,
+1111.0,410018.0,BTBT10042,"限120人通識跨院 通識校基本[資,工,理] 生科系老師合開 遠距授課","Introduction to Biotechnology (I)
+GECL[ECE,CCS,COE,COS,CI] GECIDLDAST",生物科技概論(一),120,137,T2-,1.0,1.0,蘭宜錚,,1,
+1111.0,514104.0,HSFL10032,華語學程，共掛核心課程[English Medium Course],"Introduction to Linguistics (1)
+Optional Liberal EducationDASCENG",語言學概論(一),80,76,R34-F210[GF],2.0,2.0,盧郁安,,1,
+1111.0,514122.0,HSFL10029,,"Introduction to Western Literature (1)
+Art and CulturesGECLGEC[COE,COS,CBT,CHK,CI] GECIDAHA",西洋文學概論(一),110,88,T234-F110[GF],3.0,3.0,李家沂,,1,
+1111.0,514131.0,HSFL10041,專選，文類-小說，開放二三四年級選課，共掛核心課程[English Medium Course],"Dystopian Fiction and Film (Genre: Fiction)
+Art and CulturesGECLDAHAENG",反烏托邦小說與電影（文類課：小說）,25,23,F234-HC402[GF],3.0,3.0,包德樂,,2,
+1111.0,310000.0,HKHS10001,,"Anthropology
+History and CivilizationsGECL[CHS] GECIDASC",人類學,60,61,R567-SC160[GF],3.0,3.0,簡美玲,,1,
+1111.0,310001.0,HKHS10003,,"Global History
+History and CivilizationsGECLDASC",全球史,60,63,M567-HKB09[LJ],3.0,3.0,盧正恒,,1,
+1111.0,310002.0,HKHS10005,上課地點:客家學院4樓國際會議廳,"Introduction to Hakka Society and Culture
+History and CivilizationsGECL[COE,CI] GECIDASC",客家社會與文化導論,100,99,M234-,3.0,3.0,羅烈師,,1,
+1111.0,310008.0,HKHS10006,,"Sociological Theories
+Society and EconomyGECL[COM] GECIDASC",社會學理論,40,44,R567-HK106[LJ],3.0,3.0,林秀幸,,2,
+1111.0,310009.0,HKHS10007,,"Reading Classics of Social Studies(I)
+History and CivilizationsGECDASC",社會經典閱讀(一),60,49,R234-HKB09[LJ],3.0,3.0,莊雅仲,,1,
+1111.0,310010.0,HKHS10002,,"Reading Classics of Humanities(I)
+History and CivilizationsGECDAHA",人文經典閱讀(一),60,46,M234-HKB09[LJ],3.0,3.0,劉大和,,1,
+1111.0,310016.0,HKHS20017,上課地點:資訊中心訓練教室,"Streaming Media (Netflix, Apple TV+, Disney+) Film and TV Drama Commentary
+Optional Liberal EducationGECLDAHA",串流媒體影視評析,Unlimited,33,R234-,3.0,3.0,段馨君,,2,
+1111.0,310022.0,HKHS20023,遠距課程,"Nativist Literature and Science Fiction
+Optional Liberal EducationGECLDLDASC",鄉土與科幻,40,16,R567-HK105[LJ],3.0,3.0,蔣淑貞,,2,
+1111.0,310102.0,HKCT10011,,"Multi-cultures and Communication
+Society and EconomyGECL[COM,CBT] GECIDASC",多元文化與傳播,45,47,M567-A310[GF],3.0,3.0,李美華,,2,
+1111.0,310103.0,HKCT20029,[English Medium Course],"Audiences and Popular Culture
+Optional Liberal EducationGECLDASCENG",閱聽人與流行文化,30,35,T234-HK104[LJ],3.0,3.0,陳維平,,2,
+1111.0,310110.0,HKCT10013,,"Media Culture and Society
+Society and Economy[CBT] GECIDASC",媒體文化與社會,50,53,R234-HKB08[LJ],3.0,3.0,黃淑鈴,,1,
+1111.0,310117.0,HKCT10012,[English Medium Course],"Media Literacy: Planning and Practice
+Optional Liberal EducationGECLDASCENG",媒體素養企劃與實作,Unlimited,34,F234-HK104[LJ],3.0,3.0,蔡欣怡,,2,
+1111.0,514003.0,HSCH00007,,"Digital Image Design
+GECLDAHA",數位影像創作,30,42,M567-HC103[GF],3.0,3.0,羅曉愉,,2,
+1111.0,514004.0,HSCH00008,,"Introduction to Technology and Art
+Art and Cultures[ECE,CCS,COE,COS,COM,CBT,CHK,CI] GECIDAHA",科技藝術概論,30,51,R56-HC103[GF],2.0,2.0,林欣怡,,2,
+1111.0,514005.0,HSCH00015,,"Introduction to Design
+Art and CulturesGECLDAHA",設計概論,60,63,F34-HC103[GF],2.0,2.0,謝明勳,,2,
+1111.0,514006.0,HSCH00002,,"Introduction of Visual Art
+Art and CulturesGECLDAHA",視覺藝術概論,30,45,R34-HC103[GF],2.0,2.0,林合懿,,1,
+1111.0,514008.0,HSCH10016,,"Creative City and Sustainable Ecology
+Science, Technology and Society[ECE,CCS,COE,COS,CBT,CHK,CI] GECIDAST",創意城市與永續生態,60,78,F56-F110[GF],2.0,2.0,曾聖凱,,2,
+1111.0,514009.0,HSCH10017,,"Anime(ACG or Otaku) Culture and Internet Communication
+GECLDASC",動漫文化與網路傳播,25,53,M56-HC105[GF],2.0,2.0,羅禾淋,,2,
+1111.0,514010.0,HSCH10024,,"Story and Scenario Design
+[CCS,COS,CHS] GECIDASC",故事與情境設計,20,14,S34-HC104[GF],2.0,2.0,李峻德,,2,
+1111.0,514013.0,HSCH10009,,"Contemporary Art and Cross-Disciplinary Design
+Optional Liberal EducationGECLDAHA",當代藝術與跨域設計,20,17,T56-HC101[GF],2.0,2.0,林愛真,,2,
+1111.0,514019.0,HSCH10011,,"Foundation Design（I）
+Optional Liberal EducationGECLDAHA",基本設計初階,25,36,T234-HC103[GF],3.0,3.0,劉靜純,,1,
+1111.0,514021.0,HSCH10026,,"Creactive Copywriting and Story Scripting
+LCCCGECL",創意文案與故事腳本,25,30,W34-HC101[GF],2.0,2.0,童一寧,,2,
+1111.0,514022.0,HSCH10029,,"Introduction to Entertainment Narratives
+Optional Liberal Education[ECE,CCS,COS,CBT,CHS,CHK] GECIDASC",娛樂敘事概論,25,29,R56-HC104[GF],2.0,2.0,陳延昇,,2,
+1111.0,515102.0,EEEC10012,電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為Mabc -ED713。 資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。,"Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,50,49,Mn56-ED203[GF],3.0,3.0,溫宏斌,,1,
+1111.0,515103.0,EEEC10012,電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為 Wabc-PC4 。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。,"Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,60,56,T56R7-EE105[GF],3.0,3.0,蔡中庸,,1,
+1111.0,515104.0,EEEC10012,電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。課程R789與實作Rabc 教室安排於ED713。實驗時間為週四abc(ED713) 。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。,"Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,50,32,R789abc-ED713[GF],3.0,3.0,黃紹華,,1,
+1111.0,515105.0,EEEC10012,電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時段Tabc-PC4(教室安排於資訊中心PC4)。 資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。,"Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,60,72,M56R2-EE105[GF],3.0,3.0,蔡中庸,,1,
+1111.0,515108.0,EEEC10012,電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。上課教室:工程五館635室。實驗時間為週一晚上abc(EE635)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。,"Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,50,53,M56R2-EE635[GF],3.0,3.0,王傑智,,1,
+1111.0,515109.0,EEEC10012,"電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週一abc(地點:PC2,PC3)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。","Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,85,95,M56R2-ED116[GF],3.0,3.0,劉建男,,1,
+1111.0,515110.0,EEEC10012,電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。課程教室工四館ED713、實作於週二晚上Tabc (ED713)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。,"Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,50,43,M56R2-ED713[GF],3.0,3.0,黃育綸,,1,
+1111.0,515118.0,EEEC20082,以電機系學生優先選課。,"Discrete Mathematics
+FCQR[COE,CI] GECI",離散數學,100,119,M56R2-ED219[GF],3.0,3.0,帥宏翰,,2,
+1111.0,515121.0,EEEC10022,實驗課有兩個時段: 週二T 晚上abc or 週四R 晚上abc (EE635)，同學只要選一天即可,"Advanced Object-Oriented Programming
+[COM] GECI",進階物件導向程式設計,100,20,W34F7-EE105[GF],3.0,3.0,蔡中庸,,2,
+1111.0,515184.0,EEEC20050,上課教室工程五館EE222A [English Medium Course] 此課程不得列入生醫所畢業學分。需修畢或同時修習電子實驗才可加選。加選為通識學生請於開學後找老師加簽。,"Biomedical Engineering Laboratory
+[COE,CI] GECIENG",生醫工程實驗,18,16,F567-,3.0,3.0,蔡德明,,2,
+1111.0,515402.0,EEDP00003,,"Hands-on Experiments on Digital Optics
+GECLDAST",數位光學實作,27,30,Tabc-CY201[GF],3.0,3.0,陳皇銘,,2,
+1111.0,515415.0,EEDP20012,[English Medium Course],"Signals and Systems
+[COE,CI] GECIENG",訊號與系統,Unlimited,80,T5R67-EO103[GF],3.0,3.0,鄒志偉,,1,
+1111.0,515601.0,CSCS20002,"外系生請於開學上網加選；資工系與電資學士班學生優先選課；上課教室：EC315、EC316；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放校際選修","LabVIEW Programming Language
+[COE,CI] GECIDAST",LabVIEW 程式語言,70,82,"F34-EC315[GF],F34-EC316[GF]",3.0,3.0,蕭子健,,2,
+1111.0,510000.0,EEAE00002,電機院級(學)。基本素養-組織管理/博雅選修通識/通識校基本。 1.限大一、大二同學選修 、2.上課地點：李大嵩老師(T56-ED303)，方凱田老師(T56-ED525)、3.欲加選此課程請EMAIL:yujucheng@nycu.edu.tw，並告知三班志願序，以及修課原因。,"Global Engineering Leadership Cultivation and Discovery
+Optional Liberal EducationFCOMGECL",全球工程領袖培育及探索系列,40,38,"T56-ED303[GF],T56-ED525[GF]",2.0,2.0,李大嵩、方凱田,,2,
+1111.0,510001.0,EEAE00002,電機院級(學)基本素養-組織管理/通識校基本/博雅選修通識 1.限大一、大二同學選修2.上課地點：邱一老師(W34-工五EE208)；田仲豪老師(W34-交映樓CY202)、3.3.欲加選此課程請EMAIL:yujucheng@nycu.edu.tw，並告知三班志願序，以及修課原因。,"Global Engineering Leadership Cultivation and Discovery
+Optional Liberal EducationFCOMGECL",全球工程領袖培育及探索系列,40,40,"W34-CY202[GF],W34-EE208[GF]",2.0,2.0,邱一、田仲豪,,2,
+1111.0,510002.0,EEAE00002,電機院級(學)。通識校基本/博雅選修通識/基本素養-組織管理。 1.限大一、大二同學選修2.上課地點：蔡嘉明老師(W34-ED101)；桑梓賢老師(W34-ED303)、3.欲加選此課程請EMAIL:yujucheng@nycu.edu.tw，並告知三班志願序，以及修課原因。,"Global Engineering Leadership Cultivation and Discovery
+Optional Liberal EducationFCOMGECL",全球工程領袖培育及探索系列,40,38,"W34-ED101[GF],W34-ED303[GF]",2.0,2.0,蔡嘉明、桑梓賢,,2,
+1111.0,510003.0,EEAE00004,電機院級(學) 核心通識-社會與經濟/通識核心/通識跨院/通識校基本/基本素養-量性推理 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程 。 應數.傳科系及管理學院不同意所屬學生採計通識學分,"Statistics
+FCQRGECLGEC[ECE,CCS,COE,CI] GECI",統計學,100,100,M56R2-AB102[GF],3.0,3.0,彭南夫,,2,
+1111.0,510004.0,EEAE00004,電機院級(學) (院級課程)通識校基本/基本素養-量性推理/通識核心/通識跨院/核心通識-社會與經濟 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程。應數.傳科系及管理學院不同意所屬學生採計通識學分,"Statistics
+FCQRGECLGEC[ECE,CCS,COE,CI] GECI",統計學,100,100,M56R2-AB101[GF],3.0,3.0,陳志榮,,2,
+1111.0,510005.0,EEEC10019,電機院級(學) 電機學院學生可列為跨院基本素養通識課程,"Modern Biology (I)
+[ECE] GECIDAST",近代生物學 (一),60,60,T2F34-EE105[GF],3.0,3.0,梁美智、黃植懋、高智飛,,2,
+1111.0,516001.0,ENPN10008,奈米組必修／上課教室：工程五館548室,"General Biology
+GECLGEC[COE,CHK,CI] GECIDAST",普通生物學,27,27,M567-,3.0,3.0,鄒協成、莊碧簪、梁美智,,1,
+1111.0,516122.0,ENME20007,(太空學程) 開3/4年級,"Space Science & Technology Applications
+Science, Technology and Society[CBT] GECIDAST",太空科技應用,130,130,Mab-CS100[GF],2.0,2.0,方振洲,,2,
+1111.0,516126.0,ENME20019,核心選修課程/ 開3/4年級,"Energy Technology
+Science, Technology and Society[ECE,CCS,COM,CBT] GECIDAST",能源科技,105,107,Rabc-EE106[GF],3.0,3.0,陳慶耀,,2,
+1111.0,516220.0,ENCV20016,,"Engineering Statistics
+[ECE,CCS,COS] GECI",工程統計學,100,90,M234-EB117[GF],3.0,3.0,趙韋安,,2,
+1111.0,516225.0,ENCV10015,,"Hydrology
+Science, Technology and Society[ECE,CCS,CBT] GECIDAST",水文學,45,57,T7F34-EB118[GF],3.0,3.0,張良正,,1,
+1111.0,516226.0,ENCV10015,[English Medium Course],"Hydrology
+Science, Technology and Society[ECE,CCS,CBT] GECIDASTENG",水文學,45,22,T7F34-EB108[GF],3.0,3.0,楊尊華,,1,
+1111.0,516304.0,ENMS10019,,"Introduction to Materials Science and Engineering (I)
+GECLDAST",材料科學與工程導論 (一),80,85,R2F34-EF201[GF],3.0,3.0,陳智,,1,
+1111.0,516317.0,ENMS10020,[English Medium Course],"Introduction to Materials Science and Engineering (I)
+GECLDASTENG",材料科學與工程導論(一)(英文班),Unlimited,28,R2F34-SC204[GF],3.0,3.0,Winny Dong,,1,
+1111.0,516502.0,SCDP10005,理學院科學學士學位學程班學生優先。人數上限：60 人,"General Biology(I)
+GECLGEC[COS,CHK] GECIDAST",普通生物學(一),120,126,Wn56-SA321[GF],3.0,3.0,莊碧簪,,1,
+1111.0,516611.0,SCEP00009,,"Service Learning II
+GECLDASC",服務學習二:物理科普教育推廣,111,109,R56-SC106[GF],2.0,2.0,張文豪,,1,
+1111.0,516613.0,SCEP10011,遠距課程,"Logic Design
+[COE,CI] GECIDL",邏輯設計,75,75,F56-SC158[GF],3.0,3.0,趙天生,,2,
+1111.0,517304.0,MGMS10001,1.開放全校大三大四學生選修。,"Strategic Management
+FCOMSociety and EconomyGECL[ECE,CCS,COE,COS,CBT,CHS,CI] GECI",策略管理,50,54,T567-M205[GF],3.0,3.0,黃瓊誼,,2,
+1111.0,517100.0,MGCM10018,管院管理基礎課程；主開大二資財系；上限100人，資財系大二、管科系大二必修；管院學生優先選課；輔開管理學院、管科系、工管系、運管系；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。本學期本課程限管院學生選課。,"Financial Management
+[ECE,CCS,COE,COS,CBT,CHS,CHK,CI] GECI",財務管理,100,120,T567-M-b10[GF],3.0,3.0,黃宜侯,,1,
+1111.0,519509.0,XDAP00008,,"The Power of Rules: How Could Rules Make the World?
+Optional Liberal EducationGECLDACE",規則的力量:規則如何構成世界?,50,57,F34-SC162[GF],2.0,2.0,程源中,,2,
+1111.0,519510.0,XDAP00001,,"The Basics of Inquiry and Research of the Arete Honors Program: From Topic
+Optional Liberal EducationFCCTGECL",專題探索的基本功-從選題到上台,Unlimited,42,T789-SC160[GF],3.0,3.0,安勤之,,2,
+1111.0,519511.0,XDAP00003,,"The Most Special Right? An Introduction to Freedom of Speech
+GECDACE",最特殊的權利？言論自由初探,50,66,R567-SC162[GF],3.0,3.0,程源中,,2,
+1111.0,111002.0,NSDN10024,,"You can see, find and use the service of long term care
+Optional Liberal EducationDASC",看得到、找得到、用得到,40,40,F56-YN418[YM],2.0,2.0,楊曼華、黃淑鶴、高蕭國帆、陳妙言、林昱宏、楊舒琴、王菀宣、葉又菁、林俐岑、賴鼎璁、柯澐蓁、楊桂鳳,,1,
+1111.0,161000.0,GECE00122,,"Digital Well-being
+Optional Liberal EducationGECLDAST",數位安康,0,8,Myz-,2.0,2.0,蔡敦仁、侯君昊,,3,
+1111.0,161001.0,GECE00165,本課程為線上課程，全英語授課，為維持教學品質，限制修課人數。[English Medium Course],"Critical and Creative Thinking
+FCCTPhilosophy and MindGECLENG",批判與創意思考,0,36,M56-,2.0,2.0,林映彤、顧醫華、嚴如玉、嚴偉哲、楊元傑,,3,
+1111.0,161002.0,GECE00165,本課程為線上課程，全英語授課，為維持教學品質，限制修課人數。[English Medium Course],"Critical and Creative Thinking
+FCCTPhilosophy and MindGECLENG",批判與創意思考,0,39,M9a-,2.0,2.0,嚴如玉、顧醫華、嚴偉哲、林映彤、楊元傑,,3,
+1111.0,161003.0,GECE00165,本課程為線上課程，全英語授課，為維持教學品質，限制修課人數。[English Medium Course],"Critical and Creative Thinking
+FCCTPhilosophy and MindGECLENG",批判與創意思考,0,38,T9a-,2.0,2.0,楊元傑、顧醫華、嚴如玉、嚴偉哲、林映彤,,3,
+1111.0,161004.0,GECE00165,本課程為線上課程，全英語授課，為維持教學品質，限制修課人數。 [English Medium Course],"Critical and Creative Thinking
+FCCTPhilosophy and MindGECLENG",批判與創意思考,0,40,R9a-,2.0,2.0,嚴偉哲、顧醫華、嚴如玉、林映彤、楊元傑,,3,
+1111.0,161005.0,GECE00165,本課程為線上課程，全英語授課，為維持教學品質，限制修課人數。[English Medium Course],"Critical and Creative Thinking
+FCCTPhilosophy and MindGECLENG",批判與創意思考,0,42,F56-,2.0,2.0,顧醫華、嚴如玉、嚴偉哲、林映彤、楊元傑,,3,
+1111.0,161006.0,GECE00167,,"Selected Classical Love Poetry
+Chinese LiteratureGECDAHA",古典情詩選讀,20,4,T12-YX202[YM],2.0,2.0,王小滕,,3,
+1111.0,161007.0,GECE00059,,"History and the Modern World
+History and CivilizationsGECLDASC",歷史與現代世界,40,36,T12-YT104[YM],2.0,2.0,王文基,,3,
+1111.0,161008.0,GECE00169,,"Japanese Occupation of Taiwan Literature and Gender Issues
+Optional Liberal EducationGECLDACE",日治時期臺灣文學與性別問題,30,30,T12-YT304[YM],2.0,2.0,王敬翔,,3,
+1111.0,161009.0,GECE00075,,"Economics
+FCQRSociety and EconomyGEC",經濟學,60,72,T12-YT305[YM],2.0,2.0,周穎政、蒲正筠、梁立霖,,3,
+1111.0,161010.0,GECE00079,,"The History of Western Classical Music
+Art and CulturesGECDAHA",西洋古典音樂史,40,33,T12-YX502[YM],2.0,2.0,林伶美,,3,
+1111.0,161011.0,GECE00006,,"introduction to cognitive neuroscience and its methodology
+Philosophy and MindGECLDAST",人腦心智運作與歷程,40,44,T12-YL402[YM],2.0,2.0,郭文瑞,,3,
+1111.0,161012.0,GECE00008,,"Health Psychology and Stress Copings
+FCLCPhilosophy and MindGECL",健康心理與壓力因應,0,68,T12-YT202[YM],2.0,2.0,程千芳,,3,
+1111.0,161013.0,GECE00089,,"Logic
+FCCTPhilosophy and MindGEC",邏輯學,40,43,T12-YT206[YM],2.0,2.0,劉吉宴,,3,
+1111.0,161014.0,GECE00064,,"Environment, Economy and Society
+Society and EconomyGECLDASC",環境﹑經濟與社會,40,16,T12-YT205[YM],2.0,2.0,錢克綱,,3,
+1111.0,161015.0,GECE00170,,"Contemporary Songs and Life
+Optional Liberal EducationGECLDAHA",當代歌曲與人生,33,32,T12-YT303[YM],2.0,2.0,楊芮芳,,3,
+1111.0,161016.0,GECE00168,[English Medium Course],"A New Account of Human History
+Science, Technology and SocietyGECDASCENG",人類的歷史,40,1,T12-YX503[YM],2.0,2.0,霍弘毅,,3,
+1111.0,161017.0,GECE00146,,"Lao-Zi
+FCLCChinese LiteratureGEC",老子導讀,20,4,T34-YX202[YM],2.0,2.0,王小滕,,3,
+1111.0,161018.0,GECE00126,,"Introduction to intellectual property right
+Optional Liberal EducationGECLDACE",智慧財產權導論,30,30,T34-YT206[YM],2.0,2.0,王世仁,,3,
+1111.0,161019.0,GECE00117,,"Drama Music: Lives and Love
+Optional Liberal EducationGECLDAHA",戲劇音樂：生命與愛情,30,10,T34-YX502[YM],2.0,2.0,林伶美,,3,
+1111.0,161020.0,GECE00131,,"Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine
+Optional Liberal EducationGECLDAST",比較東西方自然哲學與古醫學觀,60,60,T34-YT202[YM],2.0,2.0,陳方佩,,3,
+1111.0,161021.0,GECE00129,,"Readings in Tz’u and Ch’u
+Chinese LiteratureGECDAHA",歷代詞曲選,30,30,T34-YT303[YM],2.0,2.0,楊芮芳,,3,
+1111.0,161023.0,GECE00135,,"Law & Life
+Optional Liberal EducationGECDACE",法律與人生,32,32,T34-YT103[YM],2.0,2.0,劉俊良,,3,
+1111.0,161024.0,GECE00117,,"Drama Music: Lives and Love
+Optional Liberal EducationGECLDAHA",戲劇音樂：生命與愛情,30,28,R12-YX502[YM],2.0,2.0,林伶美,,3,
+1111.0,161025.0,GECE00127,,"State Economics, Societies and Culture in Southeast Asia
+Optional Liberal EducationGECLDASC",東南亞各國經濟、社會與文化,30,29,R12-YT205[YM],2.0,2.0,林若雩,,3,
+1111.0,161026.0,GECE00173,,"World Civilization
+Optional Liberal EducationGECDASC",世界文明,30,11,R12-YT104[YM],2.0,2.0,洪德先,,3,
+1111.0,161027.0,GECE00124,,"Technology and Everyday Life
+Optional Liberal EducationGECLDAST",日常生活、科技與社會,30,30,R12-YT302[YM],2.0,2.0,秦先玉,,3,
+1111.0,161028.0,GECE00149,,"Introduction to Taiwan Politics
+Optional Liberal EducationGECLDASC",臺灣政治概論,30,25,R12-YT206[YM],2.0,2.0,彭立忠,,3,
+1111.0,161029.0,GECE00115,,"Psychology and Life
+Optional Liberal EducationFCLC",心理與生活,40,44,R12-YT202[YM],2.0,2.0,程千芳,,3,
+1111.0,161030.0,GECE00142,,"Multidisciplinary Research in Science and Philosophy: Philosophy of Molecular Biology
+Optional Liberal EducationGECLDACE",科學與哲學跨領域研究：分子生物學的哲學,30,37,R12-YT304[YM],2.0,2.0,蔡有光、鄭凱元,,3,
+1111.0,161031.0,GECE00162,,"Palliative Medicine
+Optional Liberal EducationGECLDAST",面對治不好的病—生命末期照顧的醫學,30,30,R12-YT103[YM],2.0,2.0,賴允亮,,3,
+1111.0,161032.0,GECE00146,,"Lao-Zi
+FCLCChinese LiteratureGEC",老子導讀,20,14,R34-YX202[YM],2.0,2.0,王小滕,,3,
+1111.0,161033.0,GECE00175,[English Medium Course],"Neuroethics
+Ethics and Moral thinkingGECLDACEENG",神經倫理學,40,12,R34-YT205[YM],2.0,2.0,艾力,,3,
+1111.0,161034.0,GECE00091,,"Musical Syntax and Expression
+Art and CulturesGECLDAHA",音樂語言與表達,40,39,R34-YX502[YM],2.0,2.0,林伶美,,3,
+1111.0,161035.0,GECE00082,,"Morality and Human Cognition
+Ethics and Moral thinkingGECLDACE",認知與道德思考,41,41,R34-YX503[YM],2.0,2.0,張立鴻,,3,
+1111.0,161036.0,GECE00184,[English Medium Course],"Philosophy of Mind and Cognition
+FCCTPhilosophy and MindGECLENG",心智哲學,40,22,R34-YT206[YM],2.0,2.0,游尚愷,,3,
+1111.0,161037.0,GECE00078,,"Western Art History
+Art and CulturesGECDAHA",西洋藝術史,40,15,R34-YX501[YM],2.0,2.0,黃桂瑩,,3,
+1111.0,161038.0,GECE00075,,"Economics
+FCQRSociety and EconomyGEC",經濟學,60,91,R34-YT305[YM],2.0,2.0,蒲正筠、周穎政、梁立霖,,3,
+1111.0,161039.0,GECE00003,,"Chinese and Western Comparative Philosophies
+FCCTPhilosophy and MindGEC",中西比較哲學,40,49,R34-YT304[YM],2.0,2.0,鄭凱元,,3,
+1111.0,161040.0,GECE00156,,"Zhuangzi
+FCLCChinese LiteratureGEC",莊子導讀,20,10,R56-YX202[YM],2.0,2.0,王小滕,,3,
+1111.0,161041.0,GECE00002,,"Art of China
+Art and CulturesGECDAHAENG",中國藝術,35,7,R56-YT205[YM],2.0,2.0,朱靜華,,3,
+1111.0,161042.0,GECE00185,,"Governance for Sustenbility
+FCOMScience, Technology and SocietyGECL",永續治理,40,40,R56-YT202[YM],2.0,2.0,李河清,,3,
+1111.0,161043.0,GECE00057,,"A Modern History of East-asia
+History and CivilizationsGECLDASC",東亞近現代史,35,8,R56-YT104[YM],2.0,2.0,嚴曉珮,,3,
+1111.0,161044.0,GECE00179,1.中央研究院人文講座課程，中國文哲研究所何乏筆研究員主持授課。2.1111學期因應疫情採行線上教學。,"Critical Thinking in the Laozi
+FCCTPhilosophy and MindGEC",老子的批判思考,40,41,R56-,2.0,2.0,何乏筆,,3,
+1111.0,161045.0,GECE00182,1.中央研究院人文講座課程，近代史研究所張哲嘉副研究員主持授課。2.1111學期因應疫情採行線上教學。,"Materia Medica and Material Culture
+Science, Technology and SocietyGECLDAST",本草學與物質文化,35,33,R56-,2.0,2.0,張哲嘉,,3,
+1111.0,161046.0,GECE00183,1.中央研究院人文講座課程，中國文哲研究所楊貞德副研究員主持授課。2.1111學期因應疫情採行線上教學。,"Liberty and Morality
+Ethics and Moral thinkingGECDACE",自由與道德,35,36,R56-,2.0,2.0,楊貞德,,3,
+1111.0,161047.0,GECE00186,陽交大、政大、北藝大三校教務學術合作博雅教育課程,"Cross-Disciplinary GE Course： Things We Learned from Animals
+FCLCEthics and Moral thinkingGECL",跨領域通識課：那些動物教我的事,35,37,"R78-EE129[GF],R78-YT305[YM]",2.0,2.0,勞維俊、郭文瑞、李怡萱、鄭凱元、俞震亞、嚴如玉、曲在雯、廖文霖、魏雋展,,3,
+1111.0,161048.0,GECE00084,1.中央研究院人文講座課程，經濟研究所黃登興研究員主持授課。2.1111學期因應疫情採行線上教學。,"Trade and World Economy
+Society and EconomyGECLDASC",貿易與世界經濟,35,53,R78-,2.0,2.0,黃登興,,3,
+1111.0,161049.0,GECE00178,1.中央研究院人文講座課程，中國文哲研究所楊小濱研究員主持授課。2.1111學期因應疫情採行線上教學。,"Appreciation and Analysis of Taiwan Art Cinema
+Art and CulturesGECLDAHA",臺灣藝術電影賞析,35,32,R78-,2.0,2.0,楊小濱,,3,
+1111.0,161050.0,GECE00181,1.中央研究院人文講座課程，近代史研究所潘光哲研究員主持授課。2.1111學期因應疫情採行線上教學。,"An Intellectual History of Postwar Taiwan
+History and CivilizationsGECLDASC",戰後臺灣思想與人物,35,35,R78-,2.0,2.0,潘光哲,,3,
+1111.0,161051.0,GECE00164,,"Freedom and mind manipulation
+FCCTPhilosophy and MindGECL",心智自由與操控,24,24,M9a-YX406[YM],2.0,2.0,林映彤,,3,
+1111.0,161052.0,GECE00123,政治大學學術合作課程，為維持教學品質，限制修課人數。同步遠距課程。上課時間16:10~18:00,"Humanities, Arts and Digital Communication
+Optional Liberal EducationDAHA",數位傳播與人文藝術,30,12,M789-YT301[YM],2.0,2.0,黃葳威,,3,
+1111.0,161053.0,GECE00130,,"Readings of Selected Chinese Literature
+Chinese LiteratureGECDAHA",歷代文選,35,35,M12-YT205[YM],2.0,2.0,賈元圓,,3,
+1111.0,161054.0,GECE00130,,"Readings of Selected Chinese Literature
+Chinese LiteratureGECDAHA",歷代文選,30,19,M34-YT205[YM],2.0,2.0,賈元圓,,3,
+1111.0,161055.0,GECE00174,,"An Economic Analysis of Social Development
+FCQRSociety and EconomyGECL",社會發展的經濟分析,0,38,M56-YX201[YM],2.0,2.0,曾憲政,,3,
+1111.0,161056.0,GECE00167,,"Selected Classical Love Poetry
+Chinese LiteratureGECDAHA",古典情詩選讀,20,10,M56-YX202[YM],2.0,2.0,王小滕,,3,
+1111.0,161057.0,GECE00089,本課程為線上課程，為維持教學品質，限制修課人數。,"Logic
+FCCTPhilosophy and MindGEC",邏輯學,42,46,T56-YT206[YM],2.0,2.0,劉吉宴,,3,
+1111.0,161058.0,GECE00191,,"Introduction to Korean History and Culture
+History and CivilizationsGECDASC",韓國歷史與文化導論,32,32,T56-YX503[YM],2.0,2.0,沈明珠,,3,
+1111.0,161059.0,GECE00177,,"Literacy and Competence for Future Leaders
+FCOMScience, Technology and SocietyGECL",未來科技領導人的素養與思維,20,10,F34-YX202[YM],2.0,2.0,洪紹洋、徐詩偉、洪靖,,3,
+1111.0,161060.0,GECE00106,,"Introduction to Mass Communication
+Optional Liberal EducationGECLDASC",大眾傳播概論,30,11,F34-YT104[YM],2.0,2.0,彭懷恩,,3,
+1111.0,161061.0,GECE00177,,"Literacy and Competence for Future Leaders
+FCOMScience, Technology and SocietyGECL",未來科技領導人的素養與思維,20,19,F56-YX202[YM],2.0,2.0,洪靖、洪紹洋、徐詩偉,,3,
+1111.0,161062.0,GECE00189,,"A Critical Understanding of Management
+Optional Liberal EducationFCOMGECL",翻轉管理學,30,29,F34-YX503[YM],2.0,2.0,徐詩偉,,3,
+1111.0,161063.0,GECE00121,,"Political Science
+Optional Liberal EducationGECDACE",政治學,30,31,F56-YT104[YM],2.0,2.0,彭懷恩,,3,
+1111.0,161064.0,GECE00189,,"A Critical Understanding of Management
+Optional Liberal EducationFCOMGECL",翻轉管理學,31,31,F56-YX503[YM],2.0,2.0,徐詩偉,,3,
+1111.0,161065.0,GECE00166,1.陽明交大、政治大學、北藝大學三校教務學術合作博雅教育課程。2.第1週~15週為線上網路直播授課。第16週、第17週採實體課程於國立臺北藝術大學。,"Theories and Practice of Music, Dance and Art Therapies: Perspectives of Art Education and Brain Science
+Optional Liberal EducationGECLDASC",音樂、舞蹈與藝術治療之理論與實作：藝術教育與腦科學之觀點,50,43,F56-YT305[YM],2.0,2.0,蔡淩蕙、謝仁俊、楊佩榮,,3,
+1111.0,161066.0,GECE00177,,"Literacy and Competence for Future Leaders
+FCOMScience, Technology and SocietyGECL",未來科技領導人的素養與思維,20,20,F78-YX202[YM],2.0,2.0,徐詩偉、洪紹洋、洪靖,,3,
+1111.0,161067.0,GECE00187,,"General Knowledge of Safety Health
+GECLDAST",安全衛生通識教育,30,42,W78-YT104[YM],2.0,2.0,張榮偉、高偉峯、吳威德,,2,
+1111.0,161069.0,GECE00125,限醫學系，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生，請勿隨意退課。,"General Psychology
+Optional Liberal EducationGECDASC",普通心理學,85,79,T34-YT305[YM],2.0,2.0,張立鴻,,3,
+1111.0,161070.0,GECE00125,限物治二、護理一、藥學一，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生(依初選第三階段時在籍學生帶入)，請勿隨意退課。,"General Psychology
+Optional Liberal EducationGECDASC",普通心理學,0,109,T56-YX216[YM],2.0,2.0,程千芳,,3,
+1111.0,161071.0,GECE00190,,"Taiwan’s International Relations and Historic Events
+Optional Liberal EducationGECLDASC",從臺海實例看國際關係,35,50,W9a-A204[GF],2.0,2.0,王惠民,,3,
+1111.0,161072.0,GECE00133,陽明校區110學年學制學生不列計核心、語言與溝通學分,"French(I)
+Optional Liberal EducationLCLS",法文(一),30,31,M78-YX503[YM],2.0,2.0,張玉蕙,,3,
+1111.0,161073.0,GECE00134,陽明校區110學年學制學生不列計核心、語言與溝通學分,"French (Ⅱ)
+Optional Liberal EducationLCLS",法文(二),30,3,M9a-YX503[YM],2.0,2.0,張玉蕙,,5,
+1111.0,161074.0,GECE00099,陽明校區110學年學制學生不列計核心、語言與溝通學分,"Basic Japanese (I)
+Optional Liberal EducationLCLS",初級日文(一),30,30,R12-YX503[YM],2.0,2.0,詹兆雯,,5,
+1111.0,161075.0,GECE00100,陽明校區110學年學制學生不列計核心、語言與溝通學分,"Basic Japanese (III)
+Optional Liberal EducationLCLS",初級日文(三),28,16,T9a-YT103[YM],2.0,2.0,詹兆雯,,5,
+1111.0,161076.0,GECE00213,陽明校區110學年學制學生不列計核心、語言與溝通學分,"Korean Language and culture (I)
+Optional Liberal EducationLCLS",韓語和韓國文化(一),30,26,T34-YX503[YM],2.0,2.0,沈明珠,,5,
+1111.0,161077.0,GECE00112,陽明校區110學年學制學生不列計核心、語言與溝通學分,"German (I)
+Optional Liberal EducationLCLS",德文(一),40,37,W78-YT206[YM],2.0,2.0,唐岱霞,,5,
+1111.0,161078.0,GECE00114,陽明校區110學年學制學生不列計核心、語言與溝通學分,"German (II)
+Optional Liberal EducationLCLS",德文(二),20,10,F78-YT103[YM],2.0,2.0,唐岱霞,,5,
+1111.0,161079.0,GECE00200,1.中央研究院中國文哲研究所陳瑋芬研究員主持授課。 2.1111學期為因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters： Traveler and Traveling Text across Western Europe and East Asia in the late 19th and early 20th Century
+Optional Liberal EducationGECLDASC",巨人的肩膀：近代人文行旅,10,9,R56-,1.0,1.0,陳瑋芬,,3,
+1111.0,161080.0,GECE00201,1.中央研究院中國文哲研究所周大興研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters： I Ching and Xuan Xue
+Optional Liberal EducationGECDAHA",巨人的肩膀：易經與玄學,10,10,R78-,1.0,1.0,周大興,,3,
+1111.0,161082.0,GECE00203,1.中央研究院民族學研究所余安邦副研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters： Existential psychology and film (I)
+Optional Liberal EducationGECLDAHA",巨人的肩膀：存在心理學與電影 (I),10,9,R78-,1.0,1.0,余安邦,,3,
+1111.0,161083.0,GECE00195,1.中央研究院歷史語言研究所陳熙遠研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters：Ganghood in the Archives
+Optional Liberal EducationGECLDASC",巨人的肩膀：檔案裡的江湖,10,9,R78-,1.0,1.0,陳熙遠,,3,
+1111.0,161084.0,GECE00204,1.中央研究院法律學研究所王鵬翔副研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters： Causal Dialectics
+Optional Liberal EducationFCCTGECL",巨人的肩膀：因果論辯,10,10,R56-,1.0,1.0,王鵬翔,,3,
+1111.0,161085.0,GECE00036,1.中央研究院民族學研究所劉紹華研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters：Encounters between Anthropology and Medicine: Moral Matters
+Optional Liberal EducationGECLDAST",巨人的肩膀：人類學與醫學的相遇：道德的重量,10,10,R56-,1.0,1.0,劉紹華,,3,
+1111.0,161086.0,GECE00020,1.中央研究院社會學研究所楊文山研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters：Social Inequality
+Optional Liberal EducationGECLDASC",巨人的肩膀：社會不平等,10,9,R78-,1.0,1.0,楊文山,,3,
+1111.0,161087.0,GECE00212,1.中央研究院中國文哲研究所楊小濱研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning b academic masters： Reading Modern Taiwan Poetry
+Optional Liberal EducationGECLDAHA",巨人的肩膀：臺灣現代詩賞析,10,7,R56-,1.0,1.0,楊小濱,,3,
+1111.0,161088.0,GECE00199,1.中央研究院中國文哲研究所陳相因副研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters： Akira Kurosawa and Masters of Russian Literature
+Optional Liberal EducationGECLDAHA",巨人的肩膀：黑澤明與俄國文學大師,10,5,R56-,1.0,1.0,陳相因,,3,
+1111.0,161089.0,GECE00028,1.中央研究院歷史語言研究所李尚仁研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters：Epidemic and Society
+Optional Liberal EducationGECLDAST",巨人的肩膀：疫病與社會,10,9,R78-,1.0,1.0,李尚仁,,3,
+1111.0,161090.0,GECE00196,1.中央研究院近代史研究所張哲嘉副研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters： Historical Maps and the History of Maps
+Optional Liberal EducationGECDASC",巨人的肩膀：歷史的地圖與地圖的歷史,10,8,R78-,1.0,1.0,張哲嘉,,3,
+1111.0,161091.0,GECE00037,1.中央研究院中國文哲研究所王道還助理研究員主持授課。 2.1111學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。 4.有修課意願同學，請務必盡早填寫以下表單： https://forms.gle/EEQbTvzJjW3qMeGW7,"The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel
+Optional Liberal EducationGECLDAST",巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》,10,8,R56-,1.0,1.0,王道還,,3,
+1111.0,161092.0,GECE00194,[English Medium Course] 初選限物治一，全英語授課，為維持教學品質，限制修課人數。,"BBC 6-minute English: Environmental Issues
+LCLEEnglish LiteratureENG",BBC 6 分鐘英文：環境議題,30,30,T12-YT103[YM],2.0,2.0,林志瑋,,5,
+1111.0,161093.0,GECE00157,[English Medium Course] 初選限醫放一，全英語授課，為維持教學品質，限制修課人數。,"English in Arts
+LCLEEnglish LiteratureENG",藝術英文,31,31,T34-YX201[YM],2.0,2.0,吳哲硯,,5,
+1111.0,161094.0,GECE00155,初選限醫技一、護理一、醫工一，全英語授課，為維持教學品質，限制修課人數。,"English Speaking practice: English Public Speaking and Presentation
+LCLEEnglish Literature",英語口說訓練：演講與簡報,32,32,W12-YT204[YM],2.0,2.0,何彥如,,5,
+1111.0,161095.0,GECE00154,[English Medium Course] 初選限醫技一、護理一、醫工一，全英語授課，為維持教學品質，限制修課人數。,"English Composition
+LCLEEnglish LiteratureENG",英文短文寫作,32,36,W12-YX201[YM],2.0,2.0,嚴偉哲,,5,
+1111.0,161096.0,GECE00194,[English Medium Course] 初選限醫技一、護理一、醫工一，全英語授課，為維持教學品質，限制修課人數。,"BBC 6-minute English: Environmental Issues
+LCLEEnglish LiteratureENG",BBC 6 分鐘英文：環境議題,32,31,W12-YT103[YM],2.0,2.0,林志瑋,,5,
+1111.0,161097.0,GECE00152,[English Medium Course] 初選限醫學一、醫學系醫師科學家組一，全英語授課，為維持教學品質，限制修課人數。,"Cross-Cultural Communication in English
+LCLEEnglish LiteratureENG",英文跨文化溝通,30,30,R12-YT204[YM],2.0,2.0,何彥如,,5,
+1111.0,161098.0,GECE00151,[English Medium Course] 初選限醫學一、醫學系醫師科學家組一，全英語授課，為維持教學品質，限制修課人數。,"Reading and Debating Themes in English and World Literature
+LCLEEnglish LiteratureENG",英文和世界文學中的主題閱讀與辯論,30,32,R12-YX201[YM],2.0,2.0,程曉杰,,5,
+1111.0,161099.0,GECE00153,[English Medium Course] 初選限藥學一，全英文授課，為維持教學品質，限制修課人數。,"Essay Writing
+LCLEEnglish LiteratureENG",英文寫作,25,24,R34-YX201[YM],2.0,2.0,程曉杰,,5,
+1111.0,161100.0,GECE00194,[English Medium Course] 初選限牙醫一，全英語授課，為維持教學品質，限制修課人數。,"BBC 6-minute English: Environmental Issues
+LCLEEnglish LiteratureENG",BBC 6 分鐘英文：環境議題,25,25,F12-YT103[YM],2.0,2.0,林志瑋,,5,
+1111.0,161101.0,GECE00155,[English Medium Course] 初選限生科一、不分系一，全英語授課，為維持教學品質，限制修課人數。,"English Speaking practice: English Public Speaking and Presentation
+LCLEEnglish LiteratureENG",英語口說訓練：演講與簡報,25,14,F34-YT204[YM],2.0,2.0,何彥如,,5,
+1111.0,161102.0,GECE00194,[English Medium Course] 初選限生科一、不分系一，全英語授課，為維持教學品質，限制修課人數。,"BBC 6-minute English: Environmental Issues
+LCLEEnglish LiteratureENG",BBC 6 分鐘英文：環境議題,27,29,F34-YT103[YM],2.0,2.0,林志瑋,,5,
+1111.0,561000.0,GECG00019,,"Chinese Literature-Shin Ching
+Optional Liberal EducationGECDAHA",文學經典：詩經,50,50,M12-A509[GF],2.0,2.0,王月秀,,3,
+1111.0,561001.0,GECG00035,,"Sociology
+Society and EconomyGECDASC",社會學,40,40,M34-A503[GF],2.0,2.0,胡正光,,3,
+1111.0,561002.0,GECG00050,,"Introduction to Music
+Art and CulturesGECDAHA",音樂概論,42,45,M34-A102[GF],2.0,2.0,宋育任,,3,
+1111.0,561003.0,GECG00006,,"International Political Economy
+Society and EconomyGECLDASC",國際政治經濟學,40,43,M34-A204[GF],2.0,2.0,邱奕宏,,3,
+1111.0,561004.0,GECG00025,,"Cultural Heritage of Japan
+History and CivilizationsGECLDASC",日本文化論,50,56,M34-A205[GF],2.0,2.0,楊永良,,3,
+1111.0,561005.0,GECG00047,「閱讀與寫作」包含寫作指導。,"Reading and Writing
+Chinese LiteratureGECLDAHA",閱讀與寫作,30,16,M34-A509[GF],2.0,2.0,王月秀,,3,
+1111.0,561006.0,GECG00043,「資訊行為」不接受修讀過「社會心理學」同學修讀。,"Human Information Behavior
+Society and EconomyGECLDACE",資訊行為,45,43,M34-A401[GF],2.0,2.0,王美鴻,,3,
+1111.0,561007.0,GECG00029,,"Socio-cultural history of France
+History and CivilizationsGECLDASC",法國社會文化史,50,48,M34-F210[GF],2.0,2.0,邱德亮,,3,
+1111.0,561008.0,GECG00052,「食品安全與生活」初選第一階段僅開放60人給交大校區同學選課；初選第二階段僅開放35人給陽明校區同學選課。陽明校區上課教室YT305、交大校區上課教室CS100。,"Food Safety and Life
+Optional Liberal EducationGECLDLDAST",食品安全與生活,90,61,"M34-CS100[GF],M34-YT305[YM]",2.0,2.0,倪貴榮、陳美蓮,,3,
+1111.0,561009.0,GECG00026,,"Japan Today
+History and CivilizationsGECLDASC",日本現勢,50,54,M56-A205[GF],2.0,2.0,楊永良,,3,
+1111.0,561010.0,GECG00049,,"Introduction to Music Theory
+Art and CulturesGECDAHA",音樂理論導論,40,37,M56-A102[GF],2.0,2.0,洪億津,,3,
+1111.0,561011.0,GECG00035,,"Sociology
+Society and EconomyGECDASC",社會學,43,39,M56-A503[GF],2.0,2.0,胡正光,,3,
+1111.0,561012.0,GECG00032,「生命科學」不接受生科系、奈米學系同學修讀。,"Life Science
+GECDAST",生命科學,70,69,M56-A204[GF],2.0,2.0,陳文亮、李曉青,,3,
+1111.0,561013.0,GECG00053,「政治學導論」 不接受已修過「政治學」同學修讀。,"Introduction to Political Science
+Optional Liberal EducationGECDASC",政治學導論,40,40,M56-A401[GF],2.0,2.0,邱奕宏,,3,
+1111.0,561014.0,GECG00021,,"Selected Reading on Russian Classical Literature
+Art and CulturesGECDAHA",文學經典：俄國名著選讀,40,39,M78-A205[GF],2.0,2.0,陳仁姮,,3,
+1111.0,561015.0,GECG00043,「資訊行為」不接受修讀過「社會心理學」同學修讀。,"Human Information Behavior
+Society and EconomyGECLDACE",資訊行為,45,48,M78-A401[GF],2.0,2.0,王美鴻,,3,
+1111.0,561016.0,GECG00034,,"Development Psychology
+Philosophy and MindGECLDASC",發展心理學,50,28,M567-A103[GF],3.0,3.0,梁瓊惠,,3,
+1111.0,561017.0,GECG00020,,"Selected Readings on Lu Xun
+Art and CulturesGECDAHA",文學經典：魯迅作品選讀,40,42,T12-A509[GF],2.0,2.0,彭明偉,,3,
+1111.0,561018.0,GECG00054,"「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。[English Medium Course]","General Psychology
+Philosophy and MindGECDASCENG",普通心理學,50,54,T34-A103[GF],2.0,2.0,梁瓊惠,,3,
+1111.0,561019.0,GECG00005,,"A History of Taiwan Music
+Optional Liberal EducationGECDAHA",台灣音樂史,45,45,T34-A102[GF],2.0,2.0,宋育任,,3,
+1111.0,561020.0,GECG00014,,"Political Science
+Optional Liberal EducationGECDACE",政治學,46,47,T34-A503[GF],2.0,2.0,胡正光,,3,
+1111.0,561021.0,GECG00055,「全球議題」 不接受已修過「當代世界」同學修讀。[English Medium Course],"Global Issues
+Society and EconomyGECDASCENG",全球議題,40,41,T34-A401[GF],2.0,2.0,邱奕宏,,3,
+1111.0,561022.0,GECG00028,「歷史分析：世界史導論」不接受修讀過「世界文明史」同學修讀。,"History Analysis: Introduction to the World History
+History and CivilizationsGECDASC",歷史分析：世界史導論,44,43,T34-A205[GF],2.0,2.0,陳仁姮,,3,
+1111.0,561023.0,GECG00050,,"Introduction to Music
+Art and CulturesGECDAHA",音樂概論,40,43,T56-A102[GF],2.0,2.0,宋育任,,3,
+1111.0,561024.0,GECG00007,,"International Relations
+Optional Liberal EducationGECDASC",國際關係,40,44,T56-A401[GF],2.0,2.0,邱奕宏,,3,
+1111.0,561026.0,GECG00044,「運動與健康」限大四同學修讀。,"Sport and Health
+Optional Liberal EducationGECLDASC",運動與健康,50,57,T56-A204[GF],2.0,2.0,巫慧萍,,3,
+1111.0,561027.0,GECG00015,「政治學」(3學分)不接受已修過「政治學」(2學分)同學修讀；「政治學」(2學分)不接受已修過「政治學」(3學分)同學修讀,"Political Science
+Optional Liberal EducationGECDACE",政治學,40,41,T567-A503[GF],3.0,3.0,胡正光,,3,
+1111.0,561028.0,GECG00054,"「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。","General Psychology
+Philosophy and MindGECDASC",普通心理學,50,55,T78-A103[GF],2.0,2.0,梁瓊惠,,3,
+1111.0,561030.0,GECG00028,「歷史分析：世界史導論」不接受修讀過「世界文明史」同學修讀。,"History Analysis: Introduction to the World History
+History and CivilizationsGECDASC",歷史分析：世界史導論,44,44,T78-A205[GF],2.0,2.0,陳仁姮,,3,
+1111.0,561031.0,GECG00027,,"Theories and Practice of Calligraphy
+Chinese LiteratureGECLDAHA",書學與書道,50,51,W12-A509[GF],2.0,2.0,黃漢昌,,3,
+1111.0,561032.0,GECG00023,,"Selected Reading on Modern Literature
+Art and CulturesGECDAHA",文學經典：現代文學選讀,40,40,W12-A401[GF],2.0,2.0,彭明偉,,3,
+1111.0,561033.0,GECG00031,「生命與生醫」不接受生科系同學修讀。[English Medium Course],"Life and Biomedicine
+Optional Liberal EducationGECDASTENG",生命與生醫,40,38,W34-A204[GF],2.0,2.0,林苕吟,,3,
+1111.0,561034.0,GECG00016,,"An introduction to pedagogy
+Optional Liberal EducationGECDASC",教育學概論,60,64,W34-A509[GF],2.0,2.0,黃漢昌,,3,
+1111.0,561035.0,GECG00056,,"Turgenev’Essays and Novels: An Introductory Reading
+Optional Liberal EducationGECLDAHA",屠格涅夫散文與小說的析賞,60,57,W34-A102[GF],2.0,2.0,洪鎌德,,3,
+1111.0,561036.0,GECG00022,「文學經典：台灣文學」(3學分) 不接受已修過「文學經典：台灣文學」(2學分)及修讀過「台灣社會與文化」同學修讀。,"Taiwanese Literature
+Art and CulturesGECDAHA",文學經典：台灣文學,30,38,W234-A503[GF],3.0,3.0,黃毓婷,,3,
+1111.0,561037.0,GECG00003,「俄羅斯歷史與文化」(3學分) 不接受已修過「俄羅斯歷史與文化」(2學分)同學修讀。,"History of Russian Culture
+History and CivilizationsGECLDASC",俄羅斯歷史與文化,44,44,W34n-A205[GF],3.0,3.0,陳仁姮,,3,
+1111.0,561038.0,GECG00031,「生命與生醫」不接受生科系同學修讀。[English Medium Course],"Life and Biomedicine
+Optional Liberal EducationGECDASTENG",生命與生醫,40,40,W56-A204[GF],2.0,2.0,林苕吟,,3,
+1111.0,561039.0,GECG00057,,"ICT History of Japanese-Ruled Taiwan
+Optional Liberal EducationGECLDAST",日治時代台灣資通訊之演進,150,150,W56-ED117[GF],2.0,2.0,林一平,,3,
+1111.0,561040.0,GECG00035,,"Sociology
+Society and EconomyGECDASC",社會學,50,54,R34-A204[GF],2.0,2.0,黃國清,,3,
+1111.0,561042.0,GECG00040,,"A History of Western Opera
+Art and CulturesGECLDAHA",西洋歌劇史,40,41,R34-A102[GF],2.0,2.0,宋育任,,3,
+1111.0,561043.0,GECG00058,「工程、社會與全球化」限電機理工學院學生修讀。[English Medium Course],"Science, Technology and the World Communities:Taiwan-Korea Global Classroom
+Science, Technology and SocietyGECDASTENG",科學技術與全球化: 台灣--韓國全球化教室,15,13,R34-EE129[GF],2.0,2.0,顧彩璇,,3,
+1111.0,561044.0,GECG00002,,"Introduction to Islamic Civilization
+History and CivilizationsGECLDASC",伊斯蘭文明,55,59,R56-A205[GF],2.0,2.0,趙錫麟,,3,
+1111.0,561045.0,GECG00040,,"A History of Western Opera
+Art and CulturesGECLDAHA",西洋歌劇史,40,42,R56-A102[GF],2.0,2.0,宋育任,,3,
+1111.0,561046.0,GECG00041,「認同與文化」不接受修讀過「當代世界：認同與文化」同學修讀。,"Identity and Culture
+History and CivilizationsGECLDASC",認同與文化,50,51,R56-A204[GF],2.0,2.0,黃國清,,3,
+1111.0,561047.0,GECG00002,,"Introduction to Islamic Civilization
+History and CivilizationsGECLDASC",伊斯蘭文明,55,60,R78-A205[GF],2.0,2.0,趙錫麟,,3,
+1111.0,561049.0,GECG00048,,"The Rise and Fall of the Great Powers
+History and CivilizationsGECLDACE",霸權興衰史：從十五世紀至當代,50,55,F12-A102[GF],2.0,2.0,劉河北,,3,
+1111.0,561050.0,GECG00054,"「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。","General Psychology
+Philosophy and MindGECDASC",普通心理學,66,67,F34-F110[GF],2.0,2.0,羅仕宇,,3,
+1111.0,561051.0,GECG00009,,"Patterning in Geometry
+Optional Liberal EducationGECLDAHA",幾何造形,30,42,F34-CS-PC2[GF],2.0,2.0,陳明璋,,3,
+1111.0,561052.0,GECG00039,「臺灣史」不接受修讀過「中國與東亞文明史」同學修讀：「中國與東亞文明史」不接受修讀過「臺灣史」同學修讀。,"The Taiwan History
+History and CivilizationsGECDASC",臺灣史,40,41,F34-A205[GF],2.0,2.0,張文昌,,3,
+1111.0,561054.0,GECG00048,,"The Rise and Fall of the Great Powers
+History and CivilizationsGECLDACE",霸權興衰史：從十五世紀至當代,50,54,F34-A102[GF],2.0,2.0,劉河北,,3,
+1111.0,561055.0,GECG00059,,"Geomorphology and Landscape
+Optional Liberal EducationGECLDAST",地形與地景,50,53,F234-EB115[GF],3.0,3.0,史天元,,3,
+1111.0,561056.0,GECG00001,「臺灣史」不接受修讀過「中國與東亞文明史」同學修讀：「中國與東亞文明史」不接受修讀過「臺灣史」同學修讀。,"A General Survey of China and East Asia Civilization
+History and CivilizationsGECDASC",中國與東亞文明史,40,40,F56-A205[GF],2.0,2.0,張文昌,,3,
+1111.0,561057.0,GECG00008,「天文學概論」9月19日起僅開放新竹校區同學選課。陽明校區同學有選課需求，請直接聯絡老師,"Introduction to Astronomy
+Science, Technology and SocietyGECDAST",天文學概論,69,69,F56-SC162[GF],2.0,2.0,高文芳,,3,
+1111.0,561058.0,GECG00009,,"Patterning in Geometry
+Optional Liberal EducationGECLDAHA",幾何造形,30,34,F56-CS-PC2[GF],2.0,2.0,陳明璋,,3,
+1111.0,561059.0,GECG00037,"上課地點：浩然B1國際會議廳,限大二至大四同學修讀。","Contemporary Civilization
+Optional Liberal EducationFCLCGECL",經典通識教育講座,150,157,W56-Lib-B1[GF],2.0,2.0,王美鴻,,3,
+1111.0,561060.0,GECG00060,,"Life Education
+Optional Liberal EducationFCLCGECL",生命教育,62,66,R34-A401[GF],2.0,2.0,王冠生,,3,
+1111.0,561061.0,GECG00046,"「邏輯與思維」 選課系統預設核心人文,欲採計核心自然請至通識中心書面申請。","Logic and Thinking
+FCCTPhilosophy and MindGEC",邏輯與思維,100,109,R56-A103[GF],2.0,2.0,王冠生,,3,
+1111.0,561500.0,GEGE00001,,"Traffic Safety and Life Education
+Optional Liberal EducationGECLDASC",交通安全與生命教育,65,70,R56-A901[GF],2.0,2.0,吳宗修,,3,
+1111.0,561501.0,GEGE00005,不提供加簽,"Psychology applied to modern life
+Optional Liberal EducationGECLDASC",心理學在現代生活中的應用,40,40,T56-A205[GF],2.0,2.0,楊大和,,3,
+1111.0,561502.0,GEGE00006,MOOCs，不接受傳科系學生修讀，課程原則上不接受加簽，請隨時留意網路選課系統有無人退選。,"Storytelling and Narrative
+Optional Liberal EducationGECLDLDAHA",故事創作與影像敘事,50,49,Tab-ED116[GF],2.0,2.0,張宏宇,,3,
+1111.0,561503.0,GEGE00009,,"One Hundred Years Tumult：Retrospect the 100 Years of Taiwan Democracy Movement
+Optional Liberal EducationGECLDACE",百年喧嘩：台灣民主運動100年,40,21,R567-A503[GF],3.0,3.0,柯朝欽,,3,
+1111.0,561504.0,GEGE00010,課程可加簽人數已滿，請同學留意網路選課系統有無人退選。,"Localogy of hte Sixth Fuel Factory: University Social Responsibility ＆ Local Praxis
+Optional Liberal EducationGECLDASC",新竹六燃地方學：大學社會責任與在地實踐,120,119,Wbc-HA109[GF],2.0,2.0,賴雯淑,,3,
+1111.0,561505.0,GEGE00011,,"Reflections on S＆T and Liberal Arts
+Optional Liberal EducationFCLCGECL",科技與博雅之反思,70,30,"M56-CS100[GF],M56-YT301[YM]",2.0,2.0,蔡蕙安、胡慧蘭、王維菁、陳智、林炯源、戴立嘉、劉佩青、陳翎、林子恩、水敬心、程海東,,3,
+1111.0,561506.0,GEGE00012,,"How to be an Ethical Company? The Sixteen Classes of Business and Human Rights
+Optional Liberal EducationGECLDACE",企業與惡的距離—給企業的十六堂人權課,40,38,R56-SC204[GF],2.0,2.0,林志潔,,3,
+1111.0,561507.0,GEGE00013,不接受人社系學生修讀,"Critical thinking sociologically
+Optional Liberal EducationFCCTGECL",思辨的社會人生,40,40,M56-A509[GF],2.0,2.0,潘美玲、林秀幸、許維德、朱華瑄,,3,
+1111.0,599000.0,GETE10009,學習科學跨域學程,"Educational Psychology
+Philosophy and MindGECL[COM] GECIDASC",教育心理學,Unlimited,33,M78-HA219[GF],2.0,2.0,林珊如、羅孟婷,,1,
+1111.0,574001.0,GEIT10005,上課地點: 資訊中心電腦教室,"Cloud Technologies and Services
+GECLDAST",雲端技術及網路服務實務,40,28,R567-,3.0,3.0,陳昌盛,,2,
+1111.0,574002.0,GEIT10001,上課地點: 資訊中心電腦教室,"JavaScript Web Programming
+FCQRGECLGEC",JavaScript 網頁程式設計,40,45,W234-,3.0,3.0,廖文宏,,2,
+1111.0,574003.0,GEIT10002,上課地點: 資訊中心電腦教室,"Python and IoT Data Analysis
+FCQR[COE,COS,COM,CBT,CHS,CHK,CI] GECI",Python 與物聯網資料分析,40,46,R234-,3.0,3.0,廖文宏,,2,
+1111.0,574004.0,GEIT00003,上課地點: 資訊中心電腦教室,"Kotlin Programming
+FCQR[COE,COS,CBT,CHS,CHK,CI] GECI",Kotlin程式設計,50,39,R567-,3.0,3.0,謝旻錚,,2,
+1111.0,574005.0,GEIT10003,上課地點: 資訊中心電腦教室,"Scientific Computation Programming with Python
+FCQRGECLGEC",Python 科學計算程式設計,90,40,M567-,3.0,3.0,鄭昌杰,,2,
+1111.0,573001.0,GEHE00003,,"Ecology and Health
+Science, Technology and SocietyGECL[COM,CHS] GECIDAST",生態與健康,60,53,M56-F110[GF],2.0,2.0,牛玉珍,,2,
+1111.0,573002.0,GEHE00003,,"Ecology and Health
+Science, Technology and SocietyGECL[COM,CHS] GECIDAST",生態與健康,60,59,M78-F110[GF],2.0,2.0,牛玉珍,,2,
+1111.0,573003.0,GEHE00002,,"Firstaid Theory and Technique
+GECL[COM,CHS,CHK] GECIDASC",急救理論與技術,30,34,T56-F110[GF],2.0,2.0,牛玉珍,,2,
+1111.0,576000.0,AATL00003,,"Perspectives in Western Art History
+Art and CulturesGECLDAHA",西洋藝術史觀點,30,30,W34-A401[GF],3.0,3.0,蕭智尹,,2,
+1111.0,577000.0,IAAE00001,1. 認列為電機學院「全球工程領袖培育計畫」學分 2. 上課地點: 交大校區圖書館B1國際會議廳 3. 僅開放大學部選修 4. 修課紀錄可作為申請出國交換及雙聯資格獎學金之有利審查資料 5. 交大校區實體授課，陽明校區同步遠距修讀,"Explore the World: Global Perspective Trainings for NYCU Students
+GECLDASC",探索世界: 陽明交大人所應具備的國際觀,80,79,M34-,2.0,2.0,陳冠能、金孟華,,2,
+1111.0,517150.0,MGBA10002,VIP跨域學程、百川學程學生優先選課，僅開放大學部學生選課(undergraduate only),"Foundations of Management and Entrepeneurship(II)
+FCOMGECL",創業與創新實作專案(II),10,6,W567-A703B[GF],3.0,3.0,黃仕斌,,2,
+1111.0,517151.0,MGBA00001,VIP學程同學優先選課,"Deep Learning Programming in Fintech Practices(I)
+FCQRGECL",深度學習程式設計與金融科技產業實踐(I),30,32,R567-M116[GF],3.0,3.0,趙式隆、黃經堯、魏寶生,,2,
+1111.0,537158.0,MGBA10003,VIP跨域學程、百川學程學生優先選課，僅開放大學部學生選課(undergraduate only)。,"Entrepreneurs and Entrepreneurship
+Optional Liberal EducationFCOMGECL",經營管理-創業與興業家精神,80,77,Wabc-AB101[GF],3.0,3.0,黃仕斌、姜真秀、黃宜侯、蔡蕙安、蔡銘箴、姚銘忠、王志軒、蕭嬋、林士平、陳詩欣、閻姿慧,,1,
+1111.0,131216.0,MDIH30017,開放大學部學生修讀[English Medium Course],"Research methods and practice in hospice and palliative care
+Optional Liberal EducationDASCENG",安寧療護實務與研究方法,20,8,F56-YS405[YM],2.0,2.0,林承霈、郭文華、楊秀儀、林雅萍、吳易叡、方俊凱、呂立、彭仁奎、程劭儀、陳炳仁、熊誼芳、朱彥豪,,2,
+1111.0,430214.0,BTMB30060,,"Regulatory Science for Precision Health
+Optional Liberal EducationGECLDAST",精準健康法規科學,Unlimited,55,S34-,2.0,2.0,柯立偉、陳文亮、陳鋕雄,,2,
+1111.0,545451.0,EEBM30002,生醫.電機.生科. MD-PhD學程 (通識課程) 、開放隨班附讀,"Biomimicry
+Science, Technology and SocietyGECL[COE,CBT,CI] GECIDAST",仿生科技,Unlimited,143,W234-AB101[GF],3.0,3.0,陳榮治,,2,
+1111.0,545461.0,EEBM30020,生醫所主開(通識課程),"Protection of Research Subjects Rights and Legal Issues
+Optional Liberal EducationGECLDACE",研究對象權益之保障與法律議題,20,8,W234-EE113[GF],3.0,3.0,蕭子健、薛慶友、薛美蓮,,2,
+1111.0,535655.0,CSIC30054,本院學生優先,"Digital Gaming and Learning
+Optional Liberal EducationGECL[COM,CBT,CHK] GECIDASC",數位遊戲與學習,80,123,"Wn56-EC315[GF],Wn56-EC316[GF],Wn56-EC324[GF]",3.0,3.0,孫春在,,2,
+1111.0,537003.0,MGMS30079,開放全校大三大四及全校研究所同學選修。,"Leadership Development
+FCOMPhilosophy and MindGECL",自我領導,50,36,T234-M115[GF],3.0,3.0,蕭嬋,,2,
+1111.0,537006.0,MGMS30063,1.管理決策分析組先修課程 2.開放全校大三大四同學選修。 ※管院學生(含雙主修、輔系、跨域學程)若有特殊原因須修習此研究所課程抵免大學部管理學課程之學分，須於修課前向所屬系辦申請，並經由此課程召集老師同意始得認列學分。,"Management
+Optional Liberal EducationFCOM[ECE] GECI",管理學,Unlimited,16,T567-M115[GF],3.0,3.0,蕭嬋,,2,
+1111.0,537013.0,MGMS30084,管科所同學優先選修。,"Marketing Management
+FCOMSociety and EconomyGECL[ECE] GECI",行銷管理,60,61,W678-M115[GF],3.0,3.0,張家齊,,1,
+1111.0,537014.0,MGMS30040,管理決策分析組先修課程。英語授課。開放大一到大四同學選修。[English Medium Course],"Accounting
+FCQRSociety and EconomyGECLENG",會計學,135,145,W678-A103[GF],3.0,3.0,蔡璧徽,,2,
+1111.0,537021.0,MGMS30092,開放大一到大四同學選修。 ※管科系、資財系大二學生限修大學部財務管理課程。 ※管院學生(含雙主修、輔系、跨域學程)若有特殊原因須修習此研究所課程抵免大學部財務管理課程之學分，須於修課前向所屬系辦申請，並經由此課程召集老師同意始得認列學分。,"Financial Management
+FCOMSociety and EconomyGECL[ECE] GECI",財務管理,140,140,F234-M101[GF],3.0,3.0,蔡璧徽,,1,
+1111.0,537801.0,MGMT30010,科管所主開、GMBA輔開；英語授課；MOT/GMBA/VIP/IMBA/科管跨域/通識/英文/大四[English Medium Course]；開放大三大四,"Creativity and Innovation Management
+Optional Liberal EducationFCOM[ECE,CCS,COS,CBT,CHS,CHK] GECIENG",創意與創新管理,30,36,M567-A701[GF],3.0,3.0,林士平,,2,
+1111.0,537803.0,MGMT30037,科管跨域；VIP；共掛核心課程；遠距網路課程,"Intellectual Property Management and The Practice
+Optional Liberal EducationFCOMGECLDL",智慧財產權管理實務,30,16,M567-A722[GF],3.0,3.0,陳詩欣,,2,
+1111.0,537813.0,MGMT30019,科管跨域學程、VIP、共掛核心課程、遠距網路課程,"Management of Research and Development and the Practice of Entrepreneurship
+Optional Liberal EducationFCOMGECLDL",創新研發管理與創業實務,40,49,W789-A701[GF],3.0,3.0,陳詩欣、高啟明,,2,
+1111.0,230012.0,MGBM30059,"For undergraduate students who would like to take this course, please consult the teacher via email first. GMBA輔開;IMBA學程;[English Medium Course]","Marketing Management
+[ECE,CCS] GECIENG",行銷管理,Unlimited,32,W567-TB307[BM],3.0,3.0,高瑞麟,,1,
+1111.0,250105.0,MGBM30059,限管理學院各專班,"Marketing Management
+[ECE,CCS] GECI",行銷管理,Unlimited,20,Wabc-TB307[BM],3.0,3.0,唐瓔璋,,1,
+1111.0,557900.0,LWLW30219,開放台聯大大三以上同學選修,"Information Privacy Law
+GEC",資訊隱私權法,Unlimited,76,Mabc-A103[GF],3.0,3.0,陳鋕雄、郭詠華,,2,
+1111.0,557904.0,LWLW30260,開放大三以上同學選修,"Contemporary Legal Thoughts
+Optional Liberal EducationGECLDACE",當代法學思想,30,32,W789-ES806[GF],2.0,3.0,許家馨,,2,
+1111.0,557909.0,LWLW30033,,"Corporate Law
+Optional Liberal EducationGECL[COM] GECIDACE",公司法,110,109,"Rabc-A103[GF],Rabc-YT305[YM]",3.0,3.0,林建中,,2,
+1111.0,557911.0,LWLW30228,開放通識，任何同學均可選修,"Medical Law and Policy
+Optional Liberal EducationGECLDACE",醫療法律與政策,Unlimited,48,"Rab-CS100[GF],Rab-YT301[YM]",2.0,2.0,陳鋕雄、吳俊穎、黃清濱,,2,
+1111.0,557913.0,LWLW30025,開放通識，開放台聯大大三以上同學選修,"Global Internet Governance
+Optional Liberal EducationGECLDLDAST",全球網路治理,Unlimited,60,Fab-AB102[GF],2.0,2.0,陳鋕雄、莊弘鈺、蔡志宏、吳國龍、黃勝雄,,2,
+1111.0,515502.0,CSCS10007,外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級[English Medium Course] 開放校際選修,"Probability
+[COE,CI] GECIENG",機率,125,136,W34F7-EC022[GF],3.0,3.0,謝秉均,,1,
+1111.0,515503.0,CSCS10007,外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級[English Medium Course] 開放校際選修,"Probability
+[COE,CI] GECIENG",機率,125,104,W34F7-ED117[GF],3.0,3.0,彭文孝,,1,
+1111.0,515510.0,CSCS10009,"外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],開放隨班附讀,開放校際選修","Introduction to Algorithms
+[COE,CBT,CI] GECIENG",演算法概論,88,46,T34-EC122[GF],3.0,3.0,林盈達,,1,
+1111.0,515511.0,CSCS10009,"外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀,開放校際選修","Introduction to Algorithms
+[COE,CBT,CI] GECI",演算法概論,120,114,T34-EDB27[GF],3.0,3.0,游逸平,,1,
+1111.0,515512.0,CSCS10009,外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]跨校區課程;陽明校區教室安排於 知行樓前棟201教室,"Introduction to Algorithms
+[COE,CBT,CI] GECI",演算法概論,100,98,T34-EC114[GF],3.0,3.0,施仁忠,,1,
+1111.0,515518.0,CSCS10015,一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Mabc上課教室:EC315、EC316 ；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],"Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,101,95,"M56-EC122[GF],Mabc-EC315[GF],Mabc-EC316[GF]",3.0,5.0,陳添福,,1,
+1111.0,515519.0,CSCS10015,一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Rabc上課教室:EC315、EC316 ；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],"Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECI",計算機概論與程式設計,96,80,"M56-EC114[GF],Rabc-EC315[GF],Rabc-EC316[GF]",3.0,5.0,黃俊龍,,1,
+1111.0,515520.0,CSCS10015,"一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Tabc上課教室:EC315、EC316 ；主開1年級[English Medium Course],開放隨班附讀,開放校際選修","Introduction to Computers and Programming
+FCQRGECL[COE,CI] GECIENG",計算機概論與程式設計,99,95,"M56-EC115[GF],Tabc-EC315[GF],Tabc-EC316[GF]",3.0,5.0,黃敬群,,1,
+1111.0,517000.0,MGCM10013,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。,"Economics (I)
+FCQRSociety and Economy[ECE,CCS,COE,COS,CBT,CHS,CHK,CI] GECI",經濟學(一),135,134,W234-M101[GF],3.0,3.0,郭家豪,,1,
+1111.0,517001.0,MGCM10013,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。已被鎖定選課的同學，如欲退選請Email老師，可協助進行線上即時退選。,"Economics (I)
+FCQRSociety and Economy[ECE,CCS,COE,COS,CBT,CHS,CHK,CI] GECI",經濟學(一),140,139,W234-M-b10[GF],3.0,3.0,黃星華,,1,
+1111.0,517003.0,MGCM10004,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。,"Accounting (I)
+FCQRSociety and Economy[ECE,CCS,COE,COS,CBT,CHS,CHK,CI] GECI",會計學(一),135,121,M567-M-b10[GF],3.0,3.0,陳宗岡,,1,
+1111.0,517004.0,MGCM10004,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。,"Accounting (I)
+FCQRSociety and Economy[ECE,CCS,COE,COS,CBT,CHS,CHK,CI] GECI",會計學(一),135,145,M567-M101[GF],3.0,3.0,蔡璧徽,,1,
+1111.0,517005.0,MGCM10004,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限75人，得請授課教師簽准後可放寬至80人；若有演習課則安排於9a；管理基礎學分學程課程。,"Accounting (I)
+FCQRSociety and Economy[ECE,CCS,COE,COS,CBT,CHS,CHK,CI] GECI",會計學(一),75,61,M567-M205[GF],3.0,3.0,林瑞嘉,,1,
+1111.0,562000.0,GELT00001,,"English Listening and Discussion
+LCLE",英文聽力與討論,30,24,M56-A502[GF],2.0,2.0,鄺粵敏,,2,
+1111.0,562001.0,GELT00001,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Listening and Discussion
+LCLE",英文聽力與討論,32,32,T12-A507[GF],2.0,2.0,李麥德,,2,
+1111.0,562002.0,GELT00001,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Listening and Discussion
+LCLE",英文聽力與討論,32,32,T12-A506[GF],2.0,2.0,鄭維容,,2,
+1111.0,562003.0,GELT00001,,"English Listening and Discussion
+LCLE",英文聽力與討論,30,29,W12-A307[GF],2.0,2.0,李麥德,,2,
+1111.0,562004.0,GELT00001,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Listening and Discussion
+LCLE",英文聽力與討論,32,34,W34-A405[GF],2.0,2.0,楊芳盈,,2,
+1111.0,562005.0,GELT00001,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Listening and Discussion
+LCLEDL",英文聽力與討論,32,31,W34-A307[GF],2.0,2.0,李麥德,,2,
+1111.0,562006.0,GELT00001,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Listening and Discussion
+LCLE",英文聽力與討論,32,13,R34-A505[GF],2.0,2.0,鄭維容,,2,
+1111.0,562007.0,GELT00001,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Listening and Discussion
+LCLE",英文聽力與討論,32,32,R56-A505[GF],2.0,2.0,吳思葦,,2,
+1111.0,562008.0,GELT00001,,"English Listening and Discussion
+LCLE",英文聽力與討論,30,25,R78-A504[GF],2.0,2.0,林麗美,,2,
+1111.0,562009.0,GELT00001,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Listening and Discussion
+LCLE",英文聽力與討論,32,32,F34-A505[GF],2.0,2.0,吳思葦,,2,
+1111.0,562010.0,GELT00002,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Listening and Writing
+LCLE",英文聽力與寫作,32,13,M78-A507[GF],2.0,2.0,闕郁軒,,2,
+1111.0,562011.0,GELT00002,,"English Listening and Writing
+LCLE",英文聽力與寫作,32,32,W56-A502[GF],2.0,2.0,闕郁軒,,2,
+1111.0,562012.0,GELT00002,,"English Listening and Writing
+LCLE",英文聽力與寫作,30,20,R12-A505[GF],2.0,2.0,鄭維容,,2,
+1111.0,562013.0,GELT00003,,"English Reading and Discussion
+LCLE",英文閱讀與討論,30,29,W12-A505[GF],2.0,2.0,郭詩芝,,2,
+1111.0,562014.0,GELT00003,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Discussion
+LCLE",英文閱讀與討論,32,30,W34-A507[GF],2.0,2.0,郭詩芝,,2,
+1111.0,562015.0,GELT00003,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Discussion
+LCLE",英文閱讀與討論,32,35,W56-A505[GF],2.0,2.0,陳亞玲,,2,
+1111.0,562016.0,GELT00003,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Discussion
+LCLE",英文閱讀與討論,32,31,R34-A308[GF],2.0,2.0,林玉書,,2,
+1111.0,562017.0,GELT00003,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Discussion
+LCLE",英文閱讀與討論,32,32,R34-A502[GF],2.0,2.0,彭怡婷,,2,
+1111.0,562018.0,GELT00003,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Discussion
+LCLE",英文閱讀與討論,32,30,R56-A509[GF],2.0,2.0,張月菁,,2,
+1111.0,562019.0,GELT00003,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Discussion
+LCLE",英文閱讀與討論,32,30,R56-A308[GF],2.0,2.0,林玉書,,2,
+1111.0,562020.0,GELT00004,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Writing
+LCLE",英文閱讀與寫作,32,30,T12-A504[GF],2.0,2.0,林曉薇,,2,
+1111.0,562021.0,GELT00004,,"English Reading and Writing
+LCLE",英文閱讀與寫作,30,30,T34-A504[GF],2.0,2.0,林曉薇,,2,
+1111.0,562022.0,GELT00004,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Writing
+LCLE",英文閱讀與寫作,32,25,W34-A504[GF],2.0,2.0,王立仁,,2,
+1111.0,562023.0,GELT00004,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Writing
+LCLE",英文閱讀與寫作,32,31,W34-A308[GF],2.0,2.0,黃佩如,,2,
+1111.0,562024.0,GELT00004,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Writing
+LCLE",英文閱讀與寫作,32,32,W56-A405[GF],2.0,2.0,黃佩如,,2,
+1111.0,562025.0,GELT00004,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Writing
+LCLE",英文閱讀與寫作,32,30,R34-A504[GF],2.0,2.0,王立仁,,2,
+1111.0,562026.0,GELT00004,,"English Reading and Writing
+LCLE",英文閱讀與寫作,30,31,R12-A307[GF],2.0,2.0,吳舜華,,2,
+1111.0,562027.0,GELT00005,,"English Oral Presentation
+LCLE",英文口語發表,30,30,T34-A505[GF],2.0,2.0,吳思葦,,2,
+1111.0,562028.0,GELT00005,,"English Oral Presentation
+LCLE",英文口語發表,30,27,R78-A505[GF],2.0,2.0,吳思葦,,2,
+1111.0,562029.0,GELT00005,,"English Oral Presentation
+LCLE",英文口語發表,30,30,F12-A509[GF],2.0,2.0,李麥德,,2,
+1111.0,562030.0,GELT00006,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Communication
+LCLE",英文口語溝通,32,19,M78-A502[GF],2.0,2.0,鄺粵敏,,2,
+1111.0,562031.0,GELT00015,遠距課程；第二階段選課此課程不開放，保留名額供大一新生選課。,"English for Online Presentations
+LCLEDL",線上英文會議簡報,32,29,F34-,2.0,2.0,秦毓婷,,2,
+1111.0,562032.0,GELT00015,遠距課程,"English for Online Presentations
+LCLEDL",線上英文會議簡報,30,13,F56-,2.0,2.0,秦毓婷,,2,
+1111.0,562033.0,GELT20026,,"Technical English
+LCLE",科技英文,30,29,R12-A501[GF],2.0,2.0,李麥德,,2,
+1111.0,562034.0,GELT20026,第二階段選課此課程不開放，保留名額供大一新生選課。,"Technical English
+LCLE",科技英文,32,24,R34-A501[GF],2.0,2.0,李麥德,,2,
+1111.0,562035.0,GELT20006,,"Business English
+LCLE",商用英文,30,29,M34-A506[GF],2.0,2.0,王立仁,,2,
+1111.0,562036.0,GELT20006,,"Business English
+LCLE",商用英文,30,29,M56-A506[GF],2.0,2.0,王立仁,,2,
+1111.0,562037.0,GELT20012,,"Newspaper English
+LCLE",新聞英語,30,26,T78-A506[GF],2.0,2.0,秦毓婷,,2,
+1111.0,562038.0,GELT20013,第二階段選課此課程不開放，保留名額供大一新生選課。,"English for Tourists
+LCLE",旅遊英文,32,32,R34-A307[GF],2.0,2.0,吳舜華,,2,
+1111.0,562039.0,GELT20013,第二階段選課此課程不開放，保留名額供大一新生選課。,"English for Tourists
+LCLE",旅遊英文,32,34,R56-A401[GF],2.0,2.0,彭怡婷,,2,
+1111.0,562040.0,GELT20021,第二階段選課此課程不開放，保留名額供大一新生選課。,"Positive psychology English class
+LCLE",正向幸福心理學的英文課 ,32,33,F34-HC101[GF],2.0,2.0,孫于智,,2,
+1111.0,562041.0,GELT20022,第二階段選課此課程不開放，保留名額供大一新生選課。,"English for Job Seekers
+LCLE",求職英文技巧,32,30,F34-A509[GF],2.0,2.0,李麥德,,2,
+1111.0,562042.0,GELT20032,,"English for Intercultural Communication
+LCLE",跨文化溝通英語力,30,19,R78-A509[GF],2.0,2.0,張月菁,,2,
+1111.0,562045.0,GELT00003,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Reading and Discussion
+LCLE",英文閱讀與討論,32,31,W56-A504[GF],2.0,2.0,郭詩芝,,2,
+1111.0,562046.0,GELT00008,第二階段選課此課程不開放，保留名額供大一新生選課。,"Watching NBA Games to Learn English
+LCLE",看美國職籃學英文,32,30,F34-A308[GF],2.0,2.0,楊芳盈,,2,
+1111.0,562047.0,GELT00009,第二階段選課此課程不開放，保留名額供大一新生選課。,"English Readers
+LCLE",讀小說學英文,32,30,T12-A505[GF],2.0,2.0,郭詩芝,,2,
+1111.0,562048.0,GELT00007,第二階段選課此課程不開放，保留名額供大一新生選課。,"English for the Workplace
+LCLE",職場英文,32,31,W34-A505[GF],2.0,2.0,陳亞玲,,2,
+1111.0,562049.0,GELT00011,第二階段選課此課程不開放，保留名額供大一新生選課。,"English for Studying Abroad
+LCLE",留學英文,32,32,R56-A504[GF],2.0,2.0,林麗美,,2,
+1111.0,562050.0,GELT00012,,"Multigenre English Writing
+LCLE",多文體英文寫作,25,12,M34-A505[GF],2.0,2.0,張靜芬,,2,
+1111.0,562051.0,GELT00013,,"Workplace English Writing
+LCLE",職場英文寫作,25,25,T56-A506[GF],2.0,2.0,秦毓婷,,2,
+1111.0,562052.0,GELT00013,第二階段選課此課程不開放，保留名額供大一新生選課。,"Workplace English Writing
+LCLE",職場英文寫作,27,24,R56-A506[GF],2.0,2.0,秦毓婷,,2,
+1111.0,562053.0,GELT00014,,"Academic English Writing
+LCLE",學術英文寫作,25,11,M56-A504[GF],2.0,2.0,林淑敏,,2,
+1111.0,562054.0,GELT00014,,"Academic English Writing
+LCLE",學術英文寫作,25,11,T34-A507[GF],2.0,2.0,楊芳盈,,2,
+1111.0,562055.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,47,M34-A308[GF],2.0,2.0,洪淑娟,,2,
+1111.0,562056.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,49,M56-A405[GF],2.0,2.0,陳曉貞,,2,
+1111.0,562057.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,49,M78-A501[GF],2.0,2.0,賴郁芳,,2,
+1111.0,562058.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,52,T12-A502[GF],2.0,2.0,詹兆雯,,2,
+1111.0,562059.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,66,T34-A307[GF],2.0,2.0,賴薇如,,2,
+1111.0,562060.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,45,T78-A405[GF],2.0,2.0,李蕙如,,2,
+1111.0,562061.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,45,W12-A501[GF],2.0,2.0,周雅玲,,2,
+1111.0,562062.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,50,W34-A502[GF],2.0,2.0,上條純惠,,2,
+1111.0,562063.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,51,W56-A501[GF],2.0,2.0,上條純惠,,2,
+1111.0,562064.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,49,R56-A502[GF],2.0,2.0,賴郁芳,,2,
+1111.0,562065.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,50,R78-A502[GF],2.0,2.0,賴郁芳,,2,
+1111.0,562066.0,GELT10009,,"Japanese(II)
+LCLS",日文(二),45,42,M34-A405[GF],2.0,2.0,陳曉貞,,2,
+1111.0,562067.0,GELT10009,,"Japanese(II)
+LCLS",日文(二),45,45,T12-A307[GF],2.0,2.0,賴薇如,,2,
+1111.0,562068.0,GELT10009,,"Japanese(II)
+LCLS",日文(二),45,24,T56-A405[GF],2.0,2.0,李蕙如,,2,
+1111.0,562069.0,GELT10009,,"Japanese(II)
+LCLS",日文(二),45,45,W12-A502[GF],2.0,2.0,陳曉貞,,2,
+1111.0,562070.0,GELT20014,,"Japanese(III)
+LCLS",日文(三),45,29,W34-A501[GF],2.0,2.0,周雅玲,,2,
+1111.0,562071.0,GELT20014,,"Japanese(III)
+LCLS",日文(三),45,34,R56-A501[GF],2.0,2.0,上條純惠,,2,
+1111.0,562072.0,GELT20014,,"Japanese(III)
+LCLS",日文(三),45,20,R78-A501[GF],2.0,2.0,上條純惠,,2,
+1111.0,562073.0,GELT20017,,"Japanese(IV)
+LCLS",日文(四),45,12,M56-A501[GF],2.0,2.0,賴郁芳,,2,
+1111.0,562074.0,GELT20017,,"Japanese(IV)
+LCLS",日文(四),45,11,T34-A502[GF],2.0,2.0,詹兆雯,,2,
+1111.0,562075.0,GELT20017,,"Japanese(IV)
+LCLS",日文(四),45,10,F34-A507[GF],2.0,2.0,上條純惠,,2,
+1111.0,562076.0,GELT20016,,"Japanese(V)
+LCLS",日文(五),45,16,M34-A502[GF],2.0,2.0,賴郁芳,,2,
+1111.0,562077.0,GELT20016,,"Japanese(V)
+LCLS",日文(五),45,14,T56-A507[GF],2.0,2.0,詹兆雯,,2,
+1111.0,562079.0,GELT20002,須先修畢日文(三)。,"Intermediate Japanese Listening and Conversation
+LCLS",中級日語聽講,30,17,F56-A507[GF],2.0,2.0,上條純惠,,2,
+1111.0,562080.0,GELT20018,須先修畢日文(四)。,"Presenting in Japanese
+LCLS",日語簡報訓練,15,6,Fab-A507[GF],2.0,2.0,上條純惠,,2,
+1111.0,562081.0,GELT10006,,"German (I)
+LCLS",德文(一),45,54,Mab-A501[GF],2.0,2.0,張敏敏,,2,
+1111.0,562082.0,GELT10006,,"German (I)
+LCLS",德文(一),45,48,T34-A405[GF],2.0,2.0,汪錫麟,,2,
+1111.0,562083.0,GELT10007,,"German(II)
+LCLS",德文(二),45,19,T56-A308[GF],2.0,2.0,汪錫麟,,2,
+1111.0,562084.0,GELT20010,,"German(III)
+LCLS",德文(三),45,7,W34-A402[GF],2.0,2.0,周玉蕙,,2,
+1111.0,562085.0,GELT20011,,"German (Ⅳ)
+LCLS",德文(四),45,9,W56-A507[GF],2.0,2.0,周玉蕙,,2,
+1111.0,562086.0,GELT10010,,"French(I)
+LCLS",法文(一),45,44,M34-A501[GF],2.0,2.0,潘怡君,,2,
+1111.0,562087.0,GELT10010,,"French(I)
+LCLS",法文(一),45,32,F34-A502[GF],2.0,2.0,張玉蕙,,2,
+1111.0,562088.0,GELT10010,,"French(I)
+LCLS",法文(一),45,36,F56-A502[GF],2.0,2.0,張玉蕙,,2,
+1111.0,562089.0,GELT10011,,"French (Ⅱ)
+LCLS",法文(二),45,6,M56-A307[GF],2.0,2.0,潘怡君,,2,
+1111.0,562090.0,GELT10011,,"French (Ⅱ)
+LCLS",法文(二),45,7,F12-A502[GF],2.0,2.0,張玉蕙,,2,
+1111.0,562091.0,GELT10012,,"Spanish (I)
+LCLS",西班牙文(一),45,48,T12-A501[GF],2.0,2.0,馮志宇,,2,
+1111.0,562092.0,GELT10012,,"Spanish (I)
+LCLS",西班牙文(一),45,50,T56-A502[GF],2.0,2.0,馮志宇,,2,
+1111.0,562093.0,GELT10012,,"Spanish (I)
+LCLS",西班牙文(一),45,50,F34-A307[GF],2.0,2.0,李忍堅,,2,
+1111.0,562094.0,GELT10013,,"Spanish (II)
+LCLS",西班牙文(二),45,17,T34-A501[GF],2.0,2.0,馮志宇,,2,
+1111.0,562096.0,GELT10014,,"Korean (I)
+LCLS",韓文(一),45,47,T34-A308[GF],2.0,2.0,安宣映,,2,
+1111.0,562097.0,GELT10014,,"Korean (I)
+LCLS",韓文(一),45,49,R56-A405[GF],2.0,2.0,李相美,,2,
+1111.0,562098.0,GELT10015,,"Korean (II)
+LCLS",韓文(二),45,28,T56-A501[GF],2.0,2.0,安宣映,,2,
+1111.0,562099.0,GELT10015,,"Korean (II)
+LCLS",韓文(二),45,21,R78-A405[GF],2.0,2.0,李相美,,2,
+1111.0,563000.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,52,M12-PE[GF],0.0,2.0,張祐華,,1,
+1111.0,563001.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,49,M12-718[GF],0.0,2.0,陳奐杰,,1,
+1111.0,563002.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,47,M12-PE[GF],0.0,2.0,江竹偉,,1,
+1111.0,563003.0,GEPE20004,選修體育僅適用一學期，選修課程不得抵免大一至大三體育課程 交大校區綜合球館B1,Advanced Badminton,競技羽球(一),30,22,R78-PE[GF],1.0,2.0,王志全,,2,
+1111.0,563004.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,43,M34-PE[GF],0.0,2.0,陳奐杰,,1,
+1111.0,563005.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,45,M34-PE[GF],0.0,2.0,江竹偉,,1,
+1111.0,563006.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,45,M34-PE[GF],0.0,2.0,留鼎淙,,1,
+1111.0,563007.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,46,M34-PE[GF],0.0,2.0,張祐華,,1,
+1111.0,563008.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,49,M56-PE[GF],0.0,2.0,留鼎淙,,1,
+1111.0,563009.0,GEPE00001,,Physical Education,大一體育,Unlimited,51,M56-PE[GF],0.0,2.0,詹富鈞,,1,
+1111.0,563010.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,46,F78-PE[GF],0.0,2.0,留鼎淙,,1,
+1111.0,563011.0,GEPE10050,交大校區綜合球館2樓,Tennis,體育－網球甲,32,32,M56-PE[GF],0.0,2.0,伍啟萌,,1,
+1111.0,563012.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,44,M78-PE[GF],0.0,2.0,留鼎淙,,1,
+1111.0,563013.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,35,M78-PE[GF],0.0,2.0,詹富鈞,,1,
+1111.0,563014.0,GEPE10051,交大校區,Tennis,體育－網球乙,32,32,M78-PE[GF],0.0,2.0,伍啟萌,,1,
+1111.0,563015.0,GEPE00001,(陽明校區)上課地點：山頂運動場,Physical Education,大一體育,Unlimited,21,W56-PhE[YM],0.0,2.0,徐煒杰,,1,
+1111.0,563016.0,GEPE10016,交大校區,Tai Chi,體育－養生太極甲,40,39,T12-PE[GF],0.0,2.0,徐卉宣,,1,
+1111.0,563017.0,GEPE10017,交大校區,Tai Chi,體育－養生太極乙,40,39,T34-PE[GF],0.0,2.0,徐卉宣,,1,
+1111.0,563018.0,GEPE10020,交大校區,Swimming,體育－游泳,40,39,T34-PE[GF],0.0,2.0,林國威,,1,
+1111.0,563019.0,GEPE10023,交大校區,Basketball,體育－籃球甲,40,33,T56-PE[GF],0.0,2.0,陳忠強,,1,
+1111.0,563020.0,GEPE10046,交大校區,Volleyball,體育－排球甲,40,40,T56-PE[GF],0.0,2.0,張振興,,1,
+1111.0,563021.0,GEPE10071,交大校區,Aerobic dance,有氧舞蹈,40,29,T56-PE[GF],0.0,2.0,黃惠芝,,1,
+1111.0,563022.0,GEPE10060,交大校區,Baseball,體育－棒球甲,40,40,T56-PE[GF],0.0,2.0,黃杉楹,,1,
+1111.0,563023.0,GEPE10050,交大校區,Tennis,體育－網球甲,32,32,T56-PE[GF],0.0,2.0,詹益欣,,1,
+1111.0,563024.0,GEPE10005,交大校區,Table Tennis,桌球,40,40,T56-PE[GF],0.0,2.0,游鳳芸,,1,
+1111.0,563025.0,GEPE10056,交大校區,Badminton,體育－羽球甲A,36,36,T56-PE[GF],0.0,2.0,廖威彰,,1,
+1111.0,563026.0,GEPE10021,交大校區,Fundamental Swimming,體育－游泳初學甲,40,23,T56-PE[GF],0.0,2.0,林國威,,1,
+1111.0,563027.0,GEPE10072,交大校區東區羽球館,Badminton,羽球甲B,36,36,T56-PE[GF],0.0,2.0,王志全,,1,
+1111.0,563028.0,GEPE10023,交大校區,Basketball,體育－籃球甲,40,40,T78-PE[GF],0.0,2.0,陳忠強,,1,
+1111.0,563029.0,GEPE10046,交大校區,Volleyball,體育－排球甲,40,40,T78-PE[GF],0.0,2.0,張振興,,1,
+1111.0,563030.0,GEPE10068,交大校區,Pilates,皮拉提斯,40,40,T78-PE[GF],0.0,2.0,黃惠芝,,1,
+1111.0,563031.0,GEPE10060,交大校區,Baseball,體育－棒球甲,40,43,T78-PE[GF],0.0,2.0,黃杉楹,,1,
+1111.0,563032.0,GEPE10050,交大校區,Tennis,體育－網球甲,32,32,T78-PE[GF],0.0,2.0,詹益欣,,1,
+1111.0,563033.0,GEPE10005,交大校區,Table Tennis,桌球,40,40,T78-PE[GF],0.0,2.0,游鳳芸,,1,
+1111.0,563034.0,GEPE10056,交大校區,Badminton,體育－羽球甲A,36,36,T78-PE[GF],0.0,2.0,廖威彰,,1,
+1111.0,563035.0,GEPE10014,交大校區體育館B1體適能教室,Aerobic dance,體育－有氧舞蹈甲,40,40,T78-PE[GF],0.0,2.0,巫慧萍,,1,
+1111.0,563036.0,GEPE10022,交大校區游泳館,Fundamental Swimming,體育－游泳初學乙,40,40,T78-PE[GF],0.0,2.0,林國威,,1,
+1111.0,563037.0,GEPE10072,交大校區東區羽球館,Badminton,羽球甲B,36,36,T78-PE[GF],0.0,2.0,王志全,,1,
+1111.0,563038.0,GEPE10069,交大校區,Exercise walking and jogging,健走與慢跑,40,40,T78-PE[GF],0.0,2.0,江竹偉,,1,
+1111.0,563039.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,48,W12-PE[GF],0.0,2.0,詹富鈞,,1,
+1111.0,563040.0,GEPE00001,,Physical Education,大一體育,Unlimited,47,W12-PE[GF],0.0,2.0,李建毅,,1,
+1111.0,563041.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,46,W12-PE[GF],0.0,2.0,陳忠強,,1,
+1111.0,563042.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,44,W12-PE[GF],0.0,2.0,鄭智仁,,1,
+1111.0,563043.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,50,W34-PE[GF],0.0,2.0,張祐華,,1,
+1111.0,563044.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,35,W34-PE[GF],0.0,2.0,詹富鈞,,1,
+1111.0,563045.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,48,R12-PE[GF],0.0,2.0,江竹偉,,1,
+1111.0,563046.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,50,R12-PE[GF],0.0,2.0,李建毅,,1,
+1111.0,563047.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,58,R12-PE[GF],0.0,2.0,陳玫伶,,1,
+1111.0,563048.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,29,R12-PE[GF],0.0,2.0,伍啟萌,,1,
+1111.0,563049.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,52,R34-PE[GF],0.0,2.0,陳忠強,,1,
+1111.0,563050.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,48,R34-PE[GF],0.0,2.0,江竹偉,,1,
+1111.0,563051.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,67,R34-PE[GF],0.0,2.0,陳玫伶,,1,
+1111.0,563052.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,37,R34-PE[GF],0.0,2.0,詹益欣,,1,
+1111.0,563053.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,36,F56-PE[GF],0.0,2.0,陳玫伶,,1,
+1111.0,563054.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,30,F78-PE[GF],0.0,2.0,張振興,,1,
+1111.0,563055.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,49,F78-PE[GF],0.0,2.0,江竹偉,,1,
+1111.0,563056.0,GEPE00001,交大校區,Physical Education,大一體育,Unlimited,64,F78-PE[GF],0.0,2.0,陳玫伶,,1,
+1111.0,563057.0,GEPE20003,選修體育僅適用一學期，選修課程不得抵免大一至大三體育課程 交大校區綜合球館2樓,Advanced Tennis,競技網球(一),30,16,R78-PE[GF],1.0,2.0,詹益欣,,2,
+1111.0,563058.0,GEPE20001,選修體育僅適用一學期，選修課程不得抵免大一至大三體育課程 交大校區體育館,Advanced Basketball,競技籃球(一),30,16,R78-PE[GF],1.0,2.0,陳忠強,,2,
+1111.0,563059.0,GEPE20002,選修體育僅適用一學期，選修課程不得抵免大一至大三體育課程 交大校區體育館,Advanced Volleyball,競技排球(一),30,16,Wab-PE[GF],1.0,2.0,張振興,,2,
+1111.0,563060.0,GEPE10043,交大校區綜合球館2樓,Female Tennis,體育－女生網球,32,32,W56-PE[GF],0.0,2.0,伍啟萌,,1,
+1111.0,563061.0,GEPE10044,,Female Badminton,體育－女生羽球,36,35,R56-PE[GF],0.0,2.0,王志全,,1,
+1111.0,563062.0,GEPE10041,,Female Volleyball,體育－女生排球甲,40,40,W56-PE[GF],0.0,2.0,李建毅,,1,
+1111.0,563063.0,GEPE10042,交大校區,Female Volleyball,體育－女生排球乙,40,33,R56-PE[GF],0.0,2.0,李建毅,,1,
+1111.0,563064.0,GEPE10070,交大校區,Female Basic Rhythmic Movement,女生基礎律動,40,40,W56-PE[GF],0.0,2.0,巫慧萍,,1,
+1111.0,563065.0,GEPE10040,交大校區,Female Yoga,體育－女生瑜伽,40,40,R56-PE[GF],0.0,2.0,巫慧萍,,1,
+1111.0,563066.0,GEPE10038,交大校區,Female Table tennis,體育－女生桌球甲,40,40,W56-PE[GF],0.0,2.0,游鳳芸,,1,
+1111.0,563067.0,GEPE10039,交大校區,Female Table tennis,體育－女生桌球乙,40,40,R56-PE[GF],0.0,2.0,游鳳芸,,1,
+1111.0,563068.0,GEPE10037,交大校區,Female Basketball,體育－女生籃球,40,31,W56-PE[GF],0.0,2.0,鄭智仁,,1,
+1111.0,563070.0,GEPE10028,交大校區體育館體適能教室,MV dance,體育－MV熱舞,40,40,W12-PE[GF],0.0,2.0,林怡君,,1,
+1111.0,563071.0,GEPE10032,交大校區體育館體適能教室,Fitness,體育－健康體適能甲,40,40,W34-PE[GF],0.0,2.0,林怡君,,1,
+1111.0,563072.0,GEPE10033,交大校區,Fitness,體育－健康體適能乙,40,41,W56-PE[GF],0.0,2.0,張振興,,1,
+1111.0,563073.0,GEPE10065,第一堂課程於交大校區田徑場集合，第二堂課起在高仕高爾夫竹科練習場-新竹市東區湖濱三路1號,Golf,體育－高爾夫球甲,40,33,R12-PE[GF],0.0,2.0,張嘉洲,,1,
+1111.0,563074.0,GEPE10066,第一堂課於交大校區田徑場集合，第二堂課起在高仕高爾夫竹科練習場-新竹市東區湖濱三路1號,Golf,體育－高爾夫球乙,40,40,R34-PE[GF],0.0,2.0,張嘉洲,,1,
+1111.0,563075.0,GEPE10035,交大校區,Fitness and strength training,體育－健康體能與肌力訓練乙,40,40,R78-PE[GF],0.0,2.0,廖威彰,,1,
+1111.0,563076.0,GEPE10029,交大校區,Yoga,體育－瑜珈,40,40,F34-PE[GF],0.0,2.0,巫慧萍,,1,
+1111.0,563077.0,GEPE10031,交大校區體育館B1健身房,Fitness,體育－健康體適能丙,40,40,F56-PE[GF],0.0,2.0,江竹偉,,1,
+1111.0,563078.0,GEPE10018,交大校區,Chinese Martial Arts,體育－國術甲,40,40,F56-PE[GF],0.0,2.0,徐卉宣,,1,
+1111.0,563079.0,GEPE10019,交大校區,Chinese Martial Arts,體育－國術乙,40,40,F78-PE[GF],0.0,2.0,徐卉宣,,1,
+1111.0,563080.0,GEPE10030,交大校區,Fitness,體育－健康體適能丁,40,40,R34-PE[GF],0.0,2.0,鄭智仁,,1,
+1111.0,563081.0,GEPE10036,第一週上課時間:12:40、地點於交大校區游泳館二樓健身房外集合。,Adapted Physical Education,體育－適應體育,Unlimited,11,W78-PE[GF],0.0,2.0,詹益欣,,1,
+1111.0,563082.0,GEPE10061,交大校區,Softball,體育－壘球甲,40,40,R56-PE[GF],0.0,2.0,黃杉楹,,4,
+1111.0,563083.0,GEPE10034,交大校區,Fitness and strength training,體育－健康體能與肌力訓練甲,40,40,R56-PE[GF],0.0,2.0,廖威彰,,1,
+1111.0,563084.0,GEPE10049,交大校區,Tennis,體育－網球丙,32,32,R56-PE[GF],0.0,2.0,伍啟萌,,1,
+1111.0,563085.0,GEPE10023,交大校區,Basketball,體育－籃球甲,40,40,R56-PE[GF],0.0,2.0,鄭智仁,,1,
+1111.0,563086.0,GEPE10062,交大校區,Softball,體育－壘球乙,40,40,R78-PE[GF],0.0,2.0,黃杉楹,,1,
+1111.0,563087.0,GEPE10009,交大校區東區羽球館,Badminton,羽球,36,36,F56-PE[GF],0.0,2.0,王志全,,1,
+1111.0,563088.0,GEPE10048,交大校區,Tennis,體育－網球丁,32,32,F56-PE[GF],0.0,2.0,伍啟萌,,1,
+1111.0,563089.0,GEPE10015,交大校區,Aerobic dance,體育－有氧舞蹈乙,40,40,F56-PE[GF],0.0,2.0,巫慧萍,,1,
+1111.0,563090.0,GEPE10026,交大校區,Table tennis,體育－桌球甲,40,40,R78-PE[GF],0.0,2.0,游鳳芸,,1,
+1111.0,563091.0,GEPE10027,交大校區,Table tennis,體育－桌球乙,40,40,F12-PE[GF],0.0,2.0,游鳳芸,,1,
+1111.0,563092.0,GEPE10025,交大校區,Basketball,體育－籃球乙,40,33,F12-PE[GF],0.0,2.0,鄭智仁,,1,
+1111.0,563093.0,GEPE10047,交大校區,Volleyball,體育－排球乙,40,41,F12-PE[GF],0.0,2.0,李建毅,,1,
+1111.0,563094.0,GEPE10055,交大校區,Football,體育－足球乙,40,42,F12-PE[GF],0.0,2.0,張生平,,1,
+1111.0,563095.0,GEPE10061,交大校區,Softball,體育－壘球甲,40,39,F12-PE[GF],0.0,2.0,黃杉楹,,1,
+1111.0,563096.0,GEPE10051,交大校區,Tennis,體育－網球乙,32,32,F12-PE[GF],0.0,2.0,詹益欣,,1,
+1111.0,563097.0,GEPE10057,交大校區,Badminton,體育－羽球乙,36,35,F12-PE[GF],0.0,2.0,廖威彰,,1,
+1111.0,563098.0,GEPE10020,交大校區游泳館,Swimming,體育－游泳,40,40,F12-PE[GF],0.0,2.0,徐國陽,,1,
+1111.0,563099.0,GEPE10064,第一堂課於交大校區田徑場集合，第二堂課起在高仕高爾夫竹科練習場-新竹市東區湖濱三路1號,Golf,體育－高爾夫球丙,40,39,F12-PE[GF],0.0,2.0,陳忠強,,1,
+1111.0,563100.0,GEPE10025,交大校區,Basketball,體育－籃球乙,40,40,F34-PE[GF],0.0,2.0,鄭智仁,,1,
+1111.0,563101.0,GEPE10047,交大校區,Volleyball,體育－排球乙,40,39,F34-PE[GF],0.0,2.0,李建毅,,1,
+1111.0,563102.0,GEPE10055,交大校區,Football,體育－足球乙,40,41,F34-PE[GF],0.0,2.0,張生平,,1,
+1111.0,563103.0,GEPE10062,交大校區,Softball,體育－壘球乙,40,40,F34-PE[GF],0.0,2.0,黃杉楹,,1,
+1111.0,563104.0,GEPE10052,東區網球場,Tennis,體育－網球乙Ａ,32,32,F34-PE[GF],0.0,2.0,伍啟萌,,1,
+1111.0,563105.0,GEPE10053,交大校區綜合球館2樓,Tennis,體育－網球乙Ｂ,32,31,F34-PE[GF],0.0,2.0,詹益欣,,1,
+1111.0,563106.0,GEPE10063,第一堂課於交大校區田徑場集合，第二堂課起在高仕高爾夫竹科練習場-新竹市東區湖濱三路1號,Golf,體育－高爾夫球丁,40,38,F34-PE[GF],0.0,2.0,陳忠強,,1,
+1111.0,563107.0,GEPE10058,交大校區綜合球館,Badminton,體育－羽球乙A,36,36,F34-PE[GF],0.0,2.0,廖威彰,,1,
+1111.0,563108.0,GEPE10059,交大校區羽球館,Badminton,體育－羽球乙B,36,36,F34-PE[GF],0.0,2.0,王志全,,1,
+1111.0,563109.0,GEPE10006,交大校區游泳館,swim,游泳,40,40,F34-PE[GF],0.0,2.0,徐國陽,,1,
+1111.0,563110.0,GEPE20008,交大校區,Basketball team(Male),體育－籃球校隊(男),Unlimited,23,,0.0,2.0,陳忠強,,1,
+1111.0,563111.0,GEPE20011,交大校區,Volleyball team(Male),體育－排球校隊(男),Unlimited,16,,0.0,2.0,張振興,,1,
+1111.0,563112.0,GEPE20015,交大校區,Soccer team(Male),體育－足球校隊(男),Unlimited,18,,0.0,2.0,體育室C,,1,
+1111.0,563113.0,GEPE20018,交大校區,Baseball team(Male),體育－棒球校隊(男),Unlimited,18,,0.0,2.0,黃杉楹,,1,
+1111.0,563114.0,GEPE20013,交大校區,Tennis team(Male),體育－網球校隊(男),Unlimited,27,,0.0,2.0,詹益欣,,1,
+1111.0,563115.0,GEPE20016,交大校區,Badminton team(Male),體育－羽球校隊(男),Unlimited,19,,0.0,2.0,王志全,,1,
+1111.0,563116.0,GEPE20010,交大校區,Table Tennis team(Male),體育－桌球校隊(男),Unlimited,23,,0.0,2.0,游鳳芸,,1,
+1111.0,563117.0,GEPE20006,交大校區,Track & Field team,體育－田徑校隊,Unlimited,25,,0.0,2.0,江竹偉,,1,
+1111.0,563118.0,GEPE20005,交大校區,Arch team,體育－射箭校隊,Unlimited,15,,0.0,2.0,傅恆霖,,1,
+1111.0,563119.0,GEPE20007,交大校區,Swimming team,體育－游泳校隊,Unlimited,16,,0.0,2.0,巫慧萍,,1,
+1111.0,563120.0,GEPE20009,交大校區,Basketball team(Female),體育－籃球校隊(女),Unlimited,11,,0.0,2.0,鄭智仁,,1,
+1111.0,563121.0,GEPE20012,交大校區,Volleyball team(Female),體育－排球校隊(女),Unlimited,17,,0.0,2.0,李建毅,,1,
+1111.0,563122.0,GEPE20014,交大校區,Tennis team(Female),體育－網球校隊(女),Unlimited,13,,0.0,2.0,伍啟萌,,1,
+1111.0,563123.0,GEPE20017,交大校區,Badminton team(Female),體育－羽球校隊(女),Unlimited,17,,0.0,2.0,廖威彰,,1,
+1111.0,563124.0,GEPE00001,(陽明校區)上課地點：活動中心綜合球場。,Physical Education,大一體育,Unlimited,34,T78-PhE[YM],0.0,2.0,陳厚諭,,4,
+1111.0,563125.0,GEPE00001,(陽明校區)上課地點：山頂田徑場。,Physical Education,大一體育,Unlimited,33,T78-PhE[YM],0.0,2.0,徐煒杰,,1,
+1111.0,563126.0,GEPE00001,(陽明校區)上課地點：山下籃球場。,Physical Education,大一體育,Unlimited,34,F56-PhE[YM],0.0,2.0,張耀庭,,4,
+1111.0,563127.0,GEPE00001,(陽明校區)上課地點：活動中心綜合球場。,Physical Education,大一體育,Unlimited,32,F78-PhE[YM],0.0,2.0,陳著,,1,
+1111.0,563128.0,GEPE00001,(陽明校區)上課地點：活動中心綜合球場。,Physical Education,大一體育,Unlimited,41,M56-PhE[YM],0.0,2.0,藍于青,,1,
+1111.0,563129.0,GEPE00001,(陽明校區)上課地點：活動中心桌球室。,Physical Education,大一體育,Unlimited,40,T56-PhE[YM],0.0,2.0,黃中興,,1,
+1111.0,563130.0,GEPE00001,(陽明校區)上課地點：活動中心綜合球場。,Physical Education,大一體育,Unlimited,32,F56-PhE[YM],0.0,2.0,陳著,,1,
+1111.0,563131.0,GEPE00001,(陽明校區)上課地點：活動中心桌球室。,Physical Education,大一體育,Unlimited,41,T34-PhE[YM],0.0,2.0,藍于青,,1,
+1111.0,563132.0,GEPE00001,(陽明校區)上課地點：活動中心桌球室。,Physical Education,大一體育,Unlimited,37,M12-PhE[YM],0.0,2.0,林昭光,,4,
+1111.0,563133.0,GEPE00001,(陽明校區)上課地點：活動中心重量訓練室。,Physical Education,大一體育,Unlimited,45,T34-PhE[YM],0.0,2.0,林昭光,,4,
+1111.0,563134.0,GEPE00001,(陽明校區)上課地點：活動中心桌球室。,Physical Education,大一體育,Unlimited,28,T12-PhE[YM],0.0,2.0,黃中興,,4,
+1111.0,563135.0,GEPE10007,(陽明校區)上課地點：活動中心綜合球場。,Basketball,籃球,30,31,M12-PhE[YM],0.0,2.0,許錫賢,,4,
+1111.0,563136.0,GEPE10002,(陽明校區)上課地點：活動中心綜合球場。,Pickleball,匹克球,30,30,T12-PhE[YM],0.0,2.0,林昭光,,4,
+1111.0,563137.0,GEPE10001,(陽明校區)上課地點：活動中心韻律教室。,Power Extension and Relax,動力伸展與紓壓,30,31,T12-PhE[YM],0.0,2.0,藍于青,,4,
+1111.0,563138.0,GEPE10002,(陽明校區)上課地點：活動中心綜合球場。,Pickleball,匹克球,30,30,W12-PhE[YM],0.0,2.0,黃中興,,4,
+1111.0,563139.0,GEPE10007,(陽明校區)上課地點：活動中心綜合球場。,Basketball,籃球,30,31,R12-PhE[YM],0.0,2.0,陳厚諭,,4,
+1111.0,563140.0,GEPE10012,(陽明校區)上課地點：山頂田徑場。,Frisbee,飛盤,30,28,R12-PhE[YM],0.0,2.0,林昭光,,4,
+1111.0,563141.0,GEPE10074,(陽明校區)上課地點：活動中心韻律教室。,vital aerobic exercise,熱力有氧,30,32,F12-PhE[YM],0.0,2.0,藍于青,,4,
+1111.0,563142.0,GEPE10009,(陽明校區)上課地點：活動中心綜合球場。,Badminton,羽球,30,30,F12-PhE[YM],0.0,2.0,林正仰,,4,
+1111.0,563143.0,GEPE10011,(陽明校區)上課地點：山下網球場。,Soft Tennis,軟式網球,30,27,M34-PhE[YM],0.0,2.0,莊泰源,,4,
+1111.0,563144.0,GEPE10002,(陽明校區)上課地點：活動中心綜合球場。,Pickleball,匹克球,30,30,T34-PhE[YM],0.0,2.0,黃中興,,4,
+1111.0,563145.0,GEPE10006,(陽明校區)上課地點：游泳健身館。,swim,游泳,30,31,R34-PhE[YM],0.0,2.0,陳厚諭,,4,
+1111.0,563146.0,GEPE10001,(陽明校區)上課地點：活動中心韻律教室。,Power Extension and Relax,動力伸展與紓壓,30,31,F34-PhE[YM],0.0,2.0,藍于青,,4,
+1111.0,563147.0,GEPE10009,(陽明校區)上課地點：活動中心綜合球場。,Badminton,羽球,30,32,F34-PhE[YM],0.0,2.0,林正仰,,4,
+1111.0,563148.0,GEPE10008,(陽明校區)上課地點：山下網球場。,Tennis,網球,30,30,M56-PhE[YM],0.0,2.0,莊泰源,,4,
+1111.0,563149.0,GEPE10004,(陽明校區)上課地點：活動中心綜合球場。,Volleyball,排球,30,25,M34-PhE[YM],0.0,2.0,許錫賢,,4,
+1111.0,563150.0,GEPE10006,(陽明校區)上課地點：游泳健身館。,swim,游泳,30,23,T56-PhE[YM],0.0,2.0,徐煒杰,,4,
+1111.0,563151.0,GEPE10005,(陽明校區)上課地點：活動中桌球室。,Table Tennis,桌球,30,30,W56-PhE[YM],0.0,2.0,黃中興,,1,
+1111.0,563152.0,GEPE10009,(陽明校區)上課地點：活動中心綜合球場。,Badminton,羽球,30,30,W56-PhE[YM],0.0,2.0,黃志成,,4,
+1111.0,563153.0,GEPE10009,(陽明校區)上課地點：活動中心綜合球場。本課程陽明校區限大三以上選修。,Badminton,羽球,30,30,R56-PhE[YM],0.0,2.0,黃志成,,4,
+1111.0,563154.0,GEPE10002,(陽明校區)上課地點：活動中心綜合球場。,Pickleball,匹克球,30,32,F56-PhE[YM],0.0,2.0,藍于青,,4,
+1111.0,563155.0,GEPE10008,(陽明校區)上課地點：山下網球場。,Tennis,網球,30,33,M78-PhE[YM],0.0,2.0,陳厚諭,,4,
+1111.0,563156.0,GEPE10001,(陽明校區)上課地點：活動中心韻律教室。,Power Extension and Relax,動力伸展與紓壓,30,31,M78-PhE[YM],0.0,2.0,藍于青,,4,
+1111.0,563157.0,GEPE10005,(陽明校區)上課地點：活動中心桌球室。,Table Tennis,桌球,30,32,M78-PhE[YM],0.0,2.0,黃中興,,4,
+1111.0,563158.0,GEPE10010,(陽明校區)上課地點：山頂田徑場。,Soccer,足球,30,31,M78-PhE[YM],0.0,2.0,徐煒杰,,4,
+1111.0,563159.0,GEPE10005,(陽明校區)上課地點：活動中心桌球室。,Table Tennis,桌球,30,32,W78-PhE[YM],0.0,2.0,黃中興,,4,
+1111.0,563160.0,GEPE10009,(陽明校區)上課地點：活動中心綜合球場。,Badminton,羽球,30,32,W78-PhE[YM],0.0,2.0,黃志成,,4,
+1111.0,563161.0,GEPE10009,(陽明校區)上課地點：活動中心綜合球場。本課程初選階段限牙醫二選修，開學後加退選開放各系級選修。,Badminton,羽球,30,33,F78-PhE[YM],0.0,2.0,林正仰,,4,
+1111.0,563162.0,GEPE10003,(陽明校區)上課地點：活動中心韻律教室。本課程初選階段限牙醫二選修，開學後加退選開放各系級選修。,Tai Chi,太極拳,30,31,F78-PhE[YM],0.0,2.0,張耀庭,,4,
+1111.0,565000.0,GEPS10003,含近代物理,Physics(I),物理(一)榮譽班,120,123,M34R78-SA321[GF],4.0,4.0,簡紋濱,,1,
+1111.0,565001.0,GEPS10003,含近代物理,Physics(I),物理(一)榮譽班,65,65,M34R78-SC109[GF],4.0,4.0,楊毅,,1,
+1111.0,565002.0,GEPS10003,含近代物理[English Medium Course],"Physics(I)
+ENG",物理(一)榮譽班,80,81,M34R78-SA320[GF],4.0,4.0,林俊良,,1,
+1111.0,565003.0,GEPS10001,[English Medium Course],"Physics(I)
+ENG",物理(一),70,74,M34R78-SC110[GF],4.0,4.0,籔下篤史,,1,
+1111.0,565004.0,GEPS10001,,Physics(I),物理(一),65,67,M34R78-SC151[GF],4.0,4.0,吳建德,,1,
+1111.0,565005.0,GEPS10001,,Physics(I),物理(一),65,59,M34R78-SC152[GF],4.0,4.0,吳光雄,,1,
+1111.0,565006.0,GEPS10001,,Physics(I),物理(一),65,65,M34R78-SC105[GF],4.0,4.0,許世英,,1,
+1111.0,565007.0,GEPS10001,遠距課程,"Physics(I)
+DL",物理(一),180,189,R78-SC001[GF],4.0,4.0,李威儀,,1,
+1111.0,565008.0,GEPS10003,含近代物理,Physics(I),物理(一)榮譽班,80,57,T78F34-SC110[GF],4.0,4.0,陳煜璋,,1,
+1111.0,565009.0,GEPS10003,含近代物理[English Medium Course],"Physics(I)
+ENG",物理(一)榮譽班,80,79,T78F34-SA321[GF],4.0,4.0,郭昌洋,,1,
+1111.0,565010.0,GEPS10001,[English Medium Course],"Physics(I)
+ENG",物理(一),65,34,T78F34-SC105[GF],4.0,4.0,科契諾,,1,
+1111.0,565011.0,GEPS10001,,Physics(I),物理(一),65,74,T78F34-SA320[GF],4.0,4.0,孟心飛,,1,
+1111.0,565012.0,GEPS10001,,Physics(I),物理(一),65,66,T78F34-SC151[GF],4.0,4.0,楊本立,,1,
+1111.0,565013.0,GEPS10007,,Physics Recitation(I),物理一(榮譽班)作業演算,Unlimited,103,Fbc-SA321[GF],0.0,2.0,簡紋濱,,2,
+1111.0,565015.0,GEPS10007,,Physics Recitation(I),物理一(榮譽班)作業演算,Unlimited,67,Fbc-SA320[GF],0.0,2.0,林俊良,,2,
+1111.0,565016.0,GEPS10005,,Physics Recitation(I),物理一作業演算,Unlimited,30,Fbc-SC110[GF],0.0,2.0,籔下篤史,,2,
+1111.0,565017.0,GEPS10005,,Physics Recitation(I),物理一作業演算,Unlimited,64,Fbc-SC151[GF],0.0,2.0,吳建德,,2,
+1111.0,565018.0,GEPS10005,,Physics Recitation(I),物理一作業演算,Unlimited,43,Fbc-SC152[GF],0.0,2.0,吳光雄,,2,
+1111.0,565019.0,GEPS10005,,Physics Recitation(I),物理一作業演算,Unlimited,44,Fbc-SC105[GF],0.0,2.0,許世英,,2,
+1111.0,565020.0,GEPS10007,,Physics Recitation(I),物理一(榮譽班)作業演算,Unlimited,42,Fbc-SC157[GF],0.0,2.0,陳煜璋,,2,
+1111.0,565021.0,GEPS10007,,Physics Recitation(I),物理一(榮譽班)作業演算,Unlimited,11,Fbc-SC158[GF],0.0,2.0,郭昌洋,,2,
+1111.0,565022.0,GEPS10005,,Physics Recitation(I),物理一作業演算,Unlimited,6,Fbc-SC159[GF],0.0,2.0,科契諾,,2,
+1111.0,565023.0,GEPS10005,,Physics Recitation(I),物理一作業演算,Unlimited,9,Fbc-SC160[GF],0.0,2.0,孟心飛,,2,
+1111.0,410001.0,BTBT10032,B班,Physics Labs. (I),物理實驗（一）,56,20,R234-SA014[GF],1.0,3.0,劉宗哲,,1,
+1111.0,410002.0,BTBT10032,A班,Physics Labs. (I),物理實驗（一）,56,37,R234-SA014[GF],1.0,3.0,劉宗哲,,1,
+1111.0,515404.0,EEDP10014,,Physics Labs (I),物理實驗 (一),56,49,M234-SA014[GF],1.0,3.0,杜建明、劉宗哲,,1,
+1111.0,516159.0,ENME10020,一A,Physics Lab(I),物理實驗(一),56,48,M567-SA014[GF],1.0,3.0,杜建明,,1,
+1111.0,516163.0,ENME10020,一B,Physics Lab(I),物理實驗(一),56,49,M567-SA014[GF],1.0,3.0,杜建明,,1,
+1111.0,516211.0,ENCV10020,AB班,Physics Lab. (I),物理實驗（一）,56,57,F234-SA014[GF],1.0,3.0,劉宗哲,,1,
+1111.0,516212.0,ENCV10020,[English Medium Course] C班,"Physics Lab. (I)
+ENG",物理實驗（一）,56,28,F234-SA014[GF],1.0,3.0,劉宗哲,,1,
+1111.0,516303.0,ENMS10030,,Physics Labs. (I),物理實驗(一),56,51,Wn56-SA014[GF],1.0,3.0,謝東儒、鍾介文,,1,
+1111.0,516602.0,SCEP00020,,Physics Labs. (I),物理實驗（一）,56,48,W234-SA014[GF],1.0,3.0,鍾介文、謝東儒,,1,
+1111.0,516603.0,SCEP00020,,Physics Labs. (I),物理實驗（一）,56,54,W234-SA014[GF],1.0,3.0,鍾介文、謝東儒,,1,
+1111.0,516634.0,SCEP00020,,Physics Labs. (I),物理實驗（一）,56,40,T234-SA014[GF],1.0,3.0,李建儒,,1,
+1111.0,564000.0,GECS10001,(大班授課),Calculus A (I),微積分甲(一),140,140,T34F56-SA321[GF],4.0,4.0,王夏聲,,1,
+1111.0,564001.0,GECS10001,英文授課[English Medium Course],"Calculus A (I)
+ENG",微積分甲(一),95,96,T34F56-SC106[GF],4.0,4.0,千野由喜,,1,
+1111.0,564002.0,GECS10001,(應用數學系),Calculus A (I),微積分甲(一),55,51,T34F56-SC105[GF],4.0,4.0,陳子軒,,1,
+1111.0,564003.0,GECS10001,,Calculus A (I),微積分甲(一),70,69,T34F56-SC201[GF],4.0,4.0,張書銘,,1,
+1111.0,564004.0,GECS10001,,Calculus A (I),微積分甲(一),68,46,T34F56-SC109[GF],4.0,4.0,吳金典,,1,
+1111.0,564005.0,GECS10001,(奈米學士班-奈米組),Calculus A (I),微積分甲(一),68,68,T34F56-SC204[GF],4.0,4.0,陳冠宇,,1,
+1111.0,564006.0,GECS10001,,Calculus A (I),微積分甲(一),66,66,T34F56-SC206[GF],4.0,4.0,石至文,,1,
+1111.0,564007.0,GECS10001,,Calculus A (I),微積分甲(一),68,66,T34F56-SC152[GF],4.0,4.0,余啟哲,,1,
+1111.0,564008.0,GECS10001,,Calculus A (I),微積分甲(一),68,66,T34F56-SC151[GF],4.0,4.0,王業凱,,1,
+1111.0,564009.0,GECS10001,(大班授課),Calculus A (I),微積分甲(一),73,74,T34F56-EE105[GF],4.0,4.0,楊春美,,1,
+1111.0,564010.0,GECS10001,(大班授課),Calculus A (I),微積分甲(一),120,95,M78R34-SA321[GF],4.0,4.0,王夏聲,,1,
+1111.0,564011.0,GECS10001,[English Medium Course](英文授課) ，第2學期任課教師更換為Carstea教授。,"Calculus A (I)
+ENG",微積分甲(一),65,61,M78R34-SC106[GF],4.0,4.0,林得勝,,1,
+1111.0,564012.0,GECS10001,(全網路授課),"Calculus A (I)
+DL",微積分甲(一),64,66,M78R34-SC206[GF],4.0,4.0,蘇承芳,,1,
+1111.0,564013.0,GECS10001,,Calculus A (I),微積分甲(一),65,64,M78R34-SC201[GF],4.0,4.0,張書銘,,1,
+1111.0,564014.0,GECS10001,(翻轉課程),Calculus A (I),微積分甲(一),54,54,M78R34-SC207[GF],4.0,4.0,莊重,,1,
+1111.0,564015.0,GECS10001,,Calculus A (I),微積分甲(一),60,60,M78R34-SC204[GF],4.0,4.0,吳昌鴻,,1,
+1111.0,564016.0,GECS10001,,Calculus A (I),微積分甲(一),60,60,M78R34-SC152[GF],4.0,4.0,余啟哲,,1,
+1111.0,564017.0,GECS10001,(奈米學士班-半導體組),Calculus A (I),微積分甲(一),60,55,M78R34-SC110[GF],4.0,4.0,林武雄,,1,
+1111.0,564018.0,GECS10001,,Calculus A (I),微積分甲(一),71,71,M78R34-EE102[GF],4.0,4.0,楊春美,,1,
+1111.0,564019.0,GECS10002,(全網路課程) 重修生與準大學生先修課程通過學生優先。,"Calculus A (II)
+DL",微積分甲(二),120,121,Mab-SA321[GF],4.0,4.0,余啟哲,,1,
+1111.0,564020.0,GECS10003,,Calculus B (I),微積分乙(一),76,56,"T34F56-A306[GF],T34F56-SC110[GF]",4.0,4.0,洪慧念,,1,
+1111.0,564021.0,GECS10005,不開放網路選課，請至 微積分小組下載報名表：https://calculus.math.nycu.edu.tw/web/form/1hour_course.odt,Honor Calculus Problem Solving Session (I),微積分學而班理論組(一),55,52,Fn-SA215[GF],1.0,1.0,陳子軒,,2,
+1111.0,310011.0,HKHS00002,,Student Service Education (II),服務學習(二),50,21,R1-HK106[LJ],1.0,2.0,莊雅仲,,1,
+1111.0,310109.0,HKCT00002,,Student Service Education(I),服務學習(一),Unlimited,38,T8-HK104[LJ],1.0,1.0,蔡欣怡、張宏宇,,1,
+1111.0,410017.0,BTBT00003,,Service Learning II,服務學習(二),Unlimited,71,M9Fn-SC152[GF],1.0,2.0,陳文亮、林奇宏、吳妍華,,1,
+1111.0,514105.0,HSFL10020,限外文系,Service Learning (I),服務學習(一),Unlimited,50,S1-,0.0,1.0,盧郁安、胡心瑜,,1,
+1111.0,515100.0,EEEC00002,讓剛踏進大學的新生建立正確的學習服務觀念，為未來四年奠立正確的學習觀念，將自己所長發揮出來給社會大眾。 請同學注意：學生服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習(一)、(二)課程,Service Learning II,服務學習 (二),Unlimited,188,W5-ED203[GF],0.0,1.0,劉建男、蔡中庸,,1,
+1111.0,515106.0,EEEC00002,讓剛踏進大學的新生建立正確的學習服務觀念，為未來四年奠立正確的學習觀念，將自己所長發揮出來給社會大眾。 請同學注意：學生服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習(一)、(二)課程,Service Learning II,服務學習 (二),Unlimited,50,W6-ED203[GF],0.0,1.0,蔡中庸、劉建男,,1,
+1111.0,515411.0,EEDP10013,光電系學生必修,Service Learning II,服務學習(二),Unlimited,42,F5-CY202[GF],1.0,1.0,高宗聖、鄒志偉、張祐嘉、吳致盛,,1,
+1111.0,515605.0,CSCS00002,限資工系同學選課；學生必修服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習課程,Service Learning II,服務學習(二),218,167,T1-ED117[GF],0.0,1.0,黃敬群,,1,
+1111.0,516006.0,ENPN10011,,Service Learning II,服務學習 (二),25,24,U78-,1.0,2.0,簡昭欣,,1,
+1111.0,516107.0,ENME00003,,Service Learning I,服務學習(一),Unlimited,111,T1-EE106[GF],0.0,1.0,黃正昇,,1,
+1111.0,516206.0,ENCV00002,限土木系大一生，請同學注意：一、服務學習課程分為服務學習(一)及服務學習(二)， 以依序修習為原則，但不得於同一學期修習二門服務學習課程。,Service Learning I,服務學習(一),Unlimited,86,W9a-EB117[GF],0.0,2.0,張智安,,1,
+1111.0,516310.0,ENMS10014,限材料系選修,Service Learning II,服務學習 (二),Unlimited,53,F78-,0.0,2.0,楊朝堯,,1,
+1111.0,516702.0,SCMA00002,,Service Learning I,服務學習(一),Unlimited,55,M9a-SA223[GF],1.0,2.0,王國仲、康明軒,,1,
+1111.0,516811.0,SCAC00007,,Service Learning II,服務學習(二),Unlimited,45,M56-SB202[GF],2.0,2.0,詹揚翔,,1,
+1111.0,517202.0,MGTM00004,,Service Learning II,服務學習(二),Unlimited,43,T8-A901[GF],1.0,1.0,林貴璽,,1,
+1111.0,517302.0,MGMS00004,,Service Learning II,服務學習(二),60,55,Wa-M301[GF],1.0,1.0,管科系,,1,
+1111.0,517412.0,MGEM10004,服務學習；限工工系；服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習服務學習(一)、(二),Service Learning I,服務學習(一),Unlimited,81,,0.0,1.0,工管系,,1,
+1111.0,517500.0,MGIF00001,大一必修；限資財系學生選課；服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習服務學習(一)、(二)。,Service Learning I,服務學習(一),50,43,W56-M-b09[GF],1.0,2.0,李漢星,,1,
+1111.0,519501.0,XDAP00005,,Service Learning II,服務學習(二),Unlimited,13,W9a-A205[GF],1.0,2.0,王美鴻,,1,
+1111.0,111516.0,BEIR10034,[English Medium Course]放一、物一合班,"Introduction to Computer Science
+FCQRENG",計算機概論,55,61,M34-YB100[YM],2.0,2.0,盧家鋒,,2,
+1111.0,310112.0,HKCT10019,上課地點:客家學院4樓國際會議廳,"Statistics and Statistical Computing Language
+FCQR",統計學,50,57,R5678-,4.0,4.0,陶振超,,1,
+1111.0,112403.0,MDMD10036,上課地點為陽明校區，開放陽明校區大學部學生選課，並認列為領域課程(通識)。醫學系可從「醫學人文與倫理領域-醫學人文類」與「領域課程」中擇一認列。,"Gender and Medicine
+DASC",性別與醫學,49,52,F12-YT206[YM],2.0,2.0,任一安,,2,
+1111.0,574006.0,GEIT00004,上課地點: 資訊中心電腦教室CS105,"R Programming
+FCQR",R程式設計,40,43,R567-,3.0,3.0,黃世昆,,2,
+1111.0,132505.0,BEIR10029,"生醫影像學程,開放隨班附讀[English Medium Course]","Programming Language
+FCQRENG",程式語言,65,73,R78-YL401[YM],2.0,2.0,盧家鋒,,2,
+1111.0,562100.0,GELT20039,,"Korean (III)
+LCLS",韓文(三),45,7,R34-A405[GF],2.0,2.0,李相美,,2,
+,515500.0,CSCS20024,外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；主開3年級[English Medium Course] 開放校際選修,"Introduction to Machine Learning
+ENG",機器學習概論,120,107,T567-EC016[GF],3.0,3.0,胡毓志,,2,
+,515501.0,CSCS20024,外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；主開3年級,Introduction to Machine Learning,機器學習概論,120,120,T567-EC022[GF],3.0,3.0,林彥宇,,2,
+,515504.0,CSCS10012,外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；資訊工程組必修；資電工程組必修；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],"Intro. to Compiler Design
+ENG",編譯器設計概論,50,15,T34-ED202[GF],3.0,3.0,王豐堅,,2,
+,515505.0,CSCS10012,"外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；資訊工程組必修；資電工程組必修；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously] 開放隨班附讀,開放校際選修",Intro. to Compiler Design,編譯器設計概論,50,30,T34-EC015[GF],3.0,3.0,楊武,,2,
+,515506.0,CSCS10011,"一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course] 開放隨班附讀,開放校際選修","Linear Algebra
+ENG",線性代數,90,88,W34-EC114[GF],3.0,3.0,魏群樹,,1,
+,515507.0,CSCS10011,一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],Linear Algebra,線性代數,165,150,W34-EDB27[GF],3.0,3.0,紀虹名,,1,
+,515508.0,CSCS10010,"外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；網路與多媒體工程組的網路領域專業課程必修；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],開放隨班附讀,開放校際選修","Intro. to Network Programming
+ENG",網路程式設計概論,120,115,R34-EC016[GF],3.0,3.0,袁賢銘,,2,
+,515509.0,CSCS10010,外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；網路與多媒體工程組的網路領域專業課程必修；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],Intro. to Network Programming,網路程式設計概論,120,104,R34-EC015[GF],3.0,3.0,黃俊穎,,2,
+,515514.0,CSCS10022,外系生請於開學上網加選；資工系與電資學士班學生優先選課；學士班七大主題學程。主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],"Introduction to Database Systems
+ENG",資料庫系統概論,177,176,R34-ED117[GF],3.0,3.0,曾意儒,,2,
+,515515.0,CSCS10016,外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],Intro. to Computer Networks,計算機網路概論,108,108,T56-EC122[GF],3.0,3.0,王協源,,2,
+,515516.0,CSCS10016,"外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀,開放校際選修;9/13 (Tue) 為線上上課，網址:https://meet.google.com/rmw-vzrf-rfn 加選方式在9/13課堂上會說明。",Intro. to Computer Networks,計算機網路概論,96,96,T56-EC115[GF],3.0,3.0,蕭旭峰,,2,
+,515517.0,CSCS10016,"外系生請於開學上網加選；學士班七大主題學程；資訊工程組必修；網路與多媒體工程組的網路領域專業課程必修；資工系與電資學士班學生優先選課；主開2年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]跨校區課程,開放隨班附讀,開放校際選修;陽明校區教室安排於 教學大樓305",Intro. to Computer Networks,計算機網路概論,92,91,T56-EC114[GF],3.0,3.0,陳志成,,2,
+,515521.0,CSCS10001,外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],"Introduction to Operating Systems
+ENG",作業系統概論,92,69,W34-EC016[GF],3.0,3.0,吳育松,,1,
+,515522.0,CSCS10001,"外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀,開放校際選修",Introduction to Operating Systems,作業系統概論,131,130,W34-EC122[GF],3.0,3.0,蔡文錦,,1,
+,515523.0,CSCS10001,"外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀",Introduction to Operating Systems,作業系統概論,111,108,W34-EC015[GF],3.0,3.0,張立平,,1,
+,515607.0,CSCS10013,外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；網路與多媒體工程組的多媒體領域專業課程必修；主開3年級 開放校際選修,Introduction to Computer Graphics,計算機圖學概論,105,101,M34W2-EC114[GF],3.0,3.0,林奕成,,2,
+,515608.0,CSCS10013,外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；網路與多媒體工程組的多媒體領域專業課程必修；主開3年級,Introduction to Computer Graphics,計算機圖學概論,96,88,M34W2-EC115[GF],3.0,3.0,王昱舜,,2,
+,515107.0,EEEC10030,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 本課程以電機系大二學生優先。課程時間於周一晚上Mabcd－教室於工程四館ED320。,Electronics Lab. (I),電子實驗(一),52,55,Mabcd-,2.0,4.0,陳立洲,,1,
+,515120.0,EEEC10030,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先選課。課程時段與教室:Wabcd-ED320。,Electronics Lab. (I),電子實驗(一),52,56,Wabcd-,2.0,4.0,陳立洲,,1,
+,515127.0,EEEC10030,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先。課程時段於週一Ｍabcd－教室於工四館ED222。,Electronics Lab. (I),電子實驗(一),52,51,Mabcd-,2.0,4.0,王夢偉,,1,
+,515128.0,EEEC10030,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先、「2A班優先」、醫師工程師組。課程時段教室:Tabcd-ED320。,Electronics Lab. (I),電子實驗(一),52,58,Tabcd-,2.0,4.0,林容瑋、陳柏宏、柯明道,,1,
+,515129.0,EEEC10030,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先選課。課程時段與教室Wabcd-ED222。,Electronics Lab. (I),電子實驗(一),52,50,Wabcd-,2.0,4.0,王夢偉,,1,
+,515134.0,EEEC10026,請欲加簽本班的同學將加簽單於6/15(三)10:00前送到系辦，以利參加系統抽籤分發。 A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Electronics (I),電子學(一),60,78,M78R34-EE105[GF],3.0,4.0,陳科宏,,1,
+,515135.0,EEEC10026,A~F班、醫師工程師組 3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Electronics (I),電子學(一),60,63,M78R34-ED219[GF],3.0,4.0,李義明,,1,
+,515136.0,EEEC10026,A~F班、醫師工程師組 3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Electronics (I),電子學(一),60,77,M78R34-ED116[GF],3.0,4.0,陳巍仁,,1,
+,515137.0,EEEC10026,A~F班、醫師工程師組 3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Electronics (I),電子學(一),60,63,M78R34-ED303[GF],3.0,4.0,孟慶宗,,1,
+,515138.0,EEEC10026,A~F班、醫師工程師組 3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Electronics (I),電子學(一),60,75,M78R34-EE207[GF],3.0,4.0,董蘭榮,,1,
+,515139.0,EEEC10026,A~F班、醫師工程師組 3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Electronics (I),電子學(一),60,37,M78R34-ED101[GF],3.0,4.0,胡樹,,1,
+,515140.0,EEEC10037,3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Circuit Theory,電路學,60,60,T34R78-ED203[GF],3.0,4.0,洪崇智,,1,
+,515141.0,EEEC10037,3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Circuit Theory,電路學,60,54,T34R78-ED201[GF],3.0,4.0,蔡嘉明,,1,
+,515142.0,EEEC10037,3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Circuit Theory,電路學,60,13,T34R78-ED103[GF],3.0,4.0,蔡作敏,,1,
+,515143.0,EEEC10037,3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Circuit Theory,電路學,60,59,T34R78-ED303[GF],3.0,4.0,陳稷康,,1,
+,515144.0,EEEC10037,3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,Circuit Theory,電路學,60,60,T34R78-ED220[GF],3.0,4.0,陳柏宏,,1,
+,515145.0,EEEC10039,2A [English Medium Course]教室使用工程五館623室。此課程不得列入生醫所畢業學分。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。,"Circuit Theory
+ENG",電路學－(英文班),70,27,T34R78-EE623[GF],3.0,4.0,蔡德明,,1,
+,515146.0,EEEC10002,,Differential Equation,微分方程,55,45,M34W2-ED201[GF],3.0,3.0,林國瑞,,1,
+,515147.0,EEEC10002,,Differential Equation,微分方程,55,59,M34W2-ED303[GF],3.0,3.0,陸曉峰,,1,
+,515148.0,EEEC10002,,Differential Equation,微分方程,55,66,M34W2-ED219[GF],3.0,3.0,王忠炫,,1,
+,515149.0,EEEC10002,,Differential Equation,微分方程,55,63,M34W2-EE105[GF],3.0,3.0,楊春美,,1,
+,515150.0,EEEC10003,[English Medium Course],"Differential Equation
+ENG",微分方程(英文班),55,51,M34W2-ED203[GF],3.0,3.0,李冕,,1,
+,515151.0,EEEC10003,[English Medium Course],"Differential Equation
+ENG",微分方程(英文班),55,65,M34W2-EE208[GF],3.0,3.0,戴立嘉,,1,
+,515152.0,EEEC10002,,Differential Equation,微分方程,55,56,M34W2-ED101[GF],3.0,3.0,鄭裕庭,,1,
+,515153.0,EEEC10030,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先。課程時段與教室: Tabcd-ED222。,Electronics Lab. (I),電子實驗(一),52,55,Tabcd-,2.0,4.0,柯明道、陳柏宏、陳建安,,1,
+,517006.0,MGCM10017,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(https://forms.gle/zp8Lsd5R576A1e8p7)或請親至管理二館MB204管院辦公室登記，登記時間至開學上課第一週週四(9/15)下午四點截止，於當週五上午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。,Introduction to Computer Science,計算機概論,70,86,T567-A316[GF],3.0,3.0,吳浩庠,,1,
+,517007.0,MGCM10017,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(https://forms.gle/zp8Lsd5R576A1e8p7)或請親至管理二館MB204管院辦公室登記，登記時間至開學上課第一週週四(9/15)下午四點截止，於當週五上午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。,Introduction to Computer Science,計算機概論,70,87,T567-MB520[GF],3.0,3.0,林春成,,1,
+,517008.0,MGCM10017,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(https://forms.gle/zp8Lsd5R576A1e8p7)或請親至管理二館MB204管院辦公室登記，登記時間至開學上課第一週週四(9/15)下午四點截止，於當週五上午分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。,Introduction to Computer Science,計算機概論,70,73,T567-M-b09[GF],3.0,3.0,游家牧,,1,
+,517009.0,MGCM10008,管院、雙主修、跨領域學程學生請於9月5日上網選課；非管院學生請於9月12日上網加選。管院學生優先選課；資財系必修；上限55人，得請授課教師簽准後可放寬至60人；若有演習課安排於9a。,Programming,程式設計,55,60,R567-M-b01[GF],3.0,3.0,黃思皓,,1,
+,517010.0,MGCM10011,非管院學生請於9月12日上網加選。管院學生優先選課；上限60人，得請授課教師簽准後可放寬至65人；若有演習課則安排於9a；管理基礎學分學程課程。,Statistics (I),統計學(一),60,75,M234-A316[GF],3.0,3.0,巫佳煌,,1,
+,517011.0,MGCM10011,非管院學生請於9月12日上網加選。管院學生優先選課；上限60人，得請授課教師簽准後可放寬至65人；若有演習課則安排於9a；管理基礎學分學程課程。,Statistics (I),統計學(一),60,78,M234-M101[GF],3.0,3.0,謝國文,,1,
+,517012.0,MGCM10011,非管院學生請於9月12日上網加選。管院學生優先選課；上限60人，得請授課教師簽准後可放寬至65人；若有演習課則安排於9a；管理基礎學分學程課程。,Statistics (I),統計學(一),60,89,M234-AB101[GF],3.0,3.0,林陳佑,,1,
+,517013.0,MGCM10011,非管院學生請於9月12日上網加選。管院學生優先選課；上限60人，得請授課教師簽准後可放寬至65人；若有演習課則安排於9a；管理基礎學分學程課程。,Statistics (I),統計學(一),60,61,M234-MB520[GF],3.0,3.0,彭文理,,1,
+,517014.0,MGCM10002,非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/6Sp6DtYQn7hmUMaZ8；若有演習課安排於9a；管理基礎學分學程課程。,Operations Research (I),作業研究(一),53,67,T234-MB506[GF],3.0,3.0,洪暉智,,1,
+,517015.0,MGCM10002,非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/6Sp6DtYQn7hmUMaZ8；若有演習課安排於9a；管理基礎學分學程課程。,Operations Research (I),作業研究(一),53,65,T234-AB101[GF],3.0,3.0,王晉元,,1,
+,517016.0,MGCM10002,非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限53人，得請授課教師簽准後可放寬至58人，若超過人數上限或教師簽准名額額滿，請至線上表單登記：https://forms.gle/6Sp6DtYQn7hmUMaZ8；若有演習課安排於9a；管理基礎學分學程課程。,Operations Research (I),作業研究(一),53,64,T234-MB520[GF],3.0,3.0,陳勝一,,1,
+,517017.0,MGCM10002,非管院學生請於9月12日上網加選。管院大學部共同必修課程；管院學生優先選課；上限20人，得請授課教師簽准後可放寬至25人；若有演習課安排於9a；管理基礎學分學程課程。英文授課。[English Medium Course],"Operations Research (I)
+ENG",作業研究(一),20,23,T234-A316[GF],3.0,3.0,水敬心,,1,
+1112.0,410011.0,BTBT10044,,"Introduction to Biotechnology (II)
+GECL[ECE,CCS] GECIDLDAST",生物科技概論(二),120,0,W2-,1.0,1.0,蘭宜錚,,1,
+1112.0,514103.0,HSFL10030,[English Medium Course],"Introduction to Western Literature (2)
+GECLDAHAENG",西洋文學概論(二),65,0,T234-F326[GF],3.0,3.0,林建國,,1,
+1112.0,514133.0,HSFL20037,[專選]華語教學學程,"Structures of Chinese
+GECLDASC",漢語語法,Unlimited,0,T567-F207[GF],3.0,3.0,劉啟明,,2,
+1112.0,310012.0,HKHS20006,,"Political Sociology
+GECLDASC",政治社會學,40,0,W234-HK106[LJ],3.0,3.0,柯朝欽,,2,
+1112.0,310015.0,HKHS20039,上課教室：資訊中心訓練教室,"Play, Theater, and Film
+Optional Liberal EducationGECLDAHA",劇本、劇場、電影,Unlimited,0,M678-,3.0,3.0,段馨君,,2,
+1112.0,310021.0,HKHS20038,上課教室：資訊中心PC2電腦教室,"Film Studies: Drama Genre
+Optional Liberal EducationGECLDAHA",戲劇類型電影研究,Unlimited,0,R234-,3.0,3.0,段馨君,,2,
+1112.0,310114.0,HKCT20020,,"New Technology and Organizational Communication
+GECL[COM,CHS] GECIDASC",新科技與組織傳播,Unlimited,0,R567-ED102[GF],3.0,3.0,李美華,,2,
+1112.0,310115.0,HKCT10006,,"Communication Technology and Society
+GECLDASC",傳播科技與社會,Unlimited,0,F234-HKB08[LJ],3.0,3.0,蔡欣怡,,1,
+1112.0,310116.0,HKCT10002,,"Human Computer Interaction
+GECL[ECE,COM] GECIDAST",人機互動概論,50,0,F234-HK114[LJ],3.0,3.0,陳盈羽,,1,
+1112.0,514000.0,HSCH20012,,"Parametric Design and Production
+GECL[COM,CBT] GECIDAST",數位設計與製造,20,0,Wn56-EA204[GF],3.0,3.0,曾聖凱,,2,
+1112.0,514001.0,HSCH00009,,"Psychology of Art
+GECLDAHA",藝術心理學,50,0,T56-HA315[GF],2.0,2.0,陳一平,,2,
+1112.0,514002.0,HSCH00016,,"Introduction to Architecture
+GECLDLDAHA",建築概論,100,0,W56-,2.0,2.0,凌天,,2,
+1112.0,515116.0,EEEC20082,遠距課程,"Discrete Mathematics
+FCQR[COE,CI] GECIDL",離散數學,150,0,M2W34-ED116[GF],3.0,3.0,趙家佐,,2,
+1112.0,515166.0,EEEC10020,,"Modern Biology (II)
+[ECE] GECIDAST",近代生物學(二),Unlimited,0,T2F34-EE105[GF],3.0,3.0,梁美智、黃植懋、高智飛,,2,
+1112.0,515167.0,EEEC10008,Mabc為實驗課 EE635,"Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,50,0,"Mn56-EE207[GF],Mabc-EE635[GF]",3.0,3.0,王學誠,,2,
+1112.0,515168.0,EEEC10008,T56abcd-ED713，Tabcd為實驗課 ED713,"Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,50,0,T56abcd-ED713[GF],3.0,3.0,黃紹華,,2,
+1112.0,515169.0,EEEC10008,,"Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,50,0,"Mn56-ED201[GF],Mabc-ED713[GF]",3.0,3.0,溫宏斌,,2,
+1112.0,515170.0,EEEC10008,"M56-EE105,Tabc-PC4,R2-EE105,2abc為實驗課 PC4","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,55,0,"Tabc-CS-PC4[GF],M56R2-EE220[GF]",3.0,3.0,蔡中庸,,2,
+1112.0,515171.0,EEEC10008,"T56-EE102,Wabc-PC4,R8-EE102, 3abc為實驗課 PC4","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,55,0,"Wabc-CS-PC4[GF],T56R8-EE102[GF]",3.0,3.0,蔡中庸,,2,
+1112.0,515172.0,EEEC10008,"Mn56-ED220, Mabc為實驗課PC2/PC3","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,85,0,"Mabc-,Mn56-ED220[GF]",3.0,3.0,劉建男,,2,
+1112.0,516223.0,ENCV20002,,"Global Positioning System
+[CCS,COS,CHS,CHK] GECIDAST",全球定位系統概論,100,0,F567-EB117[GF],3.0,3.0,王成機,,2,
+1112.0,516232.0,ENCV10011,第三小時為非同步授課,"Engineering Economics
+FCQR[ECE,CCS] GECI",工程經濟學,45,0,F34-EB117[GF],3.0,3.0,黃玉霖,,1,
+1112.0,516233.0,ENCV10011,"[English Medium Course]C班, 第三小時為非同步授課","Engineering Economics
+FCQR[ECE,CCS] GECIENG",工程經濟學,45,0,F34-EB227[GF],3.0,3.0,王維志,,1,
+1112.0,516829.0,SCAC10016,本系學生須先修過無機化學(一)之實體課程，才能選修此課程。,"Inorganic Chemistry (1)
+[COE,CBT,CI] GECIDL",無機化學(一),20,0,R56-SB201[GF],3.0,3.0,劉學儒,,1,
+1112.0,517404.0,MGEM20006,,"Engineering Economy
+FCQRGECL[ECE,CCS] GECI",工程經濟,60,0,T234-MB506[GF],3.0,3.0,董弘平,,1,
+1112.0,517405.0,MGEM20011,工工系學生優先，不可旁聽,"Simulation
+GECL[ECE,CCS] GECIDAST",模擬學,60,0,R234-MB415[GF],3.0,3.0,陳勝一,,1,
+1112.0,517103.0,MGCM10018,管院管理基礎課程；主開大二資財系；輔開管理學院、管科系、工管系、運管系；資財系大二、管科系大二必修；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。管院學生優先選課。外院同學請於開學加退選階段上網選課。限大二以上學生修課。,"Financial Management
+[ECE,CCS,COE,COS,CBT,CHS,CHK,CI] GECI",財務管理,60,0,R567-M-b10[GF],3.0,3.0,梁婉麗,,1,
+1112.0,517503.0,MGIF00005,限非管院學生選課。本課程上限140人，不開放紙本加簽。,"Principles of Economics
+FCQR[ECE,CCS,COE,COS,CBT,CHS,CHK] GECI",經濟學原理,140,0,R234-M-b10[GF],3.0,3.0,黃星華,,2,
+1112.0,517505.0,MGIF10003,大二必修；資財系優先選課。外系同學請於開學加退選階段上網選課。限大二以上學生修課。,"Investments
+FCOM[ECE] GECI",投資學,60,0,R234-M101[GF],3.0,3.0,李漢星,,1,
+1112.0,517509.0,MGIF20010,財金類課程；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。,"Introduction in Financial Engineering
+FCQRGECL[ECE,CCS,COE,CBT,CI] GECI",財務工程導論,50,0,W234-M-b09[GF],3.0,3.0,戴天時,,2,
+1112.0,519500.0,XDAP00014,,"What Is Law: An Introduction to Legal Theory
+GECDACE",什麼是法律？ — 法理學初探,50,0,R567-SC207[GF],3.0,3.0,程源中,,2,
+1112.0,519512.0,XDAP00012,遠距課程,"Revaluation of All Values: Nietzsche&#39;s on the Genealogy of Morality
+GECLDLDACE",重估一切價值：尼采的《道德系譜學》,Unlimited,0,T34-,2.0,2.0,安勤之,,2,
+1112.0,519513.0,XDAP00013,遠距課程,"Translation, Mediation and Symbiopoiesis: Investigate the association among the Science ,Technology ,Nature and Society.
+Optional Liberal EducationFCCTGECLDL",轉譯、中介與共同生成：探索社會、科技與自然的相互聯結,Unlimited,0,T789-,3.0,3.0,安勤之,,2,
+1112.0,910087.0,SESE00012,*系統工程學程學生不得選修,"Introduction to Defense Technology (2)
+GECLDAST",國防科技概論(2),70,0,F567-EE106[GF],3.0,3.0,李永隆,,2,
+1112.0,161022.0,GECE00170,,"Contemporary Songs and Life
+Optional Liberal EducationGECLDAHA",當代歌曲與人生,35,0,T12-YT206[YM],2.0,2.0,楊芮芳,,3,
+1112.0,161068.0,GECE00108,[English Medium Course] [1] 第一階段初選限醫學一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"Philosophy in Fiction
+LCLEEnglish LiteratureENG",小說中的哲學思想,32,0,R12-YX201[YM],2.0,2.0,程曉杰,,5,
+1112.0,161081.0,GECE00004,1.中央研究院人文講座課程，歷史語言研究所王道還助理研究員主持授課。 2.1112學期因應疫情採行線上教學。 3.2023/04/06，依中研院行事曆維持正常上課。,"The Story of Mankind
+Science, Technology and SocietyGECLDAST",人類的故事,35,0,R78-,2.0,2.0,王道還,,3,
+1112.0,561025.0,GECG00040,,"A History of Western Opera
+Art and CulturesGECLDAHA",西洋歌劇史,40,0,R56-A102[GF],2.0,2.0,宋育任,,3,
+1112.0,561029.0,GECG00043,「資訊行為」不接受修讀過「社會心理學」同學修讀。,"Human Information Behavior
+Society and EconomyGECLDACE",資訊行為,45,0,M34-A401[GF],2.0,2.0,王美鴻,,3,
+1112.0,561041.0,GECG00054,"「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。","General Psychology
+Philosophy and MindGECDASC",普通心理學,50,0,T78-A103[GF],2.0,2.0,梁瓊惠,,3,
+1112.0,561048.0,GECG00065,授課方式：視訊同步遠距。上課教室：陽明校區：教學大樓301；交大校區：綜合一館103,"Data and Everyday Life
+FCQRGEC",數據與日常生活,50,0,"R34-A103[GF],R34-YT301[YM]",2.0,2.0,彭松嶽,,3,
+1112.0,561053.0,GECG00070,,"Moral Reasoning
+GECLDACE",道德推理,80,0,F56-A103[GF],2.0,2.0,王冠生,,3,
+1112.0,561062.0,GECG00080,,"Musical Syntax and Expression
+GECLDAHA",音樂語言與表達,40,0,R34-YX502[YM],2.0,2.0,林伶美,,3,
+1112.0,561063.0,GECG00081,,"The Study of Young Marx
+GECLDASC",青年馬克思的生命哲學和創思歷程,70,0,W34-A102[GF],2.0,2.0,洪鎌德,,3,
+1112.0,561065.0,GECG00084,,"Border and Migration
+GECLDASC",邊界與遷移,30,0,"W34-,W34-F207[GF]",2.0,2.0,林淑芬,,3,
+1112.0,561066.0,GECG00085,,"An introductory guide to pharmacy
+GECLDAST",藥學知多少,50,0,T34-A204[GF],1.0,1.0,林滿玉、胡德民、康照洲、許銘能、姜紹青、楊思源、石博文,,3,
+1112.0,561067.0,GECG00086,1.課程介紹:https://youtu.be/K_R64ylOrKE 2.[English Medium Course],"Modern Journey of Human-animal Relations
+GECLDASCENG",動物與人類的現代旅程,50,0,T34-F210[GF],2.0,2.0,葉蔭聰,,3,
+1112.0,561068.0,GECG00087,「造型與繪圖」不接受已修過「幾何造形」的同學選讀。,"Patterning and Drawning
+GECLDAHA",造型與繪圖,40,0,F12-CS-PC2[GF],2.0,2.0,陳明璋,,3,
+1112.0,561069.0,GECG00087,「造型與繪圖」不接受已修過「幾何造形」的同學選讀。,"Patterning and Drawning
+GECLDAHA",造型與繪圖,40,0,F34-CS-PC2[GF],2.0,2.0,陳明璋,,3,
+1112.0,561071.0,GECG10006,1.授課教師李榮貴老師(聘請中) 2.限大二以上同學修讀，修課學生需攜帶筆電。,"Circular Economy
+FCOMGECL",循環經濟,32,0,W34-A401[GF],2.0,2.0,待聘,,3,
+1112.0,561072.0,GECG10007,傳播與科技學系大學部學生應自行修習該系之相關媒體素養課程,"Communication Technology and Media Literacy
+GECLDASC",傳播科技與媒體素養,50,0,R56-F210[GF],2.0,2.0,陳延昇、吳泰毅,,3,
+1112.0,561073.0,GECG00091,,"The Basics of Food Safety
+GECLDAST",食品安全知多少,50,0,R34-A401[GF],1.0,1.0,林怡君、楊登傑、廖伯霖、黃書政、王鐘凰、陳禹銘,,3,
+1112.0,561074.0,GECG00092,[English Medium Course],"Global Im/mobilities: Borders, Migration, and Identity: A Taiwan-US Global Classroom
+GECLDASCENG",邊界、遷徙與身份：台灣—美國全球化教室,10,0,W234-EE129[GF],3.0,3.0,顧彩璇,,3,
+1112.0,599001.0,GETE10001,"1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫""網路選課加退選處理表""，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。授課方式：視訊同步遠距。","Learning How to Learn: Strategies for Reading and Learning
+GECL[COM] GECIDLDASC",學習與閱讀理解策略,Unlimited,0,F56-HA108[GF],2.0,2.0,陳鏗任,,Teacher Education,
+1112.0,599016.0,GETE20019,"1.本課程限110學年度(含)以後進入教育學程學生之教育實踐課程，如選錯，恐無法承認該學分，請同學特別留意!2.非師資生修讀本課程，不須繳交學分費3.非師資生修讀本課程，需至課務組下載並填寫""網路選課加退選處理表""，經任課老師同意送師培中心辦理加簽。4.如欲將本課程視為通識學分，另需送交課務組辦理登記。","Science Education: Rationality, Thinking, Creativity
+GECLDAST",科學教育：理性、思考、創新,Unlimited,0,W56-HA218[GF],2.0,2.0,陳雅君,,2,
+1112.0,599017.0,GETE10014,"1.本門課限「109學年度（含）以後進入教育學程學生」修讀，如選錯，恐無法承認該學分，請同學特別留意！2.非師資生修讀本課程，不須繳交學分費3.非師資生修讀本課程，需至課務組下載並填寫""網路選課加退選處理表""，經任課老師同意送師培中心辦理加簽。4.如欲將本課程視為通識學分，另需送交課務組辦理登記。","Life, Learning, and Brain Science
+[CCS,COS,CHK] GECIDAST",生活、學習、腦科學,Unlimited,0,Tab-HA107[GF],2.0,2.0,段正仁,,2,
+1112.0,571003.0,GESL00004,,"Social Education and Curation for Sustainable Development- Servicing Learning II
+FCOMGECL",永續教育與策展行動—服務學習(二),30,0,Mn56-,3.0,3.0,曾聖凱,,1,
+1112.0,574000.0,GEIT10001,,"JavaScript Web Programming
+FCQRGECLGEC",JavaScript 網頁程式設計,40,0,W234-CS-PC3[GF],3.0,3.0,廖文宏,,2,
+1112.0,517152.0,MGBA10001,"VIP學程課程,百川學程、科管所優先選課；限大學部同學選課，研究所僅開放科管所","Foundations of Management and Entrepreneurship
+FCOMGECL",創業與創新實作專案(I),10,0,W567-A718[GF],3.0,3.0,黃仕斌,,1,
+1112.0,430206.0,BTMB30066,[English Medium Course],"Hearing Sciences
+[ECE,CCS,CHS] GECIDASTENG",聽力科學,Unlimited,0,F567-BI311[BA],3.0,3.0,曲在雯,,2,
+1112.0,534021.0,HSIE30068,1.本課程為師資生認證科技領域資訊科技專長、職業群科教育專門課程學生使用，不能採計為教育專業學分。2.大學生如欲將此課程列為畢業學分，需自行向各系確認。3.本門課程不能採計為教育所畢業學分。,"Information Literacy and Ethics
+Ethics and Moral thinkingGECDACE",資訊素養與倫理,30,0,T78-HA108[GF],2.0,2.0,魏彗娟,,2,
+1112.0,534522.0,HSSC30035,授課方式：實地線上混合,"Seminar on Modern Chinese Fiction and Society
+Optional Liberal EducationGECLDAHA",現代小說與社會,Unlimited,0,R34n-F106A[GF],3.0,3.0,彭明偉,,2,
+1112.0,535520.0,CSIC30104,資訊學院優先(不開放在職專班網路選課)；機械系不同意所屬學生採計通識學分 [另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],"Virtual Biomedical Instrumentation
+GECLDAST",虛擬醫用儀表,50,0,T56-EC315[GF],3.0,3.0,蕭子健、張家齊,,2,
+1112.0,535523.0,CSIC30100,[English Medium Course]資訊學院優先(不開放在職專班網路選課)；,"Brain-Computer Interface
+GECLDASTENG",腦機介面系統,36,0,F34n-EC329[GF],3.0,3.0,魏群樹,,2,
+1112.0,537005.0,MGMS30003,開放全校大一到大四、研究所選修。授課方式：實地線上混合,"Intermediate Accounting (II)
+GECL",中級會計學(二),Unlimited,0,W678-M205[GF],3.0,3.0,蔡璧徽,,2,
+1112.0,537707.0,MGIF30015,財務類課程；財務金融碩博士班、資財系學生優先。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。,"Financial Technology Seminar by Yuanta
+FCOMGECL",元大金融科技講堂,120,0,W567-M-b10[GF],3.0,3.0,黃思皓,,2,
+1112.0,537708.0,MGIF30024,財務類課程；財務金融碩士班及資財系學生優先；校級創新創業學程VIP。本課程限碩士班(含)以下學生選修。上課教室: 管理一館光寶聽M115。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。,"Entrepreneurship and New Venture Funding
+FCOMGECL",創業與籌資,50,0,Rabc-,3.0,3.0,鍾惠民、陳玠甫、王燈山,,2,
+1112.0,537802.0,MGMT30014,[English Medium Course],"Entrepreneurship and New Product Development
+FCOMGECL[ECE,CCS,CHS,CHK] GECIENG",創業與新產品開發,30,0,T234-A701[GF],3.0,3.0,林士平,,2,
+1112.0,537904.0,LWLW30268,開放台聯大大三以上同學選修,"Software and Intellectual Property
+Optional Liberal EducationGECLDAST",軟體與智慧財產權,30,0,T56-,2.0,2.0,李界昇,,2,
+1112.0,557806.0,MGMT30028,隔週上課。授課方式：實地線上混合,"Business Model Innovation and Entrepreneurship Management in Practice
+Optional Liberal EducationFCOMGECL",創新營運模式與創業管理實務,35,0,Un56789-A722[GF],3.0,3.0,陳詩欣、高啟明,,2,
+1112.0,557903.0,LWLW30263,開放台聯大大三以上同學選修,"Digital Economy and Antitrust Law
+GECLDLDASC",數位經濟與反托拉斯法,Unlimited,0,Tab-,2.0,2.0,鄭歆儒,,2,
+1112.0,517018.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,0,T567-M-b10[GF],3.0,3.0,黃瓊誼,,1,
+1112.0,517019.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,0,T567-M205[GF],3.0,3.0,蕭嬋,,1,
+1112.0,517020.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,0,T567-A316[GF],3.0,3.0,黃仕斌、林士平,,1,
+1112.0,517021.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限30人，得請授課教師簽准後可放寬至35人；管理基礎學分學程課程；英文授課[English Medium Course]。授課方式：實地線上混合,"Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECIENG",管理學,30,0,T567-A722[GF],3.0,3.0,陳詩欣,,1,
+1112.0,562043.0,GELT20013,,"English for Tourists
+LCLE",旅遊英文,25,0,R56-A308[GF],2.0,2.0,彭怡婷,,5,
+1112.0,562044.0,GELT20007,[English Medium Course],"Current World Affairs
+LCLEENG",國際現勢討論,25,0,T34-A506[GF],2.0,2.0,李麥德,,5,
+1112.0,562078.0,GELT20015,,"Japanese(Ⅵ)
+LCLS",日文(六),45,0,R56-A507[GF],2.0,2.0,賴郁芳,,5,
+1112.0,562095.0,GELT20030,,"Spanish (III)
+LCLS",西班牙文(三),45,0,F56-A502[GF],2.0,2.0,李忍堅,,5,
+1112.0,562101.0,GELT00001,,"English Listening and Discussion
+LCLE",英文聽力與討論,25,0,T12-A504[GF],2.0,2.0,郭詩芝,,5,
+1112.0,562102.0,GELT00001,,"English Listening and Discussion
+LCLE",英文聽力與討論,25,0,R34-A507[GF],2.0,2.0,郭詩芝,,5,
+1112.0,562103.0,GELT00003,,"English Reading and Discussion
+LCLE",英文閱讀與討論,25,0,F34-A307[GF],2.0,2.0,吳宇晴,,5,
+1112.0,562104.0,GELT00003,,"English Reading and Discussion
+LCLE",英文閱讀與討論,25,0,F56-A501[GF],2.0,2.0,吳宇晴,,5,
+1112.0,562105.0,GELT00003,,"English Reading and Discussion
+LCLE",英文閱讀與討論,25,0,T56-A501[GF],2.0,2.0,林玉書,,5,
+1112.0,562106.0,GELT00004,,"English Reading and Writing
+LCLE",英文閱讀與寫作,25,0,T78-A501[GF],2.0,2.0,林玉書,,5,
+1112.0,562107.0,GELT10008,,"Japanese(I)
+LCLS",日文(一),45,0,W34-A503[GF],2.0,2.0,待聘,,5,
+1112.0,562108.0,GELT10009,,"Japanese(II)
+LCLS",日文(二),45,0,W56-A503[GF],2.0,2.0,待聘,,5,
+1112.0,562109.0,GELT10001,選修『基礎日語會話』者，須先修畢日文(二),"Basic Japanese Conversation
+LCLS",基礎日語會話,30,0,R34-,2.0,2.0,待聘,,5,
+1112.0,563069.0,GEPE10051,,Tennis,體育－網球乙,32,0,M78-PE[GF],0.0,2.0,伍啟萌,,1,
+1112.0,565014.0,GEPS10008,,Physics Recitation(II),物理二(榮譽班)作業演算,Unlimited,0,Fbc-SC109[GF],0.0,2.0,楊毅,,2,
+1112.0,515400.0,EEDP10015,,Physics Lab. (II),物理實驗(二),56,0,M234-SA014[GF],1.0,3.0,杜建明、劉宗哲,,1,
+1112.0,516104.0,ENME10021,1A,Physics Lab(II),物理實驗(二),56,0,M567-SA014[GF],1.0,3.0,杜建明,,1,
+1112.0,516110.0,ENME10021,1B,Physics Lab(II),物理實驗(二),56,0,M567-SA014[GF],1.0,3.0,杜建明,,1,
+1112.0,516202.0,ENCV10021,AB班,Physics Lab. (II),物理實驗（二）,56,0,F234-SA014[GF],1.0,3.0,劉宗哲,,1,
+1112.0,516203.0,ENCV10021,[English Medium Course]C班,"Physics Lab. (II)
+ENG",物理實驗（二）,56,0,F234-SA014[GF],1.0,3.0,劉宗哲,,1,
+1112.0,516318.0,ENMS10029,,Physics Labs (II),物理實驗 (二),56,0,Wn56-SA014[GF],1.0,3.0,謝東儒、鍾介文,,1,
+1112.0,516600.0,SCEP00021,A班,Physics Labs. (II),物理實驗（二）,56,0,W234-SA014[GF],1.0,3.0,鍾介文、謝東儒,,1,
+1112.0,516601.0,SCEP00021,,Physics Labs. (II),物理實驗（二）,56,0,W234-SA014[GF],1.0,3.0,鍾介文、謝東儒,,1,
+1112.0,516633.0,SCEP00021,,Physics Labs. (II),物理實驗（二）,56,0,T234-SA014[GF],1.0,3.0,李建儒,,1,
+1112.0,564022.0,GECS00001,(中一中),Problem Solving for Calculus,微積分演習課,30,0,Tz1-SA215[GF],2.0,2.0,吳昌鴻,,2,
+1112.0,571000.0,GESL00005,,Servicing Learning II,健康餐點與關懷弱勢-服務學習(二),30,0,MnTn-,1.0,2.0,蕭智尹,,1,
+1112.0,571001.0,GESL00006,,暫定,家扶遊戲奇積—服務學習(二),30,0,Wbc-SC105[GF],2.0,2.0,陳鏗任,,1,
+1112.0,571002.0,GESL00007,【課程時間】週三abc【上課地點】印度團在資訊館3樓會議室、東南亞團在人社三館HC104共創空間。(如有變更會另行通知) 本課程為參與國際志工團所選修的培訓課程，同時開放其他名額給全校同學，選課同學為第三梯報名學生亦需完成線上報名表並上傳相關資料，通過書面審查後，中心會email通知線上面試。,Sustainable Development and Design Practice-Service Learning II,永續發展與設計實踐-服務學習(二),30,0,Wabc-,3.0,3.0,潘美玲、許倍銜,,1,
+1112.0,310118.0,HKCT00004,,"Doing Gender in Media Practices - Service Learning II
+GECLDASC",性別與媒體實踐-服務學習二,Unlimited,0,M67-HK104[LJ],2.0,2.0,陳維平,,1,
+1112.0,410058.0,BTBT00002,,Service Learning I,服務學習(一),Unlimited,0,Wab-SC109[GF],1.0,2.0,陳文亮、謝仁俊、林奇宏、吳妍華,,1,
+1112.0,514112.0,HSFL10021,限外文系,Service Learning (II),服務學習(二),Unlimited,0,R9-,0.0,1.0,盧郁安、胡心瑜,,1,
+1112.0,515173.0,EEEC00001,服務學習(二) 請同學注意：服務學習課程分為服務學習(一)及服務學習(二)，須依序修習。且不得同一學期修習服務學習(一)、(二)。,Service Learning I,服務學習 (一),Unlimited,0,W5-EE208[GF],0.0,1.0,陳福川,,1,
+1112.0,515174.0,EEEC00001,服務學習(二) 請同學注意：服務學習課程分為服務學習(一)及服務學習(二)，須依序修習。且不得同一學期修習服務學習(一)、(二)。,Service Learning I,服務學習 (一),Unlimited,0,W6-EE208[GF],0.0,1.0,陳福川,,1,
+1112.0,515600.0,CSCS00001,限資工系同學選課；請同學注意：學生必修服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習課程。,Service Learning I,服務學習(一),218,0,,0.0,1.0,黃敬群,,1,
+1112.0,516002.0,ENPN10012,,Service Learning I,服務學習(一),64,0,S34-,0.0,2.0,簡昭欣,,1,
+1112.0,516102.0,ENME00004,一AB先預選,Service Learning II,服務學習(二),Unlimited,0,T1-EE105[GF],0.0,1.0,黃正昇,,1,
+1112.0,516201.0,ENCV00001,限土木系大一生。請同學注意：一、服務學習課程分為服務學習(一)及服務學習(二)， 以依序修習為原則，但不得於同一學期修習二門服務學習課程。,Service Learning II,服務學習 (二),Unlimited,0,W9a-EB117[GF],0.0,2.0,張智安,,1,
+1112.0,516605.0,SCEP00005,,Service Learning I,服務學習(一),Unlimited,0,R56-SC158[GF],0.0,2.0,張文豪,,1,
+1112.0,516807.0,SCAC10022,,Service Learning I,服務學習(一),Unlimited,0,M56-SB202[GF],1.0,2.0,詹揚翔,,1,
+1112.0,517201.0,MGTM00003,,Service Learning I,服務學習(一）,Unlimited,0,F7-A901[GF],1.0,1.0,呂錦山,,1,
+1112.0,517406.0,MGEM10005,限工工系；服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習服務學習(一)、(二),Service Learning II,服務學習(二),Unlimited,0,,0.0,1.0,工管系,,1,
+1112.0,514100.0,HSFL10031,限外文系，計中電腦教室4,"Introduction to Computer Science
+FCQR",計算機概論,Unlimited,0,F34-CS-PC4[GF],2.0,2.0,待聘,,1,
+1112.0,113801.0,MDMD10036,本課程上課地點為陽明校區，開放陽明校區大學部學生選課，並認列為領域課程(通識)。醫學系可認列醫學人文與倫理領域-醫學人文類，醫學系僅能在醫學人文與倫理領域學分與通識領域課程學分中擇一計算，若欲計算通識學分，請至領域課程中選修本課。本課程為應考公共衛生師指定修習科目。,"Gender and Medicine
+DASC",性別與醫學,20,0,F34-YT304[YM],2.0,2.0,任一安,,2,
+1112.0,113802.0,MDMD10036,本課程上課地點為光復校區資訊中心CS100，開放光復校區大學部學生選課，並認列為領域課程(通識)。醫學系可認列醫學人文與倫理領域-醫學人文類，醫學系僅能在醫學人文與倫理領域學分與通識領域課程學分中擇一計算，若欲計算通識學分，請至領域課程中選修本課。本課程為應考公共衛生師指定修習科目。,"Gender and Medicine
+DASC",性別與醫學,45,0,R9a-,2.0,2.0,任一安,,2,
+,515513.0,CSCS20047,主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；學士班七大主題學程；原課名「網路通訊原理」與「通訊原理與無線網路」新舊課程僅能採計一門為畢業學分，不能重覆採計。[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],Principles of Communications and Wireless Networks,通訊原理與無線網路,100,0,W34-ED117[GF],3.0,3.0,趙禧綠,,2,
+,515101.0,EEEC10006,,Probability,機率,55,0,T56F2-ED203[GF],3.0,3.0,李明峻,,1,
+,515113.0,EEEC10032,R1為助教時間,Electromagnetics,電磁學,100,0,M56R12-EC016[GF],3.0,3.0,郭建男、鄭裕庭,,1,
+,515186.0,EEEC10011,A班預設英文授課[English Medium Course],"Linear Algebra
+ENG",線性代數(英文班),35,0,F234-EE118[GF],3.0,3.0,林源倍,,1,
+,515187.0,EEEC10011,[English Medium Course],"Linear Algebra
+ENG",線性代數(英文班),35,0,T34R7-ED101[GF],3.0,3.0,馮智豪,,1,
+,515188.0,EEEC10010,,Linear Algebra,線性代數,60,0,T34R7-ED303[GF],3.0,3.0,吳卓諭,,1,
+,515189.0,EEEC10010,,Linear Algebra,線性代數,60,0,T34R7-EE207[GF],3.0,3.0,李慶鴻,,1,
+,515190.0,EEEC10010,,Linear Algebra,線性代數,60,0,T34R7-ED116[GF],3.0,3.0,桑梓賢,,1,
+,515191.0,EEEC10010,,Linear Algebra,線性代數,60,0,T34R7-ED203[GF],3.0,3.0,李佳翰,,1,
+,515192.0,EEEC10017,[English Medium Course],"Signals and Systems
+ENG",訊號與系統 (英文班),50,0,M34W2-EE105[GF],3.0,3.0,羅佩禎,,1,
+,515193.0,EEEC10016,,Signals and Systems,訊號與系統,50,0,M34W2-ED103[GF],3.0,3.0,王忠炫,,1,
+,515194.0,EEEC10016,,Signals and Systems,訊號與系統,50,0,M34W2-ED203[GF],3.0,3.0,張文輝,,1,
+,515195.0,EEEC10016,,Signals and Systems,訊號與系統,50,0,"M34-EE207[GF],W2-EE208[GF]",3.0,3.0,蔡尚澕,,1,
+,515196.0,EEEC10016,,Signals and Systems,訊號與系統,50,0,M34W2-ED116[GF],3.0,3.0,鄭耿璽,,1,
+,515197.0,EEEC10016,,Signals and Systems,訊號與系統,50,0,M34W2-ED303[GF],3.0,3.0,賴青沂,,1,
+,515198.0,EEEC10016,,Signals and Systems,訊號與系統,50,0,R567-EDB06[GF],3.0,3.0,溫 岸,,1,
+1111.0,910000.0,SESE20015,,Cartography,地圖學,Unlimited,6,R234-,3.0,3.0,史天元,,1,
+1111.0,910001.0,SESE10042,,Engineering Mechanics - Statics,應用力學－靜力學,Unlimited,19,T567-,3.0,3.0,金大仁,,1,
+1111.0,910002.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,13,W567-,3.0,3.0,曾煜輝,,1,
+1111.0,910003.0,SESE10156,,Electronics Circuits (1),電子學(1),Unlimited,38,M567-,3.0,3.0,巫朝陽,,1,
+1111.0,910004.0,SESE20014,,Graph Theory,圖形理論,Unlimited,13,W234-,3.0,3.0,林政寬,,2,
+1111.0,910005.0,SESE10148,,Software Requirements Analysis,軟體需求分析,Unlimited,37,F234-,3.0,3.0,紀虹名,,2,
+1111.0,910006.0,SESE20030,,"Optical, Electronic, and Magnetic Properties of Materials",材料光電磁性質,Unlimited,11,T234-,3.0,3.0,楊朝堯,,2,
+1111.0,910007.0,SESE20070,,Introduction to Space transportation System,太空運輸系統概論,Unlimited,3,F234-,3.0,3.0,魏世昕,,2,
+1111.0,910008.0,SESE20071,,Theory and Applications of Building Information Modeling,建築資訊模型之理論應用與實作,Unlimited,9,F234-,3.0,3.0,高明秀,,2,
+1111.0,910009.0,SESE20072,,Computer Integrated Manufacturing and Smart Factory,電腦整合製造與智慧工廠,Unlimited,5,M9ab-,3.0,3.0,黃衍佐,,2,
+1111.0,910010.0,SESE00021,,Tutor Guidance(1),導師輔導(1),Unlimited,22,M12-,0.0,2.0,王志嘉,,1,
+1111.0,910011.0,SESE00021,,Tutor Guidance(1),導師輔導(1),Unlimited,23,M12-,0.0,2.0,周志正,,1,
+1111.0,910014.0,SESE00021,,Tutor Guidance(1),導師輔導(1),Unlimited,26,M12-,0.0,2.0,系統工程,,1,
+1111.0,910015.0,SESE00021,,Tutor Guidance(1),導師輔導(1),Unlimited,27,M12-,0.0,2.0,李志國,,1,
+1111.0,910017.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,21,M12-,0.0,2.0,劉中宇,,1,
+1111.0,910018.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,19,M12-,0.0,2.0,羅序仁,,1,
+1111.0,910019.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,16,M12-,0.0,2.0,黃文鍵,,1,
+1111.0,910020.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,12,M12-,0.0,2.0,吳憲珉,,1,
+1111.0,910021.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,24,M12-,0.0,2.0,宋欣芳,,1,
+1111.0,910022.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,10,M12-,0.0,2.0,賴渝翔,,1,
+1111.0,910023.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,6,M12-,0.0,2.0,賴渝翔,,1,
+1111.0,910024.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,25,M12-,0.0,2.0,葉宗翰,,1,
+1111.0,910025.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,13,M12-,0.0,2.0,藍建武,,1,
+1111.0,910026.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,11,M12-,0.0,2.0,李永隆,,1,
+1111.0,910027.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,10,M12-,0.0,2.0,曾有志,,1,
+1111.0,910028.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,9,M12-,0.0,2.0,劉宗龍,,1,
+1111.0,910029.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,11,M12-,0.0,2.0,系統工程,,1,
+1111.0,910030.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,5,M12-,0.0,2.0,系統工程,,1,
+1111.0,910031.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,21,M12-,0.0,2.0,劉芳萍,,1,
+1111.0,910032.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,15,M12-,0.0,2.0,周兆龍,,1,
+1111.0,910033.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,11,M12-,0.0,2.0,游竹淋,,1,
+1111.0,910034.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,9,M12-,0.0,2.0,游竹淋,,1,
+1111.0,910035.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,18,M12-,0.0,2.0,張文南,,1,
+1111.0,910036.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,16,M12-,0.0,2.0,沈鴻禧,,1,
+1111.0,910038.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,24,M12-,0.0,2.0,陳淑娟,,1,
+1111.0,910039.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,25,M12-,0.0,2.0,聶若鹽,,1,
+1111.0,910040.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,24,M12-,0.0,2.0,陳幼良,,1,
+1111.0,910041.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,8,M12-,0.0,2.0,宋易哲,,1,
+1111.0,910042.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,8,M12-,0.0,2.0,林俊成,,1,
+1111.0,910043.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,8,M12-,0.0,2.0,孔健君,,1,
+1111.0,910044.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,5,M12-,0.0,2.0,孔健君,,1,
+1111.0,910045.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,14,M12-,0.0,2.0,翁旭谷,,1,
+1111.0,910046.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,22,M12-,0.0,2.0,賴泰宏,,1,
+1111.0,910047.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,13,M12-,0.0,2.0,林明憲,,1,
+1111.0,910048.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,12,M12-,0.0,2.0,林明憲,,1,
+1111.0,910049.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,16,M12-,0.0,2.0,蔡宗憲,,1,
+1111.0,910050.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,15,M12-,0.0,2.0,李宜珊,,1,
+1111.0,910051.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,19,M12-,0.0,2.0,林永慶,,1,
+1111.0,910052.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,30,M12-,0.0,2.0,鄭紹宏,,1,
+1111.0,910053.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,29,M12-,0.0,2.0,瞿忠正,,1,
+1111.0,910054.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,25,M12-,0.0,2.0,葉昭南,,1,
+1111.0,910055.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,18,M12-,0.0,2.0,朱子文,,1,
+1111.0,910056.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,11,M12-,0.0,2.0,陳冠宇,,1,
+1111.0,910057.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,13,M12-,0.0,2.0,羅明忠,,1,
+1111.0,910058.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,11,M12-,0.0,2.0,林聰穎,,1,
+1111.0,910059.0,SESE10171,,Physical Education(7),體育(7),Unlimited,73,W12-,0.0,2.0,系統工程,,1,
+1111.0,910060.0,SESE10171,,Physical Education(7),體育(7),Unlimited,75,R12-,0.0,2.0,系統工程,,1,
+1111.0,910061.0,SESE10037,,Calculus (1),微積分(1),Unlimited,26,M34W12-,4.0,4.0,蘇承芳,,1,
+1111.0,910062.0,SESE10051,,General Chemistry,普通化學,Unlimited,26,F234-,3.0,3.0,裘性天,,1,
+1111.0,910063.0,SESE20074,,Machine Learning,機器學習,Unlimited,7,M3F12-,3.0,3.0,系統工程,,2,
+1111.0,910064.0,SESE20073,,Capstone,專題實作,Unlimited,60,S567-,0.0,3.0,系統工程,,2,
+1111.0,910065.0,SESE00063,,Physical Education(5),體育(5),Unlimited,14,R34-,0.0,2.0,系統工程,,1,
+1111.0,910066.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,23,T34-,2.0,2.0,系統工程,,2,
+1111.0,910067.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,30,T56-,2.0,2.0,系統工程,,1,
+1111.0,910068.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,30,T78-,2.0,2.0,系統工程,,1,
+1111.0,910069.0,SESE10186,,Physical Education,體育,Unlimited,19,T78-,0.0,2.0,系統工程,,1,
+1111.0,910070.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,26,T56-,2.0,2.0,系統工程,,1,
+1111.0,910071.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,26,T78-,2.0,2.0,系統工程,,1,
+1111.0,910072.0,SESE00047,,Analysis and Appreciation of the Science Fiction,科幻文學賞析  ,Unlimited,29,R34-,2.0,2.0,系統工程,,2,
+1111.0,910073.0,SESE10198,,Project of Information Security(3),資訊安全專題實作(3),Unlimited,9,M567-,1.0,3.0,賴泰宏,,1,
+1111.0,910074.0,SESE00047,,Analysis and Appreciation of the Science Fiction,科幻文學賞析  ,Unlimited,30,R56-,2.0,2.0,系統工程,,2,
+1111.0,910075.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,22,W12-,2.0,2.0,系統工程,,2,
+1111.0,910076.0,SESE00063,,Physical Education(5),體育(5),Unlimited,34,W34-,0.0,2.0,系統工程,,1,
+1111.0,910077.0,SESE00068,,Computer Networks Practice(1),電腦網路專題實作(1),Unlimited,4,M567-,1.0,3.0,系統工程,,1,
+1111.0,910078.0,SESE00069,,Introduction to Information Warfare,資訊戰概論,Unlimited,42,T567-,3.0,3.0,系統工程,,2,
+1111.0,910079.0,SESE10186,,Physical Education,體育,Unlimited,15,W78-,0.0,2.0,系統工程,,1,
+1111.0,910080.0,SESE00041,,French(1),法文(一)  ,Unlimited,19,R12-,2.0,2.0,系統工程,,2,
+1111.0,910081.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,24,T12-,2.0,2.0,系統工程,,2,
+1111.0,910082.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,34,W12-,2.0,2.0,系統工程,,1,
+1111.0,910083.0,SESE20054,,Database Systems,資料庫系統,Unlimited,22,W9ab-,3.0,3.0,劉芳萍,,1,
+1111.0,910084.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,34,W56-,2.0,2.0,系統工程,,1,
+1111.0,910085.0,SESE00077,,Networks Defense Practice(3),網路攻防專題實作(3),Unlimited,4,M567-,1.0,3.0,羅嘉寧,,1,
+1111.0,910086.0,SESE00070,,Web Security and Penetration test,網頁安全與滲透測試,Unlimited,7,W9ab-,3.0,3.0,陳佑全,,2,
+1111.0,910088.0,SESE00071,,"Modeling, Simulation, and Wargame",模式模擬與兵棋,Unlimited,6,W234-,3.0,3.0,系統工程,,2,
+1111.0,910089.0,SESE20047,,Network Security,網路安全,Unlimited,15,M34T2-,3.0,3.0,羅嘉寧,,1,
+1111.0,910090.0,SESE00072,,Network Programming,網路程式設計,Unlimited,8,T9ab-,3.0,3.0,劉中宇,,2,
+1111.0,910091.0,SESE00078,,System Security Practice(3),系統安全專題實作(3),Unlimited,3,M567-,1.0,3.0,系統工程,,1,
+1111.0,910092.0,SESE00073,,Programming Design Practice (1),程式設計實習(1),Unlimited,32,W567-,3.0,3.0,周兆龍,,2,
+1111.0,910093.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,24,T12-,2.0,2.0,系統工程,,1,
+1111.0,910094.0,SESE10041,,Psychology,心理學,Unlimited,24,T34-,2.0,2.0,系統工程,,1,
+1111.0,910095.0,SESE10001,,C4ISR System Practice(I),C4ISR 系統專題實作(1),Unlimited,4,M567-,1.0,3.0,劉中宇,,1,
+1111.0,910096.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,32,F34-,2.0,2.0,系統工程,,2,
+1111.0,910097.0,SESE10041,,Psychology,心理學,Unlimited,25,T12-,2.0,2.0,系統工程,,1,
+1111.0,910098.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,25,T34-,2.0,2.0,系統工程,,1,
+1111.0,910099.0,SESE10138,,Database Practice(I),資料庫專題實作(1),Unlimited,4,M567-,1.0,3.0,劉芳萍,,1,
+1111.0,910101.0,SESE10136,,Information System Practice(I),資訊系統工程專題實作(1),Unlimited,3,M567-,1.0,3.0,羅序仁,,1,
+1111.0,910102.0,SESE10041,,Psychology,心理學,Unlimited,24,R12-,2.0,2.0,系統工程,,1,
+1111.0,910103.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,24,R34-,2.0,2.0,系統工程,,1,
+1111.0,910104.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,34,F12-,2.0,2.0,系統工程,,2,
+1111.0,910105.0,SESE10017,,Multimedia Design Practice(I),多媒體設計專題實作(1),Unlimited,4,M567-,1.0,3.0,蔡宗憲,,1,
+1111.0,910106.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,29,R12-,2.0,2.0,系統工程,,1,
+1111.0,910107.0,SESE10041,,Psychology,心理學,Unlimited,16,R34-,2.0,2.0,系統工程,,1,
+1111.0,910108.0,SESE10153,,Discrete Mathematics,離散數學,Unlimited,21,M3T34-,3.0,3.0,王順吉,,1,
+1111.0,910109.0,SESE10099,,IoT System Practice(I),物聯網系統專題實作(1),Unlimited,7,M567-,1.0,3.0,楊婷婷,,1,
+1111.0,910110.0,SESE10137,,Data Structure,資料結構,Unlimited,21,M4T56-,3.0,3.0,周兆龍,,1,
+1111.0,910111.0,SESE10057,,General Physics Lab.(1),普通物理實驗 (1),Unlimited,22,M34-,2.0,2.0,宋易哲,,1,
+1111.0,910112.0,SESE10050,,Digital Circuit Design,數位電路設計,Unlimited,21,M9ab-,3.0,3.0,陳丙堃,,1,
+1111.0,910113.0,SESE00018,,Studies on Mainland China,大陸問題研究,Unlimited,25,T567-,3.0,3.0,系統工程,,1,
+1111.0,910114.0,SESE10114,,Network Technology and Practice(1),網路技術與實務1,Unlimited,21,R123-,3.0,3.0,張凱威、曾建超,,1,
+1111.0,910115.0,SESE20002,,Introduction to Op;erating Systems,作業系統概論,Unlimited,19,F123-,3.0,3.0,楊婷婷,,1,
+1111.0,910116.0,SESE10100,,Object Oriented Programming,物件導向程式設計,Unlimited,21,R456-,3.0,3.0,陳丙堃,,1,
+1111.0,910118.0,SESE00059,,Physical Education(1),體育(1),Unlimited,23,W56-,0.0,2.0,系統工程,,1,
+1111.0,910119.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,27,M34-,2.0,2.0,張凱威,,1,
+1111.0,910120.0,SESE00059,,Physical Education(1),體育(1),Unlimited,26,T56-,0.0,2.0,系統工程,,1,
+1111.0,910121.0,SESE00059,,Physical Education(1),體育(1),Unlimited,22,W56-,0.0,2.0,系統工程,,1,
+1111.0,910122.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,26,M8W4-,2.0,2.0,張凱威,,1,
+1111.0,910123.0,SESE20002,,Introduction to Op;erating Systems,作業系統概論,Unlimited,17,T1R12-,3.0,3.0,楊婷婷,,1,
+1111.0,910124.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,40,W12-,2.0,2.0,張凱威,,1,
+1111.0,910125.0,SESE10185,,Ethics in Engineering,工程倫理,Unlimited,29,F34-,2.0,2.0,劉思遠,,1,
+1111.0,910126.0,SESE10130,,Introduction to Information Security,資訊安全,Unlimited,34,W234-,3.0,3.0,賴泰宏,,2,
+1111.0,910127.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,31,M5W8-,2.0,2.0,張凱威,,1,
+1111.0,910128.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,10,M8W8-,2.0,2.0,張凱威,,1,
+1111.0,910129.0,SESE10016,,Elementary Number Theory,基礎數論,Unlimited,40,W567-,3.0,3.0,張仁煦,,2,
+1111.0,910131.0,SESE10100,,Object Oriented Programming,物件導向程式設計,Unlimited,25,T9ab-,3.0,3.0,陳丙堃,,1,
+1111.0,910132.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,32,T567-,3.0,3.0,系統工程,,1,
+1111.0,910133.0,SESE10050,,Digital Circuit Design,數位電路設計,Unlimited,20,R9ab-,3.0,3.0,陳丙堃,,1,
+1111.0,910134.0,SESE00061,,Physical Education(3),體育(3),Unlimited,36,M34-,0.0,2.0,系統工程,,1,
+1111.0,910135.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,36,W234-,3.0,3.0,系統工程,,1,
+1111.0,910136.0,SESE00061,,Physical Education(3),體育(3),Unlimited,18,T34-,0.0,2.0,系統工程,,1,
+1111.0,910137.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,30,M567-,3.0,3.0,系統工程,,1,
+1111.0,910138.0,SESE00061,,Physical Education(3),體育(3),Unlimited,40,T12-,0.0,2.0,系統工程,,1,
+1111.0,910139.0,SESE00018,,Studies on Mainland China,大陸問題研究,Unlimited,26,M567-,3.0,3.0,系統工程,,1,
+1111.0,910140.0,SESE10041,,Psychology,心理學,Unlimited,13,M34-,2.0,2.0,系統工程,,1,
+1111.0,910141.0,SESE10057,,General Physics Lab.(1),普通物理實驗 (1),Unlimited,26,W34-,2.0,2.0,尤懷德,,1,
+1111.0,910142.0,SESE10137,,Data Structure,資料結構,Unlimited,19,M3T34-,3.0,3.0,周兆龍,,1,
+1111.0,910143.0,SESE10153,,Discrete Mathematics,離散數學,Unlimited,19,M4T56-,3.0,3.0,王順吉,,1,
+1111.0,910144.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,31,R234-,3.0,3.0,系統工程,,1,
+1111.0,910145.0,SESE10171,,Physical Education(7),體育(7),Unlimited,56,R56-,0.0,2.0,系統工程,,1,
+1111.0,910146.0,SESE00017,,Seminar and Lab,基礎科學講座與實驗,Unlimited,98,S234567-,0.0,3.0,劉宗哲,,1,
+1111.0,910147.0,SESE10177,,Mechatronics,機電整合,Unlimited,22,T234-,3.0,3.0,孔健君,,1,
+1111.0,910148.0,SESE10114,,Network Technology and Practice(1),網路技術與實務1,Unlimited,19,R456-,3.0,3.0,張凱威,,1,
+1111.0,910149.0,SESE00051,,English(1),英文(1),Unlimited,27,R34F1-,3.0,3.0,系統工程,,1,
+1111.0,910150.0,SESE10187,,Introduction to Electronic and Information Warfare,電資戰,Unlimited,60,M34-,2.0,2.0,張克勤,,1,
+1111.0,910151.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,14,W9a-,2.0,2.0,系統工程,,2,
+1111.0,910152.0,SESE10185,,Ethics in Engineering,工程倫理,Unlimited,36,F34-,2.0,2.0,張枝成,,1,
+1111.0,910153.0,SESE20076,,Cryptography Engineering Practice,密碼工程專題實作(1),Unlimited,4,M567-,1.0,3.0,賴泰宏,,1,
+1111.0,910154.0,SESE10174,,Project on Mechatronics and Aeronautical Control(3),機電航太控制專題實作(3),Unlimited,5,M567-,1.0,3.0,孔健君,,1,
+1111.0,910155.0,SESE10173,,Project on Structure of Military Aircraft(3),戰機結構專題實作(3),Unlimited,8,M567-,1.0,3.0,羅明忠,,1,
+1111.0,910156.0,SESE10129,,Project on Mechanical Design and Manufactujring (I),設計製造專題實作(1),Unlimited,4,M567-,1.0,3.0,尤懷德,,1,
+1111.0,910157.0,SESE10175,,Project on Thermal Fluid,熱流量測專題實作(3),Unlimited,7,M567-,1.0,3.0,賴渝翔,,1,
+1111.0,910158.0,SESE20033,,Mechanical Design,機械設計,Unlimited,6,T567-,3.0,3.0,林聰穎,,1,
+1111.0,910159.0,SESE10065,,Mechanics of Materials,材料力學,Unlimited,29,M9ab-,3.0,3.0,陳冠宇,,1,
+1111.0,910160.0,SESE10043,,Applied Mechanics(1): Statics,應用力學(1)-靜力學,Unlimited,32,T2R56-,3.0,3.0,林聰穎,,1,
+1111.0,910161.0,SESE00041,,French(1),法文(一)  ,Unlimited,3,R34-,2.0,2.0,系統工程,,2,
+1111.0,910162.0,SESE00028,,German(1),德文(一)  ,Unlimited,24,T56-,2.0,2.0,系統工程,,2,
+1111.0,910164.0,SESE20043,,Aerodnamics,空氣動力學,Unlimited,10,F234-,3.0,3.0,尤懷德,,1,
+1111.0,910165.0,SESE20069,,Viscous Fluid Dynamics,黏性流體力學,Unlimited,10,T234-,3.0,3.0,賴正權、陳竺博淵,,2,
+1111.0,910166.0,SESE20067,,Electrical Engineering,電工學,Unlimited,13,W34F1-,3.0,3.0,李彥宏,,1,
+1111.0,910167.0,SESE20013,,Principles of Jet Propulsion,噴射推進原理,Unlimited,10,T567-,3.0,3.0,夏筱明,,1,
+1111.0,910168.0,SESE20035,,Fluid Mechanics Lab,流體力學實驗,Unlimited,10,W567-,1.0,3.0,賴正權,,1,
+1111.0,910169.0,SESE10185,,Ethics in Engineering,工程倫理,Unlimited,33,F34-,2.0,2.0,張德仁,,1,
+1111.0,910170.0,SESE10094,,Thermodynamics(1),熱力學(1),Unlimited,19,R9ab-,3.0,3.0,戴昌聖,,1,
+1111.0,910171.0,SESE00116,,The Art of War and Life,孫子兵法與人生,Unlimited,29,F12-,2.0,2.0,系統工程,,2,
+1111.0,910172.0,SESE20039,,Thermal Fluid Exp;eriment,熱流實驗,Unlimited,3,R56-,1.0,2.0,張枝成,,1,
+1111.0,910173.0,SESE20077,,Data Communications and confidentiality,資料通訊與保密,Unlimited,21,W567-,3.0,3.0,系統工程,,2,
+1111.0,910174.0,SESE00079,,C4ISR System Practice(3),C4ISR 系統專題實作(3),Unlimited,5,M567-,1.0,3.0,劉中宇,,1,
+1111.0,910175.0,SESE20066,,Electromagnetic Waves,電磁波,Unlimited,31,T234-,3.0,3.0,李志國,,2,
+1111.0,910176.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,32,T1F12-,3.0,3.0,賴渝翔,,1,
+1111.0,910177.0,SESE00011,,Introduction to Defense Technology (I),國防科技概論(1),100,101,F567-EE106[GF],3.0,3.0,李永隆,,2,
+1111.0,910178.0,SESE10032,,Workshop Practice(2),工廠實習(2),Unlimited,16,W12-,1.0,2.0,黃國鑫,,1,
+1111.0,910179.0,SESE10094,,Thermodynamics(1),熱力學(1),Unlimited,16,R123-,3.0,3.0,夏筱明,,1,
+1111.0,910180.0,SESE00051,,English(1),英文(1),Unlimited,23,W34F3-,3.0,3.0,系統工程,,1,
+1111.0,910181.0,SESE10073,,Mechanical Materials,機械材料,Unlimited,32,W567-,3.0,3.0,系統工程,,1,
+1111.0,910182.0,SESE10032,,Workshop Practice(2),工廠實習(2),Unlimited,16,W12-,1.0,2.0,蔡林昌,,1,
+1111.0,910183.0,SESE10094,,Thermodynamics(1),熱力學(1),Unlimited,16,W34R4-,3.0,3.0,夏筱明,,1,
+1111.0,910184.0,SESE10021,,Engineering Graphics,工程圖學,Unlimited,16,M78-,1.0,2.0,系統工程,,1,
+1111.0,910185.0,SESE10021,,Engineering Graphics,工程圖學,Unlimited,16,M9a-,1.0,2.0,系統工程,,1,
+1111.0,910186.0,SESE10055,,General Physics(2),普通物理(2),Unlimited,34,R9ab-,3.0,3.0,鄭根發,,1,
+1111.0,910187.0,SESE10038,,Calculus(2),微積分(2),Unlimited,17,W89ab-,3.0,4.0,張枝成,,1,
+1111.0,910188.0,SESE10054,,General Physics (1),普通物理(1),Unlimited,22,R234-,3.0,3.0,杜建明,,1,
+1111.0,910189.0,SESE10054,,General Physics (1),普通物理(1),Unlimited,26,R34F1-,3.0,3.0,王哲釧,,1,
+1111.0,910190.0,SESE10054,,General Physics (1),普通物理(1),Unlimited,27,R34F1-,3.0,3.0,鄭紹宏,,1,
+1111.0,910193.0,SESE10054,,General Physics (1),普通物理(1),Unlimited,23,R34F1-,3.0,3.0,尤懷德,,1,
+1111.0,910195.0,SESE00116,,The Art of War and Life,孫子兵法與人生,Unlimited,28,F34-,2.0,2.0,系統工程,,2,
+1111.0,910196.0,SESE10037,,Calculus (1),微積分(1),Unlimited,27,T34R56-,4.0,4.0,張仁煦,,1,
+1111.0,910197.0,SESE10037,,Calculus (1),微積分(1),Unlimited,22,M56W34-,4.0,4.0,張枝成,,1,
+1111.0,910198.0,SESE10037,,Calculus (1),微積分(1),Unlimited,23,T12R12-,4.0,4.0,張仁煦,,1,
+1111.0,910200.0,SESE00055,,Financial Management,財務管理 ,Unlimited,13,T56-,2.0,2.0,系統工程,,2,
+1111.0,910201.0,SESE10051,,General Chemistry,普通化學,Unlimited,23,M56W1-,3.0,3.0,游竹淋,,1,
+1111.0,910202.0,SESE10224,,Cryptography,密碼學,Unlimited,5,R9ab-,3.0,3.0,張德仁,,2,
+1111.0,910203.0,SESE00117,,Fiction and Film,小說與電影,Unlimited,17,T56-,2.0,2.0,系統工程,,2,
+1111.0,910204.0,SESE10176,,Project on Aerospace(1),太空專題實作(1),Unlimited,4,M567-,1.0,3.0,李彥宏,,1,
+1111.0,910205.0,SESE10051,,General Chemistry,普通化學,Unlimited,27,M34R2-,3.0,3.0,游竹淋,,1,
+1111.0,910206.0,SESE10051,,General Chemistry,普通化學,Unlimited,22,T567-,3.0,3.0,黃文鍵,,1,
+1111.0,910207.0,SESE00118,,Chinese Military Literature,中國兵書選讀,Unlimited,25,W12-,2.0,2.0,系統工程,,2,
+1111.0,910208.0,SESE00055,,Financial Management,財務管理 ,Unlimited,11,T78-,2.0,2.0,系統工程,,2,
+1111.0,910210.0,SESE10180,,Principles and Experiments of Enhanced Heat Transfer,熱傳增強原理與實驗,Unlimited,4,M9ab-,3.0,3.0,賴正權,,2,
+1111.0,910211.0,SESE10181,,Computer Aided Design,計算機輔助設計,Unlimited,9,W567-,3.0,3.0,徐道賢,,2,
+1111.0,910212.0,SESE10057,,General Physics Lab.(1),普通物理實驗 (1),Unlimited,23,T34-,2.0,2.0,賴渝翔,,1,
+1111.0,910213.0,SESE10182,,Theory of Rotating-Wing Aircraft,旋翼機理論,Unlimited,16,W9ab-,3.0,3.0,羅明忠,,2,
+1111.0,910214.0,SESE10183,,Performance Analysis of Aircraft and Missile,戰機飛彈性能分析,Unlimited,8,T9ab-,3.0,3.0,系統工程,,2,
+1111.0,910215.0,SESE10184,,Analysis and Design of Military Aircraft System,戰機系統設計,Unlimited,10,T9ab-,3.0,3.0,李彥宏,,2,
+1111.0,910216.0,SESE00118,,Chinese Military Literature,中國兵書選讀,Unlimited,26,W34-,2.0,2.0,系統工程,,2,
+1111.0,910217.0,SESE10188,,Radar System,雷達系統,Unlimited,29,T234-,3.0,3.0,聶若鹽,,1,
+1111.0,910218.0,SESE10168,,Advanced Program Design,高等程式設計,Unlimited,5,R9ab-,3.0,3.0,林振輝,,2,
+1111.0,910221.0,SESE20036,,Introduction to Algorithms,演算法,Unlimited,18,T8F12-,3.0,3.0,張克勤,,2,
+1111.0,910222.0,SESE00010,,Philosophy and Life,哲學與人生,Unlimited,20,W78-,2.0,2.0,系統工程,,2,
+1111.0,910223.0,SESE20038,,Explosives(I),火藥學(1),Unlimited,22,M34T1-,3.0,3.0,楊琮貿,,1,
+1111.0,910224.0,SESE20003,,Analytical Chemistry(II),儀器及分析化學實驗(2),Unlimited,11,T9ab-,1.0,3.0,王志嘉,,2,
+1111.0,910225.0,SESE10190,,Introduction to Optic Fiber,光纖概論,Unlimited,5,T9ab-,3.0,3.0,系統工程,,2,
+1111.0,910226.0,SESE10191,,Fundamentals of Mobile Communications,行動通訊概論,Unlimited,15,T9ab-,3.0,3.0,系統工程,,2,
+1111.0,910227.0,SESE10192,,Digital electronics,數位電子,Unlimited,19,W9ab-,3.0,3.0,劉貞灝,,2,
+1111.0,910228.0,SESE00016,,International Relations,國際關係,Unlimited,29,F12-,2.0,2.0,系統工程,,2,
+1111.0,910229.0,SESE20048,,Automatic Control Systems(I),自動控制系統(1),Unlimited,55,W156-,3.0,3.0,楊家宏,,1,
+1111.0,910230.0,SESE10194,,Practice of Communication Systems(3),通訊系統專題實作(3),Unlimited,8,M567-,1.0,3.0,瞿忠正,,1,
+1111.0,910231.0,SESE10195,,Practice for Applications of Wireless Communications (3),無線通訊應用專題實作(3),Unlimited,8,M567-,1.0,3.0,蘇英俊,,1,
+1111.0,910232.0,SESE10196,,Design Topics of Microwave Devices(3),微波裝置專題實作(3),Unlimited,8,M567-,1.0,3.0,陳淑娟,,1,
+1111.0,910233.0,SESE10197,,Optoelectronic application project(3),光電應用專題實作(3),Unlimited,9,M567-,1.0,3.0,謝輝煌,,1,
+1111.0,910234.0,SESE10198,,Project of Information Security(3),資訊安全專題實作(3),Unlimited,7,M567-,1.0,3.0,林宗億,,1,
+1111.0,910235.0,SESE10199,,Special topics for the Control and Automation(3),控制與自動化專題實作(3),Unlimited,10,M567-,1.0,3.0,談光雄,,1,
+1111.0,910236.0,SESE10200,,Applied Computer Network Project(3),計算機網路應用專題實作(3),Unlimited,10,M567-,1.0,3.0,系統工程,,1,
+1111.0,910237.0,SESE10072,,Probability and Statistics,機率與統計,Unlimited,25,M34W1-,3.0,3.0,聶若鹽,,1,
+1111.0,910238.0,SESE20012,,Single Chip,單晶片,Unlimited,24,W234-,3.0,3.0,藍建武,,1,
+1111.0,910239.0,SESE20063,,Electric Machinery,電機機械,Unlimited,24,T567-,3.0,3.0,談光雄,,1,
+1111.0,910240.0,SESE00016,,International Relations,國際關係,Unlimited,13,F34-,2.0,2.0,系統工程,,2,
+1111.0,910243.0,SESE00051,,English(1),英文(1),Unlimited,30,W12F2-,3.0,3.0,系統工程,,1,
+1111.0,910244.0,SESE00051,,English(1),英文(1),Unlimited,26,W5R12-,3.0,3.0,系統工程,,1,
+1111.0,910245.0,SESE00120,,Readings In Ming and Ching Fiction,明清小說,Unlimited,15,W56-,2.0,2.0,系統工程,,2,
+1111.0,910246.0,SESE00051,,English(1),英文(1),Unlimited,22,R56F4-,3.0,3.0,系統工程,,1,
+1111.0,910248.0,SESE10057,,General Physics Lab.(1),普通物理實驗 (1),Unlimited,27,F34-,2.0,2.0,系統工程,,1,
+1111.0,910249.0,SESE20059,,Modern Physics,近代物理,Unlimited,39,T9ab-,3.0,3.0,謝輝煌,,2,
+1111.0,910250.0,SESE00056,,Military Education and Career Counseling,軍事教育與生涯發展,Unlimited,27,W34-,2.0,2.0,系統工程,,2,
+1111.0,910251.0,SESE20058,,Introduction to Modern Optoelectronic Engineering,近代光電工程,Unlimited,5,R9ab-,3.0,3.0,葉宗翰,,2,
+1111.0,910252.0,SESE00121,,Basic Military English,基礎軍事英文,Unlimited,22,T12-,2.0,2.0,系統工程,,2,
+1111.0,910253.0,SESE00013,,Chinese(1),國文(1),Unlimited,27,W567-,3.0,3.0,系統工程,,1,
+1111.0,910254.0,SESE00013,,Chinese(1),國文(1),Unlimited,29,T234-,3.0,3.0,系統工程,,1,
+1111.0,910255.0,SESE00013,,Chinese(1),國文(1),Unlimited,23,T567-,3.0,3.0,系統工程,,1,
+1111.0,910256.0,SESE00013,,Chinese(1),國文(1),Unlimited,19,T234-,3.0,3.0,系統工程,,1,
+1111.0,910257.0,SESE00121,,Basic Military English,基礎軍事英文,Unlimited,26,T34-,2.0,2.0,系統工程,,2,
+1111.0,910259.0,SESE10072,,Probability and Statistics,機率與統計,Unlimited,24,M34R1-,3.0,3.0,蘇英俊,,1,
+1111.0,910260.0,SESE20060,,Communication Systems,通訊系統,Unlimited,25,W234-,3.0,3.0,李志國,,1,
+1111.0,910261.0,SESE20066,,Electromagnetic Waves,電磁波,Unlimited,25,T567-,3.0,3.0,李志國,,1,
+1111.0,910262.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,25,M4-,0.0,1.0,葉宗翰,,1,
+1111.0,910263.0,SESE10166,,Fundamental of Electric Circuits (2),電路學(2),Unlimited,25,M3T34-,3.0,3.0,葉宗翰,,1,
+1111.0,910264.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,25,W234-,3.0,3.0,杜博仁,,1,
+1111.0,910265.0,SESE10115,,Linear Algebra,線性代數,Unlimited,29,R234-,3.0,3.0,張克勤,,1,
+1111.0,910266.0,SESE10158,,Experiments of Electrical Engineering(1),電子實驗(1),Unlimited,25,W567-,1.0,3.0,謝育立,,1,
+1111.0,910267.0,SESE10158,,Experiments of Electrical Engineering(1),電子實驗(1),Unlimited,13,F234-,1.0,3.0,謝育立,,1,
+1111.0,910268.0,SESE10115,,Linear Algebra,線性代數,Unlimited,13,R234-,3.0,3.0,瞿忠正,,1,
+1111.0,910269.0,SESE10166,,Fundamental of Electric Circuits (2),電路學(2),Unlimited,13,M34R1-,3.0,3.0,謝育立,,1,
+1111.0,910270.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,36,R4-,0.0,1.0,張文南,,1,
+1111.0,910271.0,SESE10104,,Program Design,程式設計,Unlimited,13,W9ab-,3.0,3.0,林振輝,,2,
+1111.0,910272.0,SESE10104,,Program Design,程式設計,Unlimited,25,F234-,3.0,3.0,林振輝,,2,
+1111.0,910273.0,SESE10202,,Solid-state Electronic Devices,固態電子元件,Unlimited,13,W234-,3.0,3.0,系統工程,,2,
+1111.0,910274.0,SESE10040,,Design Topics of Microwave Devices,微波裝置專題實作(1),Unlimited,9,M567-,1.0,3.0,李志國,,1,
+1111.0,910275.0,SESE10203,,Special topics for the application of semiconductor devices(1),半導體元件應用專題實作(1),Unlimited,4,M567-,1.0,3.0,謝育立,,1,
+1111.0,910276.0,SESE10005,,Optoelectronic Application Project,光電應用專題實作(1),Unlimited,5,M567-,1.0,3.0,葉宗翰,,1,
+1111.0,910277.0,SESE10060,,Special Topics for the Intelligent Robot,智慧型機器人專題實作(1),Unlimited,8,M567-,1.0,3.0,藍建武,,1,
+1111.0,910278.0,SESE10133,,Project of Applying Information,資訊應用專題實作(1),Unlimited,5,M567-,1.0,3.0,張德仁,,1,
+1111.0,910279.0,SESE10131,,Information Security Practice(I),資訊安全專題實作(1) ,Unlimited,9,M567-,1.0,3.0,張克勤,,1,
+1111.0,910280.0,SESE10090,,Practice for Applications of Wireless,無線通訊應用專題實作(1),Unlimited,4,M567-,1.0,3.0,鄭紹宏,,1,
+1111.0,910281.0,SESE10156,,Electronics Circuits (1),電子學(1),Unlimited,16,T1W34-,3.0,3.0,談光雄,,1,
+1111.0,910282.0,SESE00080,,Database Practice,資料庫專題實作(3),Unlimited,8,M567-,1.0,3.0,劉芳萍,,1,
+1111.0,910283.0,SESE00081,,Information System Practice(3),資訊系統工程專題實作(3),Unlimited,3,M567-,1.0,3.0,羅序仁,,1,
+1111.0,910284.0,SESE00082,,Multimedia Design Practice(3),多媒體設計專題實作(3),Unlimited,6,M567-,1.0,3.0,蔡宗憲,,1,
+1111.0,910285.0,SESE00083,,IoT System Practice(3),物聯網系統專題實作(3),Unlimited,4,M567-,1.0,3.0,楊婷婷,,1,
+1111.0,910288.0,SESE00085,,Process Design,程序設計,Unlimited,25,M9R12-,3.0,3.0,李金樹,,1,
+1111.0,910289.0,SESE00086,,Characterization of Materials,材料特性分析,Unlimited,5,T9ab-,3.0,3.0,系統工程,,2,
+1111.0,910290.0,SESE00087,,Protecting and Clean Technology of Radiochemistry,核子放射防護與消除,Unlimited,5,W567-,3.0,3.0,賴政國,,2,
+1111.0,910291.0,SESE00088,,Practice of Steel Processing and Heat Treatment,鋼鐵加工及熱處理實務,Unlimited,5,W567-,3.0,3.0,劉益銘,,2,
+1111.0,910292.0,SESE00089,,Organic Analysis ＆ Spectroscopy,有機分析及有機光譜學,Unlimited,7,T567-,3.0,3.0,吳國輝,,2,
+1111.0,910293.0,SESE20079,,Special Project on Explosive(3),火炸藥專題實作(3),Unlimited,6,M567-,1.0,3.0,楊琮貿,,1,
+1111.0,910294.0,SESE00090,,Special Project on Nuclear(3),核生化防護專題實作(3),Unlimited,6,M567-,1.0,3.0,汪成斌,,1,
+1111.0,910295.0,SESE00091,,Special Project on Materials Science & Engineering (3),材料科學與工程專題實作(3),Unlimited,7,M567-,1.0,3.0,王哲釧,,1,
+1111.0,910296.0,SESE00092,,Special Project on Energy Conversion/ Storage Batteries(3),創/儲能電池專題實作(3),Unlimited,6,M567-,1.0,3.0,林明憲、張仍奎,,1,
+1111.0,910297.0,SESE00020,,Project Management,專案管理,Unlimited,9,W34-,2.0,2.0,李金樹,,2,
+1111.0,910298.0,SESE20010,,Unit Operation & Transport Phenomena(2),單元操作與輸送現象(2),Unlimited,6,R456-,3.0,3.0,黃其清,,1,
+1111.0,910299.0,SESE20041,,Physical Metallurgy(I),物理冶金(1),Unlimited,20,F234-,3.0,3.0,王誠佑、劉益銘,,1,
+1111.0,910300.0,SESE20011,,Unit Operation Lab.(I),單元操作實驗(1),Unlimited,20,R123-,1.0,3.0,楊琮貿,,1,
+1111.0,910301.0,SESE20031,,Thermodynamics of Materials(II),材料熱力學(2),Unlimited,9,W567-,3.0,3.0,王哲釧,,2,
+1111.0,910302.0,SESE20007,,Chemical Engineering Thermodynamics,化工熱力學,Unlimited,6,W567-,3.0,3.0,林明憲,,1,
+1111.0,910303.0,SESE20040,,Physical Chemistry(II),物理化學(2),Unlimited,5,W567-,3.0,3.0,劉敏憲,,1,
+1111.0,910304.0,SESE20068,,Introduction to Polymer,高分子導論,Unlimited,5,T34R5-,3.0,3.0,張章平,,2,
+1111.0,910305.0,SESE10086,,Special Project on Explosive(1),火炸藥專題實作(1),Unlimited,5,M567-,1.0,3.0,李金樹,,1,
+1111.0,910306.0,SESE10071,,Special Project on Nuclear Bilolgical and Chemical Defense,核生化防護專題實作(1),Unlimited,5,M567-,1.0,3.0,黃文鍵,,1,
+1111.0,910307.0,SESE10067,,Special Project on Materials Science & Engineering(1),材料科學與工程專題實作(1),Unlimited,3,M567-,1.0,3.0,許宏華,,1,
+1111.0,910308.0,SESE10008,,Special Project on Functional Coatings,功能性鍍膜專題實作(1),Unlimited,7,M567-,1.0,3.0,葛明德,,1,
+1111.0,910309.0,SESE10002,,Analytical Chemistry(1),儀器及分析化學(1),Unlimited,16,T78R6-,3.0,3.0,王志嘉,,1,
+1111.0,910310.0,SESE10061,,Organic Chemistry(1),有機化學(1),Unlimited,16,M34R5-,3.0,3.0,洪耀勳,,1,
+1111.0,910311.0,SESE10004,,Analytical Chemistry Lab.(1),儀器及分析化學實驗(1),Unlimited,16,W234-,1.0,3.0,游竹淋,,1,
+1111.0,910312.0,SESE10068,,Introduction to Materials Science,材料科學導論,Unlimited,16,F234-,3.0,3.0,陳智、許宏華,,1,
+1111.0,910313.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,16,T56W1-,3.0,3.0,陸開泰,,1,
+1111.0,910314.0,SESE10063,,Organic Chemistry Lab.(1),有機化學實驗(1),Unlimited,16,R234-,1.0,3.0,洪耀勳,,1,
+1111.0,910315.0,SESE10065,,Mechanics of Materials,材料力學,Unlimited,41,T234-,3.0,3.0,曾有志,,1,
+1111.0,910316.0,SESE10204,,Underwater Acoustics,水中聲學,Unlimited,11,T34W3-,3.0,3.0,陳冠宇,,2,
+1111.0,910317.0,SESE10205,,Systems Engineering Management,系統工程管理概論,Unlimited,24,W456-,3.0,3.0,鄧世剛,,1,
+1111.0,910318.0,SESE10206,,Vehicle Dynamics,車輛運動力學,Unlimited,18,W456-,3.0,3.0,朱子文,,1,
+1111.0,910319.0,SESE10207,,Warship Design,軍艦設計,Unlimited,11,M34W3-,3.0,3.0,林俊成,,1,
+1111.0,910320.0,SESE10177,,Mechatronics,機電整合,Unlimited,23,W9ab-,3.0,3.0,系統工程,,2,
+1111.0,910321.0,SESE00008,,Crisis Management,危機管理,Unlimited,30,M34-,2.0,2.0,系統工程,,2,
+1111.0,910322.0,SESE10209,,Ordnance Engineering and Workshop (2),兵器工程及實習(2),Unlimited,6,T567-,3.0,3.0,孫懷谷,,2,
+1111.0,910323.0,SESE10210,,Introduction of Armored Fighting Vehicles,戰甲車概論,Unlimited,6,T9ab-,3.0,3.0,王翔正,,2,
+1111.0,910324.0,SESE20062,,Electronic Component and Lab,電子學及實驗 ,Unlimited,24,M34W5-,3.0,3.0,李永隆,,1,
+1111.0,910326.0,SESE20006,,Ordnance Engineering and Workshop(I),兵器工程及實習(1),Unlimited,24,T567-,3.0,3.0,葉昭南,,1,
+1111.0,910327.0,SESE20034,,Experiments of Fluid Mechanics,流體力學實驗 ,Unlimited,5,F34-,1.0,2.0,林俊成,,2,
+1111.0,910329.0,SESE10211,,Automotive Drive Trains,車輛傳動系統,Unlimited,5,W567-,3.0,3.0,蘭真,,2,
+1111.0,910330.0,SESE10212,,Automotive Chassis Systems,車輛底盤系統,Unlimited,8,M34T8-,3.0,3.0,朱子文,,2,
+1111.0,910331.0,SESE10213,,Automotive Electricity & Electronics Services,車輛電學及實務,Unlimited,14,R9ab-,3.0,3.0,周志正,,2,
+1111.0,910332.0,SESE20005,,Internal Combustion Engines,內燃機,Unlimited,8,T567-,3.0,3.0,周志正,,1,
+1111.0,910333.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,23,T9ab-,3.0,3.0,宋易哲,,1,
+1111.0,910334.0,SESE20049,,Fluid Dynamics,船舶流體動力學 ,Unlimited,8,T567-,3.0,3.0,林俊成,,1,
+1111.0,910335.0,SESE20061,,Principles of Naval Architeeture (II),造船原理(2),Unlimited,8,W567-,3.0,3.0,劉宗龍,,2,
+1111.0,910336.0,SESE20037,,Submarine Introduction,潛艦概論,Unlimited,8,W9ab-,3.0,3.0,雷清宇,,2,
+1111.0,910338.0,SESE00094,,Engineering Geology,工程地質學,Unlimited,22,W34-,2.0,2.0,簡志峻,,1,
+1111.0,910343.0,SESE00099,,Special Topics in Integration of Environmental Information and Engineering(3),環境資訊及工程整合專題實作(3),Unlimited,5,M567-,1.0,3.0,蔡營寬,,1,
+1111.0,910344.0,SESE00100,,Special Topics in Integration of Disaster Prevention and Protection(3),災害防救整合專題實作(3),Unlimited,9,M567-,1.0,3.0,簡志峻,,1,
+1111.0,910345.0,SESE00101,,Geospatial Special in Internet of Things Application Environment(3),智慧物聯網環境專題實作(3),Unlimited,6,M567-,1.0,3.0,宋欣芳,,1,
+1111.0,910346.0,SESE00102,,Special Topics in Engineering Practices (3),軍事工程專題實作(3),Unlimited,5,M567-,1.0,3.0,張文南,,1,
+1111.0,910347.0,SESE00103,,Cadastral Surveying,地籍測量學,Unlimited,5,T234-,3.0,3.0,系統工程,,2,
+1111.0,910348.0,SESE00104,,Integration of Geospatial Information and Development of Common Operating Pictures,空間資訊整合及圖台開發,Unlimited,6,W456-,3.0,3.0,系統工程,,2,
+1111.0,910349.0,SESE00105,,Color Reproduction,彩色複製學,Unlimited,9,T567-,3.0,3.0,吳憲珉,,2,
+1111.0,910350.0,SESE00106,,Geospatial Special Practice(3),空間科學專題實作(3),Unlimited,9,M567-,1.0,3.0,蔡明達,,1,
+1111.0,910351.0,SESE00107,,Aviation Meteorology,航空氣象學,Unlimited,5,M34W4-,3.0,3.0,林永慶,,2,
+1111.0,910352.0,SESE00108,,Introduction to Physical Oceanography,物理海洋概論,Unlimited,1,T234-,3.0,3.0,系統工程,,2,
+1111.0,910353.0,SESE20080,,Introduction to Military Meteorology,軍事氣象學導論,Unlimited,10,W23F2-,3.0,3.0,蔡世樵,,1,
+1111.0,910354.0,SESE00110,,Case Study of Atmospheric Science(3),大氣科學專題實作(3),Unlimited,10,M567-,1.0,3.0,蔡世樵,,1,
+1111.0,910355.0,SESE00111,,Climate Change and Adaptation,氣候變遷與調適,Unlimited,6,T567-,3.0,3.0,系統工程,,2,
+1111.0,910356.0,SESE00112,,Nautical meteorology,航海氣象學,Unlimited,3,W567-,3.0,3.0,崔怡楓,,2,
+1111.0,910357.0,SESE20024,,Building Equipment,建築設備,Unlimited,25,T348-,3.0,3.0,張又升,,2,
+1111.0,910358.0,SESE20045,,Theory of Structures,結構學,Unlimited,30,T567-,3.0,3.0,張文南,,1,
+1111.0,910359.0,SESE20016,,Foundation Engineering,基礎工程,Unlimited,25,R234-,3.0,3.0,李宏輝、黃郁惟,,1,
+1111.0,910360.0,SESE10147,,Special Topics in Engineering Practices(I),軍事工程專題實作(1),Unlimited,8,M567-,1.0,3.0,張又升,,1,
+1111.0,910361.0,SESE10087,,Special Topics in Integration of Disaster Prevention and Protection(I),災害防救整合專題實作(1),Unlimited,8,M567-,1.0,3.0,李宏輝,,1,
+1111.0,910362.0,SESE20021,,Synoptic Meteorology Laboratory(I),天氣學實習(1),Unlimited,3,T34-,1.0,2.0,系統工程,,1,
+1111.0,910363.0,SESE20020,,Synoptic Meteorology(I),天氣學(1),Unlimited,3,M34T2-,3.0,3.0,侯昭平,,1,
+1111.0,910364.0,SESE20017,,Dynamic Meteorology(I),大氣動力學(1),Unlimited,3,W7F34-,3.0,3.0,蔡世樵,,1,
+1111.0,910365.0,SESE10020,,Case Study of Armospheric Science(I),大氣科學專題實作(1),Unlimited,3,M567-,1.0,3.0,沈鴻禧,,1,
+1111.0,910366.0,SESE20018,,Geodesy,大地測量學,Unlimited,6,M34T3-,3.0,3.0,李宜珊,,1,
+1111.0,910367.0,SESE00032,,War and Literature,戰爭與文學,Unlimited,9,R34-,2.0,2.0,系統工程,,2,
+1111.0,910368.0,SESE10107,,Geospatial Special Practice(I),空間科學專題實作(1),Unlimited,6,M567-,1.0,3.0,黃立信,,1,
+1111.0,910369.0,SESE10102,,Special Topics in Integration of Environmental Information and Engineering (I),環境資訊及工程整合專題實作(1),Unlimited,9,M567-,1.0,3.0,林玉菁,,1,
+1111.0,910370.0,SESE20019,,Geodesy Practice,大地測量學實習,Unlimited,6,F234-,1.0,3.0,李宜珊,,1,
+1111.0,910371.0,SESE10078,,Meteorology,氣象學,Unlimited,36,W1F12-,3.0,3.0,系統工程,,1,
+1111.0,910372.0,SESE10163,,Computer Aided Drawing and Practice,電腦輔助製圖與實作,Unlimited,36,R123-,2.0,3.0,簡志峻,,1,
+1111.0,910373.0,SESE10079,,Hydrology and Flood Controll,水文及防洪工程,Unlimited,25,W567-,3.0,3.0,趙振宇,,1,
+1111.0,910374.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,37,T234-,3.0,3.0,林志平、楊順欽,,1,
+1111.0,910375.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,31,T8-,0.0,1.0,賴渝翔,,1,
+1111.0,910376.0,SESE10083,,Surveying Adjustment Computation,測量平差計算,Unlimited,9,W567-,1.0,3.0,黃立信,,1,
+1111.0,910377.0,SESE10080,,Fluid Mechanics,流體力學,Unlimited,27,T567-,3.0,3.0,系統工程,,2,
+1111.0,910378.0,SESE10024,,Engineering Materials,工程材料學,Unlimited,24,M9ab-,3.0,3.0,簡志峻,,1,
+1111.0,910379.0,SESE10152,,Introduction to Remote Sensing,遙感探測概論,Unlimited,9,M567-,3.0,3.0,吳憲珉,,1,
+1111.0,910380.0,SESE10082,,Surveying Adjustment Theory,測量平差,Unlimited,9,T567-,3.0,3.0,黃立信,,1,
+1111.0,910381.0,SESE10028,,Engineering Mechanics,工程力學,Unlimited,37,T9ab-,3.0,3.0,宋欣芳,,1,
+1111.0,910382.0,SESE10018,,Meteorological Measurements and Practice,大氣測計學及實習,Unlimited,3,W567-,3.0,3.0,林永慶,,1,
+1111.0,910384.0,SESE00032,,War and Literature,戰爭與文學,Unlimited,26,R56-,2.0,2.0,系統工程,,2,
+1111.0,910385.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,31,M567-,3.0,3.0,潘冠呈,,1,
+1111.0,910386.0,SESE10169,,Advanced Programming Language,高階程式語言,Unlimited,19,M9ab-,3.0,3.0,雷賀君,,2,
+1111.0,910387.0,SESE10042,,Engineering Mechanics - Statics,應用力學－靜力學,Unlimited,12,T567-,3.0,3.0,陳幼良,,1,
+1111.0,910388.0,SESE10160,,Computer Aided Design,電腦輔助設計,Unlimited,31,T9ab-,3.0,3.0,徐守仁,,2,
+1111.0,910389.0,SESE10030,,Workshop Practice,工廠實習,Unlimited,16,W34-,1.0,2.0,蔡林昌,,1,
+1111.0,910390.0,SESE10035,,Ammunitions,彈藥學,Unlimited,12,W56-,2.0,2.0,葉昭南,,1,
+1111.0,910393.0,SESE00115,,Thermodynamics,熱力學,Unlimited,41,M34R1-,3.0,3.0,黃寶錩,,1,
+1111.0,910394.0,SESE10120,,Introduction of Naval Architecture and Ocean Engineering,船舶及海洋工程概論,Unlimited,6,T12F2-,3.0,3.0,陳冠宇,,2,
+1111.0,910395.0,SESE10121,,Hull Form Calculation and Drawing,船體計算與製圖,Unlimited,6,W567-,1.0,3.0,潘冠呈,,1,
+1111.0,910396.0,SESE10144,,Principles of Vehicle Systems,車輛系統原理,Unlimited,13,W567-,3.0,3.0,黃寶錩,,1,
+1111.0,910397.0,SESE10096,,Fuel and Oil Analysis,燃料及油品分析實務,Unlimited,13,F234-,3.0,3.0,黃寶錩,,2,
+1111.0,910398.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,20,M8-,0.0,1.0,劉中宇,,1,
+1111.0,910399.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,16,T2-,0.0,1.0,黃文鍵,,1,
+1111.0,910400.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,8,F1-,0.0,1.0,曾有志,,1,
+1111.0,910401.0,SESE10214,,Weapon System Engineering Project(3),兵器工程專題實作(3),Unlimited,25,M567-,1.0,3.0,陳幼良、葉昭南,,1,
+1111.0,910402.0,SESE00058,,Music and Life,音樂與人生  ,Unlimited,30,W56-,2.0,2.0,系統工程,,2,
+1111.0,910403.0,SESE00048,,Technology and the Future Life,科技與未來生活  ,Unlimited,28,M34-,2.0,2.0,鄭根發,,2,
+1111.0,910404.0,SESE10217,,Simple Vehicle Design and Manufacture Project(3),車輛設計製造專題實作(3),Unlimited,6,M567-,1.0,3.0,黃寶錩,,1,
+1111.0,910405.0,SESE10218,,Simple Vehicle Power Engineering Project(3),車輛動力工程專題實作(3),Unlimited,7,M567-,1.0,3.0,周志正,,1,
+1111.0,910406.0,SESE10219,,Simple Vehicle Control Engineering Project(3),車輛控制工程專題實作(3),Unlimited,5,M567-,1.0,3.0,許曆山,,1,
+1111.0,910407.0,SESE10220,,Special Ship Design Project(3),特殊船舶設計專題實作(3),Unlimited,11,M567-,1.0,3.0,劉宗龍,,1,
+1111.0,910408.0,SESE10006,,Wespon System Engineering Project(I),兵器工程專題實作(1),Unlimited,24,M567-,1.0,3.0,鄧世剛、李永隆,,1,
+1111.0,910409.0,SESE00048,,Technology and the Future Life,科技與未來生活  ,Unlimited,27,R12-,2.0,2.0,鄭根發,,2,
+1111.0,910410.0,SESE00043,,Environmental Protection,環境保護  ,Unlimited,28,W12-,2.0,2.0,鄭根發,,2,
+1111.0,910411.0,SESE10141,,Simple Vehicle Design and Manufacture Project(I),車輛設計製造專題實作(1),Unlimited,8,M567-,1.0,3.0,宋易哲,,1,
+1111.0,910412.0,SESE00043,,Environmental Protection,環境保護  ,Unlimited,29,R56-,2.0,2.0,鄭根發,,2,
+1111.0,910413.0,SESE00050,,Aesthetics and Life,美學與人生  ,Unlimited,13,W34-,2.0,2.0,系統工程,,2,
+1111.0,910414.0,SESE10101,,Special Ship Design Project(I),特殊船舶設計專題實作(1),Unlimited,8,M567-,1.0,3.0,林俊成,,1,
+1111.0,910415.0,SESE00034,,japanese(I),日文(一) ,Unlimited,29,F12-,2.0,2.0,系統工程,,2,
+1111.0,910416.0,SESE20022,,Introduction to Cryptography,密碼學概論,Unlimited,15,F123-,3.0,3.0,羅嘉寧,,1,
+1111.0,910417.0,SESE00026,,Calculus Tutor(1),微積分輔導(1),Unlimited,98,Rabc-,0.0,3.0,系統工程,,2,
+1111.0,910418.0,SESE00036,,General Physics Tutor(1),普通物理輔導(1),Unlimited,96,Mabc-,0.0,3.0,系統工程,,2,
+1111.0,910419.0,SESE00035,,General Chemistry Tutor,普通化學輔導,Unlimited,98,Fabc-,0.0,3.0,系統工程,,2,
+1111.0,910420.0,SESE20078,,Project on Mechanical Design and Manufactujring (3),設計製造專題實作(3),Unlimited,4,M567-,1.0,3.0,尤懷德,,1,
+1111.0,910421.0,SESE00034,,japanese(I),日文(一) ,Unlimited,29,F34-,2.0,2.0,系統工程,,2,
+1111.0,910422.0,SESE00005,,Biographical Literature,傳記文學賞析,Unlimited,10,W56-,2.0,2.0,系統工程,,2,
+1111.0,910424.0,SESE00030,,Gender Education,性別教育,Unlimited,11,R56-,2.0,2.0,系統工程,,2,
+1111.0,910425.0,SESE00044,,The Study of Death,生死學,Unlimited,30,R56-,2.0,2.0,系統工程,,2,
+1111.0,910426.0,SESE00046,,Modern Politics Thoughe,當代政治思潮,Unlimited,29,F12-,2.0,2.0,系統工程,,2,
+1111.0,910427.0,SESE00046,,Modern Politics Thoughe,當代政治思潮,Unlimited,29,F34-,2.0,2.0,系統工程,,2,
+1111.0,910428.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,14,R6-,0.0,1.0,藍建武,,1,
+1111.0,910429.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,33,F1-,0.0,1.0,陳冠宇,,1,
+1111.0,910430.0,SESE00061,,Physical Education(3),體育(3),Unlimited,38,T12-,0.0,2.0,系統工程,,1,
+1111.0,910431.0,SESE00061,,Physical Education(3),體育(3),Unlimited,29,T34-,0.0,2.0,系統工程,,1,
+1111.0,910432.0,SESE00061,,Physical Education(3),體育(3),Unlimited,32,T34-,0.0,2.0,系統工程,,1,
+1111.0,910433.0,SESE00063,,Physical Education(5),體育(5),Unlimited,20,W34-,0.0,2.0,系統工程,,1,
+1111.0,910434.0,SESE00063,,Physical Education(5),體育(5),Unlimited,35,R34-,0.0,2.0,系統工程,,1,
+1111.0,910435.0,SESE00063,,Physical Education(5),體育(5),Unlimited,49,R34-,0.0,2.0,系統工程,,1,
+1111.0,910436.0,SESE00063,,Physical Education(5),體育(5),Unlimited,40,W34-,0.0,2.0,系統工程,,1,
+1111.0,910437.0,SESE10171,,Physical Education(7),體育(7),Unlimited,29,R56-,0.0,2.0,系統工程,,1,
+1111.0,910438.0,SESE10171,,Physical Education(7),體育(7),Unlimited,5,W12-,0.0,2.0,系統工程,,1,
+1111.0,910439.0,SESE10171,,Physical Education(7),體育(7),Unlimited,11,R12-,0.0,2.0,系統工程,,1,
+1111.0,910440.0,SESE10186,,Physical Education,體育,Unlimited,10,W78-,0.0,2.0,系統工程,,1,
+1111.0,910441.0,SESE10030,,Workshop Practice,工廠實習,Unlimited,15,W34-,1.0,2.0,黃國鑫,,1,
+1111.0,910442.0,SESE00018,,Studies on Mainland China,大陸問題研究,Unlimited,13,T567-,3.0,3.0,系統工程,,1,
+1111.0,910443.0,SESE20051,,Satellite Meteorology,衛星氣象學,Unlimited,3,T1R12-,3.0,3.0,林永慶,,2,
+1111.0,910445.0,SESE10048,,Special Topics for the Control and Automation,控制與自動化專題實作(1),Unlimited,5,M567-,1.0,3.0,林振輝,,1,
+1111.0,910446.0,SESE10091,,Project on Thermal Fluid,熱流量測專題實作(1),Unlimited,5,M9ab-,1.0,3.0,賴渝翔,,1,
+1111.0,910448.0,SESE00121,,Basic Military English,基礎軍事英文,Unlimited,10,F12-,2.0,2.0,系統工程,,2,
+1111.0,910449.0,SESE00121,,Basic Military English,基礎軍事英文,Unlimited,12,F34-,2.0,2.0,系統工程,,2,
+1111.0,910450.0,SESE00122,,Introduction to Kinematics,運動科學概論,Unlimited,28,M34-,2.0,2.0,系統工程,,2,
+1111.0,910451.0,SESE00123,,Pressure Management and Career Planning,壓力管理與生涯規劃,Unlimited,22,W12-,2.0,2.0,系統工程,,2,
+1111.0,910453.0,SESE00123,,Pressure Management and Career Planning,壓力管理與生涯規劃,Unlimited,24,W34-,2.0,2.0,系統工程,,2,
+1111.0,910454.0,SESE00124,,Fitness and Health,體適能與健康,Unlimited,23,R56-,2.0,2.0,系統工程,,2,
+1111.0,910455.0,SESE00055,,Financial Management,財務管理 ,Unlimited,27,F12-,2.0,2.0,系統工程,,2,
+1111.0,910456.0,SESE00055,,Financial Management,財務管理 ,Unlimited,29,F34-,2.0,2.0,系統工程,,2,
+1111.0,910457.0,SESE00009,,History of Taiwan,台灣史,Unlimited,5,W78-,2.0,2.0,系統工程,,2,
+1111.0,910458.0,SESE00059,,Physical Education(1),體育(1),Unlimited,27,T56-,0.0,2.0,系統工程,,1,
+1111.0,515602.0,CSCS00003,,Career Planning and Mentor of Hours,生涯規劃及導師時間,218,188,W78-EDB27[GF],0.0,2.0,楊武,,1,
+1111.0,515603.0,CSCS20013,,Introduction to Multimedia Information System,多媒體資訊系統概論,80,101,F56-EC022[GF],3.0,3.0,蕭旭峰,,2,
+1111.0,515604.0,CSCS20012,,Multimedia and Human Computer Interaction Capstone,多媒體與人機互動總整與實作,60,39,T56-ED117[GF],3.0,3.0,詹力韋、張永儒,,2,
+1111.0,515606.0,CSCS20043,,Computer System Administration,計算機系統管理,131,116,Rabc-EC122[GF],3.0,3.0,曾建超,,2,
+1111.0,515609.0,CSCS10002,,Basic Programming,基礎程式設計,Unlimited,284,,0.0,3.0,洪瑞鴻、黃寗琪、林政寬,,1,
+1111.0,515610.0,CSCS10020,,Computer Science Seminars,資訊工程研討,218,213,M56-ED117[GF],0.0,2.0,林一平,,1,
+1111.0,515611.0,CSCS10019,,Computer Science and Engineering Projects (II),資訊工程專題(二),175,110,W78-EC022[GF],2.0,2.0,邱維辰,,1,
+1111.0,515612.0,CSCS20009,,Elementary graph theory,圖形理論導論,150,152,M56-EC022[GF],3.0,3.0,李毅郎,,2,
+1111.0,515613.0,CSCS10006,,Digital Circuit Lab.,數位電路實驗,60,57,"MabcF34-EC022[GF],Mabc-EC220[GF],Mabc-EC221[GF],Mabc-EC222[GF]",3.0,5.0,范倫達,,2,
+1111.0,515614.0,CSCS20033,,Competitive Programming (II),競技程式設計(二),65,13,"Fabc-EC022[GF],Fabc-EC122[GF]",3.0,3.0,謝旻錚,,2,
+1111.0,515615.0,CSCS20032,,Competitive Programming(III),競技程式設計(三),80,11,S34n-EC115[GF],3.0,3.0,謝旻錚,,2,
+1111.0,515616.0,CSCS20004,,MATLAB Programming Language,MATLAB 程式語言,40,48,T34-EC315[GF],3.0,3.0,王才沛,,2,
+1111.0,515617.0,CSCS20052,,Introduction to Natural Language Processing,自然語言處理概論,40,32,R567-EC115[GF],3.0,3.0,顏安孜,,2,
+1111.0,515618.0,CSCS20008,,Enterprise Cybersecurity,企業網路安全,40,46,R34-EC329[GF],3.0,3.0,謝續平,,2,
+1111.0,515620.0,CSCS20025,,Computer Vision for UAV Autopilot,無人機自動飛航與電腦視覺概論,36,46,Tabc-,3.0,3.0,陳冠文,,2,
+1111.0,515621.0,CSCS20019,,Microprocessor Systems: Principles andImplementation,微處理機系統原理與實作,60,21,F34-EC114[GF],3.0,3.0,蔡淳仁,,2,
+1111.0,516200.0,ENCV10007,,Engineering Materials,工程材料學,55,64,T56R2-EB118[GF],3.0,3.0,陳垂欣,,1,
+1111.0,516204.0,ENCV10005,,Engineering Graphics (I),工程圖學(一),55,62,M5-EB118[GF],1.0,1.0,莊子毅,,1,
+1111.0,516205.0,ENCV10005,,Engineering Graphics (I),工程圖學(一),55,31,M6-EB118[GF],1.0,1.0,莊子毅,,1,
+1111.0,516207.0,ENCV10001,,Introduction to Civil Engineering,土木工程概論,110,92,R56-EB117[GF],2.0,2.0,土木系,,2,
+1111.0,516208.0,ENCV20015,,Mentor's Hours,導師時間,Unlimited,98,W78-EB117[GF],0.0,2.0,土木系,,2,
+1111.0,516209.0,ENCV20006,,Chemistry (I),化學 (一),90,89,W12-SC109[GF],3.0,3.0,李大偉,,2,
+1111.0,516210.0,ENCV20008,,Chemistry Lab.,化學實驗,Unlimited,40,Wn56-SB119[GF],1.0,3.0,李大偉,,2,
+1111.0,516213.0,ENCV10009,,Engineering Mathematics(I),工程數學(一),45,53,T234-EB115[GF],3.0,3.0,黃世昌,,1,
+1111.0,516214.0,ENCV10009,,Engineering Mathematics(I),工程數學(一),45,17,T234-EB227[GF],3.0,3.0,林志平,,1,
+1111.0,516215.0,ENCV10023,,Introduction to Computer Science,計算機概論,45,41,M567-EB415[GF],3.0,3.0,洪士林,,1,
+1111.0,516216.0,ENCV10023,,Introduction to Computer Science,計算機概論,55,17,M567-,3.0,3.0,曾仁杰,,1,
+1111.0,516217.0,ENCV10013,,Mechanics of Materials,材料力學,45,51,T56R7-EB415[GF],3.0,3.0,洪士林,,1,
+1111.0,516218.0,ENCV10013,,Mechanics of Materials,材料力學,45,38,T56R7-EB115[GF],3.0,3.0,林子剛,,1,
+1111.0,516219.0,ENCV20030,,Surveying (II),測量學（二）,60,40,W34-EB115[GF],2.0,2.0,黃金維,,2,
+1111.0,516221.0,ENCV20031,,Construction Management,營建管理,100,73,F234-EB117[GF],3.0,3.0,黃玉霖,,2,
+1111.0,516224.0,ENCV10004,,Foundation Engineering,基礎工程,45,17,M7R34-EB108[GF],3.0,3.0,黃郁惟,,1,
+1111.0,516227.0,ENCV10006,,Engineering Geology,工程地質學,45,40,T34-EB118[GF],3.0,3.0,羅佳明,,1,
+1111.0,516228.0,ENCV10017,,Fluid Mechanics Lab.,流體力學實驗,45,28,Tabc-EB108[GF],1.0,3.0,于弋翔,,1,
+1111.0,516229.0,ENCV10017,,Fluid Mechanics Lab.,流體力學實驗,45,46,Mabc-EB108[GF],1.0,3.0,趙韋安,,1,
+1111.0,516230.0,ENCV20033,,Theory of Structures (II),結構學（二）,50,23,M34T2-EB107[GF],3.0,3.0,郭心怡,,2,
+1111.0,516231.0,ENCV20017,,Engineering Mathematics (III),工程數學（三）,50,12,W2R56-EB107[GF],3.0,3.0,張憲國,,2,
+1111.0,516234.0,ENCV20010,,Independent Study (1),土木專題討論 (一),Unlimited,45,,3.0,3.0,土木系,,2,
+1111.0,516235.0,ENCV20036,,Green Building Information Modeling,綠建築資訊模型,50,44,R567-EB108[GF],3.0,3.0,張又升,,2,
+1111.0,516236.0,ENCV20023,,Applied Foundation Engineering,應用基礎工程,50,11,T567-EB402[GF],3.0,3.0,方永壽,,2,
+1111.0,516800.0,SCAC00001,,Chemistry (I),化學(一),Unlimited,50,T56F2-SB210[GF],3.0,3.0,刁維光,,1,
+1111.0,516801.0,SCAC00001,,Chemistry (I),化學(一),Unlimited,25,M56T9-SC109[GF],3.0,3.0,黃立心,,1,
+1111.0,516802.0,SCAC00002,,Chemistry (II),化學(二),30,18,F78-SC207[GF],3.0,3.0,李大偉,,1,
+1111.0,516803.0,SCAC00008,,Physics Labs. (1),物理實驗(一),56,54,Wn56-SA014[GF],1.0,3.0,謝東儒、鍾介文,,1,
+1111.0,516804.0,SCAC00003,,Chemistry Labs. (1),化學實驗(一),55,50,R234-SB119[GF],1.0,3.0,刁維光,,1,
+1111.0,516805.0,SCAC00005,,Mentor's Hours,導師時間,Unlimited,50,W78-SB201[GF],0.0,2.0,張君輔,,1,
+1111.0,516806.0,SCAC20015,,Introduction to Computer Science (1),計算機概論(一),60,53,T2R56-CS-PC4[GF],3.0,3.0,李大偉,,2,
+1111.0,516808.0,SCAC10014,,Organic Chemistry Labs. (Ｉ),有機化學實驗(一),50,55,R4n5678-SB120[GF],2.0,6.0,孫仲銘,,1,
+1111.0,516809.0,SCAC10005,,Applied Mathematics,應用數學,60,60,T34F2-SC159[GF],3.0,3.0,魏恆理,,1,
+1111.0,516810.0,SCAC10018,,Physical Chemistry(I),物理化學(一),60,63,T56R23-SC159[GF],4.0,4.0,王建隆,,1,
+1111.0,516812.0,SCAC10016,,Inorganic Chemistry (1),無機化學(一),60,62,T34R2-SB210[GF],3.0,3.0,郭俊宏,,1,
+1111.0,516813.0,SCAC10002,,Analytical Chemistry (2),分析化學(二),60,55,M56T5-SB211[GF],3.0,3.0,陳月枝,,1,
+1111.0,516814.0,SCAC10021,,Experiments in Physical Chemistry (II),物化實驗(二),26,32,Rn567-SB219[GF],1.0,4.0,吳慶昇,,1,
+1111.0,516815.0,SCAC10021,,Experiments in Physical Chemistry (II),物化實驗(二),26,21,R89ab-SB219[GF],1.0,4.0,吳慶昇,,1,
+1111.0,516816.0,SCAC20017,,Polymer Chemistry (I),高分子化學 (一),Unlimited,26,T67R8-SB211[GF],3.0,3.0,張佳智,,2,
+1111.0,516817.0,SCAC20010,,Physical Chemistry (III),物理化學(三),70,74,"F4-SC157[GF],M34-SC159[GF]",3.0,3.0,曾建銘,,2,
+1111.0,516818.0,SCAC20002,,Special Topics of Analytical Chemistry - Communicating Science,分析化學特論-科學研究方法,10,10,W234-EO615[GF],3.0,3.0,許馨云,,2,
+1111.0,516819.0,SCAC00001,,Chemistry (I),化學(一),Unlimited,18,T56F1-SB203[GF],3.0,3.0,魏恆理,,1,
+1111.0,516820.0,SCAC00003,,Chemistry Labs. (1),化學實驗(一),Unlimited,8,T234-SB119[GF],1.0,3.0,黃立心,,1,
+1111.0,516821.0,SCAC10006,,Seminar A (I),書報討論A(一),25,25,W34-SB201[GF],1.0,2.0,鄭彥如,,1,
+1111.0,516822.0,SCAC10008,,Seminar B (I),書報討論B(一),17,24,R34-SB201[GF],1.0,2.0,曾建銘,,1,
+1111.0,517400.0,MGEM10001,,Mentor's Hours,導師時間,Unlimited,80,W78-MB520[GF],0.0,2.0,工管系,,2,
+1111.0,517401.0,MGEM20008,,Introduction to Industrial Engineering and Management,工業工程與管理概論,Unlimited,84,R67-MB520[GF],3.0,3.0,張永佳,,1,
+1111.0,517403.0,MGEM10006,,Manufacturing Processes,製造程序,Unlimited,69,M567-MB405[GF],3.0,3.0,林義貴,,1,
+1111.0,517407.0,MGEM20003,,Global Logistics Management,全球運籌管理,Unlimited,38,R567-MB405[GF],3.0,3.0,林義貴,,2,
+1111.0,517408.0,MGEM20009,,Industrial Practice,工業工程與管理實務,Unlimited,51,T56W2-MB506[GF],2.0,3.0,劉建良,,1,
+1111.0,517409.0,MGEM20007,,Independent Study (II),工業工程與管理專題研討（二）,Unlimited,51,,3.0,3.0,工管系,,2,
+1111.0,517410.0,MGCM10007,,Production and Operation Management,生產與作業管理,80,90,W234-MB520[GF],3.0,3.0,王志軒,,1,
+1111.0,517411.0,MGEM20016,,Cognitive and Organizational Ergonomics,認知與組織人因工程,Unlimited,8,M234-MB418[GF],3.0,3.0,賴學儀,,2,
+1111.0,410000.0,BTBT10028,,Physics(I),物理(一),Unlimited,66,T7F34-SC159[GF],3.0,3.0,張正宏,,1,
+1111.0,410003.0,BTBT10007,,Chemistry,化學,Unlimited,30,M789-SC109[GF],3.0,3.0,王雲銘、尤禎祥,,1,
+1111.0,410004.0,BTBT10007,,Chemistry,化學,Unlimited,49,M789-SC151[GF],3.0,3.0,李明家、張晉源,,1,
+1111.0,410005.0,BTBT10008,,Chemistry Labs.,化學實驗,Unlimited,25,R567-SB119[GF],1.0,3.0,黃立心,,1,
+1111.0,410006.0,BTBT10008,,Chemistry Labs.,化學實驗,Unlimited,26,M234-SB119[GF],1.0,3.0,劉學儒,,1,
+1111.0,410009.0,BTBT10017,,General Biology Lab.(I),普通生物學實驗(一),Unlimited,11,M9ab-,1.0,3.0,陳文亮,,1,
+1111.0,410010.0,BTBT00006,,Career Planning and Mentor's Hours,生涯規劃及導師時間,Unlimited,55,W78-SC105[GF],0.0,2.0,生科系,,1,
+1111.0,410012.0,BTBT10054,,Introduction to Computaional Biology,計算生物概論,Unlimited,81,F56-A103[GF],2.0,2.0,朱智瑋、林峻宇,,1,
+1111.0,410013.0,BTBT10023,,Organic Chemistry (II),有機化學（二）,Unlimited,24,T56R34-ED102[GF],4.0,4.0,莊士卿,,2,
+1111.0,410014.0,BTBT10034,,Biochemistry (I),生物化學（一）,40,40,M2W34-SC105[GF],3.0,3.0,吳東昆、楊裕雄、張晉源,,1,
+1111.0,410015.0,BTBT10034,,Biochemistry (I),生物化學（一）,40,25,M2W34-SC110[GF],3.0,3.0,蕭育源、高智飛,,1,
+1111.0,410016.0,BTBT10034,,Biochemistry (I),生物化學（一）,30,28,M3F78-SC158[GF],3.0,3.0,蘭宜錚,,1,
+1111.0,410019.0,BTBT10036,,Biochemistry lab.,生物化學實驗,45,27,R567-,1.0,3.0,吳東昆,,1,
+1111.0,410020.0,BTBT10036,,Biochemistry lab.,生物化學實驗,45,45,R567-,1.0,3.0,張晉源,,1,
+1111.0,410021.0,BTBT10026,,Physical Chemistry(I),物理化學(一),Unlimited,27,W56R2-SC105[GF],3.0,3.0,高雅婷,,2,
+1111.0,410022.0,BTBT10024,,Organic Chemistry Lab. (I),有機化學實驗（一）,Unlimited,52,M4n5678-,2.0,6.0,蒙國光,,2,
+1111.0,410023.0,BTBT10060,,Genetics,遺傳學,Unlimited,52,R34F2-SC151[GF],3.0,3.0,莊碧簪、黃兆祺、林勇欣,,2,
+1111.0,410024.0,BTBT10048,,Programming Language and Exercise,程式語言及演習,40,8,T34R89-CS-PC3[GF],3.0,4.0,陸志豪,,1,
+1111.0,410025.0,BTBT20002,,Instrumental Analysis,儀器分析,30,11,M3W23-BI302[BA],3.0,3.0,李明家,,2,
+1111.0,410026.0,BTBT20023,,Microbiology Lab.,微生物學實驗,20,5,Wn56-,1.0,3.0,曾慶平、麥如村,,2,
+1111.0,410027.0,BTBT20052,,Cell Biology (I),細胞生物學(一),80,58,F34-SC106[GF],2.0,2.0,梁美智、邱光裕、趙啟宏,,2,
+1111.0,410028.0,BTBT20005,,Molecular Biology (II),分子生物學(二),40,43,M4W56-SC160[GF],3.0,3.0,廖光文、蕭育源、黃兆祺,,2,
+1111.0,410030.0,BTBT20018,,Research(II),專題研究(二),Unlimited,36,,1.0,3.0,生科系,,2,
+1111.0,410031.0,BTBT20008,,Synthetic Biology(I),合成生物學(一),Unlimited,58,U123-SC151[GF],3.0,3.0,陳文亮、李曉青,,2,
+1111.0,410032.0,BTBT20035,,Physiology (I),生理學(一),60,59,M56-SC106[GF],2.0,2.0,林志生、曲在雯,,2,
+1111.0,410033.0,BTBT20020,,Research(IV),專題研究(四),Unlimited,19,,1.0,3.0,生科系,,2,
+1111.0,410034.0,BTBT20049,,Neurobiology (I),神經生物學(一),Unlimited,46,R34-SC109[GF],2.0,2.0,莊碧簪、黃植懋、高智飛,,2,
+1111.0,514101.0,HSFL10024,,English Composition (1) B,英文作文(一) B組,18,18,M34-HC402[GF],2.0,2.0,盧郁安,,1,
+1111.0,514102.0,HSFL10025,,English Composition (1) C,英文作文(一) C組,18,19,M34-HC404[GF],2.0,2.0,胡心瑜,,1,
+1111.0,514106.0,HSFL10019,,Mentor's Hours,導師時間,Unlimited,51,W78-,0.0,2.0,劉辰生,,1,
+1111.0,514107.0,HSFL20015,,English Literature (1),英國文學(一),Unlimited,57,T567-F210[GF],3.0,3.0,胡心瑜,,1,
+1111.0,514108.0,HSFL20021,,Advanced Writing (1) A,高級寫作(一) A組,18,16,W234-HC402[GF],3.0,3.0,辜崇豪,,1,
+1111.0,514109.0,HSFL20022,,Advanced Writing (1) B,高級寫作(一) B組,18,18,W234-F203[GF],3.0,3.0,劉啟明,,1,
+1111.0,514110.0,HSFL20023,,Advanced Writing (1) C,高級寫作(一) C組,18,17,W234-F322[GF],3.0,3.0,潘荷仙,,1,
+1111.0,514111.0,HSFL20027,,Advanced Translation A,高級翻譯 A組,27,24,R34-HC104[GF],2.0,2.0,陳韙寧,,1,
+1111.0,514113.0,HSFL20018,,Phonetics/Phonology,語音學/音韻學,Unlimited,54,R567-F210[GF],3.0,3.0,李相任,,1,
+1111.0,514114.0,HSFL10009,,Elementary French (1),初級法文(一),18,7,M56-F203[GF],2.0,2.0,楊啟嵐,,1,
+1111.0,514115.0,HSFL10011,,Elementary Japanese (1),初級日文(一),28,28,M34-HC101[GF],2.0,2.0,王瑋婷,,1,
+1111.0,514116.0,HSFL10007,,Elementary Spanish (I),初級西班牙文(一),22,22,M56-HC401[GF],2.0,2.0,詹閔如,,1,
+1111.0,514117.0,HSFL20013,,American Literature (1),美國文學(一),60,54,W234-HC103[GF],3.0,3.0,包德樂,,1,
+1111.0,514118.0,HSFL20011,,Syntax/Semantics,句法學/語意學,Unlimited,50,T234-F210[GF],3.0,3.0,劉啟明,,1,
+1111.0,514119.0,HSFL10014,,Basic Theatre Acting Training,基礎表演,Unlimited,33,S234-,3.0,3.0,姜睿明,,2,
+1111.0,514120.0,HSFL20003,,Intermediate French (I),中級法文(一),18,6,M78-F203[GF],2.0,2.0,楊啟嵐,,1,
+1111.0,514121.0,HSFL20005,,Intermediate Japanese (1),中級日文(一),28,25,M56-HC402[GF],2.0,2.0,王瑋婷,,1,
+1111.0,514123.0,HSFL20001,,Intermediate Spanish (I),中級西班牙文(一),22,14,M78-HC401[GF],2.0,2.0,詹閔如,,1,
+1111.0,514124.0,HSFL20020,,Advanced Japanese (1),高級日文(一),28,5,M78-HC402[GF],2.0,2.0,王瑋婷,,2,
+1111.0,514125.0,HSFL20017,,English Competence Workshop,英語能力評鑑,Unlimited,57,,1.0,1.0,楊雅筑,,1,
+1111.0,514127.0,HSFL10034,,Communicative Skills Workshop (1): Listening and Oral Training A,傳達技巧工作坊(一)：聽講訓練A組,18,18,T567-HC402[GF],3.0,3.0,楊雅筑,,1,
+1111.0,514128.0,HSFL10035,,Communicative Skills Workshop (1): Listening and Oral Training B,傳達技巧工作坊(一)：聽講訓練B組,18,16,T567-F203[GF],3.0,3.0,陳韙寧,,1,
+1111.0,514129.0,HSFL10036,,Communicative Skills Workshop (1): Listening and Oral Training C,傳達技巧工作坊(一)：聽講訓練C組,18,18,T567-HC102[GF],3.0,3.0,周昭廷,,1,
+1111.0,514130.0,HSFL10040,,Films on Filmmaking (Genre: Others),電影拍電影（文類課：其他）,Unlimited,13,R567-F326[GF],3.0,3.0,林建國,,2,
+1111.0,514132.0,HSFL20029,,Communicative Skills Workshop (3): Discussion and Debate A,傳達技巧工作坊(三)：討論與辯論技巧A組,18,15,F34-F206[GF],2.0,2.0,馬紹芸,,1,
+1111.0,514134.0,HSFL20031,,Communicative Skills Workshop (3): Discussion and Debate C,傳達技巧工作坊(三)：討論與辯論技巧C組,18,18,F34-HC102[GF],2.0,2.0,朱品璇,,1,
+1111.0,514135.0,HSFL20033,,Women Literature (Genre: Others),女性文學（文類課：其他）,15,11,T234-HC401[GF],3.0,3.0,楊雅筑,,2,
+1111.0,514136.0,HSFL20034,,Advanced Practical Translation,高級實務翻譯,28,25,R567-HC402[GF],3.0,3.0,吳煒聲,,2,
+1111.0,514137.0,HSFL20035,,Introduction to Sociolinguistics,社會語言學導論,30,17,F234-HC401[GF],3.0,3.0,廖秀真,,2,
+1111.0,514138.0,HSFL20036,,Chinese Morphology,漢語構詞學,25,31,T567-HC401[GF],3.0,3.0,劉辰生,,2,
+1111.0,310100.0,HKCT10007,,Writing for Communication,傳播寫作,45,52,T567-HK104[LJ],3.0,3.0,張玉佩,,1,
+1111.0,310101.0,HKCT10016,,Video News Production,影音新聞實作,Unlimited,38,T567-HK114[LJ],3.0,3.0,黃靜蓉,,1,
+1111.0,310104.0,HKCT10010,,Web design,基礎網頁設計,45,45,M567-HK114[LJ],3.0,3.0,陳盈羽,,1,
+1111.0,310105.0,HKCT20011,,Motion graphics,動態影像創作,45,38,W234-HK114[LJ],3.0,3.0,張宏宇,,2,
+1111.0,310106.0,HKCT20007,,Public Relations and Strategic Planning,公關策略與媒體企劃,30,28,W234-HK104[LJ],3.0,3.0,賴至慧,,2,
+1111.0,310107.0,HKCT00001,,Mentor's Hours,導師時間,Unlimited,38,W78-HK104[LJ],0.0,2.0,張宏宇、蔡欣怡,,1,
+1111.0,310108.0,HKCT20022,,Final Year Projet (II),畢業專題(下),Unlimited,47,Mz1-HK104[LJ],2.0,2.0,黃靜蓉、李美華、魏玓、戴瑜慧、蔡欣怡、俞蘋、黃淑鈴、吳岱芸、游婉雲、陳盈羽,,1,
+1111.0,310111.0,HKCT20017,,Integrated Marketing Communication,整合行銷傳播,Unlimited,13,R234-HK104[LJ],3.0,3.0,游婉雲,,2,
+1111.0,310113.0,HKCT20002,,User Experience Research,使用者經驗研究,Unlimited,18,R567-HK123[LJ],3.0,3.0,陳盈羽,,2,
+1111.0,310119.0,HKCT10008,,Basic Hakka Language(I),初級客語一,Unlimited,39,F567-HKB08[LJ],3.0,3.0,何純惠,,1,
+1111.0,310120.0,HKCT20024,,Social Network Analysis,社會網絡分析,30,24,F567-HK104[LJ],3.0,3.0,賴至慧,,2,
+1111.0,310121.0,HKCT20018,,Digital Media Practice,整合媒體專題實作,Unlimited,34,T567-HKB08[LJ],3.0,3.0,俞蘋、游婉雲,,1,
+1111.0,516000.0,ENPN10003,,Nano and Career Planning,奈米與生涯規劃,25,25,W78-,0.0,2.0,梁美智,,1,
+1111.0,516003.0,ENPN10005,,Research (II),專題研究 (二),25,13,U567-,1.0,3.0,奈米學位學程,,2,
+1111.0,516004.0,ENPN20002,,Research (III),專題研究 (三),25,1,U567-,1.0,3.0,奈米學位學程,,2,
+1111.0,516007.0,ENPN10019,,Career Planning,生涯規劃,39,39,W78-EE102[GF],0.0,2.0,簡昭欣,,1,
+1112.0,910012.0,SESE10055,,General Physics(2),普通物理(2),Unlimited,0,R234-,3.0,3.0,杜建明,,1,
+1112.0,910013.0,SESE10232,,Seminar and Lab(2),基礎科學講座與實驗(2),Unlimited,0,S234567-,0.0,3.0,劉宗哲,,1,
+1112.0,910016.0,SESE00049,,Programming Language Tutor,程式語言輔導,Unlimited,0,Fabc-,0.0,3.0,系統工程,,2,
+1112.0,910037.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,0,F234-,3.0,3.0,系統工程,,1,
+1112.0,910100.0,SESE20222,,Oceanographic Surveying,海洋測量學,Unlimited,0,W678-,3.0,3.0,崔怡楓,,2,
+1112.0,910117.0,SESE00024,,Tutor Guidance(4),導師輔導(4),Unlimited,0,M12-,0.0,2.0,黃文鍵,,1,
+1112.0,910130.0,SESE20111,,Optoelectronic application project(4),光電應用專題實作(4),Unlimited,0,M567-,1.0,3.0,謝輝煌,,1,
+1112.0,910163.0,SESE10066,,Thermodynamics of Materials(1),材料熱力學(1),Unlimited,0,M9T34-,3.0,3.0,王哲釧,,1,
+1112.0,910191.0,SESE10037,,Calculus (1),微積分(1),Unlimited,0,W9abc-,4.0,4.0,張枝成,,1,
+1112.0,910192.0,SESE20140,,Dynamics,動力學,Unlimited,0,M678-,3.0,3.0,林聰穎,,1,
+1112.0,910194.0,SESE10231,,Engineering Mathematics(2),工程數學(2),Unlimited,0,W3F23-,3.0,3.0,張瑞永、賴渝翔,,1,
+1112.0,910199.0,SESE10235,,Fluid Mechanics,流體力學,Unlimited,0,T3R34-,3.0,3.0,賴正權,,1,
+1112.0,910209.0,SESE10069,,Experiment of Materials,材料實驗,Unlimited,0,W67-,1.0,2.0,蔡林昌,,1,
+1112.0,910219.0,SESE10105,,Programming Design,程式設計,Unlimited,0,F234-,3.0,3.0,楊婷婷,,1,
+1112.0,910220.0,SESE10122,,Window Programming,視窗程式設計,Unlimited,0,Tabc-,3.0,3.0,陳丙堃,,2,
+1112.0,910241.0,SESE20157,,System Security Practice(2),系統安全專題實作(2),Unlimited,0,M567-,1.0,3.0,系統工程,,1,
+1112.0,910242.0,SESE20158,,C4ISR System Practice(2),C4ISR 系統專題實作(2),Unlimited,0,M567-,1.0,3.0,劉中宇,,1,
+1112.0,910247.0,SESE20161,,Multimedia Design Practice(2),多媒體設計專題實作(2),Unlimited,0,M567-,1.0,3.0,蔡宗憲,,1,
+1112.0,910258.0,SESE20170,,Database Practice(4),資料庫專題實作(4),Unlimited,0,M567-,1.0,3.0,劉芳萍,,1,
+1112.0,910286.0,SESE10165,,Fundamental of Electric Circuits (1),電路學(1),Unlimited,0,W9R12-,3.0,3.0,葉宗翰,,1,
+1112.0,910287.0,SESE20026,,Microelectronic Technology,微電子技術,Unlimited,0,W678-,3.0,3.0,葉宗翰,,2,
+1112.0,910325.0,SESE20146,,Automatic Control,自動控制,Unlimited,0,M34W2-,3.0,3.0,朱子文,,1,
+1112.0,910328.0,SESE20198,,Combat System Design,載具戰鬥系統設計,Unlimited,0,W234-,3.0,3.0,李永隆,,2,
+1112.0,910337.0,SESE20202,,Weapons Design Practice,兵器設計實務,Unlimited,0,T234-,3.0,3.0,系統工程,,2,
+1112.0,910339.0,SESE10140,,Automotive Sensors and Control,車輛感測元件與控制,Unlimited,0,W678-,3.0,3.0,蘭真,,2,
+1112.0,910340.0,SESE10143,,Vehicle's Triboloical System Design,車輛磨潤系統設計,Unlimited,0,T34R1-,3.0,3.0,黃寶錩,,2,
+1112.0,910341.0,SESE20203,,Internal Combustion Engine Testing,內燃機實務,Unlimited,0,R234-,1.0,3.0,周志正,,1,
+1112.0,910342.0,SESE20204,,Simple Vehicle Design and Manufacture Project(2),車輛設計製造專題實作(2),Unlimited,0,M567-,1.0,3.0,宋易哲,,1,
+1112.0,910383.0,SESE20228,,Special Topics in Integration of Disaster Prevention and Protection(2),災害防救整合專題實作(2),Unlimited,0,M567-,1.0,3.0,李宏輝,,1,
+1112.0,910391.0,SESE00024,,Tutor Guidance(4),導師輔導(4),Unlimited,0,M12-,0.0,2.0,曾有志,,1,
+1112.0,910392.0,SESE00024,,Tutor Guidance(4),導師輔導(4),Unlimited,0,M12-,0.0,2.0,劉宗龍,,1,
+1112.0,910423.0,SESE00055,,Financial Management,財務管理 ,Unlimited,0,T67-,2.0,2.0,系統工程,,2,
+1112.0,515619.0,CSCS20038,,Network Planning and Management Practices,網路規劃與管理實務,50,0,"R34n-EC315[GF],R34n-EC316[GF],R34n-EC324[GF]",3.0,3.0,曾建超,,2,
+1112.0,515622.0,CSCS10022,,Introduction to Database Systems,資料庫系統概論,100,0,F34-EC015[GF],3.0,3.0,彭文志,,2,
+1112.0,515623.0,CSCS10029,,Biomedical Informatics Cross-Disciplinary Projects (II),生醫資訊跨領域專題(二),0,0,,2.0,2.0,資工系,,1,
+1112.0,516222.0,ENCV10016,,Fluid Mechanics,流體力學,45,0,W234-EB118[GF],3.0,3.0,趙韋安,,1,
+1112.0,516237.0,ENCV20027,,Field Practice,校外實習,Unlimited,0,,6.0,6.0,楊尊華,,2,
+1112.0,516238.0,ENCV20038,,Surveying and Geospatial Information Technology in Engineering Applications,空間資訊繪測技術於工程之應用,50,0,W4R56-EB108[GF],3.0,3.0,莊子毅,,2,
+1112.0,516239.0,ENCV20035,,Computer Application in Construction Management,電腦應用於營建管理,40,0,T234-EB108[GF],3.0,3.0,曾仁杰,,2,
+1112.0,516823.0,SCAC10007,,Seminar A (2),書報討論A(二),22,0,R34-SB203[GF],1.0,2.0,莊士卿,,1,
+1112.0,516824.0,SCAC10009,,Seminar B (2),書報討論B(二),22,0,M34-SB201[GF],1.0,2.0,曾建銘,,1,
+1112.0,516825.0,SCAC20005,,Research(3),專題研究(三),0,0,S234-,1.0,3.0,吳淑褓,,2,
+1112.0,516826.0,SCAC20007,,Integrated Chemistry Laboratory,整合型化學實驗,10,0,R567-SB321[GF],3.0,3.0,黃立心,,2,
+1112.0,516827.0,SCAC20018,,Principles and Practice of Virtual Chemistry Labs,虛擬化學實驗的原理與實踐,30,0,F56-,2.0,2.0,李大偉,,2,
+1112.0,517402.0,MGEM10002,,Engineering Graphics,工程圖學,60,0,"W7-MB415[GF],W56-MB520[GF]",1.0,3.0,黃博滄,,1,
+1112.0,410029.0,BTBT20032,,Physical Chemistry (III),物理化學(三),Unlimited,0,W56R8-,3.0,3.0,朱智瑋,,2,
+1112.0,410035.0,BTBT20050,,Neurobiology (II),神經生物學(二),Unlimited,0,R34-SC109[GF],2.0,2.0,曲在雯、黃植懋、莊碧簪、高智飛,,2,
+1112.0,410071.0,BTBT30008,,Immunology,免疫學,Unlimited,0,F567-BI310[BA],3.0,3.0,廖光文、鄒協成,,2,
+1112.0,516005.0,ENPN10006,,Research (Ⅰ),專題研究(一),Unlimited,0,,1.0,3.0,奈米學位學程,,2,
+1112.0,516008.0,ENPN20003,,Research (IV),專題研究 (四),Unlimited,0,,1.0,3.0,奈米學位學程,,2,
+1112.0,516009.0,ENPN10003,,Nano and Career Planning,奈米與生涯規劃,25,0,,0.0,2.0,梁美智,,1,
+1112.0,516010.0,ENPN10019,,Career Planning,生涯規劃,40,0,W78-EE102[GF],0.0,2.0,簡昭欣,,1,
+1112.0,516011.0,ENPN10017,,Modern Physics,近代物理,30,0,F234-SC206[GF],3.0,3.0,梁興弛,,1,
+1112.0,516012.0,ENPN10020,,Linear Algebra,線性代數,64,0,M5W56-ED103[GF],3.0,3.0,桑梓賢,,1,

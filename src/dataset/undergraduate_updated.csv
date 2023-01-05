@@ -1,0 +1,676 @@
+﻿semester,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer, type,type
+1111,910000.0,SESE20015,,Cartography,地圖學,Unlimited,6,R234-,3.0,3.0,史天元,,1
+1111,910001.0,SESE10042,,Engineering Mechanics - Statics,應用力學－靜力學,Unlimited,19,T567-,3.0,3.0,金大仁,,1
+1111,910002.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,13,W567-,3.0,3.0,曾煜輝,,1
+1111,910003.0,SESE10156,,Electronics Circuits (1),電子學(1),Unlimited,38,M567-,3.0,3.0,巫朝陽,,1
+1111,910004.0,SESE20014,,Graph Theory,圖形理論,Unlimited,13,W234-,3.0,3.0,林政寬,,2
+1111,910005.0,SESE10148,,Software Requirements Analysis,軟體需求分析,Unlimited,37,F234-,3.0,3.0,紀虹名,,2
+1111,910006.0,SESE20030,,"Optical, Electronic, and Magnetic Properties of Materials",材料光電磁性質,Unlimited,11,T234-,3.0,3.0,楊朝堯,,2
+1111,910007.0,SESE20070,,Introduction to Space transportation System,太空運輸系統概論,Unlimited,3,F234-,3.0,3.0,魏世昕,,2
+1111,910008.0,SESE20071,,Theory and Applications of Building Information Modeling,建築資訊模型之理論應用與實作,Unlimited,9,F234-,3.0,3.0,高明秀,,2
+1111,910009.0,SESE20072,,Computer Integrated Manufacturing and Smart Factory,電腦整合製造與智慧工廠,Unlimited,5,M9ab-,3.0,3.0,黃衍佐,,2
+1111,910010.0,SESE00021,,Tutor Guidance(1),導師輔導(1),Unlimited,22,M12-,0.0,2.0,王志嘉,,1
+1111,910011.0,SESE00021,,Tutor Guidance(1),導師輔導(1),Unlimited,23,M12-,0.0,2.0,周志正,,1
+1111,910014.0,SESE00021,,Tutor Guidance(1),導師輔導(1),Unlimited,26,M12-,0.0,2.0,系統工程,,1
+1111,910015.0,SESE00021,,Tutor Guidance(1),導師輔導(1),Unlimited,27,M12-,0.0,2.0,李志國,,1
+1111,910017.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,21,M12-,0.0,2.0,劉中宇,,1
+1111,910018.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,19,M12-,0.0,2.0,羅序仁,,1
+1111,910019.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,16,M12-,0.0,2.0,黃文鍵,,1
+1111,910020.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,12,M12-,0.0,2.0,吳憲珉,,1
+1111,910021.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,24,M12-,0.0,2.0,宋欣芳,,1
+1111,910022.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,10,M12-,0.0,2.0,賴渝翔,,1
+1111,910023.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,6,M12-,0.0,2.0,賴渝翔,,1
+1111,910024.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,25,M12-,0.0,2.0,葉宗翰,,1
+1111,910025.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,13,M12-,0.0,2.0,藍建武,,1
+1111,910026.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,11,M12-,0.0,2.0,李永隆,,1
+1111,910027.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,10,M12-,0.0,2.0,曾有志,,1
+1111,910028.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,9,M12-,0.0,2.0,劉宗龍,,1
+1111,910029.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,11,M12-,0.0,2.0,系統工程,,1
+1111,910030.0,SESE00023,,Tutor Guidance(3),導師輔導(3),Unlimited,5,M12-,0.0,2.0,系統工程,,1
+1111,910031.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,21,M12-,0.0,2.0,劉芳萍,,1
+1111,910032.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,15,M12-,0.0,2.0,周兆龍,,1
+1111,910033.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,11,M12-,0.0,2.0,游竹淋,,1
+1111,910034.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,9,M12-,0.0,2.0,游竹淋,,1
+1111,910035.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,18,M12-,0.0,2.0,張文南,,1
+1111,910036.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,16,M12-,0.0,2.0,沈鴻禧,,1
+1111,910038.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,24,M12-,0.0,2.0,陳淑娟,,1
+1111,910039.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,25,M12-,0.0,2.0,聶若鹽,,1
+1111,910040.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,24,M12-,0.0,2.0,陳幼良,,1
+1111,910041.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,8,M12-,0.0,2.0,宋易哲,,1
+1111,910042.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,8,M12-,0.0,2.0,林俊成,,1
+1111,910043.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,8,M12-,0.0,2.0,孔健君,,1
+1111,910044.0,SESE00025,,Tutor Guidance(5),導師輔導(5),Unlimited,5,M12-,0.0,2.0,孔健君,,1
+1111,910045.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,14,M12-,0.0,2.0,翁旭谷,,1
+1111,910046.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,22,M12-,0.0,2.0,賴泰宏,,1
+1111,910047.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,13,M12-,0.0,2.0,林明憲,,1
+1111,910048.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,12,M12-,0.0,2.0,林明憲,,1
+1111,910049.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,16,M12-,0.0,2.0,蔡宗憲,,1
+1111,910050.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,15,M12-,0.0,2.0,李宜珊,,1
+1111,910051.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,19,M12-,0.0,2.0,林永慶,,1
+1111,910052.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,30,M12-,0.0,2.0,鄭紹宏,,1
+1111,910053.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,29,M12-,0.0,2.0,瞿忠正,,1
+1111,910054.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,25,M12-,0.0,2.0,葉昭南,,1
+1111,910055.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,18,M12-,0.0,2.0,朱子文,,1
+1111,910056.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,11,M12-,0.0,2.0,陳冠宇,,1
+1111,910057.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,13,M12-,0.0,2.0,羅明忠,,1
+1111,910058.0,SESE00065,,Tutor Guidance(7),導師輔導(7),Unlimited,11,M12-,0.0,2.0,林聰穎,,1
+1111,910059.0,SESE10171,,Physical Education(7),體育(7),Unlimited,73,W12-,0.0,2.0,系統工程,,1
+1111,910060.0,SESE10171,,Physical Education(7),體育(7),Unlimited,75,R12-,0.0,2.0,系統工程,,1
+1111,910061.0,SESE10037,,Calculus (1),微積分(1),Unlimited,26,M34W12-,4.0,4.0,蘇承芳,,1
+1111,910062.0,SESE10051,,General Chemistry,普通化學,Unlimited,26,F234-,3.0,3.0,裘性天,,1
+1111,910063.0,SESE20074,,Machine Learning,機器學習,Unlimited,7,M3F12-,3.0,3.0,系統工程,,2
+1111,910064.0,SESE20073,,Capstone,專題實作,Unlimited,60,S567-,0.0,3.0,系統工程,,2
+1111,910065.0,SESE00063,,Physical Education(5),體育(5),Unlimited,14,R34-,0.0,2.0,系統工程,,1
+1111,910066.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,23,T34-,2.0,2.0,系統工程,,2
+1111,910067.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,30,T56-,2.0,2.0,系統工程,,1
+1111,910068.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,30,T78-,2.0,2.0,系統工程,,1
+1111,910069.0,SESE10186,,Physical Education,體育,Unlimited,19,T78-,0.0,2.0,系統工程,,1
+1111,910070.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,26,T56-,2.0,2.0,系統工程,,1
+1111,910071.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,26,T78-,2.0,2.0,系統工程,,1
+1111,910072.0,SESE00047,,Analysis and Appreciation of the Science Fiction,科幻文學賞析  ,Unlimited,29,R34-,2.0,2.0,系統工程,,2
+1111,910073.0,SESE10198,,Project of Information Security(3),資訊安全專題實作(3),Unlimited,9,M567-,1.0,3.0,賴泰宏,,1
+1111,910074.0,SESE00047,,Analysis and Appreciation of the Science Fiction,科幻文學賞析  ,Unlimited,30,R56-,2.0,2.0,系統工程,,2
+1111,910075.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,22,W12-,2.0,2.0,系統工程,,2
+1111,910076.0,SESE00063,,Physical Education(5),體育(5),Unlimited,34,W34-,0.0,2.0,系統工程,,1
+1111,910077.0,SESE00068,,Computer Networks Practice(1),電腦網路專題實作(1),Unlimited,4,M567-,1.0,3.0,系統工程,,1
+1111,910078.0,SESE00069,,Introduction to Information Warfare,資訊戰概論,Unlimited,42,T567-,3.0,3.0,系統工程,,2
+1111,910079.0,SESE10186,,Physical Education,體育,Unlimited,15,W78-,0.0,2.0,系統工程,,1
+1111,910080.0,SESE00041,,French(1),法文(一)  ,Unlimited,19,R12-,2.0,2.0,系統工程,,2
+1111,910081.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,24,T12-,2.0,2.0,系統工程,,2
+1111,910082.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,34,W12-,2.0,2.0,系統工程,,1
+1111,910083.0,SESE20054,,Database Systems,資料庫系統,Unlimited,22,W9ab-,3.0,3.0,劉芳萍,,1
+1111,910084.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,34,W56-,2.0,2.0,系統工程,,1
+1111,910085.0,SESE00077,,Networks Defense Practice(3),網路攻防專題實作(3),Unlimited,4,M567-,1.0,3.0,羅嘉寧,,1
+1111,910086.0,SESE00070,,Web Security and Penetration test,網頁安全與滲透測試,Unlimited,7,W9ab-,3.0,3.0,陳佑全,,2
+1111,910087.0,SESE10112,,Networks Defense Practice(I),網路攻防專題實作(1),Unlimited,6,M567-,1.0,3.0,羅嘉寧,,1
+1111,910088.0,SESE00071,,"Modeling, Simulation, and Wargame",模式模擬與兵棋,Unlimited,6,W234-,3.0,3.0,系統工程,,2
+1111,910089.0,SESE20047,,Network Security,網路安全,Unlimited,15,M34T2-,3.0,3.0,羅嘉寧,,1
+1111,910090.0,SESE00072,,Network Programming,網路程式設計,Unlimited,8,T9ab-,3.0,3.0,劉中宇,,2
+1111,910091.0,SESE00078,,System Security Practice(3),系統安全專題實作(3),Unlimited,3,M567-,1.0,3.0,系統工程,,1
+1111,910092.0,SESE00073,,Programming Design Practice (1),程式設計實習(1),Unlimited,32,W567-,3.0,3.0,周兆龍,,2
+1111,910093.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,24,T12-,2.0,2.0,系統工程,,1
+1111,910094.0,SESE10041,,Psychology,心理學,Unlimited,24,T34-,2.0,2.0,系統工程,,1
+1111,910095.0,SESE10001,,C4ISR System Practice(I),C4ISR 系統專題實作(1),Unlimited,4,M567-,1.0,3.0,劉中宇,,1
+1111,910096.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,32,F34-,2.0,2.0,系統工程,,2
+1111,910097.0,SESE10041,,Psychology,心理學,Unlimited,25,T12-,2.0,2.0,系統工程,,1
+1111,910098.0,SESE10009,,Introdution to Philosophy,哲學概論,Unlimited,25,T34-,2.0,2.0,系統工程,,1
+1111,910099.0,SESE10138,,Database Practice(I),資料庫專題實作(1),Unlimited,4,M567-,1.0,3.0,劉芳萍,,1
+1111,910101.0,SESE10136,,Information System Practice(I),資訊系統工程專題實作(1),Unlimited,3,M567-,1.0,3.0,羅序仁,,1
+1111,910102.0,SESE10041,,Psychology,心理學,Unlimited,24,R12-,2.0,2.0,系統工程,,1
+1111,910103.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,24,R34-,2.0,2.0,系統工程,,1
+1111,910104.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,34,F12-,2.0,2.0,系統工程,,2
+1111,910105.0,SESE10017,,Multimedia Design Practice(I),多媒體設計專題實作(1),Unlimited,4,M567-,1.0,3.0,蔡宗憲,,1
+1111,910106.0,SESE10146,,Military Ethics,軍事倫理學,Unlimited,29,R12-,2.0,2.0,系統工程,,1
+1111,910107.0,SESE10041,,Psychology,心理學,Unlimited,16,R34-,2.0,2.0,系統工程,,1
+1111,910108.0,SESE10153,,Discrete Mathematics,離散數學,Unlimited,21,M3T34-,3.0,3.0,王順吉,,1
+1111,910109.0,SESE10099,,IoT System Practice(I),物聯網系統專題實作(1),Unlimited,7,M567-,1.0,3.0,楊婷婷,,1
+1111,910110.0,SESE10137,,Data Structure,資料結構,Unlimited,21,M4T56-,3.0,3.0,周兆龍,,1
+1111,910111.0,SESE10057,,General Physics Lab.(1),普通物理實驗 (1),Unlimited,22,M34-,2.0,2.0,宋易哲,,1
+1111,910112.0,SESE10050,,Digital Circuit Design,數位電路設計,Unlimited,21,M9ab-,3.0,3.0,陳丙堃,,1
+1111,910113.0,SESE00018,,Studies on Mainland China,大陸問題研究,Unlimited,25,T567-,3.0,3.0,系統工程,,1
+1111,910114.0,SESE10114,,Network Technology and Practice(1),網路技術與實務1,Unlimited,21,R123-,3.0,3.0,張凱威、曾建超,,1
+1111,910115.0,SESE20002,,Introduction to Op;erating Systems,作業系統概論,Unlimited,19,F123-,3.0,3.0,楊婷婷,,1
+1111,910116.0,SESE10100,,Object Oriented Programming,物件導向程式設計,Unlimited,21,R456-,3.0,3.0,陳丙堃,,1
+1111,910118.0,SESE00059,,Physical Education(1),體育(1),Unlimited,23,W56-,0.0,2.0,系統工程,,1
+1111,910119.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,27,M34-,2.0,2.0,張凱威,,1
+1111,910120.0,SESE00059,,Physical Education(1),體育(1),Unlimited,26,T56-,0.0,2.0,系統工程,,1
+1111,910121.0,SESE00059,,Physical Education(1),體育(1),Unlimited,22,W56-,0.0,2.0,系統工程,,1
+1111,910122.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,26,M8W4-,2.0,2.0,張凱威,,1
+1111,910123.0,SESE20002,,Introduction to Op;erating Systems,作業系統概論,Unlimited,17,T1R12-,3.0,3.0,楊婷婷,,1
+1111,910124.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,40,W12-,2.0,2.0,張凱威,,1
+1111,910125.0,SESE10185,,Ethics in Engineering,工程倫理,Unlimited,29,F34-,2.0,2.0,劉思遠,,1
+1111,910126.0,SESE10130,,Introduction to Information Security,資訊安全,Unlimited,34,W234-,3.0,3.0,賴泰宏,,2
+1111,910127.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,31,M5W8-,2.0,2.0,張凱威,,1
+1111,910128.0,SESE10134,,Introduction to Information Science,資訊科學概論,Unlimited,10,M8W8-,2.0,2.0,張凱威,,1
+1111,910129.0,SESE10016,,Elementary Number Theory,基礎數論,Unlimited,40,W567-,3.0,3.0,張仁煦,,2
+1111,910131.0,SESE10100,,Object Oriented Programming,物件導向程式設計,Unlimited,25,T9ab-,3.0,3.0,陳丙堃,,1
+1111,910132.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,32,T567-,3.0,3.0,系統工程,,1
+1111,910133.0,SESE10050,,Digital Circuit Design,數位電路設計,Unlimited,20,R9ab-,3.0,3.0,陳丙堃,,1
+1111,910134.0,SESE00061,,Physical Education(3),體育(3),Unlimited,36,M34-,0.0,2.0,系統工程,,1
+1111,910135.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,36,W234-,3.0,3.0,系統工程,,1
+1111,910136.0,SESE00061,,Physical Education(3),體育(3),Unlimited,18,T34-,0.0,2.0,系統工程,,1
+1111,910137.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,30,M567-,3.0,3.0,系統工程,,1
+1111,910138.0,SESE00061,,Physical Education(3),體育(3),Unlimited,40,T12-,0.0,2.0,系統工程,,1
+1111,910139.0,SESE00018,,Studies on Mainland China,大陸問題研究,Unlimited,26,M567-,3.0,3.0,系統工程,,1
+1111,910140.0,SESE10041,,Psychology,心理學,Unlimited,13,M34-,2.0,2.0,系統工程,,1
+1111,910141.0,SESE10057,,General Physics Lab.(1),普通物理實驗 (1),Unlimited,26,W34-,2.0,2.0,尤懷德,,1
+1111,910142.0,SESE10137,,Data Structure,資料結構,Unlimited,19,M3T34-,3.0,3.0,周兆龍,,1
+1111,910143.0,SESE10153,,Discrete Mathematics,離散數學,Unlimited,19,M4T56-,3.0,3.0,王順吉,,1
+1111,910144.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,31,R234-,3.0,3.0,系統工程,,1
+1111,910145.0,SESE10171,,Physical Education(7),體育(7),Unlimited,56,R56-,0.0,2.0,系統工程,,1
+1111,910146.0,SESE00017,,Seminar and Lab,基礎科學講座與實驗,Unlimited,98,S234567-,0.0,3.0,劉宗哲,,1
+1111,910147.0,SESE10177,,Mechatronics,機電整合,Unlimited,22,T234-,3.0,3.0,孔健君,,1
+1111,910148.0,SESE10114,,Network Technology and Practice(1),網路技術與實務1,Unlimited,19,R456-,3.0,3.0,張凱威,,1
+1111,910149.0,SESE00051,,English(1),英文(1),Unlimited,27,R34F1-,3.0,3.0,系統工程,,1
+1111,910150.0,SESE10187,,Introduction to Electronic and Information Warfare,電資戰,Unlimited,60,M34-,2.0,2.0,張克勤,,1
+1111,910151.0,SESE00002,,Intermediate English(1),中級英文(1),Unlimited,14,W9a-,2.0,2.0,系統工程,,2
+1111,910152.0,SESE10185,,Ethics in Engineering,工程倫理,Unlimited,36,F34-,2.0,2.0,張枝成,,1
+1111,910153.0,SESE20076,,Cryptography Engineering Practice,密碼工程專題實作(1),Unlimited,4,M567-,1.0,3.0,賴泰宏,,1
+1111,910154.0,SESE10174,,Project on Mechatronics and Aeronautical Control(3),機電航太控制專題實作(3),Unlimited,5,M567-,1.0,3.0,孔健君,,1
+1111,910155.0,SESE10173,,Project on Structure of Military Aircraft(3),戰機結構專題實作(3),Unlimited,8,M567-,1.0,3.0,羅明忠,,1
+1111,910156.0,SESE10129,,Project on Mechanical Design and Manufactujring (I),設計製造專題實作(1),Unlimited,4,M567-,1.0,3.0,尤懷德,,1
+1111,910157.0,SESE10175,,Project on Thermal Fluid,熱流量測專題實作(3),Unlimited,7,M567-,1.0,3.0,賴渝翔,,1
+1111,910158.0,SESE20033,,Mechanical Design,機械設計,Unlimited,6,T567-,3.0,3.0,林聰穎,,1
+1111,910159.0,SESE10065,,Mechanics of Materials,材料力學,Unlimited,29,M9ab-,3.0,3.0,陳冠宇,,1
+1111,910160.0,SESE10043,,Applied Mechanics(1): Statics,應用力學(1)-靜力學,Unlimited,32,T2R56-,3.0,3.0,林聰穎,,1
+1111,910161.0,SESE00041,,French(1),法文(一)  ,Unlimited,3,R34-,2.0,2.0,系統工程,,2
+1111,910162.0,SESE00028,,German(1),德文(一)  ,Unlimited,24,T56-,2.0,2.0,系統工程,,2
+1111,910164.0,SESE20043,,Aerodnamics,空氣動力學,Unlimited,10,F234-,3.0,3.0,尤懷德,,1
+1111,910165.0,SESE20069,,Viscous Fluid Dynamics,黏性流體力學,Unlimited,10,T234-,3.0,3.0,賴正權、陳竺博淵,,2
+1111,910166.0,SESE20067,,Electrical Engineering,電工學,Unlimited,13,W34F1-,3.0,3.0,李彥宏,,1
+1111,910167.0,SESE20013,,Principles of Jet Propulsion,噴射推進原理,Unlimited,10,T567-,3.0,3.0,夏筱明,,1
+1111,910168.0,SESE20035,,Fluid Mechanics Lab,流體力學實驗,Unlimited,10,W567-,1.0,3.0,賴正權,,1
+1111,910169.0,SESE10185,,Ethics in Engineering,工程倫理,Unlimited,33,F34-,2.0,2.0,張德仁,,1
+1111,910170.0,SESE10094,,Thermodynamics(1),熱力學(1),Unlimited,19,R9ab-,3.0,3.0,戴昌聖,,1
+1111,910171.0,SESE00116,,The Art of War and Life,孫子兵法與人生,Unlimited,29,F12-,2.0,2.0,系統工程,,2
+1111,910172.0,SESE20039,,Thermal Fluid Exp;eriment,熱流實驗,Unlimited,3,R56-,1.0,2.0,張枝成,,1
+1111,910173.0,SESE20077,,Data Communications and confidentiality,資料通訊與保密,Unlimited,21,W567-,3.0,3.0,系統工程,,2
+1111,910174.0,SESE00079,,C4ISR System Practice(3),C4ISR 系統專題實作(3),Unlimited,5,M567-,1.0,3.0,劉中宇,,1
+1111,910175.0,SESE20066,,Electromagnetic Waves,電磁波,Unlimited,31,T234-,3.0,3.0,李志國,,2
+1111,910176.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,32,T1F12-,3.0,3.0,賴渝翔,,1
+1111,910177.0,SESE00011,,Introduction to Defense Technology (I),國防科技概論(1),100,101,F567-EE106[GF],3.0,3.0,李永隆,,2
+1111,910178.0,SESE10032,,Workshop Practice(2),工廠實習(2),Unlimited,16,W12-,1.0,2.0,黃國鑫,,1
+1111,910179.0,SESE10094,,Thermodynamics(1),熱力學(1),Unlimited,16,R123-,3.0,3.0,夏筱明,,1
+1111,910180.0,SESE00051,,English(1),英文(1),Unlimited,23,W34F3-,3.0,3.0,系統工程,,1
+1111,910181.0,SESE10073,,Mechanical Materials,機械材料,Unlimited,32,W567-,3.0,3.0,系統工程,,1
+1111,910182.0,SESE10032,,Workshop Practice(2),工廠實習(2),Unlimited,16,W12-,1.0,2.0,蔡林昌,,1
+1111,910183.0,SESE10094,,Thermodynamics(1),熱力學(1),Unlimited,16,W34R4-,3.0,3.0,夏筱明,,1
+1111,910184.0,SESE10021,,Engineering Graphics,工程圖學,Unlimited,16,M78-,1.0,2.0,系統工程,,1
+1111,910185.0,SESE10021,,Engineering Graphics,工程圖學,Unlimited,16,M9a-,1.0,2.0,系統工程,,1
+1111,910186.0,SESE10055,,General Physics(2),普通物理(2),Unlimited,34,R9ab-,3.0,3.0,鄭根發,,1
+1111,910187.0,SESE10038,,Calculus(2),微積分(2),Unlimited,17,W89ab-,3.0,4.0,張枝成,,1
+1111,910188.0,SESE10054,,General Physics (1),普通物理(1),Unlimited,22,R234-,3.0,3.0,杜建明,,1
+1111,910189.0,SESE10054,,General Physics (1),普通物理(1),Unlimited,26,R34F1-,3.0,3.0,王哲釧,,1
+1111,910190.0,SESE10054,,General Physics (1),普通物理(1),Unlimited,27,R34F1-,3.0,3.0,鄭紹宏,,1
+1111,910193.0,SESE10054,,General Physics (1),普通物理(1),Unlimited,23,R34F1-,3.0,3.0,尤懷德,,1
+1111,910195.0,SESE00116,,The Art of War and Life,孫子兵法與人生,Unlimited,28,F34-,2.0,2.0,系統工程,,2
+1111,910196.0,SESE10037,,Calculus (1),微積分(1),Unlimited,27,T34R56-,4.0,4.0,張仁煦,,1
+1111,910197.0,SESE10037,,Calculus (1),微積分(1),Unlimited,22,M56W34-,4.0,4.0,張枝成,,1
+1111,910198.0,SESE10037,,Calculus (1),微積分(1),Unlimited,23,T12R12-,4.0,4.0,張仁煦,,1
+1111,910200.0,SESE00055,,Financial Management,財務管理 ,Unlimited,13,T56-,2.0,2.0,系統工程,,2
+1111,910201.0,SESE10051,,General Chemistry,普通化學,Unlimited,23,M56W1-,3.0,3.0,游竹淋,,1
+1111,910202.0,SESE10224,,Cryptography,密碼學,Unlimited,5,R9ab-,3.0,3.0,張德仁,,2
+1111,910203.0,SESE00117,,Fiction and Film,小說與電影,Unlimited,17,T56-,2.0,2.0,系統工程,,2
+1111,910204.0,SESE10176,,Project on Aerospace(1),太空專題實作(1),Unlimited,4,M567-,1.0,3.0,李彥宏,,1
+1111,910205.0,SESE10051,,General Chemistry,普通化學,Unlimited,27,M34R2-,3.0,3.0,游竹淋,,1
+1111,910206.0,SESE10051,,General Chemistry,普通化學,Unlimited,22,T567-,3.0,3.0,黃文鍵,,1
+1111,910207.0,SESE00118,,Chinese Military Literature,中國兵書選讀,Unlimited,25,W12-,2.0,2.0,系統工程,,2
+1111,910208.0,SESE00055,,Financial Management,財務管理 ,Unlimited,11,T78-,2.0,2.0,系統工程,,2
+1111,910210.0,SESE10180,,Principles and Experiments of Enhanced Heat Transfer,熱傳增強原理與實驗,Unlimited,4,M9ab-,3.0,3.0,賴正權,,2
+1111,910211.0,SESE10181,,Computer Aided Design,計算機輔助設計,Unlimited,9,W567-,3.0,3.0,徐道賢,,2
+1111,910212.0,SESE10057,,General Physics Lab.(1),普通物理實驗 (1),Unlimited,23,T34-,2.0,2.0,賴渝翔,,1
+1111,910213.0,SESE10182,,Theory of Rotating-Wing Aircraft,旋翼機理論,Unlimited,16,W9ab-,3.0,3.0,羅明忠,,2
+1111,910214.0,SESE10183,,Performance Analysis of Aircraft and Missile,戰機飛彈性能分析,Unlimited,8,T9ab-,3.0,3.0,系統工程,,2
+1111,910215.0,SESE10184,,Analysis and Design of Military Aircraft System,戰機系統設計,Unlimited,10,T9ab-,3.0,3.0,李彥宏,,2
+1111,910216.0,SESE00118,,Chinese Military Literature,中國兵書選讀,Unlimited,26,W34-,2.0,2.0,系統工程,,2
+1111,910217.0,SESE10188,,Radar System,雷達系統,Unlimited,29,T234-,3.0,3.0,聶若鹽,,1
+1111,910218.0,SESE10168,,Advanced Program Design,高等程式設計,Unlimited,5,R9ab-,3.0,3.0,林振輝,,2
+1111,910221.0,SESE20036,,Introduction to Algorithms,演算法,Unlimited,18,T8F12-,3.0,3.0,張克勤,,2
+1111,910222.0,SESE00010,,Philosophy and Life,哲學與人生,Unlimited,20,W78-,2.0,2.0,系統工程,,2
+1111,910223.0,SESE20038,,Explosives(I),火藥學(1),Unlimited,22,M34T1-,3.0,3.0,楊琮貿,,1
+1111,910224.0,SESE20003,,Analytical Chemistry(II),儀器及分析化學實驗(2),Unlimited,11,T9ab-,1.0,3.0,王志嘉,,2
+1111,910225.0,SESE10190,,Introduction to Optic Fiber,光纖概論,Unlimited,5,T9ab-,3.0,3.0,系統工程,,2
+1111,910226.0,SESE10191,,Fundamentals of Mobile Communications,行動通訊概論,Unlimited,15,T9ab-,3.0,3.0,系統工程,,2
+1111,910227.0,SESE10192,,Digital electronics,數位電子,Unlimited,19,W9ab-,3.0,3.0,劉貞灝,,2
+1111,910228.0,SESE00016,,International Relations,國際關係,Unlimited,29,F12-,2.0,2.0,系統工程,,2
+1111,910229.0,SESE20048,,Automatic Control Systems(I),自動控制系統(1),Unlimited,55,W156-,3.0,3.0,楊家宏,,1
+1111,910230.0,SESE10194,,Practice of Communication Systems(3),通訊系統專題實作(3),Unlimited,8,M567-,1.0,3.0,瞿忠正,,1
+1111,910231.0,SESE10195,,Practice for Applications of Wireless Communications (3),無線通訊應用專題實作(3),Unlimited,8,M567-,1.0,3.0,蘇英俊,,1
+1111,910232.0,SESE10196,,Design Topics of Microwave Devices(3),微波裝置專題實作(3),Unlimited,8,M567-,1.0,3.0,陳淑娟,,1
+1111,910233.0,SESE10197,,Optoelectronic application project(3),光電應用專題實作(3),Unlimited,9,M567-,1.0,3.0,謝輝煌,,1
+1111,910234.0,SESE10198,,Project of Information Security(3),資訊安全專題實作(3),Unlimited,7,M567-,1.0,3.0,林宗億,,1
+1111,910235.0,SESE10199,,Special topics for the Control and Automation(3),控制與自動化專題實作(3),Unlimited,10,M567-,1.0,3.0,談光雄,,1
+1111,910236.0,SESE10200,,Applied Computer Network Project(3),計算機網路應用專題實作(3),Unlimited,10,M567-,1.0,3.0,系統工程,,1
+1111,910237.0,SESE10072,,Probability and Statistics,機率與統計,Unlimited,25,M34W1-,3.0,3.0,聶若鹽,,1
+1111,910238.0,SESE20012,,Single Chip,單晶片,Unlimited,24,W234-,3.0,3.0,藍建武,,1
+1111,910239.0,SESE20063,,Electric Machinery,電機機械,Unlimited,24,T567-,3.0,3.0,談光雄,,1
+1111,910240.0,SESE00016,,International Relations,國際關係,Unlimited,13,F34-,2.0,2.0,系統工程,,2
+1111,910243.0,SESE00051,,English(1),英文(1),Unlimited,30,W12F2-,3.0,3.0,系統工程,,1
+1111,910244.0,SESE00051,,English(1),英文(1),Unlimited,26,W5R12-,3.0,3.0,系統工程,,1
+1111,910245.0,SESE00120,,Readings In Ming and Ching Fiction,明清小說,Unlimited,15,W56-,2.0,2.0,系統工程,,2
+1111,910246.0,SESE00051,,English(1),英文(1),Unlimited,22,R56F4-,3.0,3.0,系統工程,,1
+1111,910248.0,SESE10057,,General Physics Lab.(1),普通物理實驗 (1),Unlimited,27,F34-,2.0,2.0,系統工程,,1
+1111,910249.0,SESE20059,,Modern Physics,近代物理,Unlimited,39,T9ab-,3.0,3.0,謝輝煌,,2
+1111,910250.0,SESE00056,,Military Education and Career Counseling,軍事教育與生涯發展,Unlimited,27,W34-,2.0,2.0,系統工程,,2
+1111,910251.0,SESE20058,,Introduction to Modern Optoelectronic Engineering,近代光電工程,Unlimited,5,R9ab-,3.0,3.0,葉宗翰,,2
+1111,910252.0,SESE00121,,Basic Military English,基礎軍事英文,Unlimited,22,T12-,2.0,2.0,系統工程,,2
+1111,910253.0,SESE00013,,Chinese(1),國文(1),Unlimited,27,W567-,3.0,3.0,系統工程,,1
+1111,910254.0,SESE00013,,Chinese(1),國文(1),Unlimited,29,T234-,3.0,3.0,系統工程,,1
+1111,910255.0,SESE00013,,Chinese(1),國文(1),Unlimited,23,T567-,3.0,3.0,系統工程,,1
+1111,910256.0,SESE00013,,Chinese(1),國文(1),Unlimited,19,T234-,3.0,3.0,系統工程,,1
+1111,910257.0,SESE00121,,Basic Military English,基礎軍事英文,Unlimited,26,T34-,2.0,2.0,系統工程,,2
+1111,910259.0,SESE10072,,Probability and Statistics,機率與統計,Unlimited,24,M34R1-,3.0,3.0,蘇英俊,,1
+1111,910260.0,SESE20060,,Communication Systems,通訊系統,Unlimited,25,W234-,3.0,3.0,李志國,,1
+1111,910261.0,SESE20066,,Electromagnetic Waves,電磁波,Unlimited,25,T567-,3.0,3.0,李志國,,1
+1111,910262.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,25,M4-,0.0,1.0,葉宗翰,,1
+1111,910263.0,SESE10166,,Fundamental of Electric Circuits (2),電路學(2),Unlimited,25,M3T34-,3.0,3.0,葉宗翰,,1
+1111,910264.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,25,W234-,3.0,3.0,杜博仁,,1
+1111,910265.0,SESE10115,,Linear Algebra,線性代數,Unlimited,29,R234-,3.0,3.0,張克勤,,1
+1111,910266.0,SESE10158,,Experiments of Electrical Engineering(1),電子實驗(1),Unlimited,25,W567-,1.0,3.0,謝育立,,1
+1111,910267.0,SESE10158,,Experiments of Electrical Engineering(1),電子實驗(1),Unlimited,13,F234-,1.0,3.0,謝育立,,1
+1111,910268.0,SESE10115,,Linear Algebra,線性代數,Unlimited,13,R234-,3.0,3.0,瞿忠正,,1
+1111,910269.0,SESE10166,,Fundamental of Electric Circuits (2),電路學(2),Unlimited,13,M34R1-,3.0,3.0,謝育立,,1
+1111,910270.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,36,R4-,0.0,1.0,張文南,,1
+1111,910271.0,SESE10104,,Program Design,程式設計,Unlimited,13,W9ab-,3.0,3.0,林振輝,,2
+1111,910272.0,SESE10104,,Program Design,程式設計,Unlimited,25,F234-,3.0,3.0,林振輝,,2
+1111,910273.0,SESE10202,,Solid-state Electronic Devices,固態電子元件,Unlimited,13,W234-,3.0,3.0,系統工程,,2
+1111,910274.0,SESE10040,,Design Topics of Microwave Devices,微波裝置專題實作(1),Unlimited,9,M567-,1.0,3.0,李志國,,1
+1111,910275.0,SESE10203,,Special topics for the application of semiconductor devices(1),半導體元件應用專題實作(1),Unlimited,4,M567-,1.0,3.0,謝育立,,1
+1111,910276.0,SESE10005,,Optoelectronic Application Project,光電應用專題實作(1),Unlimited,5,M567-,1.0,3.0,葉宗翰,,1
+1111,910277.0,SESE10060,,Special Topics for the Intelligent Robot,智慧型機器人專題實作(1),Unlimited,8,M567-,1.0,3.0,藍建武,,1
+1111,910278.0,SESE10133,,Project of Applying Information,資訊應用專題實作(1),Unlimited,5,M567-,1.0,3.0,張德仁,,1
+1111,910279.0,SESE10131,,Information Security Practice(I),資訊安全專題實作(1) ,Unlimited,9,M567-,1.0,3.0,張克勤,,1
+1111,910280.0,SESE10090,,Practice for Applications of Wireless,無線通訊應用專題實作(1),Unlimited,4,M567-,1.0,3.0,鄭紹宏,,1
+1111,910281.0,SESE10156,,Electronics Circuits (1),電子學(1),Unlimited,16,T1W34-,3.0,3.0,談光雄,,1
+1111,910282.0,SESE00080,,Database Practice,資料庫專題實作(3),Unlimited,8,M567-,1.0,3.0,劉芳萍,,1
+1111,910283.0,SESE00081,,Information System Practice(3),資訊系統工程專題實作(3),Unlimited,3,M567-,1.0,3.0,羅序仁,,1
+1111,910284.0,SESE00082,,Multimedia Design Practice(3),多媒體設計專題實作(3),Unlimited,6,M567-,1.0,3.0,蔡宗憲,,1
+1111,910285.0,SESE00083,,IoT System Practice(3),物聯網系統專題實作(3),Unlimited,4,M567-,1.0,3.0,楊婷婷,,1
+1111,910288.0,SESE00085,,Process Design,程序設計,Unlimited,25,M9R12-,3.0,3.0,李金樹,,1
+1111,910289.0,SESE00086,,Characterization of Materials,材料特性分析,Unlimited,5,T9ab-,3.0,3.0,系統工程,,2
+1111,910290.0,SESE00087,,Protecting and Clean Technology of Radiochemistry,核子放射防護與消除,Unlimited,5,W567-,3.0,3.0,賴政國,,2
+1111,910291.0,SESE00088,,Practice of Steel Processing and Heat Treatment,鋼鐵加工及熱處理實務,Unlimited,5,W567-,3.0,3.0,劉益銘,,2
+1111,910292.0,SESE00089,,Organic Analysis ＆ Spectroscopy,有機分析及有機光譜學,Unlimited,7,T567-,3.0,3.0,吳國輝,,2
+1111,910293.0,SESE20079,,Special Project on Explosive(3),火炸藥專題實作(3),Unlimited,6,M567-,1.0,3.0,楊琮貿,,1
+1111,910294.0,SESE00090,,Special Project on Nuclear(3),核生化防護專題實作(3),Unlimited,6,M567-,1.0,3.0,汪成斌,,1
+1111,910295.0,SESE00091,,Special Project on Materials Science & Engineering (3),材料科學與工程專題實作(3),Unlimited,7,M567-,1.0,3.0,王哲釧,,1
+1111,910296.0,SESE00092,,Special Project on Energy Conversion/ Storage Batteries(3),創/儲能電池專題實作(3),Unlimited,6,M567-,1.0,3.0,林明憲、張仍奎,,1
+1111,910297.0,SESE00020,,Project Management,專案管理,Unlimited,9,W34-,2.0,2.0,李金樹,,2
+1111,910298.0,SESE20010,,Unit Operation & Transport Phenomena(2),單元操作與輸送現象(2),Unlimited,6,R456-,3.0,3.0,黃其清,,1
+1111,910299.0,SESE20041,,Physical Metallurgy(I),物理冶金(1),Unlimited,20,F234-,3.0,3.0,王誠佑、劉益銘,,1
+1111,910300.0,SESE20011,,Unit Operation Lab.(I),單元操作實驗(1),Unlimited,20,R123-,1.0,3.0,楊琮貿,,1
+1111,910301.0,SESE20031,,Thermodynamics of Materials(II),材料熱力學(2),Unlimited,9,W567-,3.0,3.0,王哲釧,,2
+1111,910302.0,SESE20007,,Chemical Engineering Thermodynamics,化工熱力學,Unlimited,6,W567-,3.0,3.0,林明憲,,1
+1111,910303.0,SESE20040,,Physical Chemistry(II),物理化學(2),Unlimited,5,W567-,3.0,3.0,劉敏憲,,1
+1111,910304.0,SESE20068,,Introduction to Polymer,高分子導論,Unlimited,5,T34R5-,3.0,3.0,張章平,,2
+1111,910305.0,SESE10086,,Special Project on Explosive(1),火炸藥專題實作(1),Unlimited,5,M567-,1.0,3.0,李金樹,,1
+1111,910306.0,SESE10071,,Special Project on Nuclear Bilolgical and Chemical Defense,核生化防護專題實作(1),Unlimited,5,M567-,1.0,3.0,黃文鍵,,1
+1111,910307.0,SESE10067,,Special Project on Materials Science & Engineering(1),材料科學與工程專題實作(1),Unlimited,3,M567-,1.0,3.0,許宏華,,1
+1111,910308.0,SESE10008,,Special Project on Functional Coatings,功能性鍍膜專題實作(1),Unlimited,7,M567-,1.0,3.0,葛明德,,1
+1111,910309.0,SESE10002,,Analytical Chemistry(1),儀器及分析化學(1),Unlimited,16,T78R6-,3.0,3.0,王志嘉,,1
+1111,910310.0,SESE10061,,Organic Chemistry(1),有機化學(1),Unlimited,16,M34R5-,3.0,3.0,洪耀勳,,1
+1111,910311.0,SESE10004,,Analytical Chemistry Lab.(1),儀器及分析化學實驗(1),Unlimited,16,W234-,1.0,3.0,游竹淋,,1
+1111,910312.0,SESE10068,,Introduction to Materials Science,材料科學導論,Unlimited,16,F234-,3.0,3.0,陳智、許宏華,,1
+1111,910313.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,16,T56W1-,3.0,3.0,陸開泰,,1
+1111,910314.0,SESE10063,,Organic Chemistry Lab.(1),有機化學實驗(1),Unlimited,16,R234-,1.0,3.0,洪耀勳,,1
+1111,910315.0,SESE10065,,Mechanics of Materials,材料力學,Unlimited,41,T234-,3.0,3.0,曾有志,,1
+1111,910316.0,SESE10204,,Underwater Acoustics,水中聲學,Unlimited,11,T34W3-,3.0,3.0,陳冠宇,,2
+1111,910317.0,SESE10205,,Systems Engineering Management,系統工程管理概論,Unlimited,24,W456-,3.0,3.0,鄧世剛,,1
+1111,910318.0,SESE10206,,Vehicle Dynamics,車輛運動力學,Unlimited,18,W456-,3.0,3.0,朱子文,,1
+1111,910319.0,SESE10207,,Warship Design,軍艦設計,Unlimited,11,M34W3-,3.0,3.0,林俊成,,1
+1111,910320.0,SESE10177,,Mechatronics,機電整合,Unlimited,23,W9ab-,3.0,3.0,系統工程,,2
+1111,910321.0,SESE00008,,Crisis Management,危機管理,Unlimited,30,M34-,2.0,2.0,系統工程,,2
+1111,910322.0,SESE10209,,Ordnance Engineering and Workshop (2),兵器工程及實習(2),Unlimited,6,T567-,3.0,3.0,孫懷谷,,2
+1111,910323.0,SESE10210,,Introduction of Armored Fighting Vehicles,戰甲車概論,Unlimited,6,T9ab-,3.0,3.0,王翔正,,2
+1111,910324.0,SESE20062,,Electronic Component and Lab,電子學及實驗 ,Unlimited,24,M34W5-,3.0,3.0,李永隆,,1
+1111,910326.0,SESE20006,,Ordnance Engineering and Workshop(I),兵器工程及實習(1),Unlimited,24,T567-,3.0,3.0,葉昭南,,1
+1111,910327.0,SESE20034,,Experiments of Fluid Mechanics,流體力學實驗 ,Unlimited,5,F34-,1.0,2.0,林俊成,,2
+1111,910329.0,SESE10211,,Automotive Drive Trains,車輛傳動系統,Unlimited,5,W567-,3.0,3.0,蘭真,,2
+1111,910330.0,SESE10212,,Automotive Chassis Systems,車輛底盤系統,Unlimited,8,M34T8-,3.0,3.0,朱子文,,2
+1111,910331.0,SESE10213,,Automotive Electricity & Electronics Services,車輛電學及實務,Unlimited,14,R9ab-,3.0,3.0,周志正,,2
+1111,910332.0,SESE20005,,Internal Combustion Engines,內燃機,Unlimited,8,T567-,3.0,3.0,周志正,,1
+1111,910333.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,23,T9ab-,3.0,3.0,宋易哲,,1
+1111,910334.0,SESE20049,,Fluid Dynamics,船舶流體動力學 ,Unlimited,8,T567-,3.0,3.0,林俊成,,1
+1111,910335.0,SESE20061,,Principles of Naval Architeeture (II),造船原理(2),Unlimited,8,W567-,3.0,3.0,劉宗龍,,2
+1111,910336.0,SESE20037,,Submarine Introduction,潛艦概論,Unlimited,8,W9ab-,3.0,3.0,雷清宇,,2
+1111,910338.0,SESE00094,,Engineering Geology,工程地質學,Unlimited,22,W34-,2.0,2.0,簡志峻,,1
+1111,910343.0,SESE00099,,Special Topics in Integration of Environmental Information and Engineering(3),環境資訊及工程整合專題實作(3),Unlimited,5,M567-,1.0,3.0,蔡營寬,,1
+1111,910344.0,SESE00100,,Special Topics in Integration of Disaster Prevention and Protection(3),災害防救整合專題實作(3),Unlimited,9,M567-,1.0,3.0,簡志峻,,1
+1111,910345.0,SESE00101,,Geospatial Special in Internet of Things Application Environment(3),智慧物聯網環境專題實作(3),Unlimited,6,M567-,1.0,3.0,宋欣芳,,1
+1111,910346.0,SESE00102,,Special Topics in Engineering Practices (3),軍事工程專題實作(3),Unlimited,5,M567-,1.0,3.0,張文南,,1
+1111,910347.0,SESE00103,,Cadastral Surveying,地籍測量學,Unlimited,5,T234-,3.0,3.0,系統工程,,2
+1111,910348.0,SESE00104,,Integration of Geospatial Information and Development of Common Operating Pictures,空間資訊整合及圖台開發,Unlimited,6,W456-,3.0,3.0,系統工程,,2
+1111,910349.0,SESE00105,,Color Reproduction,彩色複製學,Unlimited,9,T567-,3.0,3.0,吳憲珉,,2
+1111,910350.0,SESE00106,,Geospatial Special Practice(3),空間科學專題實作(3),Unlimited,9,M567-,1.0,3.0,蔡明達,,1
+1111,910351.0,SESE00107,,Aviation Meteorology,航空氣象學,Unlimited,5,M34W4-,3.0,3.0,林永慶,,2
+1111,910352.0,SESE00108,,Introduction to Physical Oceanography,物理海洋概論,Unlimited,1,T234-,3.0,3.0,系統工程,,2
+1111,910353.0,SESE20080,,Introduction to Military Meteorology,軍事氣象學導論,Unlimited,10,W23F2-,3.0,3.0,蔡世樵,,1
+1111,910354.0,SESE00110,,Case Study of Atmospheric Science(3),大氣科學專題實作(3),Unlimited,10,M567-,1.0,3.0,蔡世樵,,1
+1111,910355.0,SESE00111,,Climate Change and Adaptation,氣候變遷與調適,Unlimited,6,T567-,3.0,3.0,系統工程,,2
+1111,910356.0,SESE00112,,Nautical meteorology,航海氣象學,Unlimited,3,W567-,3.0,3.0,崔怡楓,,2
+1111,910357.0,SESE20024,,Building Equipment,建築設備,Unlimited,25,T348-,3.0,3.0,張又升,,2
+1111,910358.0,SESE20045,,Theory of Structures,結構學,Unlimited,30,T567-,3.0,3.0,張文南,,1
+1111,910359.0,SESE20016,,Foundation Engineering,基礎工程,Unlimited,25,R234-,3.0,3.0,李宏輝、黃郁惟,,1
+1111,910360.0,SESE10147,,Special Topics in Engineering Practices(I),軍事工程專題實作(1),Unlimited,8,M567-,1.0,3.0,張又升,,1
+1111,910361.0,SESE10087,,Special Topics in Integration of Disaster Prevention and Protection(I),災害防救整合專題實作(1),Unlimited,8,M567-,1.0,3.0,李宏輝,,1
+1111,910362.0,SESE20021,,Synoptic Meteorology Laboratory(I),天氣學實習(1),Unlimited,3,T34-,1.0,2.0,系統工程,,1
+1111,910363.0,SESE20020,,Synoptic Meteorology(I),天氣學(1),Unlimited,3,M34T2-,3.0,3.0,侯昭平,,1
+1111,910364.0,SESE20017,,Dynamic Meteorology(I),大氣動力學(1),Unlimited,3,W7F34-,3.0,3.0,蔡世樵,,1
+1111,910365.0,SESE10020,,Case Study of Armospheric Science(I),大氣科學專題實作(1),Unlimited,3,M567-,1.0,3.0,沈鴻禧,,1
+1111,910366.0,SESE20018,,Geodesy,大地測量學,Unlimited,6,M34T3-,3.0,3.0,李宜珊,,1
+1111,910367.0,SESE00032,,War and Literature,戰爭與文學,Unlimited,9,R34-,2.0,2.0,系統工程,,2
+1111,910368.0,SESE10107,,Geospatial Special Practice(I),空間科學專題實作(1),Unlimited,6,M567-,1.0,3.0,黃立信,,1
+1111,910369.0,SESE10102,,Special Topics in Integration of Environmental Information and Engineering (I),環境資訊及工程整合專題實作(1),Unlimited,9,M567-,1.0,3.0,林玉菁,,1
+1111,910370.0,SESE20019,,Geodesy Practice,大地測量學實習,Unlimited,6,F234-,1.0,3.0,李宜珊,,1
+1111,910371.0,SESE10078,,Meteorology,氣象學,Unlimited,36,W1F12-,3.0,3.0,系統工程,,1
+1111,910372.0,SESE10163,,Computer Aided Drawing and Practice,電腦輔助製圖與實作,Unlimited,36,R123-,2.0,3.0,簡志峻,,1
+1111,910373.0,SESE10079,,Hydrology and Flood Controll,水文及防洪工程,Unlimited,25,W567-,3.0,3.0,趙振宇,,1
+1111,910374.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,37,T234-,3.0,3.0,林志平、楊順欽,,1
+1111,910375.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,31,T8-,0.0,1.0,賴渝翔,,1
+1111,910376.0,SESE10083,,Surveying Adjustment Computation,測量平差計算,Unlimited,9,W567-,1.0,3.0,黃立信,,1
+1111,910377.0,SESE10080,,Fluid Mechanics,流體力學,Unlimited,27,T567-,3.0,3.0,系統工程,,2
+1111,910378.0,SESE10024,,Engineering Materials,工程材料學,Unlimited,24,M9ab-,3.0,3.0,簡志峻,,1
+1111,910379.0,SESE10152,,Introduction to Remote Sensing,遙感探測概論,Unlimited,9,M567-,3.0,3.0,吳憲珉,,1
+1111,910380.0,SESE10082,,Surveying Adjustment Theory,測量平差,Unlimited,9,T567-,3.0,3.0,黃立信,,1
+1111,910381.0,SESE10028,,Engineering Mechanics,工程力學,Unlimited,37,T9ab-,3.0,3.0,宋欣芳,,1
+1111,910382.0,SESE10018,,Meteorological Measurements and Practice,大氣測計學及實習,Unlimited,3,W567-,3.0,3.0,林永慶,,1
+1111,910384.0,SESE00032,,War and Literature,戰爭與文學,Unlimited,26,R56-,2.0,2.0,系統工程,,2
+1111,910385.0,SESE10026,,Engineering Mathematics(1),工程數學(1),Unlimited,31,M567-,3.0,3.0,潘冠呈,,1
+1111,910386.0,SESE10169,,Advanced Programming Language,高階程式語言,Unlimited,19,M9ab-,3.0,3.0,雷賀君,,2
+1111,910387.0,SESE10042,,Engineering Mechanics - Statics,應用力學－靜力學,Unlimited,12,T567-,3.0,3.0,陳幼良,,1
+1111,910388.0,SESE10160,,Computer Aided Design,電腦輔助設計,Unlimited,31,T9ab-,3.0,3.0,徐守仁,,2
+1111,910389.0,SESE10030,,Workshop Practice,工廠實習,Unlimited,16,W34-,1.0,2.0,蔡林昌,,1
+1111,910390.0,SESE10035,,Ammunitions,彈藥學,Unlimited,12,W56-,2.0,2.0,葉昭南,,1
+1111,910393.0,SESE00115,,Thermodynamics,熱力學,Unlimited,41,M34R1-,3.0,3.0,黃寶錩,,1
+1111,910394.0,SESE10120,,Introduction of Naval Architecture and Ocean Engineering,船舶及海洋工程概論,Unlimited,6,T12F2-,3.0,3.0,陳冠宇,,2
+1111,910395.0,SESE10121,,Hull Form Calculation and Drawing,船體計算與製圖,Unlimited,6,W567-,1.0,3.0,潘冠呈,,1
+1111,910396.0,SESE10144,,Principles of Vehicle Systems,車輛系統原理,Unlimited,13,W567-,3.0,3.0,黃寶錩,,1
+1111,910397.0,SESE10096,,Fuel and Oil Analysis,燃料及油品分析實務,Unlimited,13,F234-,3.0,3.0,黃寶錩,,2
+1111,910398.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,20,M8-,0.0,1.0,劉中宇,,1
+1111,910399.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,16,T2-,0.0,1.0,黃文鍵,,1
+1111,910400.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,8,F1-,0.0,1.0,曾有志,,1
+1111,910401.0,SESE10214,,Weapon System Engineering Project(3),兵器工程專題實作(3),Unlimited,25,M567-,1.0,3.0,陳幼良、葉昭南,,1
+1111,910402.0,SESE00058,,Music and Life,音樂與人生  ,Unlimited,30,W56-,2.0,2.0,系統工程,,2
+1111,910403.0,SESE00048,,Technology and the Future Life,科技與未來生活  ,Unlimited,28,M34-,2.0,2.0,鄭根發,,2
+1111,910404.0,SESE10217,,Simple Vehicle Design and Manufacture Project(3),車輛設計製造專題實作(3),Unlimited,6,M567-,1.0,3.0,黃寶錩,,1
+1111,910405.0,SESE10218,,Simple Vehicle Power Engineering Project(3),車輛動力工程專題實作(3),Unlimited,7,M567-,1.0,3.0,周志正,,1
+1111,910406.0,SESE10219,,Simple Vehicle Control Engineering Project(3),車輛控制工程專題實作(3),Unlimited,5,M567-,1.0,3.0,許曆山,,1
+1111,910407.0,SESE10220,,Special Ship Design Project(3),特殊船舶設計專題實作(3),Unlimited,11,M567-,1.0,3.0,劉宗龍,,1
+1111,910408.0,SESE10006,,Wespon System Engineering Project(I),兵器工程專題實作(1),Unlimited,24,M567-,1.0,3.0,鄧世剛、李永隆,,1
+1111,910409.0,SESE00048,,Technology and the Future Life,科技與未來生活  ,Unlimited,27,R12-,2.0,2.0,鄭根發,,2
+1111,910410.0,SESE00043,,Environmental Protection,環境保護  ,Unlimited,28,W12-,2.0,2.0,鄭根發,,2
+1111,910411.0,SESE10141,,Simple Vehicle Design and Manufacture Project(I),車輛設計製造專題實作(1),Unlimited,8,M567-,1.0,3.0,宋易哲,,1
+1111,910412.0,SESE00043,,Environmental Protection,環境保護  ,Unlimited,29,R56-,2.0,2.0,鄭根發,,2
+1111,910413.0,SESE00050,,Aesthetics and Life,美學與人生  ,Unlimited,13,W34-,2.0,2.0,系統工程,,2
+1111,910414.0,SESE10101,,Special Ship Design Project(I),特殊船舶設計專題實作(1),Unlimited,8,M567-,1.0,3.0,林俊成,,1
+1111,910415.0,SESE00034,,japanese(I),日文(一) ,Unlimited,29,F12-,2.0,2.0,系統工程,,2
+1111,910416.0,SESE20022,,Introduction to Cryptography,密碼學概論,Unlimited,15,F123-,3.0,3.0,羅嘉寧,,1
+1111,910417.0,SESE00026,,Calculus Tutor(1),微積分輔導(1),Unlimited,98,Rabc-,0.0,3.0,系統工程,,2
+1111,910418.0,SESE00036,,General Physics Tutor(1),普通物理輔導(1),Unlimited,96,Mabc-,0.0,3.0,系統工程,,2
+1111,910419.0,SESE00035,,General Chemistry Tutor,普通化學輔導,Unlimited,98,Fabc-,0.0,3.0,系統工程,,2
+1111,910420.0,SESE20078,,Project on Mechanical Design and Manufactujring (3),設計製造專題實作(3),Unlimited,4,M567-,1.0,3.0,尤懷德,,1
+1111,910421.0,SESE00034,,japanese(I),日文(一) ,Unlimited,29,F34-,2.0,2.0,系統工程,,2
+1111,910422.0,SESE00005,,Biographical Literature,傳記文學賞析,Unlimited,10,W56-,2.0,2.0,系統工程,,2
+1111,910424.0,SESE00030,,Gender Education,性別教育,Unlimited,11,R56-,2.0,2.0,系統工程,,2
+1111,910425.0,SESE00044,,The Study of Death,生死學,Unlimited,30,R56-,2.0,2.0,系統工程,,2
+1111,910426.0,SESE00046,,Modern Politics Thoughe,當代政治思潮,Unlimited,29,F12-,2.0,2.0,系統工程,,2
+1111,910427.0,SESE00046,,Modern Politics Thoughe,當代政治思潮,Unlimited,29,F34-,2.0,2.0,系統工程,,2
+1111,910428.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,14,R6-,0.0,1.0,藍建武,,1
+1111,910429.0,SESE00039,,Service Learning(2),服務學習 (2),Unlimited,33,F1-,0.0,1.0,陳冠宇,,1
+1111,910430.0,SESE00061,,Physical Education(3),體育(3),Unlimited,38,T12-,0.0,2.0,系統工程,,1
+1111,910431.0,SESE00061,,Physical Education(3),體育(3),Unlimited,29,T34-,0.0,2.0,系統工程,,1
+1111,910432.0,SESE00061,,Physical Education(3),體育(3),Unlimited,32,T34-,0.0,2.0,系統工程,,1
+1111,910433.0,SESE00063,,Physical Education(5),體育(5),Unlimited,20,W34-,0.0,2.0,系統工程,,1
+1111,910434.0,SESE00063,,Physical Education(5),體育(5),Unlimited,35,R34-,0.0,2.0,系統工程,,1
+1111,910435.0,SESE00063,,Physical Education(5),體育(5),Unlimited,49,R34-,0.0,2.0,系統工程,,1
+1111,910436.0,SESE00063,,Physical Education(5),體育(5),Unlimited,40,W34-,0.0,2.0,系統工程,,1
+1111,910437.0,SESE10171,,Physical Education(7),體育(7),Unlimited,29,R56-,0.0,2.0,系統工程,,1
+1111,910438.0,SESE10171,,Physical Education(7),體育(7),Unlimited,5,W12-,0.0,2.0,系統工程,,1
+1111,910439.0,SESE10171,,Physical Education(7),體育(7),Unlimited,11,R12-,0.0,2.0,系統工程,,1
+1111,910440.0,SESE10186,,Physical Education,體育,Unlimited,10,W78-,0.0,2.0,系統工程,,1
+1111,910441.0,SESE10030,,Workshop Practice,工廠實習,Unlimited,15,W34-,1.0,2.0,黃國鑫,,1
+1111,910442.0,SESE00018,,Studies on Mainland China,大陸問題研究,Unlimited,13,T567-,3.0,3.0,系統工程,,1
+1111,910443.0,SESE20051,,Satellite Meteorology,衛星氣象學,Unlimited,3,T1R12-,3.0,3.0,林永慶,,2
+1111,910445.0,SESE10048,,Special Topics for the Control and Automation,控制與自動化專題實作(1),Unlimited,5,M567-,1.0,3.0,林振輝,,1
+1111,910446.0,SESE10091,,Project on Thermal Fluid,熱流量測專題實作(1),Unlimited,5,M9ab-,1.0,3.0,賴渝翔,,1
+1111,910448.0,SESE00121,,Basic Military English,基礎軍事英文,Unlimited,10,F12-,2.0,2.0,系統工程,,2
+1111,910449.0,SESE00121,,Basic Military English,基礎軍事英文,Unlimited,12,F34-,2.0,2.0,系統工程,,2
+1111,910450.0,SESE00122,,Introduction to Kinematics,運動科學概論,Unlimited,28,M34-,2.0,2.0,系統工程,,2
+1111,910451.0,SESE00123,,Pressure Management and Career Planning,壓力管理與生涯規劃,Unlimited,22,W12-,2.0,2.0,系統工程,,2
+1111,910453.0,SESE00123,,Pressure Management and Career Planning,壓力管理與生涯規劃,Unlimited,24,W34-,2.0,2.0,系統工程,,2
+1111,910454.0,SESE00124,,Fitness and Health,體適能與健康,Unlimited,23,R56-,2.0,2.0,系統工程,,2
+1111,910455.0,SESE00055,,Financial Management,財務管理 ,Unlimited,27,F12-,2.0,2.0,系統工程,,2
+1111,910456.0,SESE00055,,Financial Management,財務管理 ,Unlimited,29,F34-,2.0,2.0,系統工程,,2
+1111,910457.0,SESE00009,,History of Taiwan,台灣史,Unlimited,5,W78-,2.0,2.0,系統工程,,2
+1111,910458.0,SESE00059,,Physical Education(1),體育(1),Unlimited,27,T56-,0.0,2.0,系統工程,,1
+1111,515600.0,CSCS10018,,Computer Science and Engineering Projects (I),資訊工程專題(一),0,164,S56-ED102[GF],2.0,2.0,資工系,,1
+1111,515601.0,CSCS20002,,LabVIEW Programming Language,LabVIEW 程式語言,70,82,"F34-EC315[GF],F34-EC316[GF]",3.0,3.0,蕭子健,,2
+1111,515602.0,CSCS00003,,Career Planning and Mentor of Hours,生涯規劃及導師時間,218,188,W78-EDB27[GF],0.0,2.0,楊武,,1
+1111,515603.0,CSCS20013,,Introduction to Multimedia Information System,多媒體資訊系統概論,80,101,F56-EC022[GF],3.0,3.0,蕭旭峰,,2
+1111,515604.0,CSCS20012,,Multimedia and Human Computer Interaction Capstone,多媒體與人機互動總整與實作,60,39,T56-ED117[GF],3.0,3.0,詹力韋、張永儒,,2
+1111,515605.0,CSCS00002,,Service Learning II,服務學習(二),218,167,T1-ED117[GF],0.0,1.0,黃敬群,,1
+1111,515606.0,CSCS20043,,Computer System Administration,計算機系統管理,131,116,Rabc-EC122[GF],3.0,3.0,曾建超,,2
+1111,515609.0,CSCS10002,,Basic Programming,基礎程式設計,Unlimited,284,,0.0,3.0,洪瑞鴻、黃寗琪、林政寬,,1
+1111,515610.0,CSCS10020,,Computer Science Seminars,資訊工程研討,218,213,M56-ED117[GF],0.0,2.0,林一平,,1
+1111,515611.0,CSCS10019,,Computer Science and Engineering Projects (II),資訊工程專題(二),175,110,W78-EC022[GF],2.0,2.0,邱維辰,,1
+1111,515612.0,CSCS20009,,Elementary graph theory,圖形理論導論,150,152,M56-EC022[GF],3.0,3.0,李毅郎,,2
+1111,515613.0,CSCS10006,,Digital Circuit Lab.,數位電路實驗,60,57,"MabcF34-EC022[GF],Mabc-EC220[GF],Mabc-EC221[GF],Mabc-EC222[GF]",3.0,5.0,范倫達,,2
+1111,515614.0,CSCS20033,,Competitive Programming (II),競技程式設計(二),65,13,"Fabc-EC022[GF],Fabc-EC122[GF]",3.0,3.0,謝旻錚,,2
+1111,515615.0,CSCS20032,,Competitive Programming(III),競技程式設計(三),80,11,S34n-EC115[GF],3.0,3.0,謝旻錚,,2
+1111,515616.0,CSCS20004,,MATLAB Programming Language,MATLAB 程式語言,40,48,T34-EC315[GF],3.0,3.0,王才沛,,2
+1111,515617.0,CSCS20052,,Introduction to Natural Language Processing,自然語言處理概論,40,32,R567-EC115[GF],3.0,3.0,顏安孜,,2
+1111,515618.0,CSCS20008,,Enterprise Cybersecurity,企業網路安全,40,46,R34-EC329[GF],3.0,3.0,謝續平,,2
+1111,515620.0,CSCS20025,,Computer Vision for UAV Autopilot,無人機自動飛航與電腦視覺概論,36,46,Tabc-,3.0,3.0,陳冠文,,2
+1111,515621.0,CSCS20019,,Microprocessor Systems: Principles andImplementation,微處理機系統原理與實作,60,21,F34-EC114[GF],3.0,3.0,蔡淳仁,,2
+1111,516200.0,ENCV10007,,Engineering Materials,工程材料學,55,64,T56R2-EB118[GF],3.0,3.0,陳垂欣,,1
+1111,516201.0,ENCV10007,,Engineering Materials,工程材料學,55,32,T56R2-EB107[GF],3.0,3.0,袁宇秉,,1
+1111,516202.0,ENCV10012,,Applied Mechanics,應用力學,55,66,T2R34-EB118[GF],3.0,3.0,王彥博,,1
+1111,516203.0,ENCV10012,,Applied Mechanics,應用力學,55,45,R34-EB107[GF],3.0,3.0,林其穎,,1
+1111,516204.0,ENCV10005,,Engineering Graphics (I),工程圖學(一),55,62,M5-EB118[GF],1.0,1.0,莊子毅,,1
+1111,516205.0,ENCV10005,,Engineering Graphics (I),工程圖學(一),55,31,M6-EB118[GF],1.0,1.0,莊子毅,,1
+1111,516206.0,ENCV00002,,Service Learning I,服務學習(一),Unlimited,86,W9a-EB117[GF],0.0,2.0,張智安,,1
+1111,516207.0,ENCV10001,,Introduction to Civil Engineering,土木工程概論,110,92,R56-EB117[GF],2.0,2.0,土木系,,2
+1111,516208.0,ENCV20015,,Mentor's Hours,導師時間,Unlimited,98,W78-EB117[GF],0.0,2.0,土木系,,2
+1111,516209.0,ENCV20006,,Chemistry (I),化學 (一),90,89,W12-SC109[GF],3.0,3.0,李大偉,,2
+1111,516210.0,ENCV20008,,Chemistry Lab.,化學實驗,Unlimited,40,Wn56-SB119[GF],1.0,3.0,李大偉,,2
+1111,516211.0,ENCV10020,,Physics Lab. (I),物理實驗（一）,56,57,F234-SA014[GF],1.0,3.0,劉宗哲,,1
+1111,516212.0,ENCV10020,,Physics Lab. (I),物理實驗（一）,56,28,F234-SA014[GF],1.0,3.0,劉宗哲,,1
+1111,516213.0,ENCV10009,,Engineering Mathematics(I),工程數學(一),45,53,T234-EB115[GF],3.0,3.0,黃世昌,,1
+1111,516214.0,ENCV10009,,Engineering Mathematics(I),工程數學(一),45,17,T234-EB227[GF],3.0,3.0,林志平,,1
+1111,516215.0,ENCV10023,,Introduction to Computer Science,計算機概論,45,41,M567-EB415[GF],3.0,3.0,洪士林,,1
+1111,516216.0,ENCV10023,,Introduction to Computer Science,計算機概論,55,17,M567-,3.0,3.0,曾仁杰,,1
+1111,516217.0,ENCV10013,,Mechanics of Materials,材料力學,45,51,T56R7-EB415[GF],3.0,3.0,洪士林,,1
+1111,516218.0,ENCV10013,,Mechanics of Materials,材料力學,45,38,T56R7-EB115[GF],3.0,3.0,林子剛,,1
+1111,516219.0,ENCV20030,,Surveying (II),測量學（二）,60,40,W34-EB115[GF],2.0,2.0,黃金維,,2
+1111,516220.0,ENCV20016,,Engineering Statistics,工程統計學,100,90,M234-EB117[GF],3.0,3.0,趙韋安,,2
+1111,516221.0,ENCV20031,,Construction Management,營建管理,100,73,F234-EB117[GF],3.0,3.0,黃玉霖,,2
+1111,516223.0,ENCV10004,,Foundation Engineering,基礎工程,45,48,M7R34-EB115[GF],3.0,3.0,單信瑜,,1
+1111,516224.0,ENCV10004,,Foundation Engineering,基礎工程,45,17,M7R34-EB108[GF],3.0,3.0,黃郁惟,,1
+1111,516225.0,ENCV10015,,Hydrology,水文學,45,57,T7F34-EB118[GF],3.0,3.0,張良正,,1
+1111,516226.0,ENCV10015,,Hydrology,水文學,45,22,T7F34-EB108[GF],3.0,3.0,楊尊華,,1
+1111,516227.0,ENCV10006,,Engineering Geology,工程地質學,45,40,T34-EB118[GF],3.0,3.0,羅佳明,,1
+1111,516228.0,ENCV10017,,Fluid Mechanics Lab.,流體力學實驗,45,28,Tabc-EB108[GF],1.0,3.0,于弋翔,,1
+1111,516229.0,ENCV10017,,Fluid Mechanics Lab.,流體力學實驗,45,46,Mabc-EB108[GF],1.0,3.0,趙韋安,,1
+1111,516230.0,ENCV20033,,Theory of Structures (II),結構學（二）,50,23,M34T2-EB107[GF],3.0,3.0,郭心怡,,2
+1111,516231.0,ENCV20017,,Engineering Mathematics (III),工程數學（三）,50,12,W2R56-EB107[GF],3.0,3.0,張憲國,,2
+1111,516232.0,ENCV20028,,River Disaster Prevention Technology,河川災害防治技術,80,97,W78-EB118[GF],2.0,2.0,楊昇學,,2
+1111,516233.0,ENCV20024,,Photogrammetry & Remote Sensing,攝影測量與遙感探測,20,34,W34-EB108[GF],3.0,3.0,張智安,,2
+1111,516234.0,ENCV20010,,Independent Study (1),土木專題討論 (一),Unlimited,45,,3.0,3.0,土木系,,2
+1111,516235.0,ENCV20036,,Green Building Information Modeling,綠建築資訊模型,50,44,R567-EB108[GF],3.0,3.0,張又升,,2
+1111,516236.0,ENCV20023,,Applied Foundation Engineering,應用基礎工程,50,11,T567-EB402[GF],3.0,3.0,方永壽,,2
+1111,516800.0,SCAC00001,,Chemistry (I),化學(一),Unlimited,50,T56F2-SB210[GF],3.0,3.0,刁維光,,1
+1111,516801.0,SCAC00001,,Chemistry (I),化學(一),Unlimited,25,M56T9-SC109[GF],3.0,3.0,黃立心,,1
+1111,516802.0,SCAC00002,,Chemistry (II),化學(二),30,18,F78-SC207[GF],3.0,3.0,李大偉,,1
+1111,516803.0,SCAC00008,,Physics Labs. (1),物理實驗(一),56,54,Wn56-SA014[GF],1.0,3.0,謝東儒、鍾介文,,1
+1111,516804.0,SCAC00003,,Chemistry Labs. (1),化學實驗(一),55,50,R234-SB119[GF],1.0,3.0,刁維光,,1
+1111,516805.0,SCAC00005,,Mentor's Hours,導師時間,Unlimited,50,W78-SB201[GF],0.0,2.0,張君輔,,1
+1111,516806.0,SCAC20015,,Introduction to Computer Science (1),計算機概論(一),60,53,T2R56-CS-PC4[GF],3.0,3.0,李大偉,,2
+1111,516807.0,SCAC10012,,Organic Chemistry (Ｉ),有機化學(一),60,61,M34W34-SB211[GF],4.0,4.0,孫仲銘,,1
+1111,516808.0,SCAC10014,,Organic Chemistry Labs. (Ｉ),有機化學實驗(一),50,55,R4n5678-SB120[GF],2.0,6.0,孫仲銘,,1
+1111,516809.0,SCAC10005,,Applied Mathematics,應用數學,60,60,T34F2-SC159[GF],3.0,3.0,魏恆理,,1
+1111,516810.0,SCAC10018,,Physical Chemistry(I),物理化學(一),60,63,T56R23-SC159[GF],4.0,4.0,王建隆,,1
+1111,516811.0,SCAC00007,,Service Learning II,服務學習(二),Unlimited,45,M56-SB202[GF],2.0,2.0,詹揚翔,,2
+1111,516812.0,SCAC10016,,Inorganic Chemistry (1),無機化學(一),60,62,T34R2-SB210[GF],3.0,3.0,郭俊宏,,1
+1111,516813.0,SCAC10002,,Analytical Chemistry (2),分析化學(二),60,55,M56T5-SB211[GF],3.0,3.0,陳月枝,,1
+1111,516814.0,SCAC10021,,Experiments in Physical Chemistry (II),物化實驗(二),26,32,Rn567-SB219[GF],1.0,4.0,吳慶昇,,1
+1111,516815.0,SCAC10021,,Experiments in Physical Chemistry (II),物化實驗(二),26,21,R89ab-SB219[GF],1.0,4.0,吳慶昇,,1
+1111,516816.0,SCAC20017,,Polymer Chemistry (I),高分子化學 (一),Unlimited,26,T67R8-SB211[GF],3.0,3.0,張佳智,,2
+1111,516817.0,SCAC20010,,Physical Chemistry (III),物理化學(三),70,74,"F4-SC157[GF],M34-SC159[GF]",3.0,3.0,曾建銘,,2
+1111,516818.0,SCAC20002,,Special Topics of Analytical Chemistry - Communicating Science,分析化學特論-科學研究方法,10,10,W234-EO615[GF],3.0,3.0,許馨云,,2
+1111,516819.0,SCAC00001,,Chemistry (I),化學(一),Unlimited,18,T56F1-SB203[GF],3.0,3.0,魏恆理,,1
+1111,516820.0,SCAC00003,,Chemistry Labs. (1),化學實驗(一),Unlimited,8,T234-SB119[GF],1.0,3.0,黃立心,,1
+1111,516821.0,SCAC10006,,Seminar A (I),書報討論A(一),25,25,W34-SB201[GF],1.0,2.0,鄭彥如,,1
+1111,516822.0,SCAC10008,,Seminar B (I),書報討論B(一),17,24,R34-SB201[GF],1.0,2.0,曾建銘,,1
+1111,517400.0,MGEM10001,,Mentor's Hours,導師時間,Unlimited,80,W78-MB520[GF],0.0,2.0,工管系,,2
+1111,517401.0,MGEM20008,,Introduction to Industrial Engineering and Management,工業工程與管理概論,Unlimited,84,R67-MB520[GF],3.0,3.0,張永佳,,1
+1111,517403.0,MGEM10006,,Manufacturing Processes,製造程序,Unlimited,69,M567-MB405[GF],3.0,3.0,林義貴,,1
+1111,517404.0,MGEM20013,,Facility Planning,設施規劃,70,70,M567-MB520[GF],3.0,3.0,陳文智,,1
+1111,517405.0,MGEM20002,,Human Factors Engineering,人因工程,80,98,F234-MB520[GF],3.0,3.0,陳亭志,,1
+1111,517406.0,MGEM20004,,Quality Management,品質管理,Unlimited,81,R34-MB520[GF],3.0,3.0,張永佳,,1
+1111,517407.0,MGEM20003,,Global Logistics Management,全球運籌管理,Unlimited,38,R567-MB405[GF],3.0,3.0,林義貴,,2
+1111,517408.0,MGEM20009,,Industrial Practice,工業工程與管理實務,Unlimited,51,T56W2-MB506[GF],2.0,3.0,劉建良,,1
+1111,517409.0,MGEM20007,,Independent Study (II),工業工程與管理專題研討（二）,Unlimited,51,,3.0,3.0,工管系,,2
+1111,517410.0,MGCM10007,,Production and Operation Management,生產與作業管理,80,90,W234-MB520[GF],3.0,3.0,王志軒,,1
+1111,517411.0,MGEM20016,,Cognitive and Organizational Ergonomics,認知與組織人因工程,Unlimited,8,M234-MB418[GF],3.0,3.0,賴學儀,,2
+1111,517412.0,MGEM10004,,Service Learning I,服務學習(一),Unlimited,81,,0.0,1.0,工管系,,1
+1111,410000.0,BTBT10028,,Physics(I),物理(一),Unlimited,66,T7F34-SC159[GF],3.0,3.0,張正宏,,1
+1111,410001.0,BTBT10032,,Physics Labs. (I),物理實驗（一）,56,20,R234-SA014[GF],1.0,3.0,劉宗哲,,1
+1111,410002.0,BTBT10032,,Physics Labs. (I),物理實驗（一）,56,37,R234-SA014[GF],1.0,3.0,劉宗哲,,1
+1111,410003.0,BTBT10007,,Chemistry,化學,Unlimited,30,M789-SC109[GF],3.0,3.0,王雲銘、尤禎祥,,1
+1111,410004.0,BTBT10007,,Chemistry,化學,Unlimited,49,M789-SC151[GF],3.0,3.0,李明家、張晉源,,1
+1111,410005.0,BTBT10008,,Chemistry Labs.,化學實驗,Unlimited,25,R567-SB119[GF],1.0,3.0,黃立心,,1
+1111,410006.0,BTBT10008,,Chemistry Labs.,化學實驗,Unlimited,26,M234-SB119[GF],1.0,3.0,劉學儒,,1
+1111,410007.0,BTBT10014,,"General Biology
+[ECE,COS,CHK] I",普通生物學（一）,90,82,"W5-SA320[GF],M34-SC106[GF]",3.0,3.0,林勇欣、趙啟宏、蘇昱誠,,1
+1111,410008.0,BTBT10014,,"General Biology
+[ECE,COS,CHK] I",普通生物學（一）,90,83,W6R56-SA320[GF],3.0,3.0,林勇欣、鄒協成、莊碧簪,,1
+1111,410009.0,BTBT10017,,General Biology Lab.(I),普通生物學實驗(一),Unlimited,11,M9ab-,1.0,3.0,陳文亮,,1
+1111,410010.0,BTBT00006,,Career Planning and Mentor's Hours,生涯規劃及導師時間,Unlimited,55,W78-SC105[GF],0.0,2.0,生科系,,1
+1111,410011.0,BTBT00006,,Career Planning and Mentor's Hours,生涯規劃及導師時間,Unlimited,21,W78-SC109[GF],0.0,2.0,生科系,,1
+1111,410012.0,BTBT10054,,Introduction to Computaional Biology,計算生物概論,Unlimited,81,F56-A103[GF],2.0,2.0,朱智瑋、林峻宇,,1
+1111,410013.0,BTBT10023,,Organic Chemistry (II),有機化學（二）,Unlimited,24,T56R34-ED102[GF],4.0,4.0,莊士卿,,2
+1111,410014.0,BTBT10034,,Biochemistry (I),生物化學（一）,40,40,M2W34-SC105[GF],3.0,3.0,吳東昆、楊裕雄、張晉源,,1
+1111,410015.0,BTBT10034,,Biochemistry (I),生物化學（一）,40,25,M2W34-SC110[GF],3.0,3.0,蕭育源、高智飛,,1
+1111,410016.0,BTBT10034,,Biochemistry (I),生物化學（一）,30,28,M3F78-SC158[GF],3.0,3.0,蘭宜錚,,1
+1111,410017.0,BTBT00003,,Service Learning II,服務學習(二),Unlimited,71,M9Fn-SC152[GF],1.0,2.0,陳文亮、林奇宏、吳妍華,,1
+1111,410018.0,BTBT10042,,Introduction to Biotechnology (I),生物科技概論(一),120,137,T2-,1.0,1.0,蘭宜錚,,1
+1111,410019.0,BTBT10036,,Biochemistry lab.,生物化學實驗,45,27,R567-,1.0,3.0,吳東昆,,1
+1111,410020.0,BTBT10036,,Biochemistry lab.,生物化學實驗,45,45,R567-,1.0,3.0,張晉源,,1
+1111,410021.0,BTBT10026,,Physical Chemistry(I),物理化學(一),Unlimited,27,W56R2-SC105[GF],3.0,3.0,高雅婷,,2
+1111,410022.0,BTBT10024,,Organic Chemistry Lab. (I),有機化學實驗（一）,Unlimited,52,M4n5678-,2.0,6.0,蒙國光,,2
+1111,410023.0,BTBT10060,,Genetics,遺傳學,Unlimited,52,R34F2-SC151[GF],3.0,3.0,莊碧簪、黃兆祺、林勇欣,,2
+1111,410024.0,BTBT10048,,Programming Language and Exercise,程式語言及演習,40,8,T34R89-CS-PC3[GF],3.0,4.0,陸志豪,,1
+1111,410025.0,BTBT20002,,Instrumental Analysis,儀器分析,30,11,M3W23-BI302[BA],3.0,3.0,李明家,,2
+1111,410026.0,BTBT20023,,Microbiology Lab.,微生物學實驗,20,5,Wn56-,1.0,3.0,曾慶平、麥如村,,2
+1111,410027.0,BTBT20052,,Cell Biology (I),細胞生物學(一),80,58,F34-SC106[GF],2.0,2.0,梁美智、邱光裕、趙啟宏,,2
+1111,410028.0,BTBT20005,,Molecular Biology (II),分子生物學(二),40,43,M4W56-SC160[GF],3.0,3.0,廖光文、蕭育源、黃兆祺,,2
+1111,410030.0,BTBT20018,,Research(II),專題研究(二),Unlimited,36,,1.0,3.0,生科系,,2
+1111,410031.0,BTBT20008,,Synthetic Biology(I),合成生物學(一),Unlimited,58,U123-SC151[GF],3.0,3.0,陳文亮、李曉青,,2
+1111,410032.0,BTBT20035,,Physiology (I),生理學(一),60,59,M56-SC106[GF],2.0,2.0,林志生、曲在雯,,2
+1111,410033.0,BTBT20020,,Research(IV),專題研究(四),Unlimited,19,,1.0,3.0,生科系,,2
+1111,410034.0,BTBT20049,,Neurobiology (I),神經生物學(一),Unlimited,46,R34-SC109[GF],2.0,2.0,莊碧簪、黃植懋、高智飛,,2
+1111,514100.0,HSFL10023,,English Composition (1) A,英文作文(一) A組,18,19,M34-HC401[GF],2.0,2.0,朱品璇,,1
+1111,514101.0,HSFL10024,,English Composition (1) B,英文作文(一) B組,18,18,M34-HC402[GF],2.0,2.0,盧郁安,,1
+1111,514102.0,HSFL10025,,English Composition (1) C,英文作文(一) C組,18,19,M34-HC404[GF],2.0,2.0,胡心瑜,,1
+1111,514103.0,HSFL10015,,Freshman English (1):an Introductory Approach to Literature,大一英文(一)：文學作品導讀,Unlimited,53,W234-F210[GF],3.0,3.0,楊雅筑,,1
+1111,514104.0,HSFL10032,,Introduction to Linguistics (1),語言學概論(一),80,76,R34-F210[GF],2.0,2.0,盧郁安,,1
+1111,514105.0,HSFL10020,,Service Learning (I),服務學習(一),Unlimited,50,S1-,0.0,1.0,盧郁安、胡心瑜,,1
+1111,514106.0,HSFL10019,,Mentor's Hours,導師時間,Unlimited,51,W78-,0.0,2.0,劉辰生,,1
+1111,514107.0,HSFL20015,,English Literature (1),英國文學(一),Unlimited,57,T567-F210[GF],3.0,3.0,胡心瑜,,1
+1111,514108.0,HSFL20021,,Advanced Writing (1) A,高級寫作(一) A組,18,16,W234-HC402[GF],3.0,3.0,辜崇豪,,1
+1111,514109.0,HSFL20022,,Advanced Writing (1) B,高級寫作(一) B組,18,18,W234-F203[GF],3.0,3.0,劉啟明,,1
+1111,514110.0,HSFL20023,,Advanced Writing (1) C,高級寫作(一) C組,18,17,W234-F322[GF],3.0,3.0,潘荷仙,,1
+1111,514111.0,HSFL20027,,Advanced Translation A,高級翻譯 A組,27,24,R34-HC104[GF],2.0,2.0,陳韙寧,,1
+1111,514112.0,HSFL20028,,Advanced Translation B,高級翻譯 B組,27,27,R34-HC402[GF],2.0,2.0,吳煒聲,,1
+1111,514113.0,HSFL20018,,Phonetics/Phonology,語音學/音韻學,Unlimited,54,R567-F210[GF],3.0,3.0,李相任,,1
+1111,514114.0,HSFL10009,,Elementary French (1),初級法文(一),18,7,M56-F203[GF],2.0,2.0,楊啟嵐,,1
+1111,514115.0,HSFL10011,,Elementary Japanese (1),初級日文(一),28,28,M34-HC101[GF],2.0,2.0,王瑋婷,,1
+1111,514116.0,HSFL10007,,Elementary Spanish (I),初級西班牙文(一),22,22,M56-HC401[GF],2.0,2.0,詹閔如,,1
+1111,514117.0,HSFL20013,,American Literature (1),美國文學(一),60,54,W234-HC103[GF],3.0,3.0,包德樂,,1
+1111,514118.0,HSFL20011,,Syntax/Semantics,句法學/語意學,Unlimited,50,T234-F210[GF],3.0,3.0,劉啟明,,1
+1111,514119.0,HSFL10014,,Basic Theatre Acting Training,基礎表演,Unlimited,33,S234-,3.0,3.0,姜睿明,,2
+1111,514120.0,HSFL20003,,Intermediate French (I),中級法文(一),18,6,M78-F203[GF],2.0,2.0,楊啟嵐,,1
+1111,514121.0,HSFL20005,,Intermediate Japanese (1),中級日文(一),28,25,M56-HC402[GF],2.0,2.0,王瑋婷,,1
+1111,514122.0,HSFL10029,,"Introduction to Western Literature (1)
+[COE,COS,CBT,CHK,CI] I",西洋文學概論(一),110,88,T234-F110[GF],3.0,3.0,李家沂,,1
+1111,514123.0,HSFL20001,,Intermediate Spanish (I),中級西班牙文(一),22,14,M78-HC401[GF],2.0,2.0,詹閔如,,1
+1111,514124.0,HSFL20020,,Advanced Japanese (1),高級日文(一),28,5,M78-HC402[GF],2.0,2.0,王瑋婷,,2
+1111,514125.0,HSFL20017,,English Competence Workshop,英語能力評鑑,Unlimited,57,,1.0,1.0,楊雅筑,,1
+1111,514127.0,HSFL10034,,Communicative Skills Workshop (1): Listening and Oral Training A,傳達技巧工作坊(一)：聽講訓練A組,18,18,T567-HC402[GF],3.0,3.0,楊雅筑,,1
+1111,514128.0,HSFL10035,,Communicative Skills Workshop (1): Listening and Oral Training B,傳達技巧工作坊(一)：聽講訓練B組,18,16,T567-F203[GF],3.0,3.0,陳韙寧,,1
+1111,514129.0,HSFL10036,,Communicative Skills Workshop (1): Listening and Oral Training C,傳達技巧工作坊(一)：聽講訓練C組,18,18,T567-HC102[GF],3.0,3.0,周昭廷,,1
+1111,514130.0,HSFL10040,,Films on Filmmaking (Genre: Others),電影拍電影（文類課：其他）,Unlimited,13,R567-F326[GF],3.0,3.0,林建國,,2
+1111,514131.0,HSFL10041,,Dystopian Fiction and Film (Genre: Fiction),反烏托邦小說與電影（文類課：小說）,25,23,F234-HC402[GF],3.0,3.0,包德樂,,2
+1111,514132.0,HSFL20029,,Communicative Skills Workshop (3): Discussion and Debate A,傳達技巧工作坊(三)：討論與辯論技巧A組,18,15,F34-F206[GF],2.0,2.0,馬紹芸,,1
+1111,514133.0,HSFL20030,,Communicative Skills Workshop (3): Discussion and Debate B,傳達技巧工作坊(三)：討論與辯論技巧B組,18,18,F34-HC104[GF],2.0,2.0,林建國,,1
+1111,514134.0,HSFL20031,,Communicative Skills Workshop (3): Discussion and Debate C,傳達技巧工作坊(三)：討論與辯論技巧C組,18,18,F34-HC102[GF],2.0,2.0,朱品璇,,1
+1111,514135.0,HSFL20033,,Women Literature (Genre: Others),女性文學（文類課：其他）,15,11,T234-HC401[GF],3.0,3.0,楊雅筑,,2
+1111,514136.0,HSFL20034,,Advanced Practical Translation,高級實務翻譯,28,25,R567-HC402[GF],3.0,3.0,吳煒聲,,2
+1111,514137.0,HSFL20035,,Introduction to Sociolinguistics,社會語言學導論,30,17,F234-HC401[GF],3.0,3.0,廖秀真,,2
+1111,514138.0,HSFL20036,,Chinese Morphology,漢語構詞學,25,31,T567-HC401[GF],3.0,3.0,劉辰生,,2
+1111,310100.0,HKCT10007,,Writing for Communication,傳播寫作,45,52,T567-HK104[LJ],3.0,3.0,張玉佩,,1
+1111,310101.0,HKCT10016,,Video News Production,影音新聞實作,Unlimited,38,T567-HK114[LJ],3.0,3.0,黃靜蓉,,1
+1111,310102.0,HKCT10011,,Multi-cultures and Communication,多元文化與傳播,45,47,M567-A310[GF],3.0,3.0,李美華,,2
+1111,310103.0,HKCT20029,,Audiences and Popular Culture,閱聽人與流行文化,30,35,T234-HK104[LJ],3.0,3.0,陳維平,,2
+1111,310104.0,HKCT10010,,Web design,基礎網頁設計,45,45,M567-HK114[LJ],3.0,3.0,陳盈羽,,1
+1111,310105.0,HKCT20011,,Motion graphics,動態影像創作,45,38,W234-HK114[LJ],3.0,3.0,張宏宇,,2
+1111,310106.0,HKCT20007,,Public Relations and Strategic Planning,公關策略與媒體企劃,30,28,W234-HK104[LJ],3.0,3.0,賴至慧,,2
+1111,310107.0,HKCT00001,,Mentor's Hours,導師時間,Unlimited,38,W78-HK104[LJ],0.0,2.0,張宏宇、蔡欣怡,,1
+1111,310108.0,HKCT20022,,Final Year Projet (II),畢業專題(下),Unlimited,47,Mz1-HK104[LJ],2.0,2.0,黃靜蓉、李美華、魏玓、戴瑜慧、蔡欣怡、俞蘋、黃淑鈴、吳岱芸、游婉雲、陳盈羽,,1
+1111,310109.0,HKCT00002,,Student Service Education(I),服務學習(一),Unlimited,38,T8-HK104[LJ],1.0,1.0,蔡欣怡、張宏宇,,1
+1111,310110.0,HKCT10013,,Media Culture and Society,媒體文化與社會,50,53,R234-HKB08[LJ],3.0,3.0,黃淑鈴,,1
+1111,310111.0,HKCT20017,,Integrated Marketing Communication,整合行銷傳播,Unlimited,13,R234-HK104[LJ],3.0,3.0,游婉雲,,2
+1111,310112.0,HKCT10019,,Statistics and Statistical Computing Language,統計學,50,57,R5678-,4.0,4.0,陶振超,,1
+1111,310113.0,HKCT20002,,User Experience Research,使用者經驗研究,Unlimited,18,R567-HK123[LJ],3.0,3.0,陳盈羽,,2
+1111,310114.0,HKCT20028,,Storytelling and Narrative,說故事與敘事方法,40,41,R567-HKB08[LJ],3.0,3.0,魏玓,,2
+1111,310115.0,HKCT20015,,Media Internship(II),媒體實習(下),Unlimited,42,R8-HKB08[LJ],1.0,1.0,張宏宇、魏玓,,1
+1111,310116.0,HKCT10015,,Audio/Video Application & Production,影音原理與製作,45,45,F234-HK114[LJ],3.0,3.0,張宏宇,,1
+1111,310117.0,HKCT10012,,Media Literacy: Planning and Practice,媒體素養企劃與實作,Unlimited,34,F234-HK104[LJ],3.0,3.0,蔡欣怡,,2
+1111,310119.0,HKCT10008,,Basic Hakka Language(I),初級客語一,Unlimited,39,F567-HKB08[LJ],3.0,3.0,何純惠,,1
+1111,310120.0,HKCT20024,,Social Network Analysis,社會網絡分析,30,24,F567-HK104[LJ],3.0,3.0,賴至慧,,2
+1111,310121.0,HKCT20018,,Digital Media Practice,整合媒體專題實作,Unlimited,34,T567-HKB08[LJ],3.0,3.0,俞蘋、游婉雲,,1
+1111,516000.0,ENPN10003,,Nano and Career Planning,奈米與生涯規劃,25,25,W78-,0.0,2.0,梁美智,,1
+1111,516001.0,ENPN10008,,"General Biology
+[COE,CHK,CI] I",普通生物學,27,27,M567-,3.0,3.0,鄒協成、莊碧簪、梁美智,,1
+1111,516002.0,ENPN10001,,Chemistry (I),化學 (一),65,65,T56F2-SC204[GF],3.0,3.0,李大偉,,1
+1111,516003.0,ENPN10005,,Research (II),專題研究 (二),25,13,U567-,1.0,3.0,奈米學位學程,,2
+1111,516004.0,ENPN20002,,Research (III),專題研究 (三),25,1,U567-,1.0,3.0,奈米學位學程,,2
+1111,516006.0,ENPN10011,,Service Learning II,服務學習 (二),25,24,U78-,1.0,2.0,簡昭欣,,1
+1111,516007.0,ENPN10019,,Career Planning,生涯規劃,39,39,W78-EE102[GF],0.0,2.0,簡昭欣,,1
+1112,910012.0,SESE10055,,General Physics(2),普通物理(2),Unlimited,0,R234-,3.0,3.0,杜建明,,1
+1112,910013.0,SESE10232,,Seminar and Lab(2),基礎科學講座與實驗(2),Unlimited,0,S234567-,0.0,3.0,劉宗哲,,1
+1112,910016.0,SESE00049,,Programming Language Tutor,程式語言輔導,Unlimited,0,Fabc-,0.0,3.0,系統工程,,2
+1112,910037.0,SESE00001,,Chinese Modern History,中國現代史(含國軍建軍史),Unlimited,0,F234-,3.0,3.0,系統工程,,1
+1112,910100.0,SESE20222,,Oceanographic Surveying,海洋測量學,Unlimited,0,W678-,3.0,3.0,崔怡楓,,2
+1112,910117.0,SESE00024,,Tutor Guidance(4),導師輔導(4),Unlimited,0,M12-,0.0,2.0,黃文鍵,,1
+1112,910130.0,SESE20111,,Optoelectronic application project(4),光電應用專題實作(4),Unlimited,0,M567-,1.0,3.0,謝輝煌,,1
+1112,910163.0,SESE10066,,Thermodynamics of Materials(1),材料熱力學(1),Unlimited,0,M9T34-,3.0,3.0,王哲釧,,1
+1112,910191.0,SESE10037,,Calculus (1),微積分(1),Unlimited,0,W9abc-,4.0,4.0,張枝成,,1
+1112,910192.0,SESE20140,,Dynamics,動力學,Unlimited,0,M678-,3.0,3.0,林聰穎,,1
+1112,910194.0,SESE10231,,Engineering Mathematics(2),工程數學(2),Unlimited,0,W3F23-,3.0,3.0,張瑞永、賴渝翔,,1
+1112,910199.0,SESE10235,,Fluid Mechanics,流體力學,Unlimited,0,T3R34-,3.0,3.0,賴正權,,1
+1112,910209.0,SESE10069,,Experiment of Materials,材料實驗,Unlimited,0,W67-,1.0,2.0,蔡林昌,,1
+1112,910219.0,SESE10105,,Programming Design,程式設計,Unlimited,0,F234-,3.0,3.0,楊婷婷,,1
+1112,910220.0,SESE10122,,Window Programming,視窗程式設計,Unlimited,0,Tabc-,3.0,3.0,陳丙堃,,2
+1112,910241.0,SESE20157,,System Security Practice(2),系統安全專題實作(2),Unlimited,0,M567-,1.0,3.0,系統工程,,1
+1112,910242.0,SESE20158,,C4ISR System Practice(2),C4ISR 系統專題實作(2),Unlimited,0,M567-,1.0,3.0,劉中宇,,1
+1112,910247.0,SESE20161,,Multimedia Design Practice(2),多媒體設計專題實作(2),Unlimited,0,M567-,1.0,3.0,蔡宗憲,,1
+1112,910258.0,SESE20170,,Database Practice(4),資料庫專題實作(4),Unlimited,0,M567-,1.0,3.0,劉芳萍,,1
+1112,910286.0,SESE10165,,Fundamental of Electric Circuits (1),電路學(1),Unlimited,0,W9R12-,3.0,3.0,葉宗翰,,1
+1112,910287.0,SESE20026,,Microelectronic Technology,微電子技術,Unlimited,0,W678-,3.0,3.0,葉宗翰,,2
+1112,910325.0,SESE20146,,Automatic Control,自動控制,Unlimited,0,M34W2-,3.0,3.0,朱子文,,1
+1112,910328.0,SESE20198,,Combat System Design,載具戰鬥系統設計,Unlimited,0,W234-,3.0,3.0,李永隆,,2
+1112,910337.0,SESE20202,,Weapons Design Practice,兵器設計實務,Unlimited,0,T234-,3.0,3.0,系統工程,,2
+1112,910339.0,SESE10140,,Automotive Sensors and Control,車輛感測元件與控制,Unlimited,0,W678-,3.0,3.0,蘭真,,2
+1112,910340.0,SESE10143,,Vehicle's Triboloical System Design,車輛磨潤系統設計,Unlimited,0,T34R1-,3.0,3.0,黃寶錩,,2
+1112,910341.0,SESE20203,,Internal Combustion Engine Testing,內燃機實務,Unlimited,0,R234-,1.0,3.0,周志正,,1
+1112,910342.0,SESE20204,,Simple Vehicle Design and Manufacture Project(2),車輛設計製造專題實作(2),Unlimited,0,M567-,1.0,3.0,宋易哲,,1
+1112,910383.0,SESE20228,,Special Topics in Integration of Disaster Prevention and Protection(2),災害防救整合專題實作(2),Unlimited,0,M567-,1.0,3.0,李宏輝,,1
+1112,910391.0,SESE00024,,Tutor Guidance(4),導師輔導(4),Unlimited,0,M12-,0.0,2.0,曾有志,,1
+1112,910392.0,SESE00024,,Tutor Guidance(4),導師輔導(4),Unlimited,0,M12-,0.0,2.0,劉宗龍,,1
+1112,910423.0,SESE00055,,Financial Management,財務管理 ,Unlimited,0,T67-,2.0,2.0,系統工程,,2
+1112,515607.0,CSCS20015,,Introduction to Cryptography,密碼學概論,130,0,F56-ED117[GF],3.0,3.0,易志偉,,2
+1112,515608.0,CSCS10017,,Signals and Systems,訊號與系統,50,0,M34-EC016[GF],3.0,3.0,蕭子健,,2
+1112,515619.0,CSCS20038,,Network Planning and Management Practices,網路規劃與管理實務,50,0,"R34n-EC315[GF],R34n-EC316[GF],R34n-EC324[GF]",3.0,3.0,曾建超,,2
+1112,515622.0,CSCS10022,,Introduction to Database Systems,資料庫系統概論,100,0,F34-EC015[GF],3.0,3.0,彭文志,,2
+1112,515623.0,CSCS10029,,Biomedical Informatics Cross-Disciplinary Projects (II),生醫資訊跨領域專題(二),0,0,,2.0,2.0,資工系,,1
+1112,516222.0,ENCV10016,,Fluid Mechanics,流體力學,45,0,W234-EB118[GF],3.0,3.0,趙韋安,,1
+1112,516237.0,ENCV20027,,Field Practice,校外實習,Unlimited,0,,6.0,6.0,楊尊華,,2
+1112,516238.0,ENCV20038,,Surveying and Geospatial Information Technology in Engineering Applications,空間資訊繪測技術於工程之應用,50,0,W4R56-EB108[GF],3.0,3.0,莊子毅,,2
+1112,516239.0,ENCV20035,,Computer Application in Construction Management,電腦應用於營建管理,40,0,T234-EB108[GF],3.0,3.0,曾仁杰,,2
+1112,516823.0,SCAC10007,,Seminar A (2),書報討論A(二),22,0,R34-SB203[GF],1.0,2.0,莊士卿,,1
+1112,516824.0,SCAC10009,,Seminar B (2),書報討論B(二),22,0,M34-SB201[GF],1.0,2.0,曾建銘,,1
+1112,516825.0,SCAC20005,,Research(3),專題研究(三),0,0,S234-,1.0,3.0,吳淑褓,,2
+1112,516826.0,SCAC20007,,Integrated Chemistry Laboratory,整合型化學實驗,10,0,R567-SB321[GF],3.0,3.0,黃立心,,2
+1112,516827.0,SCAC20018,,Principles and Practice of Virtual Chemistry Labs,虛擬化學實驗的原理與實踐,30,0,F56-,2.0,2.0,李大偉,,2
+1112,517402.0,MGEM10002,,Engineering Graphics,工程圖學,60,0,"W7-MB415[GF],W56-MB520[GF]",1.0,3.0,黃博滄,,1
+1112,410029.0,BTBT20032,,Physical Chemistry (III),物理化學(三),Unlimited,0,W56R8-,3.0,3.0,朱智瑋,,2
+1112,410035.0,BTBT20050,,Neurobiology (II),神經生物學(二),Unlimited,0,R34-SC109[GF],2.0,2.0,曲在雯、黃植懋、莊碧簪、高智飛,,2
+1112,410058.0,BTBT00002,,Service Learning I,服務學習(一),Unlimited,0,Wab-SC109[GF],1.0,2.0,陳文亮、謝仁俊、林奇宏、吳妍華,,1
+1112,410071.0,BTBT30008,,Immunology,免疫學,Unlimited,0,F567-BI310[BA],3.0,3.0,廖光文、鄒協成,,2
+1112,516005.0,ENPN10006,,Research (Ⅰ),專題研究(一),Unlimited,0,,1.0,3.0,奈米學位學程,,2
+1112,516008.0,ENPN20003,,Research (IV),專題研究 (四),Unlimited,0,,1.0,3.0,奈米學位學程,,2
+1112,516009.0,ENPN10003,,Nano and Career Planning,奈米與生涯規劃,25,0,,0.0,2.0,梁美智,,1
+1112,516010.0,ENPN10019,,Career Planning,生涯規劃,40,0,W78-EE102[GF],0.0,2.0,簡昭欣,,1
+1112,516011.0,ENPN10017,,Modern Physics,近代物理,30,0,F234-SC206[GF],3.0,3.0,梁興弛,,1
+1112,516012.0,ENPN10020,,Linear Algebra,線性代數,64,0,M5W56-ED103[GF],3.0,3.0,桑梓賢,,1

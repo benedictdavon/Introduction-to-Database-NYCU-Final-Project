@@ -1,0 +1,297 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+CEE,515100.0,EEEC10007,,"Probability
+ENG",機率(英文班),55,0.0,T56F2-ED103[GF],3.0,3.0,高榮鴻,Required
+CEE,515102.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED301[GF],3.0,3.0,林詩淳,Required
+CEE,515103.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED201[GF],3.0,3.0,簡鳳村,Required
+CEE,515104.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED219[GF],3.0,3.0,陳信宏,Required
+CEE,515105.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED303[GF],3.0,3.0,陳稷康,Required
+CEE,515106.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-EDB26[GF],3.0,3.0,陸曉峰,Required
+CEE,515107.0,EEEC10035,,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED101[GF],3.0,3.0,胡樹,Required
+CEE,515108.0,EEEC10035,,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED219[GF],3.0,3.0,黃謀勤,Required
+CEE,515109.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-EE209[GF],3.0,3.0,邱一,Required
+CEE,515110.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED203[GF],3.0,3.0,唐震寰,Required
+CEE,515111.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED303[GF],3.0,3.0,黃瑞彬,Required
+CEE,515112.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED301[GF],3.0,3.0,蔡作敏,Required
+CEE,515113.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED201[GF],3.0,3.0,郭建男,Required
+CEE,515134.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED203[GF],3.0,4.0,李義明,Required
+CEE,515136.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE102[GF],3.0,4.0,洪浩喬,Required
+CEE,515137.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE105[GF],3.0,4.0,陳科宏,Required
+CEE,515138.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED116[GF],3.0,4.0,陳巍仁,Required
+CEE,515139.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE209[GF],3.0,4.0,董蘭榮,Required
+CEE,515140.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED201[GF],3.0,4.0,蔡嘉明,Required
+CEE,515141.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,王夢偉,Required
+CEE,515142.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,王夢偉,Required
+CEE,515143.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,林容瑋、陳柏宏、柯明道,Required
+CEE,515144.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,陳建安、陳柏宏、柯明道,Required
+CEE,515145.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,陳立洲,Required
+CEE,515146.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,陳立洲,Required
+CEE,515186.0,EEEC10011,,"Linear Algebra
+ENG",線性代數(英文班),35,0.0,F234-EE118[GF],3.0,3.0,林源倍,Required
+CEE,515187.0,EEEC10011,,"Linear Algebra
+",線性代數(英文班),35,0.0,T34R7-ED101[GF],3.0,3.0,馮智豪,Required
+CEE,515188.0,EEEC10010,,"Linear Algebra
+",線性代數,Unlimited,0.0,T34R7-ED303[GF],3.0,3.0,吳卓諭,Required
+CEE,515189.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-EE207[GF],3.0,3.0,李慶鴻,Required
+CEE,515190.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED116[GF],3.0,3.0,桑梓賢,Required
+CEE,515191.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED203[GF],3.0,3.0,李佳翰,Required
+CEE,515192.0,EEEC10017,,"Signals and Systems
+ENG",訊號與系統 (英文班),50,0.0,M34W2-EE105[GF],3.0,3.0,羅佩禎,Required
+CEE,515193.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED103[GF],3.0,3.0,王忠炫,Required
+CEE,515194.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED203[GF],3.0,3.0,張文輝,Required
+CEE,515195.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,"M34-EE207[GF],W2-EE208[GF]",3.0,3.0,蔡尚澕,Required
+CEE,515196.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED116[GF],3.0,3.0,鄭耿璽,Required
+CEE,515197.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED303[GF],3.0,3.0,賴青沂,Required
+DCE,515100.0,EEEC10007,,"Probability
+ENG",機率(英文班),55,0.0,T56F2-ED103[GF],3.0,3.0,高榮鴻,Required
+DCE,515102.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED301[GF],3.0,3.0,林詩淳,Required
+DCE,515103.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED201[GF],3.0,3.0,簡鳳村,Required
+DCE,515104.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED219[GF],3.0,3.0,陳信宏,Required
+DCE,515105.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED303[GF],3.0,3.0,陳稷康,Required
+DCE,515106.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-EDB26[GF],3.0,3.0,陸曉峰,Required
+DCE,515107.0,EEEC10035,,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED101[GF],3.0,3.0,胡樹,Required
+DCE,515108.0,EEEC10035,,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED219[GF],3.0,3.0,黃謀勤,Required
+DCE,515109.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-EE209[GF],3.0,3.0,邱一,Required
+DCE,515110.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED203[GF],3.0,3.0,唐震寰,Required
+DCE,515111.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED303[GF],3.0,3.0,黃瑞彬,Required
+DCE,515112.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED301[GF],3.0,3.0,蔡作敏,Required
+DCE,515113.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED201[GF],3.0,3.0,郭建男,Required
+DCE,515134.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED203[GF],3.0,4.0,李義明,Required
+DCE,515136.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE102[GF],3.0,4.0,洪浩喬,Required
+DCE,515137.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE105[GF],3.0,4.0,陳科宏,Required
+DCE,515138.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED116[GF],3.0,4.0,陳巍仁,Required
+DCE,515139.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE209[GF],3.0,4.0,董蘭榮,Required
+DCE,515140.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED201[GF],3.0,4.0,蔡嘉明,Required
+DCE,515141.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,王夢偉,Required
+DCE,515142.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,王夢偉,Required
+DCE,515143.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,林容瑋、陳柏宏、柯明道,Required
+DCE,515144.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,陳建安、陳柏宏、柯明道,Required
+DCE,515145.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,陳立洲,Required
+DCE,515146.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,陳立洲,Required
+DCE,515186.0,EEEC10011,,"Linear Algebra
+ENG",線性代數(英文班),35,0.0,F234-EE118[GF],3.0,3.0,林源倍,Required
+DCE,515187.0,EEEC10011,,"Linear Algebra
+",線性代數(英文班),35,0.0,T34R7-ED101[GF],3.0,3.0,馮智豪,Required
+DCE,515188.0,EEEC10010,,"Linear Algebra
+",線性代數,Unlimited,0.0,T34R7-ED303[GF],3.0,3.0,吳卓諭,Required
+DCE,515189.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-EE207[GF],3.0,3.0,李慶鴻,Required
+DCE,515190.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED116[GF],3.0,3.0,桑梓賢,Required
+DCE,515191.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED203[GF],3.0,3.0,李佳翰,Required
+DCE,515192.0,EEEC10017,,"Signals and Systems
+ENG",訊號與系統 (英文班),50,0.0,M34W2-EE105[GF],3.0,3.0,羅佩禎,Required
+DCE,515193.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED103[GF],3.0,3.0,王忠炫,Required
+DCE,515194.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED203[GF],3.0,3.0,張文輝,Required
+DCE,515195.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,"M34-EE207[GF],W2-EE208[GF]",3.0,3.0,蔡尚澕,Required
+DCE,515196.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED116[GF],3.0,3.0,鄭耿璽,Required
+DCE,515197.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED303[GF],3.0,3.0,賴青沂,Required
+DEO,515100.0,EEEC10007,,"Probability
+ENG",機率(英文班),55,0.0,T56F2-ED103[GF],3.0,3.0,高榮鴻,Required
+DEO,515102.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED301[GF],3.0,3.0,林詩淳,Required
+DEO,515103.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED201[GF],3.0,3.0,簡鳳村,Required
+DEO,515104.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED219[GF],3.0,3.0,陳信宏,Required
+DEO,515105.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED303[GF],3.0,3.0,陳稷康,Required
+DEO,515106.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-EDB26[GF],3.0,3.0,陸曉峰,Required
+DEO,515107.0,EEEC10035,,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED101[GF],3.0,3.0,胡樹,Required
+DEO,515108.0,EEEC10035,,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED219[GF],3.0,3.0,黃謀勤,Required
+DEO,515109.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-EE209[GF],3.0,3.0,邱一,Required
+DEO,515110.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED203[GF],3.0,3.0,唐震寰,Required
+DEO,515111.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED303[GF],3.0,3.0,黃瑞彬,Required
+DEO,515112.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED301[GF],3.0,3.0,蔡作敏,Required
+DEO,515113.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED201[GF],3.0,3.0,郭建男,Required
+DEO,515134.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED203[GF],3.0,4.0,李義明,Required
+DEO,515136.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE102[GF],3.0,4.0,洪浩喬,Required
+DEO,515137.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE105[GF],3.0,4.0,陳科宏,Required
+DEO,515138.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED116[GF],3.0,4.0,陳巍仁,Required
+DEO,515139.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE209[GF],3.0,4.0,董蘭榮,Required
+DEO,515140.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED201[GF],3.0,4.0,蔡嘉明,Required
+DEO,515141.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,王夢偉,Required
+DEO,515142.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,王夢偉,Required
+DEO,515143.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,林容瑋、陳柏宏、柯明道,Required
+DEO,515144.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,陳建安、陳柏宏、柯明道,Required
+DEO,515145.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,陳立洲,Required
+DEO,515146.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,陳立洲,Required
+DEO,515186.0,EEEC10011,,"Linear Algebra
+ENG",線性代數(英文班),35,0.0,F234-EE118[GF],3.0,3.0,林源倍,Required
+DEO,515187.0,EEEC10011,,"Linear Algebra
+",線性代數(英文班),35,0.0,T34R7-ED101[GF],3.0,3.0,馮智豪,Required
+DEO,515188.0,EEEC10010,,"Linear Algebra
+",線性代數,Unlimited,0.0,T34R7-ED303[GF],3.0,3.0,吳卓諭,Required
+DEO,515189.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-EE207[GF],3.0,3.0,李慶鴻,Required
+DEO,515190.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED116[GF],3.0,3.0,桑梓賢,Required
+DEO,515191.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED203[GF],3.0,3.0,李佳翰,Required
+DEO,515192.0,EEEC10017,,"Signals and Systems
+ENG",訊號與系統 (英文班),50,0.0,M34W2-EE105[GF],3.0,3.0,羅佩禎,Required
+DEO,515193.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED103[GF],3.0,3.0,王忠炫,Required
+DEO,515194.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED203[GF],3.0,3.0,張文輝,Required
+DEO,515195.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,"M34-EE207[GF],W2-EE208[GF]",3.0,3.0,蔡尚澕,Required
+DEO,515196.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED116[GF],3.0,3.0,鄭耿璽,Required
+DEO,515197.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED303[GF],3.0,3.0,賴青沂,Required
+UEE,515100.0,EEEC10007,,"Probability
+ENG",機率(英文班),55,0.0,T56F2-ED103[GF],3.0,3.0,高榮鴻,Required
+UEE,515102.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED301[GF],3.0,3.0,林詩淳,Required
+UEE,515103.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED201[GF],3.0,3.0,簡鳳村,Required
+UEE,515104.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED219[GF],3.0,3.0,陳信宏,Required
+UEE,515105.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-ED303[GF],3.0,3.0,陳稷康,Required
+UEE,515106.0,EEEC10006,,"Probability
+",機率,55,0.0,T56F2-EDB26[GF],3.0,3.0,陸曉峰,Required
+UEE,515107.0,EEEC10035,,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED101[GF],3.0,3.0,胡樹,Required
+UEE,515108.0,EEEC10035,,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED219[GF],3.0,3.0,黃謀勤,Required
+UEE,515109.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-EE209[GF],3.0,3.0,邱一,Required
+UEE,515110.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED203[GF],3.0,3.0,唐震寰,Required
+UEE,515111.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED303[GF],3.0,3.0,黃瑞彬,Required
+UEE,515112.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED301[GF],3.0,3.0,蔡作敏,Required
+UEE,515113.0,EEEC10032,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED201[GF],3.0,3.0,郭建男,Required
+UEE,515134.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED203[GF],3.0,4.0,李義明,Required
+UEE,515136.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE102[GF],3.0,4.0,洪浩喬,Required
+UEE,515137.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE105[GF],3.0,4.0,陳科宏,Required
+UEE,515138.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED116[GF],3.0,4.0,陳巍仁,Required
+UEE,515139.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE209[GF],3.0,4.0,董蘭榮,Required
+UEE,515140.0,EEEC10028,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED201[GF],3.0,4.0,蔡嘉明,Required
+UEE,515141.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,王夢偉,Required
+UEE,515142.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,王夢偉,Required
+UEE,515143.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,林容瑋、陳柏宏、柯明道,Required
+UEE,515144.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,陳建安、陳柏宏、柯明道,Required
+UEE,515145.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,陳立洲,Required
+UEE,515146.0,EEEC10031,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,陳立洲,Required
+UEE,515186.0,EEEC10011,,"Linear Algebra
+ENG",線性代數(英文班),35,0.0,F234-EE118[GF],3.0,3.0,林源倍,Required
+UEE,515187.0,EEEC10011,,"Linear Algebra
+",線性代數(英文班),35,0.0,T34R7-ED101[GF],3.0,3.0,馮智豪,Required
+UEE,515188.0,EEEC10010,,"Linear Algebra
+",線性代數,Unlimited,0.0,T34R7-ED303[GF],3.0,3.0,吳卓諭,Required
+UEE,515189.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-EE207[GF],3.0,3.0,李慶鴻,Required
+UEE,515190.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED116[GF],3.0,3.0,桑梓賢,Required
+UEE,515191.0,EEEC10010,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED203[GF],3.0,3.0,李佳翰,Required
+UEE,515192.0,EEEC10017,,"Signals and Systems
+ENG",訊號與系統 (英文班),50,0.0,M34W2-EE105[GF],3.0,3.0,羅佩禎,Required
+UEE,515193.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED103[GF],3.0,3.0,王忠炫,Required
+UEE,515194.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED203[GF],3.0,3.0,張文輝,Required
+UEE,515195.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,"M34-EE207[GF],W2-EE208[GF]",3.0,3.0,蔡尚澕,Required
+UEE,515196.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED116[GF],3.0,3.0,鄭耿璽,Required
+UEE,515197.0,EEEC10016,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED303[GF],3.0,3.0,賴青沂,Required

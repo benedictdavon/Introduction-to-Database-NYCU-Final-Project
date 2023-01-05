@@ -1,0 +1,77 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+DBT,410000.0,BTBT10030,,"Physics(II)
+",物理(二),Unlimited,0.0,T7F34-SC106[GF],3.0,3.0,張正宏,Required
+DBT,410001.0,BTBT10015,,"General Biology (II)
+GECL[ECE,COE,COS,CHK,CI] GECIDAST",普通生物學（二）,90,10.0,Wn56-SA320[GF],3.0,3.0,廖光文、曲在雯、何奕儒,Required
+DBT,410002.0,BTBT10015,,"General Biology (II)
+GECL[ECE,COE,COS,CHK,CI] GECIDASTENG",普通生物學（二）,Unlimited,0.0,Wn56-SC109[GF],3.0,3.0,趙啟宏,Required
+DBT,410003.0,BTBT10018,,"General Biology Lab.(II)
+",普通生物學實驗二,12,10.0,M9ab-SC212[GF],1.0,3.0,陳文亮,Required
+DBT,410004.0,BTBT10016,,"General Biology Lab.
+",普通生物學實驗,45,0.0,R567-SC210[GF],1.0,3.0,林苕吟,Required
+DBT,410005.0,BTBT10016,,"General Biology Lab.
+",普通生物學實驗,45,0.0,R567-SC212[GF],1.0,3.0,陳文亮,Required
+DBT,410006.0,BTBT10021,,"Organic Chmistry (I)
+",有機化學（一）,Unlimited,21.0,T56R12-SB210[GF],4.0,4.0,吳彥谷,Required
+DBT,410007.0,BTBT00006,,"Career Planning and Mentor's Hours
+",生涯規劃及導師時間,Unlimited,0.0,W78-SC109[GF],0.0,2.0,生科系,Required
+DBT,410008.0,BTBT00006,,"Career Planning and Mentor's Hours
+",生涯規劃及導師時間,Unlimited,0.0,W78-SC110[GF],0.0,2.0,生科系,Required
+DBT,410009.0,BTBT10005,,"Analytical Chemistry
+",分析化學,70,22.0,M34n-SC157[GF],3.0,3.0,林苕吟、王雲銘、李明家,Elective
+DBT,410010.0,BTBT10048,,"Programming Language and Exercise
+",程式語言及演習,45,0.0,M78F78-,3.0,4.0,羅惟正,Required
+DBT,410011.0,BTBT10044,,"Introduction to Biotechnology (II)
+GECL[ECE,CCS] GECIDLDAST",生物科技概論(二),120,0.0,W2-,1.0,1.0,蘭宜錚,Required
+DBT,410012.0,BTBT10002,,"Molecular Biology (I)
+",分子生物學(一),50,0.0,M4T34-EE132[GF],3.0,3.0,鄒協成、邱光裕、趙啟宏,Required
+DBT,410013.0,BTBT10002,,"Molecular Biology (I)
+",分子生物學(一),50,0.0,M4T34-,3.0,3.0,蕭育源、彭慧玲、高智飛,Required
+DBT,410014.0,BTBT10003,,"Molecular Biology Lab.
+",分子生物學實驗,45,0.0,R567-SC256[GF],1.0,3.0,吳東昆,Required
+DBT,410015.0,BTBT10003,,"Molecular Biology Lab.
+",分子生物學實驗,45,0.0,R567-SC258[GF],1.0,3.0,張晉源,Required
+DBT,410016.0,BTBT10035,,"Biochemistry (II)
+",生物化學（二）,50,0.0,M2W34-SC105[GF],3.0,3.0,吳東昆、楊裕雄、張晉源,Required
+DBT,410017.0,BTBT10035,,"Biochemistry (II)
+",生物化學（二）,50,0.0,T2R34-SC152[GF],3.0,3.0,蘭宜錚,Required
+DBT,410018.0,BTBT10027,,"Physical Chemistry (II)
+",物理化學(二),Unlimited,0.0,R2F56-SC157[GF],3.0,3.0,高雅婷,Elective
+DBT,410019.0,BTBT10013,,"Research(I)
+",專題研究(一),Unlimited,0.0,,1.0,3.0,生科系,Elective
+DBT,410020.0,BTBT20010,,"Synthetic Biology Lab.(II)
+",合成生物實驗(二),Unlimited,0.0,U1234-,1.0,4.0,李曉青、謝仁俊、陳文亮,Elective
+DBT,410021.0,BTBT20011,,"Optimal Design of Genetic Engineering
+",基因工程最佳化設計,Unlimited,0.0,U567-,3.0,3.0,李曉青、陳文亮,Elective
+DBT,410022.0,BTBT10045,,"Programming Go Go Go
+FCQRGECL",程式設計 Go Go Go,15,0.0,T567-CS-PC3[GF],3.0,3.0,羅惟正,Elective
+DBT,410023.0,BTBT20026,,"Seminar
+",書報討論:A組,13,0.0,F34-BI301[BA],1.0,2.0,麥如村,Required
+DBT,410024.0,BTBT20027,,"Seminar
+",書報討論:B組,13,0.0,F34-BI302[BA],1.0,2.0,趙啟宏,Required
+DBT,410025.0,BTBT20028,,"Seminar
+",書報討論:C組,13,0.0,F34-BI303[BA],1.0,2.0,李明家,Required
+DBT,410026.0,BTBT20029,,"Seminar
+",書報討論:D組,13,0.0,F34-BI309[BA],1.0,2.0,邱光裕,Required
+DBT,410027.0,BTBT20030,,"Seminar
+",書報討論:E組,13,0.0,F34-BI310[BA],1.0,2.0,羅惟正,Required
+DBT,410028.0,BTBT20031,,"Seminar
+",書報討論:F組,13,0.0,F34-BI311[BA],1.0,2.0,林峻宇,Required
+DBT,410029.0,BTBT20032,,"Physical Chemistry (III)
+",物理化學(三),Unlimited,0.0,W56R8-,3.0,3.0,朱智瑋,Elective
+DBT,410030.0,BTBT20053,,"Cell Biology(II)
+",細胞生物學(二),Unlimited,0.0,F56-A307[GF],2.0,2.0,趙瑞益、黃兆祺、莊碧簪,Elective
+DBT,410031.0,BTBT20054,,"Cell Biology Lab.
+",細胞生物學實驗,30,0.0,R567-SC211[GF],1.0,3.0,莊碧簪、邱光裕,Elective
+DBT,410032.0,BTBT20017,,"Research(III)
+",專題研究(三),Unlimited,0.0,,1.0,3.0,生科系,Elective
+DBT,410033.0,BTBT20036,,"Physiology (II)
+",生理學(二),Unlimited,0.0,M56-SC105[GF],2.0,2.0,曲在雯、林志生、鄒協成,Elective
+DBT,410034.0,BTBT20019,,"Research(V)
+",專題研究(五),Unlimited,0.0,,1.0,3.0,生科系,Elective
+DBT,410035.0,BTBT20050,,"Neurobiology (II)
+",神經生物學(二),Unlimited,0.0,R34-SC109[GF],2.0,2.0,曲在雯、黃植懋、莊碧簪、高智飛,Elective
+DBT,410058.0,BTBT00002,,"Service Learning I
+",服務學習(一),Unlimited,0.0,Wab-SC109[GF],1.0,2.0,陳文亮、謝仁俊、林奇宏、吳妍華,Required
+DBT,410071.0,BTBT30008,,"Immunology
+",免疫學,Unlimited,0.0,F567-BI310[BA],3.0,3.0,廖光文、鄒協成,Elective

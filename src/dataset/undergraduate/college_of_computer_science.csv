@@ -1,0 +1,49 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+DCP,515600.0,CSCS00001,,"Service Learning I
+",服務學習(一),218,0.0,,0.0,1.0,黃敬群,Required
+DCP,515601.0,CSCS00003,,"Career Planning and Mentor of Hours
+",生涯規劃及導師時間,218,0.0,"W78-EC114[GF],W78-EC122[GF],W78-EDB27[GF]",0.0,2.0,張永儒,Required
+DCP,515602.0,CSCS10018,,"Computer Science and Engineering Projects (I)
+ENG",資訊工程專題(一),0,0.0,,2.0,2.0,資工系,Required
+DCP,515603.0,CSCS10002,,"Basic Programming
+",基礎程式設計,Unlimited,0.0,,0.0,3.0,林政寬、洪瑞鴻、黃寗琪,Required
+DCP,515604.0,CSCS10019,,"Computer Science and Engineering Projects (II)
+ENG",資訊工程專題(二),Unlimited,0.0,,2.0,2.0,邱維辰,Required
+DCP,515605.0,CSCS20006,,"Artificial Intelligence Capstone
+ENG",人工智慧總整與實作,100,0.0,M56-EDB27[GF],3.0,3.0,王才沛,Elective
+DCP,515606.0,CSCS10008,,"Introduction to Formal Language
+",正規語言概論,120,0.0,T34-ED117[GF],3.0,3.0,陳穎平,Elective
+DCP,515607.0,CSCS20015,,"Introduction to Cryptography
+",密碼學概論,115,0.0,F56-ED117[GF],3.0,3.0,易志偉,Elective
+DCP,515608.0,CSCS10017,,"Signals and Systems
+",訊號與系統,50,0.0,M34-EC016[GF],3.0,3.0,蕭子健,Elective
+DCP,515609.0,CSCS20054,,"Embedded Systems Capstone
+",嵌入式系統總整與實作,60,0.0,F56-EC222[GF],3.0,3.0,曾煜棋、吳昆儒,Elective
+DCP,515610.0,CSCS20028,,"Design and Implementation of IOT Applications
+",物聯網應用設計與實作,120,0.0,T56-EC015[GF],3.0,3.0,林一平、林勻蔚、蔡文能,Elective
+DCP,515611.0,CSCS20042,,"Computer Network Administration
+",計算機網路管理,100,0.0,Rabc-EC114[GF],3.0,3.0,曾建超、王則涵、曾亮齊,Elective
+DCP,515612.0,CSCS20035,,"Combinatorial Mathematics
+ENG",組合數學,60,0.0,Mab-EC122[GF],3.0,3.0,高孟駿,Elective
+DCP,515613.0,CSCS20037,,"Statistics
+ENG",統計學,60,0.0,R56-EC022[GF],3.0,3.0,曾意儒,Elective
+DCP,515614.0,CSCS20046,,"Introduction to Software Engineering
+",軟體工程概論,60,0.0,T567-ED102[GF],3.0,3.0,王豐堅,Elective
+DCP,515615.0,CSCS20018,,"Differential Equations
+ENG",微分方程,60,0.0,M7R34-ED302[GF],3.0,3.0,黃世強,Elective
+DCP,515616.0,CSCS20049,,"Computer Security Capstone
+ENG",電腦安全總整與實作,60,0.0,M34-EC114[GF],3.0,3.0,李奇育,Elective
+DCP,515617.0,CSCS20053,,"The applications of algorithms on routing problems
+",演算法在繞線問題的實務應用,60,0.0,M34-ED102[GF],3.0,3.0,李毅郎,Required
+DCP,515618.0,CSCS20040,,"Network Systems Capstone
+",網路系統總整與實作,51,0.0,T34-ED202[GF],3.0,3.0,王協源,Elective
+DCP,515619.0,CSCS20038,,"Network Planning and Management Practices
+",網路規劃與管理實務,50,0.0,"R34n-EC315[GF],R34n-EC316[GF],R34n-EC324[GF]",3.0,3.0,曾建超,Elective
+DCP,515620.0,CSCS20022,,"Intro. to Digital Signal Processing
+",數位訊號處理概論,60,0.0,T34-EC122[GF],3.0,3.0,莊仁輝,Elective
+DCP,515621.0,CSCS20031,,"Competitive Programming(I)
+",競技程式設計(一),96,0.0,Fabc-EC115[GF],3.0,3.0,謝旻錚,Elective
+DCP,515622.0,CSCS10022,,"Introduction to Database Systems
+",資料庫系統概論,100,0.0,F34-EC015[GF],3.0,3.0,彭文志,Elective
+DCP,515623.0,CSCS10029,,"Biomedical Informatics Cross-Disciplinary Projects (II)
+",生醫資訊跨領域專題(二),0,0.0,,2.0,2.0,資工系,Required

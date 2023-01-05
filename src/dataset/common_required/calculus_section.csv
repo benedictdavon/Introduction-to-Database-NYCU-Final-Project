@@ -1,0 +1,47 @@
+﻿college,department,course_id,course_code,memo,summary,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+calculus_section,Calculus section,564000.0,GECS10002,(大班授課,,"Calculus A (II)
+",微積分甲(二),120,122.0,T34F56-SA321[GF],4.0,4.0,王夏聲,Required
+calculus_section,Calculus section,564001.0,GECS10002,[English Medium Course](英文授課) (理學院學士班、土木學士班),,"Calculus A (II)
+ENG",微積分甲(二),90,92.0,T34F56-SC106[GF],4.0,4.0,千野由喜,Required
+calculus_section,Calculus section,564002.0,GECS10002,(應數系),,"Calculus A (II)
+",微積分甲(二),60,49.0,T34F56-SC105[GF],4.0,4.0,陳子軒,Required
+calculus_section,Calculus section,564003.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),65,61.0,T34F56-SC201[GF],4.0,4.0,張書銘,Required
+calculus_section,Calculus section,564004.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),65,36.0,T34F56-SC109[GF],4.0,4.0,吳金典,Required
+calculus_section,Calculus section,564005.0,GECS10002,(奈米學士班-奈米組),,"Calculus A (II)
+",微積分甲(二),65,66.0,T34F56-SC204[GF],4.0,4.0,陳冠宇,Required
+calculus_section,Calculus section,564006.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),65,55.0,T34F56-SC206[GF],4.0,4.0,石至文,Required
+calculus_section,Calculus section,564007.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),65,39.0,T34F56-SA320[GF],4.0,4.0,余啟哲,Required
+calculus_section,Calculus section,564008.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),65,58.0,T34F56-SC151[GF],4.0,4.0,王業凱,Required
+calculus_section,Calculus section,564009.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),71,72.0,T34F56-EE105[GF],4.0,4.0,楊春美,Required
+calculus_section,Calculus section,564010.0,GECS10002,(大班授課),,"Calculus A (II)
+",微積分甲(二),120,73.0,M78R34-SA321[GF],4.0,4.0,王夏聲,Required
+calculus_section,Calculus section,564011.0,GECS10002,[English Medium Course](英文授課),,"Calculus A (II)
+ENG",微積分甲(二),65,61.0,M78R34-SC106[GF],4.0,4.0,待聘,Required
+calculus_section,Calculus section,564012.0,GECS10002,(網路授課，面授與考試皆需到教室),,"Calculus A (II)
+DL",微積分甲(二),65,63.0,M78R34-SC206[GF],4.0,4.0,蘇承芳,Required
+calculus_section,Calculus section,564013.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),65,62.0,M78R34-SC201[GF],4.0,4.0,張書銘,Required
+calculus_section,Calculus section,564014.0,GECS10002,(翻轉課程),,"Calculus A (II)
+",微積分甲(二),54,51.0,M78R34-SC207[GF],4.0,4.0,莊重,Required
+calculus_section,Calculus section,564015.0,GECS10002,(台中一中),,"Calculus A (II)
+",微積分甲(二),60,60.0,M78R34-SC204[GF],4.0,4.0,吳昌鴻,Required
+calculus_section,Calculus section,564016.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),60,55.0,M78R34-SC151[GF],4.0,4.0,余啟哲,Required
+calculus_section,Calculus section,564017.0,GECS10002,(奈米學士班-半導體組),,"Calculus A (II)
+",微積分甲(二),60,47.0,M78R34-SC110[GF],4.0,4.0,林武雄,Required
+calculus_section,Calculus section,564018.0,GECS10002,,,"Calculus A (II)
+",微積分甲(二),71,69.0,M78R34-EE220[GF],4.0,4.0,楊春美,Required
+calculus_section,Calculus section,564019.0,GECS10001,(網路課程，但面授與考試皆需到教室。重修生優先),,"Calculus A (I)
+DL",微積分甲(一),120,0.0,Mab-SA321[GF],4.0,4.0,余啟哲,Required
+calculus_section,Calculus section,564020.0,GECS10004,(限管理科學學系、資訊管理與財務金融學系財金組),,"Calculus B (II)
+",微積分乙(二),70,51.0,T34F56-SC110[GF],4.0,4.0,洪慧念,Required
+calculus_section,Calculus section,564021.0,GECS10006,,,"Honor Calculus Problem Solving Session (II)
+",微積分學而班理論組(二),15,51.0,Fn-SA215[GF],1.0,1.0,陳子軒,Elective
+calculus_section,Calculus section,564022.0,GECS00001,(中一中),,"Problem Solving for Calculus
+",微積分演習課,30,0.0,Tz1-SA215[GF],2.0,2.0,吳昌鴻,Elective

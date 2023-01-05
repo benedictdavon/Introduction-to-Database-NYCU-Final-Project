@@ -1,0 +1,728 @@
+﻿college,department,course_id,course_code,memo,summary,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+center_of_general_education,Department of Biological Science and Technology,410001.0,BTBT10015,"生科系大一,中一中科學班","跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","General Biology (II)
+GECL[ECE,COE,COS,CHK,CI] GECIDAST",普通生物學（二）,90,10.0,Wn56-SA320[GF],3.0,3.0,廖光文、曲在雯、何奕儒,Required
+center_of_general_education,Department of Biological Science and Technology,410002.0,BTBT10015,[English Medium Course],"跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","General Biology (II)
+GECL[ECE,COE,COS,CHK,CI] GECIDASTENG",普通生物學（二）,Unlimited,0.0,Wn56-SC109[GF],3.0,3.0,趙啟宏,Required
+center_of_general_education,Department of Biological Science and Technology,410011.0,BTBT10044,,"跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","Introduction to Biotechnology (II)
+GECL[ECE,CCS] GECIDLDAST",生物科技概論(二),120,0.0,W2-,1.0,1.0,蘭宜錚,Required
+center_of_general_education,Department of Foreign Languages and Literatures,514103.0,HSFL10030,[English Medium Course],"校基本素養(106)
+領域課程-人文與美學(110)","Introduction to Western Literature (2)
+GECLDAHAENG",西洋文學概論(二),65,0.0,T234-F326[GF],3.0,3.0,林建國,Required
+center_of_general_education,Department of Foreign Languages and Literatures,514133.0,HSFL20037,[專選]華語教學學程,"校基本素養(106)
+領域課程-個人、社會與文化(110)","Structures of Chinese
+GECLDASC",漢語語法,Unlimited,0.0,T567-F207[GF],3.0,3.0,劉啟明,Elective
+center_of_general_education,Department of Humanities and Social Sciences,310000.0,HKHS10009,,"跨院基本素養(106)
+校基本素養(106),領域課程-個人、社會與文化(110)","Sociology
+GECL[COM,CHS] GECIDASC",社會學,60,48.0,T234-HKB09[LJ],3.0,3.0,許維德,Required
+center_of_general_education,Department of Humanities and Social Sciences,310011.0,HKHS20002,[English Medium Course],"跨院基本素養(106)
+領域課程-個人、社會與文化(110)","Taiwan Society and Culture
+[COE,COS,CI] GECIDASCENG",台灣社會與文化,40,0.0,T234-HK119[LJ],3.0,3.0,盧正恒,Elective
+center_of_general_education,Department of Humanities and Social Sciences,310012.0,HKHS20006,,"校基本素養(106)
+領域課程-個人、社會與文化(110)","Political Sociology
+GECLDASC",政治社會學,40,0.0,W234-HK106[LJ],3.0,3.0,柯朝欽,Elective
+center_of_general_education,Department of Humanities and Social Sciences,310015.0,HKHS20039,上課教室：資訊中心訓練教室,"校基本素養(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","Play, Theater, and Film
+Optional Liberal EducationGECLDAHA",劇本、劇場、電影,Unlimited,0.0,M678-,3.0,3.0,段馨君,Elective
+center_of_general_education,Department of Humanities and Social Sciences,310021.0,HKHS20038,上課教室：資訊中心PC2電腦教室,"校基本素養(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","Film Studies: Drama Genre
+Optional Liberal EducationGECLDAHA",戲劇類型電影研究,Unlimited,0.0,R234-,3.0,3.0,段馨君,Elective
+center_of_general_education,Department of Communication and Technology,310109.0,HKCT20012,,"校基本素養(106)
+領域課程-個人、社會與文化(110)","Media Management and Entrepreneurship
+GECLDASC",媒體管理與創新,Unlimited,0.0,W234-HK104[LJ],3.0,3.0,黃靜蓉,Elective
+center_of_general_education,Department of Communication and Technology,310114.0,HKCT20020,,"跨院基本素養(106)
+校基本素養(106),領域課程-個人、社會與文化(110)","New Technology and Organizational Communication
+GECL[COM,CHS] GECIDASC",新科技與組織傳播,Unlimited,0.0,R567-ED102[GF],3.0,3.0,李美華,Elective
+center_of_general_education,Department of Communication and Technology,310115.0,HKCT10006,,"校基本素養(106)
+領域課程-個人、社會與文化(110)","Communication Technology and Society
+GECLDASC",傳播科技與社會,Unlimited,0.0,F234-HKB08[LJ],3.0,3.0,蔡欣怡,Required
+center_of_general_education,Department of Communication and Technology,310116.0,HKCT10002,,"跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","Human Computer Interaction
+GECL[ECE,COM] GECIDAST",人機互動概論,Unlimited,0.0,F234-HK114[LJ],3.0,3.0,陳盈羽,Required
+center_of_general_education,College of Humanities and Social Science,514000.0,HSCH20012,,"跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","Parametric Design and Production
+GECL[COM,CBT] GECIDAST",數位設計與製造,20,0.0,Wn56-EA204[GF],3.0,3.0,曾聖凱,Elective
+center_of_general_education,College of Humanities and Social Science,514001.0,HSCH00009,,"校基本素養(106)
+領域課程-人文與美學(110)","Psychology of Art
+GECLDAHA",藝術心理學,50,0.0,T56-HA315[GF],2.0,2.0,陳一平,Elective
+center_of_general_education,College of Humanities and Social Science,514002.0,HSCH00016,,"校基本素養(106)
+領域課程-人文與美學(110)","Introduction to Architecture
+GECLDLDAHA",建築概論,100,0.0,W56-,2.0,2.0,凌天,Elective
+center_of_general_education,College of Humanities and Social Science,514003.0,HSCH00017,,"跨院基本素養(106)
+領域課程-人文與美學(110)","Introduction to Architecture and Environment
+[ECE,CCS,COS,COM,CBT] GECIDAHA",建築與環境概論,60,0.0,W56-HC103[GF],2.0,2.0,侯王怡文、張嘉和,Elective
+center_of_general_education,College of Humanities and Social Science,514004.0,HSCH10008,,"校基本素養(106)
+領域課程-人文與美學(110)","Image Synthesis
+GECLDAHA",影像合成,40,0.0,R56-HC103[GF],2.0,2.0,林欣怡,Elective
+center_of_general_education,College of Humanities and Social Science,514006.0,HSCH20013,,"校基本素養(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","Creative City Case Study
+Optional Liberal EducationGECLDAHA",創意城市案例分析,30,0.0,F56-HC104[GF],2.0,2.0,曾聖凱,Elective
+center_of_general_education,College of Humanities and Social Science,514008.0,HSCH00001,,"校基本素養(106)
+領域課程-人文與美學(110)","Introduction to Music Technology
+GECLDAHA",音樂科技導論,30,0.0,Rab-HC103[GF],2.0,2.0,林明學,Required
+center_of_general_education,College of Humanities and Social Science,514010.0,HSCH10018,,"校基本素養(106)
+領域課程-人文與美學(110)","Exploring Form and Image
+GECLDAHA",形象探索,20,0.0,R56-HC104[GF],2.0,2.0,何欣怡,Elective
+center_of_general_education,Department of Electrical and Computer Engineering,515116.0,EEEC20082,遠距課程,"跨院基本素養(106)
+基本素養-量性推理(110)","Discrete Mathematics
+FCQR[COE,CI] GECIDL",離散數學,150,0.0,M2W34-ED116[GF],3.0,3.0,趙家佐,Elective
+center_of_general_education,Department of Electrical and Computer Engineering,515166.0,EEEC10020,,"跨院基本素養(106)
+領域課程-社會中的科技與自然(110)","Modern Biology (II)
+[ECE] GECIDAST",近代生物學(二),Unlimited,0.0,T2F34-EE105[GF],3.0,3.0,梁美智、黃植懋、高智飛,Elective
+center_of_general_education,Department of Electrical and Computer Engineering,515167.0,EEEC10008,Mabc為實驗課 EE635,"跨院基本素養(106)
+基本素養-量性推理(110)","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,50,0.0,"Mn56-EE207[GF],Mabc-EE635[GF]",3.0,3.0,王學誠,Elective
+center_of_general_education,Department of Electrical and Computer Engineering,515168.0,EEEC10008,T56abcd-ED713，Tabcd為實驗課 ED713,"跨院基本素養(106)
+基本素養-量性推理(110)","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,50,0.0,T56abcd-ED713[GF],3.0,3.0,黃紹華,Elective
+center_of_general_education,Department of Electrical and Computer Engineering,515169.0,EEEC10008,,"跨院基本素養(106)
+基本素養-量性推理(110)","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,50,0.0,"Mn56-ED103[GF],Mabc-ED713[GF]",3.0,3.0,溫宏斌,Elective
+center_of_general_education,Department of Electrical and Computer Engineering,515170.0,EEEC10008,"M56-EE105,Tabc-PC4,R2-EE105,2abc為實驗課 PC4","跨院基本素養(106)
+基本素養-量性推理(110)","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,55,0.0,"Tabc-CS-PC4[GF],M56R2-EE105[GF]",3.0,3.0,蔡中庸,Elective
+center_of_general_education,Department of Electrical and Computer Engineering,515171.0,EEEC10008,"T56-EE102,Wabc-PC4,R8-EE102, 3abc為實驗課 PC4","跨院基本素養(106)
+基本素養-量性推理(110)","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,55,0.0,"Wabc-CS-PC4[GF],T56R8-EE102[GF]",3.0,3.0,蔡中庸,Elective
+center_of_general_education,Department of Electrical and Computer Engineering,515172.0,EEEC10008,"Mn56-ED220, Mabc為實驗課PC2/PC3","跨院基本素養(106)
+基本素養-量性推理(110)","Object-Oriented Programming
+FCQR[COE,CI] GECI",物件導向程式設計,85,0.0,"Mabc-,Mn56-ED220[GF]",3.0,3.0,劉建男,Elective
+center_of_general_education,Department of Photonics,515415.0,EEDP00001,,"跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","Advanced photonics technologies and human civilization
+GECL[ECE,CCS,COE,COM,CHS,CI] GECIDAST",先進光電科技與人類文明,100,0.0,W78-EO103[GF],2.0,2.0,陳方中,Elective
+center_of_general_education,College of Electrical and Computer Engineering,510000.0,EEAE00004,電機院級(學) 核心通識-社會與經濟/通識核心/通識跨院/通識校基本/基本素養-量性推理 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程 。 應數.傳科系及管理學院不同意所屬學生採計通識學分,"核心-自然(106)
+跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)","Statistics
+FCQRGECLGEC[ECE,CCS,COE,CI] GECI",統計學,80,0.0,M56R2-EF104[GF],3.0,3.0,陳志榮,Elective
+center_of_general_education,College of Electrical and Computer Engineering,510001.0,EEAE00004,電機院級(學) (院級課程)通識校基本/基本素養-量性推理/通識核心/通識跨院/核心通識-社會與經濟 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程。應數.傳科系及管理學院不同意所屬學生採計通識學分,"核心-自然(106)
+跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)","Statistics
+FCQRGECLGEC[ECE,CCS,COE,CI] GECI",統計學,110,0.0,M56R2-AB101[GF],3.0,3.0,彭南夫,Elective
+center_of_general_education,College of Electrical and Computer Engineering,510002.0,EEAE00003,1.電機學院大學部優先選課 2.電機學院學生可列為通識課程(跨院基本素養),"跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","Engineering and Professional Ethics
+GECL[ECE,CCS,COM] GECIDAST",工程與專業倫理,Unlimited,0.0,R56-ED303[GF],2.0,2.0,黃育綸、徐保羅、黃欽勇,Elective
+center_of_general_education,Department of Civil Engineering,516223.0,ENCV20002,,"跨院基本素養(106)
+領域課程-社會中的科技與自然(110)","Global Positioning System
+[CCS,COS,CHS,CHK] GECIDAST",全球定位系統概論,100,0.0,F567-EB117[GF],3.0,3.0,王成機,Elective
+center_of_general_education,Department of Civil Engineering,516232.0,ENCV10011,第三小時為非同步授課,"跨院基本素養(106)
+基本素養-量性推理(110)","Engineering Economics
+FCQR[ECE,CCS] GECI",工程經濟學,45,0.0,F34-EB117[GF],3.0,3.0,黃玉霖,Required
+center_of_general_education,Department of Civil Engineering,516233.0,ENCV10011,"[English Medium Course]C班, 第三小時為非同步授課","跨院基本素養(106)
+基本素養-量性推理(110)","Engineering Economics
+FCQR[ECE,CCS] GECIENG",工程經濟學,45,0.0,F34-EB227[GF],3.0,3.0,王維志,Required
+center_of_general_education,Undergraduate honors Program of Interdisciplinary Science,516502.0,SCDP10006,科學學士學位學程班學生優先。人數上限：60人,"跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","General Biology(II)
+GECL[COS,CHK] GECIDAST",普通生物學(二),Unlimited,0.0,Wn56-SC106[GF],3.0,3.0,陳文亮、柯立偉、莊碧簪,Required
+center_of_general_education,Department of Applied Chemistry,516829.0,SCAC10016,本系學生須先修過無機化學(一)之實體課程，才能選修此課程。,跨院基本素養(106),"Inorganic Chemistry (1)
+[COE,CBT,CI] GECIDL",無機化學(一),20,0.0,R56-SB201[GF],3.0,3.0,劉學儒,Required
+center_of_general_education,Department of Industrial Engineering and Management,517404.0,MGEM20006,,"跨院基本素養(106)
+校基本素養(106),基本素養-量性推理(110)","Engineering Economy
+FCQRGECL[ECE,CCS] GECI",工程經濟,60,63.0,T234-MB506[GF],3.0,3.0,董弘平,Required
+center_of_general_education,Department of Industrial Engineering and Management,517405.0,MGEM20011,工工系學生優先，不可旁聽,"跨院基本素養(106)
+校基本素養(106),領域課程-社會中的科技與自然(110)","Simulation
+GECL[ECE,CCS] GECIDAST",模擬學,60,64.0,R234-MB415[GF],3.0,3.0,陳勝一,Required
+center_of_general_education,Department of Information and Finance Management,517103.0,MGCM10018,管院管理基礎課程；主開大二資財系；輔開管理學院、管科系、工管系、運管系；資財系大二、管科系大二必修；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。管院學生優先選課。外院同學請於開學加退選階段上網選課。限大二以上學生修課。,跨院基本素養(106),"Financial Management
+[ECE,CCS,COE,COS,CBT,CHS,CHK,CI] GECI",財務管理,60,0.0,R567-M-b10[GF],3.0,3.0,梁婉麗,Required
+center_of_general_education,Department of Information and Finance Management,517505.0,MGIF10003,大二必修；資財系優先選課。外系同學請於開學加退選階段上網選課。限大二以上學生修課。,"跨院基本素養(106)
+基本素養-組織管理(110)","Investments
+FCOM[ECE] GECI",投資學,60,45.0,R234-M101[GF],3.0,3.0,李漢星,Required
+center_of_general_education,Department of Information and Finance Management,517509.0,MGIF20010,財金類課程；資財系優先選課。外系同學請於開學加退選階段上網選課。限大三以上學生修課。,"跨院基本素養(106)
+校基本素養(106),基本素養-量性推理(110)","Introduction in Financial Engineering
+FCQRGECL[ECE,CCS,COE,CBT,CI] GECI",財務工程導論,50,34.0,W234-M-b09[GF],3.0,3.0,戴天時,Elective
+center_of_general_education,I,519500.0,XDAP00014,,"核心-社會(106)
+領域課程-公民與倫理思考(110)","What Is Law: An Introduction to Legal Theory
+GECDACE",什麼是法律？ — 法理學初探,50,0.0,R567-SC207[GF],3.0,3.0,程源中,Elective
+center_of_general_education,I,519512.0,XDAP00012,遠距課程,"校基本素養(106)
+領域課程-公民與倫理思考(110)","Revaluation of All Values: Nietzsche&#39;s on the Genealogy of Morality
+GECLDLDACE",重估一切價值：尼采的《道德系譜學》,Unlimited,0.0,T34-,2.0,2.0,安勤之,Elective
+center_of_general_education,I,519513.0,XDAP00013,遠距課程,"校基本素養(106)
+博雅選修通識 (90),基本素養-批判思考(110)","Translation, Mediation and Symbiopoiesis: Investigate the association among the Science ,Technology ,Nature and Society.
+Optional Liberal EducationFCCTGECLDL",轉譯、中介與共同生成：探索社會、科技與自然的相互聯結,Unlimited,0.0,T789-,3.0,3.0,安勤之,Elective
+center_of_general_education,Undergraduate Degree Program of System Engineering and Technology,910087.0,SESE00012,*系統工程學程學生不得選修,"校基本素養(106)
+領域課程-社會中的科技與自然(110)","Introduction to Defense Technology (2)
+GECLDAST",國防科技概論(2),70,0.0,F567-EE106[GF],3.0,3.0,李永隆,Elective
+center_of_general_education,Liberal Arts College,161000.0,GECE00058,,"校基本素養(106)
+核心通識-藝術與文化(90),領域課程-人文與美學(110)","History of European Fashion
+Art and CulturesGECLDAHA",歐洲時尚史,40,0.0,T56-CS100[GF],2.0,2.0,葉嘉華,Core curriculum
+center_of_general_education,Liberal Arts College,161001.0,GECE00171,,"核心-人文(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","The Golden Age of European Art, 1500-1700
+Optional Liberal EducationGECDAHA",十六、十七世紀歐洲藝術,40,0.0,T78-CS100[GF],2.0,2.0,葉嘉華,Core curriculum
+center_of_general_education,Liberal Arts College,161002.0,GECE00078,,"核心-人文(106)
+核心通識-藝術與文化(90),領域課程-人文與美學(110)","Western Art History
+Art and CulturesGECDAHA",西洋藝術史,40,0.0,W34-HC103[GF],2.0,2.0,黃桂瑩,Core curriculum
+center_of_general_education,Liberal Arts College,161003.0,GECE00110,,"校基本素養(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","History and Life in Taiwanese Literature during the period of Japanese Rule
+Optional Liberal EducationGECLDASC",從日治時期臺灣文學看歷史與生活,35,0.0,"T12-CS100[GF],T12-YT301[YM]",2.0,2.0,王敬翔,Core curriculum
+center_of_general_education,Liberal Arts College,161004.0,GECE00089,,"核心-自然(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Logic
+FCCTPhilosophy and MindGEC",邏輯學,0,0.0,"T78-EE129[GF],T78-YT301[YM]",2.0,2.0,劉吉宴,Core curriculum
+center_of_general_education,Liberal Arts College,161005.0,GECE00089,,"核心-自然(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Logic
+FCCTPhilosophy and MindGEC",邏輯學,0,0.0,"T9a-EE129[GF],T9a-YT301[YM]",2.0,2.0,劉吉宴,Core curriculum
+center_of_general_education,Liberal Arts College,161006.0,GECE00189,,"校基本素養(106)
+博雅選修通識 (90),基本素養-組織管理(110)","A Critical Understanding of Management
+Optional Liberal EducationFCOMGECL",翻轉管理學,35,0.0,"F34-CS100[GF],F34-YT301[YM]",2.0,2.0,徐詩偉,Core curriculum
+center_of_general_education,Liberal Arts College,161007.0,GECE00189,,"校基本素養(106)
+博雅選修通識 (90),基本素養-組織管理(110)","A Critical Understanding of Management
+Optional Liberal EducationFCOMGECL",翻轉管理學,35,0.0,"F56-CS100[GF],F56-YT301[YM]",2.0,2.0,徐詩偉,Core curriculum
+center_of_general_education,Liberal Arts College,161008.0,GECE00190,,"校基本素養(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","Taiwan’s International Relations and Historic Events
+Optional Liberal EducationGECLDASC",從臺海實例看國際關係,35,0.0,W9a-A204[GF],2.0,2.0,王惠民,Core curriculum
+center_of_general_education,Liberal Arts College,161009.0,GECE00318,[English Medium Course],"校基本素養(106)
+核心通識-藝術與文化(90),領域課程-人文與美學(110)","Introduction to Hong Kong Cinema
+Art and CulturesGECLDAHAENG",香港電影導論,40,0.0,M9a-YX501[YM],2.0,2.0,王潔瑩,Core curriculum
+center_of_general_education,Liberal Arts College,161010.0,GECE00314,,"核心通識-哲學與心靈(90)
+基本素養-批判思考(110)","Conceptual tools for understanding the experiences of women in Taiwan
+FCCTPhilosophy and Mind",(扌)台女哲學,0,0.0,T9a-YX501[YM],2.0,2.0,林映彤,Core curriculum
+center_of_general_education,Liberal Arts College,161011.0,GECE00319,[English Medium Course],"校基本素養(106)
+核心通識-科技與社會(90),領域課程-個人、社會與文化(110)","The Cultural Effects of Recent Technology
+Science, Technology and SocietyGECLDASCENG",近代科技之文化影響,40,0.0,W9a-YX503[YM],2.0,2.0,霍弘毅,Core curriculum
+center_of_general_education,Liberal Arts College,161012.0,GECE00165,,"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Critical and Creative Thinking
+FCCTPhilosophy and MindGECL",批判與創意思考,0,0.0,M9a-,2.0,2.0,楊元傑、顧醫華、嚴如玉、嚴偉哲、林映彤,Core curriculum
+center_of_general_education,Liberal Arts College,161013.0,GECE00165,,"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Critical and Creative Thinking
+FCCTPhilosophy and MindGECL",批判與創意思考,0,0.0,W9a-,2.0,2.0,嚴如玉、顧醫華、嚴偉哲、林映彤、楊元傑,Core curriculum
+center_of_general_education,Liberal Arts College,161014.0,GECE00165,,"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Critical and Creative Thinking
+FCCTPhilosophy and MindGECL",批判與創意思考,0,0.0,R9a-,2.0,2.0,嚴偉哲、顧醫華、嚴如玉、林映彤、楊元傑,Core curriculum
+center_of_general_education,Liberal Arts College,161015.0,GECE00165,,"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Critical and Creative Thinking
+FCCTPhilosophy and MindGECL",批判與創意思考,0,0.0,R78-,2.0,2.0,顧醫華、嚴如玉、嚴偉哲、林映彤、楊元傑,Core curriculum
+center_of_general_education,Liberal Arts College,161016.0,GECE00165,,"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Critical and Creative Thinking
+FCCTPhilosophy and MindGECL",批判與創意思考,0,0.0,F56-,2.0,2.0,林映彤、顧醫華、嚴如玉、嚴偉哲、楊元傑,Core curriculum
+center_of_general_education,Liberal Arts College,161018.0,GECE00078,,"核心-人文(106)
+核心通識-藝術與文化(90),領域課程-人文與美學(110)","Western Art History
+Art and CulturesGECDAHA",西洋藝術史,40,0.0,T12-YT104[YM],2.0,2.0,黃桂瑩,Core curriculum
+center_of_general_education,Liberal Arts College,161019.0,GECE00320,,"校基本素養(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","Cinema and Literature
+Optional Liberal EducationGECLDAHA",電影與文學,35,0.0,T34-YT206[YM],2.0,2.0,楊芮芳,Core curriculum
+center_of_general_education,Liberal Arts College,161020.0,GECE00006,,"校基本素養(106)
+核心通識-哲學與心靈(90),領域課程-社會中的科技與自然(110)","introduction to cognitive neuroscience and its methodology
+Philosophy and MindGECLDAST",人腦心智運作與歷程,40,0.0,T12-YL403[YM],2.0,2.0,郭文瑞,Core curriculum
+center_of_general_education,Liberal Arts College,161021.0,GECE00059,,"校基本素養(106)
+核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","History and the Modern World
+History and CivilizationsGECLDASC",歷史與現代世界,40,0.0,T12-YT202[YM],2.0,2.0,王文基,Core curriculum
+center_of_general_education,Liberal Arts College,161022.0,GECE00170,,"校基本素養(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","Contemporary Songs and Life
+Optional Liberal EducationGECLDAHA",當代歌曲與人生,35,0.0,T12-YT206[YM],2.0,2.0,楊芮芳,Core curriculum
+center_of_general_education,Liberal Arts College,161023.0,GECE00131,,"校基本素養(106)
+博雅選修通識 (90),領域課程-社會中的科技與自然(110)","Comparison of Eastern & Western Natural Philosophy and View of Ancient Medicine
+Optional Liberal EducationGECLDAST",比較東西方自然哲學與古醫學觀,60,0.0,T34-YT202[YM],2.0,2.0,陳方佩,Core curriculum
+center_of_general_education,Liberal Arts College,161024.0,GECE00321,,"校基本素養(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","What Every College Student Has to Know: Legal Common Knowledge-The Judges' Version
+Optional Liberal EducationGECLDASC",法官說法-大學生必備的法學常識,35,0.0,T34-YT104[YM],2.0,2.0,張瑜鳳,Core curriculum
+center_of_general_education,Liberal Arts College,161025.0,GECE00058,,"校基本素養(106)
+核心通識-藝術與文化(90),領域課程-人文與美學(110)","History of European Fashion
+Art and CulturesGECLDAHA",歐洲時尚史,35,0.0,R12-YT202[YM],2.0,2.0,葉嘉華,Core curriculum
+center_of_general_education,Liberal Arts College,161026.0,GECE00124,,"校基本素養(106)
+博雅選修通識 (90),領域課程-社會中的科技與自然(110)","Technology and Everyday Life
+Optional Liberal EducationGECLDAST",日常生活、科技與社會,35,0.0,R12-YT204[YM],2.0,2.0,秦先玉,Core curriculum
+center_of_general_education,Liberal Arts College,161027.0,GECE00127,,"校基本素養(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","State Economics, Societies and Culture in Southeast Asia
+Optional Liberal EducationGECLDASC",東南亞各國經濟、社會與文化,35,0.0,R12-YT205[YM],2.0,2.0,林若雩,Core curriculum
+center_of_general_education,Liberal Arts College,161028.0,GECE00103,,"校基本素養(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","Process of Taiwan Development and Transformation
+Optional Liberal EducationGECLDASC",台灣發展歷程與轉型,35,0.0,R12-YT104[YM],2.0,2.0,洪德先,Core curriculum
+center_of_general_education,Liberal Arts College,161029.0,GECE00149,,"校基本素養(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","Introduction to Taiwan Politics
+Optional Liberal EducationGECLDASC",臺灣政治概論,35,0.0,R12-YT206[YM],2.0,2.0,彭立忠,Core curriculum
+center_of_general_education,Liberal Arts College,161030.0,GECE00323,[English Medium Course],"核心-人文(106)
+核心通識-歷史與文明(90),基本素養-生命及品格教育(110)","Reading Great Ideas, Thinking the World
+FCLCHistory and CivilizationsGECENG",讀透名篇，思考世界,35,0.0,R34-YT206[YM],2.0,2.0,待聘,Core curriculum
+center_of_general_education,Liberal Arts College,161031.0,GECE00075,,"核心-社會(106)
+核心通識-社會與經濟(90),基本素養-量性推理(110)","Economics
+FCQRSociety and EconomyGEC",經濟學,50,0.0,R34-YT305[YM],2.0,2.0,蒲正筠、周穎政,Core curriculum
+center_of_general_education,Liberal Arts College,161032.0,GECE00324,[English Medium Course],"核心通識-藝術與文化(90)
+領域課程-人文與美學(110)","A Cross-Disciplinary Introduction to Ideas of Time
+Art and CulturesDAHAENG",時間概念跨領域導論,35,0.0,R34-YT205[YM],2.0,2.0,勞維俊,Core curriculum
+center_of_general_education,Liberal Arts College,161033.0,GECE00325,[English Medium Course],"校基本素養(106)
+核心通識-倫理與道德思考(90),領域課程-公民與倫理思考(110)","The Ethics of Artificial Intelligence
+Ethics and Moral thinkingGECLDACEENG",人工智能倫理學,0,0.0,R34-YT104[YM],2.0,2.0,艾力,Core curriculum
+center_of_general_education,Liberal Arts College,161034.0,GECE00072,,"校基本素養(106)
+核心通識-科技與社會(90),領域課程-社會中的科技與自然(110)","Science, Technology and Citizen Participation
+Science, Technology and SocietyGECLDAST",科技社會與公民參與,35,0.0,R34-YT202[YM],2.0,2.0,范玫芳,Core curriculum
+center_of_general_education,Liberal Arts College,161035.0,GECE00063,,"校基本素養(106)
+核心通識-科技與社會(90),領域課程-社會中的科技與自然(110)","Environment, Society and Health
+Science, Technology and SocietyGECLDAST",環境﹑社會與健康,35,0.0,R34-YT304[YM],2.0,2.0,林宜平,Core curriculum
+center_of_general_education,Liberal Arts College,161036.0,GECE00057,課程開放跨校區修課，北投陽明校區學生實體上課，新竹光復、博愛校區學生線上修課。[English Medium Course],"校基本素養(106)
+核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","A Modern History of East-asia
+History and CivilizationsGECLDASCENG",東亞近現代史,35,0.0,R34-YX501[YM],2.0,2.0,嚴曉珮,Core curriculum
+center_of_general_education,Liberal Arts College,161037.0,GECE00184,[English Medium Course],"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Philosophy of Mind and Cognition
+FCCTPhilosophy and MindGECLENG",心智哲學,0,0.0,R56-YT202[YM],2.0,2.0,游尚愷,Core curriculum
+center_of_general_education,Liberal Arts College,161038.0,GECE00176,[English Medium Course],"核心通識-哲學與心靈(90)
+基本素養-批判思考(110)","Philosophy for Scientists
+FCCTPhilosophy and MindENG",科學家必學哲學,0,0.0,R56-YT206[YM],2.0,2.0,顧醫華,Core curriculum
+center_of_general_education,Liberal Arts College,161039.0,GECE00329,,"校基本素養(106)
+核心通識-科技與社會(90),基本素養-組織管理(110)","Environmental Diplomacy
+FCOMScience, Technology and SocietyGECL",環境外交,40,0.0,T78-YX201[YM],2.0,2.0,李河清,Core curriculum
+center_of_general_education,Liberal Arts College,161040.0,GECE00002,[English Medium Course],"核心-人文(106)
+核心通識-藝術與文化(90),領域課程-人文與美學(110)","Art of China
+Art and CulturesGECDAHAENG",中國藝術,35,0.0,R56-YT205[YM],2.0,2.0,朱靜華,Core curriculum
+center_of_general_education,Liberal Arts College,161041.0,GECE00326,課程開放跨校區修課，北投陽明校區學生實體上課，新竹光復、博愛校區學生線上修課。[English Medium Course],"校基本素養(106)
+核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","Women in East Asia
+History and CivilizationsGECLDASCENG",女性的東亞史,35,0.0,R56-YX501[YM],2.0,2.0,嚴曉珮,Core curriculum
+center_of_general_education,Liberal Arts College,161042.0,GECE00071,[English Medium Course],"校基本素養(106)
+核心通識-科技與社會(90),領域課程-社會中的科技與自然(110)","Introduction to Science and Technology Studies
+Science, Technology and SocietyGECLDASTENG",科技與社會導論,35,0.0,R78-YX201[YM],2.0,2.0,陳嘉新,Core curriculum
+center_of_general_education,Liberal Arts College,161043.0,GECE00094,,"核心-人文(106)
+語言-中文(90),領域課程-人文與美學(110)","Selections of Dramas in Verse
+Chinese LiteratureGECDAHA",中國歷代戲曲選讀,35,0.0,M12-YT103[YM],2.0,2.0,賈元圓,Core curriculum
+center_of_general_education,Liberal Arts College,161044.0,GECE00094,,"核心-人文(106)
+語言-中文(90),領域課程-人文與美學(110)","Selections of Dramas in Verse
+Chinese LiteratureGECDAHA",中國歷代戲曲選讀,35,0.0,M34-YT103[YM],2.0,2.0,賈元圓,Core curriculum
+center_of_general_education,Liberal Arts College,161045.0,GECE00174,,"校基本素養(106)
+核心通識-社會與經濟(90),基本素養-量性推理(110)","An Economic Analysis of Social Development
+FCQRSociety and EconomyGECL",社會發展的經濟分析,0,0.0,M56-YX201[YM],2.0,2.0,曾憲政,Core curriculum
+center_of_general_education,Liberal Arts College,161046.0,GECE00191,,"核心-人文(106)
+核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","Introduction to Korean History and Culture
+History and CivilizationsGECDASC",韓國歷史與文化導論,32,0.0,T56-YX201[YM],2.0,2.0,沈明珠,Core curriculum
+center_of_general_education,Liberal Arts College,161047.0,GECE00061,,"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-批判思考(110)","Philosophy of Caring
+FCCTPhilosophy and MindGECL",照護哲學,0,0.0,T56-YX503[YM],2.0,2.0,嚴如玉,Core curriculum
+center_of_general_education,Liberal Arts College,161048.0,GECE00137,,"校基本素養(106)
+博雅選修通識 (90),領域課程-社會中的科技與自然(110)","Behavior Science in Life
+Optional Liberal EducationGECLDAST",生活中的行為科學,35,0.0,W12-YT206[YM],2.0,2.0,林文旭,Core curriculum
+center_of_general_education,Liberal Arts College,161049.0,GECE00322,,"校基本素養(106)
+核心通識-社會與經濟(90),基本素養-量性推理(110)","The Modern International Economic Topics
+FCQRSociety and EconomyGECL",現代國際經濟議題,0,0.0,W78-YX201[YM],2.0,2.0,曾憲政,Core curriculum
+center_of_general_education,Liberal Arts College,161050.0,GECE00064,,"校基本素養(106)
+核心通識-社會與經濟(90),領域課程-個人、社會與文化(110)","Environment, Economy and Society
+Society and EconomyGECLDASC",環境﹑經濟與社會,35,0.0,F34-YT206[YM],2.0,2.0,錢克綱,Core curriculum
+center_of_general_education,Liberal Arts College,161051.0,GECE00097,,"校基本素養(106)
+博雅選修通識 (90),語言與溝通-溝通表達(111)","Interpersonal Relations and Communication
+Optional Liberal EducationLCCCGECL",人際關係與溝通,35,0.0,F34-YT204[YM],2.0,2.0,彭懷恩,Core curriculum
+center_of_general_education,Liberal Arts College,161052.0,GECE00104,,"核心-社會(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","International Relations
+Optional Liberal EducationGECDASC",國際關係,35,0.0,F56-YT204[YM],2.0,2.0,彭懷恩,Core curriculum
+center_of_general_education,Liberal Arts College,161053.0,GECE00177,,"校基本素養(106)
+核心通識-科技與社會(90),基本素養-組織管理(110)","Literacy and Competence for Future Leaders
+FCOMScience, Technology and SocietyGECL",未來科技領導人的素養與思維,20,0.0,F34-YX202[YM],2.0,2.0,洪紹洋,Core curriculum
+center_of_general_education,Liberal Arts College,161054.0,GECE00177,,"校基本素養(106)
+核心通識-科技與社會(90),基本素養-組織管理(110)","Literacy and Competence for Future Leaders
+FCOMScience, Technology and SocietyGECL",未來科技領導人的素養與思維,20,0.0,F56-YX202[YM],2.0,2.0,洪紹洋,Core curriculum
+center_of_general_education,Liberal Arts College,161055.0,GECE00177,,"校基本素養(106)
+核心通識-科技與社會(90),基本素養-組織管理(110)","Literacy and Competence for Future Leaders
+FCOMScience, Technology and SocietyGECL",未來科技領導人的素養與思維,20,0.0,F78-YX202[YM],2.0,2.0,徐詩偉,Core curriculum
+center_of_general_education,Liberal Arts College,161056.0,GECE00101,[1] 具日文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。,"博雅選修通識 (90)
+語言與溝通-第二外語(111)","Basic Japanese (II)
+Optional Liberal EducationLCLS",初級日文(二),32,0.0,R12-YT103[YM],2.0,2.0,詹兆雯,Language & communication
+center_of_general_education,Liberal Arts College,161057.0,GECE00102,[1] 具日文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。,"博雅選修通識 (90)
+語言與溝通-第二外語(111)","Basic Japanese (IV)
+Optional Liberal EducationLCLS",初級日文(四),32,0.0,T9a-YT103[YM],2.0,2.0,詹兆雯,Language & communication
+center_of_general_education,Liberal Arts College,161058.0,GECE00133,[1] 為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。,"博雅選修通識 (90)
+語言與溝通-第二外語(111)","French(I)
+Optional Liberal EducationLCLS",法文(一),32,0.0,M78-YX201[YM],2.0,2.0,張玉蕙,Language & communication
+center_of_general_education,Liberal Arts College,161059.0,GECE00134,[1] 具法文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。 [3] 陽明校區：採「實體授課」與「實體考試」。 [4] 交大校區：採「遠距授課」，選課同學自行上線參與課程。但採「實體考試」，時間另訂。 [5] 每星期五中午12:20在交大校區開放實體教室提問及教學指導。,"博雅選修通識 (90)
+語言與溝通-第二外語(111)","French (Ⅱ)
+Optional Liberal EducationLCLS",法文(二),32,0.0,M9a-YX201[YM],2.0,2.0,張玉蕙,Language & communication
+center_of_general_education,Liberal Arts College,161060.0,GECE00114,[1] 具德文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。,"博雅選修通識 (90)
+語言與溝通-第二外語(111)","German (II)
+Optional Liberal EducationLCLS",德文(二),32,0.0,F56-YX406[YM],2.0,2.0,唐岱霞,Language & communication
+center_of_general_education,Liberal Arts College,161061.0,GECE00113,[1] 具德文基礎，為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。,"博雅選修通識 (90)
+語言與溝通-第二外語(111)","German (III)
+Optional Liberal EducationLCLS",德文(三),32,0.0,F78-YX201[YM],2.0,2.0,唐岱霞,Language & communication
+center_of_general_education,Liberal Arts College,161062.0,GECE00213,[1] 為維持教學品質，限制修課人數。 [2] 陽明校區110學年學制學生不列計核心、語言與溝通學分。,"博雅選修通識 (90)
+語言與溝通-第二外語(111)","Korean Language and culture (I)
+Optional Liberal EducationLCLS",韓語和韓國文化(一),32,0.0,T34-YX201[YM],2.0,2.0,沈明珠,Language & communication
+center_of_general_education,Liberal Arts College,161063.0,GECE00157,[English Medium Course] [1] 限物治一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","English in Arts
+LCLEEnglish LiteratureENG",藝術英文,32,0.0,T12-YT204[YM],2.0,2.0,吳哲硯,Language & communication
+center_of_general_education,Liberal Arts College,161064.0,GECE00327,[English Medium Course] [1] 限醫放一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","Rhetoric in Western Literature and Culture
+LCLEEnglish LiteratureENG",西方文學與文化中的修辭,32,0.0,T34-YT204[YM],2.0,2.0,吳哲硯,Language & communication
+center_of_general_education,Liberal Arts College,161065.0,GECE00328,[English Medium Course] [1] 限醫技一、護理一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","VOA: Science & Technology
+LCLEEnglish LiteratureENG",VOA美國之音：科學與科技,32,0.0,W12-YX503[YM],2.0,2.0,林志瑋,Language & communication
+center_of_general_education,Liberal Arts College,161066.0,GECE00152,[English Medium Course] [1] 限醫技一、護理一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","Cross-Cultural Communication in English
+LCLEEnglish LiteratureENG",英文跨文化溝通,32,0.0,W12-YT203[YM],2.0,2.0,何彥如,Language & communication
+center_of_general_education,Liberal Arts College,161067.0,GECE00160,[English Medium Course] [1] 限醫技一、護理一、醫工一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","Advanced English Listening and Speaking
+LCLEEnglish LiteratureENG",進階英語聽講練習,32,0.0,W12-YX201[YM],2.0,2.0,邱剛彥,Language & communication
+center_of_general_education,Liberal Arts College,161068.0,GECE00108,[English Medium Course] [1] 限醫學一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","Philosophy in Fiction
+LCLEEnglish LiteratureENG",小說中的哲學思想,32,0.0,R12-YX201[YM],2.0,2.0,程曉杰,Language & communication
+center_of_general_education,Liberal Arts College,161069.0,GECE00152,[English Medium Course] [1] 限醫學一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","Cross-Cultural Communication in English
+LCLEEnglish LiteratureENG",英文跨文化溝通,32,0.0,R12-YT203[YM],2.0,2.0,何彥如,Language & communication
+center_of_general_education,Liberal Arts College,161070.0,GECE00328,[English Medium Course] [1] 限牙醫一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","VOA: Science & Technology
+LCLEEnglish LiteratureENG",VOA美國之音：科學與科技,32,0.0,F12-YX503[YM],2.0,2.0,林志瑋,Language & communication
+center_of_general_education,Liberal Arts College,161071.0,GECE00108,[English Medium Course] [1] 限生科一、不分系一。 [2] 全英語授課，為維持教學品質，限制修課人數。,"語言-英文(90)
+語言與溝通-英文(111)","Philosophy in Fiction
+LCLEEnglish LiteratureENG",小說中的哲學思想,32,0.0,F34-YX201[YM],2.0,2.0,程曉杰,Language & communication
+center_of_general_education,Liberal Arts College,161072.0,GECE00125,限醫學系，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生，請勿隨意退課。,"核心-社會(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","General Psychology
+Optional Liberal EducationGECDASC",普通心理學,0,61.0,T34-YX216[YM],2.0,2.0,張立鴻,Core curriculum
+center_of_general_education,Liberal Arts College,161076.0,GECE00052,1.中央研究院人文講座課程，中國文哲研究所林維杰研究員主持授課。 2.1112學期因應疫情採行線上教學。 3.2023/04/06，依中研院行事曆維持正常上課。,"核心通識-哲學與心靈(90)
+基本素養-批判思考(110)","Hermeneutic Philosophy
+FCCTPhilosophy and Mind",文本詮釋,35,0.0,R78-,2.0,2.0,林維杰,Core curriculum
+center_of_general_education,Liberal Arts College,161077.0,GECE00316,1.中央研究院人文講座課程，歷史語言研究所林維杰研究員主持授課。 2.1112學期因應疫情採行線上教學。 3.2023/04/06，依中研院行事曆維持正常上課。,"校基本素養(106)
+核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","The Enlightenment and the Modern World
+History and CivilizationsGECLDASC",啟蒙運動與現代世界,35,0.0,R56-,2.0,2.0,陳正國,Core curriculum
+center_of_general_education,Liberal Arts College,161078.0,GECE00013,1.中央研究院人文講座課程，社會學研究所楊文山研究員主持授課。 2.1112學期因應疫情採行線上教學。 3.2023/04/06，依中研院行事曆維持正常上課。,"校基本素養(106)
+核心通識-社會與經濟(90),基本素養-生命及品格教育(110)","Marriage and Family in Taiwan
+FCLCSociety and EconomyGECL",婚姻、家庭與臺灣社會,35,0.0,R78-,2.0,2.0,楊文山,Core curriculum
+center_of_general_education,Liberal Arts College,161079.0,GECE00317,1.中央研究院人文講座課程，中國文哲研究所劉瓊云副研究員主持授。 2.1112學期因應疫情採行線上教學。 3.2023/04/06，依中研院行事曆維持正常上課。,"校基本素養(106)
+核心通識-藝術與文化(90),領域課程-人文與美學(110)","(Non-)Human Body and Literature
+Art and CulturesGECLDAHA",(非)人類身體與文學,35,0.0,R56-,2.0,2.0,劉瓊云,Core curriculum
+center_of_general_education,Liberal Arts College,161080.0,GECE00315,1.中央研究院人文講座課程，經濟研究所張俊仁研究員、經濟研究所楊淑珺研究員主持授課。 2.1112學期因應疫情採行線上教學。 3.2023/04/06，依中研院行事曆維持正常上課。,"核心通識-社會與經濟(90)
+基本素養-量性推理(110)","Macroeconomics and Policy
+FCQRSociety and Economy",總體經濟與政策,35,0.0,R56-,2.0,2.0,張俊仁、楊淑珺,Core curriculum
+center_of_general_education,Liberal Arts College,161081.0,GECE00004,1.中央研究院人文講座課程，歷史語言研究所王道還助理研究員主持授課。 2.1112學期因應疫情採行線上教學。 3.2023/04/06，依中研院行事曆維持正常上課。,"校基本素養(106)
+核心通識-科技與社會(90),領域課程-社會中的科技與自然(110)","The Story of Mankind
+Science, Technology and SocietyGECLDAST",人類的故事,35,0.0,R78-,2.0,2.0,王道還,Core curriculum
+center_of_general_education,Liberal Arts College,161089.0,GECE00330,1.中央研究院中國文哲研究所陳瑋芬研究員主持授課。 2.1112學期為因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。,"博雅選修通識 (90)
+領域課程-個人、社會與文化(110)","The guidance of career planning by academic masters：The light and shadow of Civilization
+Optional Liberal EducationDASC",巨人的肩膀：文明的光與影,10,0.0,R56-,1.0,1.0,陳瑋芬,Core curriculum
+center_of_general_education,Liberal Arts College,161090.0,GECE00333,1.中央研究院歷史語言研究所張谷銘副研究員主持授課。 2.1112學期為因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。4.2023/04/06，依中研院行事曆維持正常上課。,"博雅選修通識 (90)
+領域課程-個人、社會與文化(110)","The guidance of career planning by academic masters：Medical Education Compared: The Flexner Reports
+Optional Liberal EducationDASC",巨人的肩膀：二十世紀初的歐美醫學教育,10,0.0,R78-,1.0,1.0,張谷銘,Core curriculum
+center_of_general_education,Liberal Arts College,161091.0,GECE00331,,"博雅選修通識 (90)
+領域課程-人文與美學(110)","The guidance of career planning by academic masters：Existential psychology and cinema
+Optional Liberal EducationDAHA",巨人的肩膀：存在心理學與電影 II,10,0.0,R78-,1.0,1.0,余安邦,Core curriculum
+center_of_general_education,Liberal Arts College,161092.0,GECE00332,,"博雅選修通識 (90)
+領域課程-個人、社會與文化(110)","The guidance of career planning by academic masters：Min-nan Maritime Trade History
+Optional Liberal EducationDASC",巨人的肩膀：閩南海洋貿易史,10,0.0,R56-,1.0,1.0,朱德蘭,Core curriculum
+center_of_general_education,Liberal Arts College,161093.0,GECE00045,,"博雅選修通識 (90)
+領域課程-個人、社會與文化(110)","The guidance of career planning by academic masters：Taipei Peace Treaty and the Asia-Pacific World
+Optional Liberal EducationDASC",巨人的肩膀：臺北和約與亞太世界,10,0.0,R78-,1.0,1.0,林滿紅,Core curriculum
+center_of_general_education,Liberal Arts College,161094.0,GECE00334,,"博雅選修通識 (90)
+基本素養-生命及品格教育(110)","The guidance of career planning by academic masters：Anthropology and the Moral World
+Optional Liberal EducationFCLC",巨人的肩膀：人類學與道德世界,10,0.0,R56-,1.0,1.0,劉紹華,Core curriculum
+center_of_general_education,Liberal Arts College,161095.0,GECE00335,,"博雅選修通識 (90)
+領域課程-人文與美學(110)","The guidance of career planning by academic masters：Appreciating and Analyzing Contemporary Chinese Films
+Optional Liberal EducationDAHA",巨人的肩膀：中國當代電影賞析,10,0.0,R56-,1.0,1.0,楊小濱,Core curriculum
+center_of_general_education,Liberal Arts College,161096.0,GECE00336,1.中央研究院歷史語言研究所李尚仁研究員主持授課。 2.1112學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。,"博雅選修通識 (90)
+領域課程-個人、社會與文化(110)","The guidance of career planning by academic masters：The Economics and Politics of Pharmaceutical Knowledge Production
+Optional Liberal EducationDASC",巨人的肩膀：醫藥產業的知識、經濟與政治,10,0.0,R78-,1.0,1.0,李尚仁,Core curriculum
+center_of_general_education,Liberal Arts College,161097.0,GECE00037,1.中央研究院中國文哲研究所王道還助理研究員主持授課。 2.1112學期因應疫情採行線上教學。 3.隔週上課，每次上課兩小時。4.2023/04/06，依中研院行事曆維持正常上課。,"校基本素養(106)
+博雅選修通識 (90),領域課程-社會中的科技與自然(110)","The guidance of career planning by academic masters：Critical Reading of Guns, Germs, and Steel
+Optional Liberal EducationGECLDAST",巨人的肩膀：精讀《槍砲、病菌、與鋼鐵》,10,0.0,R78-,1.0,1.0,王道還,Core curriculum
+center_of_general_education,Center of General Education,561001.0,GECG00026,,"公民/進階(96)
+校基本素養(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","Japan Today
+History and CivilizationsGECLDASC",日本現勢,50,0.0,M56-A205[GF],2.0,2.0,楊永良,Core curriculum
+center_of_general_education,Center of General Education,561002.0,GECG00001,「臺灣史」不接受修讀過「中國與東亞文明史」同學修讀：「中國與東亞文明史」不接受修讀過「臺灣史」同學修讀。,"歷史/基礎(96)
+核心-人文(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","A General Survey of China and East Asia Civilization
+History and CivilizationsGECDASC",中國與東亞文明史,40,0.0,F56-A205[GF],2.0,2.0,張文昌,Core curriculum
+center_of_general_education,Center of General Education,561003.0,GECG00002,,"歷史/進階(96)
+校基本素養(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","Introduction to Islamic Civilization
+History and CivilizationsGECLDASC",伊斯蘭文明,50,0.0,R56-A205[GF],2.0,2.0,趙錫麟,Core curriculum
+center_of_general_education,Center of General Education,561004.0,GECG00002,,"歷史/進階(96)
+校基本素養(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","Introduction to Islamic Civilization
+History and CivilizationsGECLDASC",伊斯蘭文明,50,0.0,R78-A205[GF],2.0,2.0,趙錫麟,Core curriculum
+center_of_general_education,Center of General Education,561005.0,GECG00003,「俄羅斯歷史與文化」(3學分) 不接受已修過「俄羅斯歷史與文化」(2學分)同學修讀。,"歷史/進階(96)
+校基本素養(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","History of Russian Culture
+History and CivilizationsGECLDASC",俄羅斯歷史與文化,44,0.0,W34n-A205[GF],3.0,3.0,陳仁姮,Core curriculum
+center_of_general_education,Center of General Education,561006.0,GECG00007,,"公民/進階(96)
+核心-社會(106),博雅選修通識 (90),領域課程-個人、社會與文化(110)","International Relations
+Optional Liberal EducationGECDASC",國際關係,40,0.0,M34-A204[GF],2.0,2.0,邱奕宏,Core curriculum
+center_of_general_education,Center of General Education,561007.0,GECG00050,,"文化/基礎(96)
+核心-人文(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)","Introduction to Music
+Art and CulturesGECDAHA",音樂概論,40,0.0,R34-A102[GF],2.0,2.0,宋育任,Core curriculum
+center_of_general_education,Center of General Education,561008.0,GECG00014,,"公民/基礎(96)
+核心-社會(106),博雅選修通識 (90),領域課程-公民與倫理思考(110)","Political Science
+Optional Liberal EducationGECDACE",政治學,40,0.0,T34-A503[GF],2.0,2.0,胡正光,Core curriculum
+center_of_general_education,Center of General Education,561009.0,GECG00015,「政治學」(3學分)不接受已修過「政治學」(2學分)同學修讀；「政治學」(2學分)不接受已修過「政治學」(3學分)同學修讀,"公民/基礎(96)
+核心-社會(106),博雅選修通識 (90),領域課程-公民與倫理思考(110)","Political Science
+Optional Liberal EducationGECDACE",政治學,40,0.0,T567-A503[GF],3.0,3.0,胡正光,Core curriculum
+center_of_general_education,Center of General Education,561010.0,GECG00016,交大校區實地授課，陽明校區線上同步。,"群己/進階(96)
+核心-社會(106),博雅選修通識 (90),領域課程-個人、社會與文化(110)","An introduction to pedagogy
+Optional Liberal EducationGECDASC",教育學概論,50,0.0,W34-A509[GF],2.0,2.0,黃漢昌,Core curriculum
+center_of_general_education,Center of General Education,561011.0,GECG00019,,"文化/基礎(96)
+核心-人文(106),博雅選修通識 (90),領域課程-人文與美學(110)","Chinese Literature-Shin Ching
+Optional Liberal EducationGECDAHA",文學經典：詩經,50,0.0,M12-A509[GF],2.0,2.0,王月秀,Core curriculum
+center_of_general_education,Center of General Education,561012.0,GECG00021,,"文化/基礎(96)
+核心-人文(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)","Selected Reading on Russian Classical Literature
+Art and CulturesGECDAHA",文學經典：俄國名著選讀,40,0.0,M78-A205[GF],2.0,2.0,陳仁姮,Core curriculum
+center_of_general_education,Center of General Education,561013.0,GECG00022,「文學經典：台灣文學」(3學分) 不接受已修過「文學經典：台灣文學」(2學分)及修讀過「台灣社會與文化」同學修讀。,"文化/基礎(96)
+核心-人文(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)","Taiwanese Literature
+Art and CulturesGECDAHA",文學經典：台灣文學,40,0.0,F567-A503[GF],3.0,3.0,黃毓婷,Core curriculum
+center_of_general_education,Center of General Education,561014.0,GECG00025,,"群己/基礎(96)
+歷史/進階(96),校基本素養(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","Cultural Heritage of Japan
+History and CivilizationsGECLDASC",日本文化論,50,0.0,M34-A205[GF],2.0,2.0,楊永良,Core curriculum
+center_of_general_education,Center of General Education,561015.0,GECG00027,交大校區實地授課，陽明校區線上同步。,"文化/進階(96)
+校基本素養(106),語言-中文(90),領域課程-人文與美學(110)","Theories and Practice of Calligraphy
+Chinese LiteratureGECLDAHA",書學與書道,50,0.0,W12-A509[GF],2.0,2.0,黃漢昌,Core curriculum
+center_of_general_education,Center of General Education,561016.0,GECG00028,「歷史分析：世界史導論」不接受修讀過「世界文明史」同學修讀。,"歷史/基礎(96)
+核心-人文(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","History Analysis: Introduction to the World History
+History and CivilizationsGECDASC",歷史分析：世界史導論,44,0.0,T34-A205[GF],2.0,2.0,陳仁姮,Core curriculum
+center_of_general_education,Center of General Education,561017.0,GECG00028,「歷史分析：世界史導論」不接受修讀過「世界文明史」同學修讀。,"歷史/基礎(96)
+核心-人文(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","History Analysis: Introduction to the World History
+History and CivilizationsGECDASC",歷史分析：世界史導論,44,0.0,T78-A205[GF],2.0,2.0,陳仁姮,Core curriculum
+center_of_general_education,Center of General Education,561018.0,GECG00031,「生命與生醫」不接受生科系同學修讀。[English Medium Course],"自然/進階(96)
+核心-自然(106),博雅選修通識 (90),領域課程-社會中的科技與自然(110)","Life and Biomedicine
+Optional Liberal EducationGECDASTENG",生命與生醫,40,0.0,W56-A204[GF],2.0,2.0,林苕吟,Core curriculum
+center_of_general_education,Center of General Education,561019.0,GECG00089,,"群己/進階(96)
+校基本素養(106),領域課程-個人、社會與文化(110)","Social Psychology
+GECLDASC",社會心理學,50,0.0,M567-A103[GF],3.0,3.0,梁瓊惠,Core curriculum
+center_of_general_education,Center of General Education,561020.0,GECG00035,,"群己/基礎(96)
+核心-社會(106),核心通識-社會與經濟(90),領域課程-個人、社會與文化(110)","Sociology
+Society and EconomyGECDASC",社會學,50,0.0,R34-A204[GF],2.0,2.0,黃國清,Core curriculum
+center_of_general_education,Center of General Education,561021.0,GECG00035,,"群己/基礎(96)
+核心-社會(106),核心通識-社會與經濟(90),領域課程-個人、社會與文化(110)","Sociology
+Society and EconomyGECDASC",社會學,40,0.0,M34-A503[GF],2.0,2.0,胡正光,Core curriculum
+center_of_general_education,Center of General Education,561022.0,GECG00035,,"群己/基礎(96)
+核心-社會(106),核心通識-社會與經濟(90),領域課程-個人、社會與文化(110)","Sociology
+Society and EconomyGECDASC",社會學,40,0.0,M56-A503[GF],2.0,2.0,胡正光,Core curriculum
+center_of_general_education,Center of General Education,561023.0,GECG00037,"上課地點：浩然B1國際會議廳,限大二至大四同學修讀。","公民/進階(96)
+校基本素養(106),博雅選修通識 (90),基本素養-生命及品格教育(110)","Contemporary Civilization
+Optional Liberal EducationFCLCGECL",經典通識教育講座,160,0.0,W56-Lib-B1[GF],2.0,2.0,王美鴻,Core curriculum
+center_of_general_education,Center of General Education,561024.0,GECG00039,「臺灣史」不接受修讀過「中國與東亞文明史」同學修讀：「中國與東亞文明史」不接受修讀過「臺灣史」同學修讀。,"歷史/基礎(96)
+核心-人文(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","The Taiwan History
+History and CivilizationsGECDASC",臺灣史,40,0.0,F34-A205[GF],2.0,2.0,張文昌,Core curriculum
+center_of_general_education,Center of General Education,561025.0,GECG00040,,"文化/進階(96)
+校基本素養(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)","A History of Western Opera
+Art and CulturesGECLDAHA",西洋歌劇史,40,0.0,R56-A102[GF],2.0,2.0,宋育任,Core curriculum
+center_of_general_education,Center of General Education,561026.0,GECG00041,「認同與文化」不接受修讀過「當代世界：認同與文化」同學修讀。,"群己/進階(96)
+校基本素養(106),核心通識-歷史與文明(90),領域課程-個人、社會與文化(110)","Identity and Culture
+History and CivilizationsGECLDASC",認同與文化,50,0.0,R56-A204[GF],2.0,2.0,黃國清,Core curriculum
+center_of_general_education,Center of General Education,561027.0,GECG00043,「資訊行為」不接受修讀過「社會心理學」同學修讀。,"群己/進階(96)
+校基本素養(106),核心通識-社會與經濟(90),領域課程-公民與倫理思考(110)","Human Information Behavior
+Society and EconomyGECLDACE",資訊行為,45,0.0,W12-A401[GF],2.0,2.0,王美鴻,Core curriculum
+center_of_general_education,Center of General Education,561028.0,GECG00043,「資訊行為」不接受修讀過「社會心理學」同學修讀。,"群己/進階(96)
+校基本素養(106),核心通識-社會與經濟(90),領域課程-公民與倫理思考(110)","Human Information Behavior
+Society and EconomyGECLDACE",資訊行為,45,0.0,M78-A401[GF],2.0,2.0,王美鴻,Core curriculum
+center_of_general_education,Center of General Education,561029.0,GECG00043,「資訊行為」不接受修讀過「社會心理學」同學修讀。,"群己/進階(96)
+校基本素養(106),核心通識-社會與經濟(90),領域課程-公民與倫理思考(110)","Human Information Behavior
+Society and EconomyGECLDACE",資訊行為,45,0.0,M34-A401[GF],2.0,2.0,王美鴻,Core curriculum
+center_of_general_education,Center of General Education,561030.0,GECG00044,「運動與健康」限大四同學修讀。,"自然/進階(96)
+校基本素養(106),博雅選修通識 (90),領域課程-個人、社會與文化(110)","Sport and Health
+Optional Liberal EducationGECLDASC",運動與健康,50,0.0,T56-A204[GF],2.0,2.0,巫慧萍,Core curriculum
+center_of_general_education,Center of General Education,561031.0,GECG00047,「閱讀與寫作」包含寫作指導。,"文化/進階(96)
+校基本素養(106),語言-中文(90),領域課程-人文與美學(110)","Reading and Writing
+Chinese LiteratureGECLDAHA",閱讀與寫作,30,0.0,M34-A509[GF],2.0,2.0,王月秀,Core curriculum
+center_of_general_education,Center of General Education,561032.0,GECG00048,,"歷史/進階(96)
+校基本素養(106),核心通識-歷史與文明(90),領域課程-公民與倫理思考(110)","The Rise and Fall of the Great Powers
+History and CivilizationsGECLDACE",霸權興衰史：從十五世紀至當代,50,0.0,F12-A102[GF],2.0,2.0,劉河北,Core curriculum
+center_of_general_education,Center of General Education,561033.0,GECG00048,,"歷史/進階(96)
+校基本素養(106),核心通識-歷史與文明(90),領域課程-公民與倫理思考(110)","The Rise and Fall of the Great Powers
+History and CivilizationsGECLDACE",霸權興衰史：從十五世紀至當代,50,0.0,F34-A102[GF],2.0,2.0,劉河北,Core curriculum
+center_of_general_education,Center of General Education,561034.0,GECG00049,,"文化/基礎(96)
+核心-人文(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)","Introduction to Music Theory
+Art and CulturesGECDAHA",音樂理論導論,40,0.0,M56-A102[GF],2.0,2.0,洪億津,Core curriculum
+center_of_general_education,Center of General Education,561035.0,GECG00050,,"文化/基礎(96)
+核心-人文(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)","Introduction to Music
+Art and CulturesGECDAHA",音樂概論,40,0.0,T34-A102[GF],2.0,2.0,宋育任,Core curriculum
+center_of_general_education,Center of General Education,561036.0,GECG00050,,"文化/基礎(96)
+核心-人文(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)","Introduction to Music
+Art and CulturesGECDAHA",音樂概論,40,0.0,T56-A102[GF],2.0,2.0,宋育任,Core curriculum
+center_of_general_education,Center of General Education,561037.0,GECG00051,交大校區實地授課，陽明校區線上同步。,"群己/進階(96)
+校基本素養(106),博雅選修通識 (90),基本素養-組織管理(110)","Leadership
+Optional Liberal EducationFCOMGECL",領導與統御,40,0.0,R789-A102[GF],3.0,3.0,林紹胤,Core curriculum
+center_of_general_education,Center of General Education,561038.0,GECG00051,陽明校區實地授課，交大校區線上同步。,"群己/進階(96)
+校基本素養(106),博雅選修通識 (90),基本素養-組織管理(110)","Leadership
+Optional Liberal EducationFCOMGECL",領導與統御,50,0.0,R234-YK208[YM],3.0,3.0,林紹胤,Core curriculum
+center_of_general_education,Center of General Education,561039.0,GECG00053,「政治學導論」 不接受已修過「政治學」同學修讀。,"公民/基礎(96)
+核心-社會(106),博雅選修通識 (90),領域課程-個人、社會與文化(110)","Introduction to Political Science
+Optional Liberal EducationGECDASC",政治學導論,40,0.0,M56-A401[GF],2.0,2.0,邱奕宏,Core curriculum
+center_of_general_education,Center of General Education,561040.0,GECG00054,"「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。[English Medium Course]","群己/基礎(96)
+核心-社會(106),核心通識-哲學與心靈(90),領域課程-個人、社會與文化(110)","General Psychology
+Philosophy and MindGECDASCENG",普通心理學,50,0.0,T34-A103[GF],2.0,2.0,梁瓊惠,Core curriculum
+center_of_general_education,Center of General Education,561041.0,GECG00054,"「普通心理學」不接受修讀過「心理學」或「心理學概論」同學修讀2.選課系統預設核心社會,欲採計核心自然請至通識中心書面申請。","群己/基礎(96)
+核心-社會(106),核心通識-哲學與心靈(90),領域課程-個人、社會與文化(110)","General Psychology
+Philosophy and MindGECDASC",普通心理學,50,0.0,T78-A103[GF],2.0,2.0,梁瓊惠,Core curriculum
+center_of_general_education,Center of General Education,561042.0,GECG00055,「全球議題」 不接受已修過「當代世界」同學修讀。[English Medium Course],"公民/進階(96)
+核心-社會(106),核心通識-社會與經濟(90),領域課程-個人、社會與文化(110)","Global Issues
+Society and EconomyGECDASCENG",全球議題,40,0.0,T56-A401[GF],2.0,2.0,邱奕宏,Core curriculum
+center_of_general_education,Center of General Education,561043.0,GECG00063,,"核心-人文(106)
+語言-中文(90),基本素養-生命及品格教育(110)","Zhuangzi
+FCLCChinese LiteratureGEC",莊子導讀,40,0.0,T34-A509[GF],2.0,2.0,王小滕,Core curriculum
+center_of_general_education,Center of General Education,561044.0,GECG00063,,"核心-人文(106)
+語言-中文(90),基本素養-生命及品格教育(110)","Zhuangzi
+FCLCChinese LiteratureGEC",莊子導讀,40,0.0,T56-A509[GF],2.0,2.0,王小滕,Core curriculum
+center_of_general_education,Center of General Education,561045.0,GECG00090,,"核心-人文(106)
+語言-中文(90),基本素養-生命及品格教育(110)","Lao-Zi
+FCLCChinese LiteratureGEC",老子導讀,40,0.0,R34-A509[GF],2.0,2.0,王小滕,Core curriculum
+center_of_general_education,Center of General Education,561046.0,GECG00090,,"核心-人文(106)
+語言-中文(90),基本素養-生命及品格教育(110)","Lao-Zi
+FCLCChinese LiteratureGEC",老子導讀,40,0.0,R56-A509[GF],2.0,2.0,王小滕,Core curriculum
+center_of_general_education,Center of General Education,561047.0,GECG00064,,"核心-人文(106)
+基本素養-批判思考(110)","Introduction to Philosophy
+FCCTGEC",哲學概論,80,0.0,F78-A103[GF],2.0,2.0,王冠生,Core curriculum
+center_of_general_education,Center of General Education,561048.0,GECG00065,跨校區課程,"核心-社會(106)
+基本素養-量性推理(110)","Data and Everyday Life
+FCQRGEC",數據與日常生活,50,0.0,"R34-A103[GF],R34-YT301[YM]",2.0,2.0,彭松嶽,Core curriculum
+center_of_general_education,Center of General Education,561049.0,GECG00066,,"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-生命及品格教育(110)","Health Psychology and Stress Copings
+FCLCPhilosophy and MindGECL",健康心理與壓力因應,70,0.0,T12-YX501[YM],2.0,2.0,程千芳,Core curriculum
+center_of_general_education,Center of General Education,561050.0,GECG00067,,"校基本素養(106)
+博雅選修通識 (90),基本素養-生命及品格教育(110)","Interplay with Social Psychology
+Optional Liberal EducationFCLCGECL",與社會心理學共舞,50,0.0,T34-YX501[YM],2.0,2.0,程千芳,Core curriculum
+center_of_general_education,Center of General Education,561051.0,GECG00068,,"校基本素養(106)
+博雅選修通識 (90),基本素養-生命及品格教育(110)","Grace Aging Psychology
+Optional Liberal EducationFCLCGECL",優雅老化心理學,50,0.0,R12-YX501[YM],2.0,2.0,程千芳,Core curriculum
+center_of_general_education,Center of General Education,561052.0,GECG00069,「經濟學概論」不接受管理學院同學修讀。,"校基本素養(106)
+基本素養-量性推理(110)","Introduction to Economics
+FCQRGECL",經濟學概論,80,0.0,W567-M101[GF],3.0,3.0,梁婉麗,Core curriculum
+center_of_general_education,Center of General Education,561053.0,GECG00070,,"校基本素養(106)
+領域課程-公民與倫理思考(110)","Moral Reasoning
+GECLDACE",道德推理,80,0.0,F56-A103[GF],2.0,2.0,王冠生,Core curriculum
+center_of_general_education,Center of General Education,561054.0,GECG00071,,"校基本素養(106)
+領域課程-人文與美學(110)","Gender, Sexuality and Cinema
+GECLDAHA",性別與電影,50,0.0,T9a-F210[GF],2.0,2.0,蔡華臻,Core curriculum
+center_of_general_education,Center of General Education,561055.0,GECG00073,,"校基本素養(106)
+領域課程-個人、社會與文化(110)","US Foreign Policy
+GECLDASC",美國外交政策,40,0.0,T34-A401[GF],2.0,2.0,邱奕宏,Core curriculum
+center_of_general_education,Center of General Education,561056.0,GECG00074,,"核心-自然(106)
+領域課程-社會中的科技與自然(110)","Chemistry and History
+GECDAST",化學與歷史,50,0.0,F34-SB211[GF],2.0,2.0,黃立心,Core curriculum
+center_of_general_education,Center of General Education,561057.0,GECG00075,,"校基本素養(106)
+領域課程-社會中的科技與自然(110)","Robot Technology in Movies and Life
+GECLDAST",電影與生活中的機器人科技,50,0.0,R34-A205[GF],2.0,2.0,楊谷洋,Core curriculum
+center_of_general_education,Center of General Education,561058.0,GECG00076,,"校基本素養(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","Drama Music：Human Nature
+Optional Liberal EducationGECLDAHA",戲劇音樂：人性,40,0.0,T12-YX502[YM],2.0,2.0,林伶美,Core curriculum
+center_of_general_education,Center of General Education,561059.0,GECG00077,,"校基本素養(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","Listening to Romeo and Juliet
+Optional Liberal EducationGECLDAHA",聽見羅密歐與茱麗葉,40,0.0,T34-YX502[YM],2.0,2.0,林伶美,Core curriculum
+center_of_general_education,Center of General Education,561060.0,GECG00078,,"校基本素養(106)
+領域課程-人文與美學(110)","Musical Syntax and Expression
+GECLDAHA",音樂語言與表達,40,0.0,W56-YX502[YM],2.0,2.0,林伶美,Core curriculum
+center_of_general_education,Center of General Education,561061.0,GECG00079,,"校基本素養(106)
+博雅選修通識 (90),領域課程-人文與美學(110)","The Evolution of Symphony（from Beethoven to Mahler）
+Optional Liberal EducationGECLDAHA",交響曲發展史(從貝多芬到馬勒),40,0.0,R12-YX502[YM],2.0,2.0,林伶美,Core curriculum
+center_of_general_education,Center of General Education,561062.0,GECG00080,,"校基本素養(106)
+領域課程-人文與美學(110)","Musical Syntax and Expression
+GECLDAHA",音樂語言與表達,40,0.0,R34-YX502[YM],2.0,2.0,林伶美,Core curriculum
+center_of_general_education,Center of General Education,561063.0,GECG00081,,"校基本素養(106)
+領域課程-個人、社會與文化(110)","The Study of Young Marx
+GECLDASC",青年馬克思的生命哲學和創思歷程,70,0.0,W34-A102[GF],2.0,2.0,洪鎌德,Core curriculum
+center_of_general_education,Center of General Education,561064.0,GECG00082,,"校基本素養(106)
+領域課程-公民與倫理思考(110)","Academic Research Ethics: Principles and Case Studies
+GECLDACE",從經典故事談學術研究倫理,50,0.0,W56-A401[GF],2.0,2.0,潘璿安,Core curriculum
+center_of_general_education,Center of General Education,561065.0,GECG00084,,"校基本素養(106)
+領域課程-個人、社會與文化(110)","Border and Migration
+GECLDASC",邊界與遷移,30,0.0,"W34-,W34-F207[GF]",2.0,2.0,林淑芬,Core curriculum
+center_of_general_education,Center of General Education,561066.0,GECG00085,,"校基本素養(106)
+領域課程-社會中的科技與自然(110)","An introductory guide to pharmacy
+GECLDAST",藥學知多少,50,0.0,T34-A204[GF],1.0,1.0,林滿玉、胡德民、康照洲、許銘能、姜紹青、楊思源、石博文,Core curriculum
+center_of_general_education,Center of General Education,561067.0,GECG00086,1.課程介紹:https://youtu.be/K_R64ylOrKE 2.[English Medium Course],"校基本素養(106)
+領域課程-個人、社會與文化(110)","Modern Journey of Human-animal Relations
+GECLDASCENG",動物與人類的現代旅程,50,0.0,T34-F210[GF],2.0,2.0,葉蔭聰,Core curriculum
+center_of_general_education,Center of General Education,561068.0,GECG00087,「造型與繪圖」不接受已修過「幾何造形」的同學選讀。,"校基本素養(106)
+領域課程-人文與美學(110)","Patterning and Drawning
+GECLDAHA",造型與繪圖,40,0.0,F12-CS-PC2[GF],2.0,2.0,陳明璋,Core curriculum
+center_of_general_education,Center of General Education,561069.0,GECG00087,「造型與繪圖」不接受已修過「幾何造形」的同學選讀。,"校基本素養(106)
+領域課程-人文與美學(110)","Patterning and Drawning
+GECLDAHA",造型與繪圖,40,0.0,F34-CS-PC2[GF],2.0,2.0,陳明璋,Core curriculum
+center_of_general_education,Center of General Education,561071.0,GECG10006,1.授課教師李榮桂(聘請中) 2.限大二以上同學修讀，修課學生需攜帶筆電。,"校基本素養(106)
+基本素養-組織管理(110)","Circular Economy
+FCOMGECL",循環經濟,32,0.0,W34-A401[GF],2.0,2.0,待聘,Core curriculum
+center_of_general_education,Center of General Education,561072.0,GECG10007,傳播與科技學系大學部學生應自行修習該系之相關媒體素養課程,"校基本素養(106)
+領域課程-個人、社會與文化(110)","Communication Technology and Media Literacy
+GECLDASC",傳播科技與媒體素養,50,0.0,R56-,2.0,2.0,陳延昇、吳泰毅,Core curriculum
+center_of_general_education,Liberal Arts College,561500.0,GEGE00001,,"自然/進階(96)
+校基本素養(106),博雅選修通識 (90),領域課程-個人、社會與文化(110)","Traffic Safety and Life Education
+Optional Liberal EducationGECLDASC",交通安全與生命教育,65,0.0,T89-A901[GF],2.0,2.0,吳宗修,Core curriculum
+center_of_general_education,Liberal Arts College,561501.0,GEGE00014,本課程為磨課師課程，課程營運以網路授課為主。課程的任何公告或事活動安排，均透過 e3平台進行公告，請學生隨時留意課程公告以及訊息通知，以維護您的成績與權益。,"校基本素養(106)
+博雅選修通識 (90),領域課程-個人、社會與文化(110)","Psychology of Aging
+Optional Liberal EducationGECLDLDASC",銀髮心理與生活,100,0.0,Rab-ED116[GF],2.0,2.0,黃植懋,Core curriculum
+center_of_general_education,Liberal Arts College,561502.0,GEGE00008,,"校基本素養(106)
+核心通識-科技與社會(90),領域課程-社會中的科技與自然(110)","Science,Technology and Society
+Science, Technology and SocietyGECLDAST",科技與社會,30,0.0,M56-A204[GF],2.0,2.0,陳詩欣、黃育綸、張佳智、魏群樹,Core curriculum
+center_of_general_education,Center for Teacher Education,599001.0,GETE10001,"1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫""網路選課加退選處理表""，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。","跨院基本素養(106)
+校基本素養(106),領域課程-個人、社會與文化(110)","Learning How to Learn: Strategies for Reading and Learning
+GECL[COM] GECIDLDASC",學習與閱讀理解策略,Unlimited,0.0,F56-HA108[GF],2.0,2.0,陳鏗任,Teacher Education
+center_of_general_education,Center for Teacher Education,599016.0,GETE20019,"1.本課程限110學年度(含)以後進入教育學程學生之教育實踐課程，如選錯，恐無法承認該學分，請同學特別留意!2.非師資生修讀本課程，不須繳交學分費3.非師資生修讀本課程，需至課務組下載並填寫""網路選課加退選處理表""，經任課老師同意送師培中心辦理加簽。4.如欲將本課程視為通識學分，另需送交課務組辦理登記。","校基本素養(106)
+領域課程-社會中的科技與自然(110)","Science Education: Rationality, Thinking, Creativity
+GECLDAST",科學教育：理性、思考、創新,Unlimited,0.0,W56-HA218[GF],2.0,2.0,陳雅君,Elective
+center_of_general_education,Center for Teacher Education,599017.0,GETE10014,"1.本門課限「109學年度（含）以後進入教育學程學生」修讀，如選錯，恐無法承認該學分，請同學特別留意！2.非師資生修讀本課程，不須繳交學分費3.非師資生修讀本課程，需至課務組下載並填寫""網路選課加退選處理表""，經任課老師同意送師培中心辦理加簽。4.如欲將本課程視為通識學分，另需送交課務組辦理登記。","跨院基本素養(106)
+領域課程-社會中的科技與自然(110)","Life, Learning, and Brain Science
+[CCS,COS,CHK] GECIDAST",生活、學習、腦科學,Unlimited,0.0,Tab-HA107[GF],2.0,2.0,段正仁,Elective
+center_of_general_education,Center for Service-Learning,571003.0,GESL00004,,"校基本素養(106)
+基本素養-組織管理(110)","Social Education and Curation for Sustainable Development- Servicing Learning II
+FCOMGECL",永續教育與策展行動—服務學習(二),30,0.0,Mn56-,3.0,3.0,曾聖凱,Required
+center_of_general_education,Information Technology Service Center,574000.0,GEIT10001,,"核心-自然(106)
+校基本素養(106),基本素養-量性推理(110)","JavaScript Web Programming
+FCQRGECLGEC",JavaScript 網頁程式設計,40,0.0,W234-CS-PC3[GF],3.0,3.0,廖文宏,Elective
+center_of_general_education,Information Technology Service Center,574001.0,GEIT00002,,"校基本素養(106)
+基本素養-量性推理(110)","Introduction to Python Applications
+FCQRGECL",Python 應用概論,75,0.0,R567-CS-PC4[GF],3.0,3.0,謝旻錚,Elective
+center_of_general_education,Information Technology Service Center,574003.0,GEIT10007,,"核心-自然(106)
+基本素養-量性推理(110)","Python Programming
+FCQRGEC",Python程式設計,90,0.0,T567-CS-PC4[GF],3.0,3.0,鄭昌杰,Elective
+center_of_general_education,Information Technology Service Center,574004.0,GEIT00005,,"校基本素養(106)
+博雅選修通識 (90),領域課程-社會中的科技與自然(110)","Cybersecurity Literacy
+Optional Liberal EducationGECLDAST",資訊安全素養,50,0.0,M56-YL402[YM],2.0,2.0,潘美連,Elective
+center_of_general_education,College of Management Venture & Innovation Management Cross-Discipl,517152.0,MGBA10001,"VIP學程課程,百川學程、科管所優先選課；限大學部同學選課，研究所僅開放科管所","校基本素養(106)
+基本素養-組織管理(110)","Foundations of Management and Entrepreneurship
+FCOMGECL",創業與創新實作專案(I),10,0.0,W567-A718[GF],3.0,3.0,黃仕斌,Required
+center_of_general_education,Institute of Molecular and Bioengineering,430206.0,BTMB30066,[English Medium Course],"跨院基本素養(106)
+領域課程-社會中的科技與自然(110)","Hearing Sciences
+[ECE,CCS,CHS] GECIDASTENG",聽力科學,Unlimited,0.0,F567-BI311[BA],3.0,3.0,曲在雯,Elective
+center_of_general_education,Institute of Education,534021.0,HSIE30068,1.本課程為師資生認證科技領域資訊科技專長、職業群科教育專門課程學生使用，不能採計為教育專業學分。2.大學生如欲將此課程列為畢業學分，需自行向各系確認。3.本門課程不能採計為教育所畢業學分。,"核心-社會(106)
+核心通識-倫理與道德思考(90),領域課程-公民與倫理思考(110)","Information Literacy and Ethics
+Ethics and Moral thinkingGECDACE",資訊素養與倫理,30,0.0,T78-HA108[GF],2.0,2.0,魏彗娟,Elective
+center_of_general_education,Institute of Biomedical Imaging and Engineering,545461.0,EEBM30012,生醫所主開、生科系所、生醫科學與工程博士學位學程輔開,"校基本素養(106)
+領域課程-社會中的科技與自然(110)","Bio-Design and Implementation Course
+GECLDAST",生醫設計與實作,Unlimited,0.0,T567-EE118[GF],3.0,3.0,陳冠宇,Elective
+center_of_general_education,Institute of Computer Science and Engineering,535520.0,CSIC30104,資訊學院優先(不開放在職專班網路選課)；機械系不同意所屬學生採計通識學分 [另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],"校基本素養(106)
+領域課程-社會中的科技與自然(110)","Virtual Biomedical Instrumentation
+GECLDAST",虛擬醫用儀表,50,0.0,T56-EC315[GF],3.0,3.0,蕭子健、張家齊,Elective
+center_of_general_education,Institute of Computer Science and Engineering,535523.0,CSIC30100,[English Medium Course]資訊學院優先(不開放在職專班網路選課)；,"校基本素養(106)
+領域課程-社會中的科技與自然(110)","Brain-Computer Interface
+GECLDASTENG",腦機介面系統,36,0.0,F34n-EC329[GF],3.0,3.0,魏群樹,Elective
+center_of_general_education,Graduate institute of finance,537707.0,MGIF30015,財務類課程；財務金融碩博士班、資財系學生優先。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。,"校基本素養(106)
+基本素養-組織管理(110)","Financial Technology Seminar by Yuanta
+FCOMGECL",元大金融科技講堂,90,0.0,W567-M-b10[GF],3.0,3.0,黃思皓,Elective
+center_of_general_education,Graduate institute of finance,537708.0,MGIF30024,財務類課程；財務金融碩士班及資財系學生優先；校級創新創業學程VIP。本課程限碩士班(含)以下學生選修。上課教室: 管理一館光寶聽M115。非本課程輔開系所之外系所學生請於開學後再上網加選課程。無法於線上加選者請紙本加簽。,"校基本素養(106)
+基本素養-組織管理(110)","Entrepreneurship and New Venture Funding
+FCOMGECL",創業與籌資,50,0.0,Rabc-,3.0,3.0,鍾惠民、陳玠甫、王燈山,Elective
+center_of_general_education,Institute of Management of Technology,537801.0,MGMT30079,,"校基本素養(106)
+博雅選修通識 (90),基本素養-組織管理(110)","The Practice and Case Study of Biotechnology Industry Management
+Optional Liberal EducationFCOMGECLDL",生技產業管理個案與實務,Unlimited,0.0,M789-A722[GF],3.0,3.0,陳詩欣、高啟明,Elective
+center_of_general_education,Institute of Management of Technology,537802.0,MGMT30014,[English Medium Course],"跨院基本素養(106)
+校基本素養(106),基本素養-組織管理(110)","Entrepreneurship and New Product Development
+FCOMGECL[ECE,CCS,CHS,CHK] GECIENG",創業與新產品開發,30,0.0,T234-A701[GF],3.0,3.0,林士平,Elective
+center_of_general_education,Institute of Technology Law,537904.0,LWLW30268,開放台聯大大三以上同學選修,"校基本素養(106)
+博雅選修通識 (90),領域課程-社會中的科技與自然(110)","Software and Intellectual Property
+Optional Liberal EducationGECLDAST",軟體與智慧財產權,30,0.0,T56-,2.0,2.0,李界昇,Elective
+center_of_general_education,Degree Program of Management Science,557108.0,MGMS30079,限專班選修,"校基本素養(106)
+核心通識-哲學與心靈(90),基本素養-組織管理(110)","Leadership Development
+FCOMPhilosophy and MindGECL",自我領導,50,0.0,Fabc-M115[GF],3.0,3.0,蕭嬋,Elective
+center_of_general_education,Degree Program of Management of Technology,557806.0,MGMT30028,隔週上課,"校基本素養(106)
+博雅選修通識 (90),基本素養-組織管理(110)","Business Model Innovation and Entrepreneurship Management in Practice
+Optional Liberal EducationFCOMGECL",創新營運模式與創業管理實務,Unlimited,0.0,Un56789-A722[GF],3.0,3.0,陳詩欣、高啟明,Elective
+center_of_general_education,Degree Program of Technology Law,557903.0,LWLW30263,開放台聯大大三以上同學選修,"校基本素養(106)
+領域課程-個人、社會與文化(110)","Digital Economy and Antitrust Law
+GECLDLDASC",數位經濟與反托拉斯法,Unlimited,0.0,Tab-,2.0,2.0,鄭歆儒,Elective
+center_of_general_education,College of Computer Science,515500.0,CSCS10025,主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；電子，應數系及管理學院不同意所屬學生採計通識學分[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously];開放隨班附讀,"跨院基本素養(106)
+校基本素養(106),基本素養-量性推理(110)","Discrete Mathematics
+FCQRGECL[COE,CI] GECI",離散數學,100,0.0,F34-EC022[GF],3.0,3.0,林政寬,Required
+center_of_general_education,College of Computer Science,515501.0,CSCS10025,主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；電子，應數系及管理學院不同意所屬學生採計通識學分[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],"跨院基本素養(106)
+校基本素養(106),基本素養-量性推理(110)","Discrete Mathematics
+FCQRGECL[COE,CI] GECI",離散數學,100,0.0,F34-EDB27[GF],3.0,3.0,紀虹名,Required
+center_of_general_education,College of Computer Science,515502.0,CSCS10025,[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；電子，應數系及管理學院不同意所屬學生採計通識學分[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously];開放隨班附讀,"跨院基本素養(106)
+校基本素養(106),基本素養-量性推理(110)","Discrete Mathematics
+FCQRGECL[COE,CI] GECIENG",離散數學,100,0.0,F34-ED117[GF],3.0,3.0,嚴力行,Required
+center_of_general_education,College of Management,517000.0,MGCM10014,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Economics (II)
+FCQR[ECE,CCS,COS,CBT,CHS,CHK] GECI",經濟學(二),135,131.0,W234-M101[GF],3.0,3.0,郭家豪,Required
+center_of_general_education,College of Management,517001.0,MGCM10014,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Economics (II)
+FCQR[ECE,CCS,COS,CBT,CHS,CHK] GECI",經濟學(二),135,130.0,W234-M-b10[GF],3.0,3.0,黃星華,Required
+center_of_general_education,College of Management,517003.0,MGCM10005,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限125人，得請授課教師簽准後可放寬至130人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Accounting (II)
+FCQR[ECE,CCS,COS,CBT,CHS] GECI",會計學(二),125,118.0,M567-M-b10[GF],3.0,3.0,陳宗岡,Required
+center_of_general_education,College of Management,517004.0,MGCM10005,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Accounting (II)
+FCQR[ECE,CCS,COS,CBT,CHS] GECI",會計學(二),135,136.0,M567-M101[GF],3.0,3.0,蔡璧徽,Required
+center_of_general_education,College of Management,517005.0,MGCM10005,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Accounting (II)
+FCQR[ECE,CCS,COS,CBT,CHS] GECI",會計學(二),75,61.0,M567-M205[GF],3.0,3.0,林瑞嘉,Required
+center_of_general_education,College of Management,517018.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-組織管理(110)","Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,71.0,T567-M-b10[GF],3.0,3.0,黃瓊誼,Required
+center_of_general_education,College of Management,517019.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-組織管理(110)","Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,71.0,T567-M205[GF],3.0,3.0,蕭嬋,Required
+center_of_general_education,College of Management,517020.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-組織管理(110)","Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,66.0,T567-A316[GF],3.0,3.0,黃仕斌、林士平,Required
+center_of_general_education,College of Management,517021.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限30人，得請授課教師簽准後可放寬至35人；管理基礎學分學程課程；英文授課[English Medium Course]。,"跨院基本素養(106)
+基本素養-組織管理(110)","Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECIENG",管理學,30,0.0,T567-A722[GF],3.0,3.0,陳詩欣,Required

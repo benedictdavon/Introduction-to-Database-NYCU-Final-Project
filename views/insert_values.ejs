@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/login_style.css">
+    <link rel="stylesheet" href="/css/navbar.css">
+    <title>Document</title>
+</head>
+<body>
+    <%- include('layout/navbar') %> 
+    <div class="center">
+        <h1>Insert Value</h1>
+        <form method="post" id="insert-form" action="/insert-value">
+            <div class="txt_field">
+                <input type="text" id="username" name="username" required>
+                <span></span>
+                <label>Student ID (學號)</label>
+            </div>
+            <div class="txt_field">
+                <input type="password" id="password" name="password" required>
+                <span></span>
+                <label>Password (密碼)</label>
+            </div>
+            <input type="submit" value="Insert">
+        </form>
+    </div>
+</body>
+</html>

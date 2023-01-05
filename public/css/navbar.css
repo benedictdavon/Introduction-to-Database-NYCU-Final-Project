@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.logo a{
+    text-decoration: none;
+    color: #24252a;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #24252a;
+    max-height: 100px;
+}
+
+header .logo {
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+header .logo:hover{
+    cursor: pointer;
+    opacity: 0.95;
+    transition: all 0.3s ease 0s;
+}
+
+header .logo-title {
+    margin: 0 2.5px;
+    background-color: #fcfcfc;
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    display: flex;
+    font-weight: 500;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    color: #24252a;
+    text-shadow: 1px 2px 5px rgb(0 0 0 / 30%);
+    filter: drop-shadow(10px 10px 7px rgba(0, 0, 0, .2));
+}
+
+header .nav__links {
+    list-style: none;
+    display: flex;
+}
+
+header .nav__links a,
+header .cta,
+header .overlay__content a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #edf0f1;
+    text-decoration: none;
+}
+
+header .nav__links li {
+    padding: 0px 20px;
+}
+
+header .nav__links li a {
+    transition: all 0.3s ease 0s;
+}
+
+header .nav__links li a:hover {
+    color: #0088a9;
+}
+
+header .cta {
+    margin-left: 20px;
+    padding: 9px 25px;
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+header .cta:hover {
+    background-color: rgba(0, 136, 169, 0.8);
+}
+
+/* own scrollbar */
+html {
+    /* scrollbar firefox */
+    scrollbar-color: rgb(1, 1, 1) rgb(110, 110, 110);
+}
+
+/* Note: The -webkit-scrollbar is not supported by Firefox or IE and Edge. */
+
+::-webkit-scrollbar {
+    /* width */
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    /* Track */
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    /* Handle */
+    background: rgb(110, 110, 110);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    /* Handle on hover */
+    background: rgb(110, 110, 110);
+}
+
+::-webkit-scrollbar-track-piece {
+    /* not handle on */
+    background: rgb(1, 1, 1);
+}
+
+::-webkit-scrollbar-corner {
+    background: rgba(0,0,0,0);
+}

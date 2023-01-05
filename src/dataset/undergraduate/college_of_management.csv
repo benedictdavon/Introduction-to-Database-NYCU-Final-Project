@@ -1,0 +1,121 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+DEM,517400.0,MGEM10001,,"Mentor's Hours
+",導師時間,Unlimited,70.0,W78-MB520[GF],0.0,2.0,工管系,Elective
+DEM,517401.0,MGEM10003,,"Work Study
+",工作研究,Unlimited,68.0,M567-MB520[GF],3.0,3.0,待聘,Required
+DEM,517402.0,MGEM10002,,"Engineering Graphics
+",工程圖學,60,68.0,"W7-MB415[GF],W56-MB520[GF]",1.0,3.0,黃博滄,Required
+DEM,517403.0,MGEM20014,,"Conflicts and decisions in information society
+",資訊社會衝突與決策,Unlimited,0.0,F567-MB405[GF],3.0,3.0,林義貴,Elective
+DEM,517404.0,MGEM20006,,"Engineering Economy
+FCQRGECL[ECE,CCS] GECI",工程經濟,60,63.0,T234-MB506[GF],3.0,3.0,董弘平,Required
+DEM,517405.0,MGEM20011,,"Simulation
+GECL[ECE,CCS] GECIDAST",模擬學,60,64.0,R234-MB415[GF],3.0,3.0,陳勝一,Required
+DEM,517406.0,MGEM10005,,"Service Learning II
+",服務學習(二),Unlimited,64.0,,0.0,1.0,工管系,Required
+DEM,517407.0,MGEM20019,,"Independent Study (I)
+",工業工程與管理專題研討（一）,Unlimited,0.0,,3.0,3.0,工管系,Elective
+DEM,517408.0,MGEM20005,,"Genetic Algorithm and Applications in Management Science
+",基因演算法與管理科學應用,30,0.0,M789-MB415[GF],3.0,3.0,林春成,Elective
+DEM,517409.0,MGEM20020,,"Discrete Mathematics
+",離散數學,Unlimited,0.0,T567-MB405[GF],3.0,3.0,巫佳煌,Elective
+DEM,517410.0,MGEM20018,,"Technology Management
+",科技管理,30,0.0,W234-MB414[GF],3.0,3.0,王志軒,Elective
+DEM,517411.0,MGEM20021,,"Data Structure
+",資料結構,Unlimited,0.0,R567-MB405[GF],3.0,3.0,待聘,Elective
+DIF,517400.0,MGEM10001,,"Mentor's Hours
+",導師時間,Unlimited,70.0,W78-MB520[GF],0.0,2.0,工管系,Elective
+DIF,517401.0,MGEM10003,,"Work Study
+",工作研究,Unlimited,68.0,M567-MB520[GF],3.0,3.0,待聘,Required
+DIF,517402.0,MGEM10002,,"Engineering Graphics
+",工程圖學,60,68.0,"W7-MB415[GF],W56-MB520[GF]",1.0,3.0,黃博滄,Required
+DIF,517403.0,MGEM20014,,"Conflicts and decisions in information society
+",資訊社會衝突與決策,Unlimited,0.0,F567-MB405[GF],3.0,3.0,林義貴,Elective
+DIF,517404.0,MGEM20006,,"Engineering Economy
+FCQRGECL[ECE,CCS] GECI",工程經濟,60,63.0,T234-MB506[GF],3.0,3.0,董弘平,Required
+DIF,517405.0,MGEM20011,,"Simulation
+GECL[ECE,CCS] GECIDAST",模擬學,60,64.0,R234-MB415[GF],3.0,3.0,陳勝一,Required
+DIF,517406.0,MGEM10005,,"Service Learning II
+",服務學習(二),Unlimited,64.0,,0.0,1.0,工管系,Required
+DIF,517407.0,MGEM20019,,"Independent Study (I)
+",工業工程與管理專題研討（一）,Unlimited,0.0,,3.0,3.0,工管系,Elective
+DIF,517408.0,MGEM20005,,"Genetic Algorithm and Applications in Management Science
+",基因演算法與管理科學應用,30,0.0,M789-MB415[GF],3.0,3.0,林春成,Elective
+DIF,517409.0,MGEM20020,,"Discrete Mathematics
+",離散數學,Unlimited,0.0,T567-MB405[GF],3.0,3.0,巫佳煌,Elective
+DIF,517410.0,MGEM20018,,"Technology Management
+",科技管理,30,0.0,W234-MB414[GF],3.0,3.0,王志軒,Elective
+DIF,517411.0,MGEM20021,,"Data Structure
+",資料結構,Unlimited,0.0,R567-MB405[GF],3.0,3.0,待聘,Elective
+DMS,517400.0,MGEM10001,,"Mentor's Hours
+",導師時間,Unlimited,70.0,W78-MB520[GF],0.0,2.0,工管系,Elective
+DMS,517401.0,MGEM10003,,"Work Study
+",工作研究,Unlimited,68.0,M567-MB520[GF],3.0,3.0,待聘,Required
+DMS,517402.0,MGEM10002,,"Engineering Graphics
+",工程圖學,60,68.0,"W7-MB415[GF],W56-MB520[GF]",1.0,3.0,黃博滄,Required
+DMS,517403.0,MGEM20014,,"Conflicts and decisions in information society
+",資訊社會衝突與決策,Unlimited,0.0,F567-MB405[GF],3.0,3.0,林義貴,Elective
+DMS,517404.0,MGEM20006,,"Engineering Economy
+FCQRGECL[ECE,CCS] GECI",工程經濟,60,63.0,T234-MB506[GF],3.0,3.0,董弘平,Required
+DMS,517405.0,MGEM20011,,"Simulation
+GECL[ECE,CCS] GECIDAST",模擬學,60,64.0,R234-MB415[GF],3.0,3.0,陳勝一,Required
+DMS,517406.0,MGEM10005,,"Service Learning II
+",服務學習(二),Unlimited,64.0,,0.0,1.0,工管系,Required
+DMS,517407.0,MGEM20019,,"Independent Study (I)
+",工業工程與管理專題研討（一）,Unlimited,0.0,,3.0,3.0,工管系,Elective
+DMS,517408.0,MGEM20005,,"Genetic Algorithm and Applications in Management Science
+",基因演算法與管理科學應用,30,0.0,M789-MB415[GF],3.0,3.0,林春成,Elective
+DMS,517409.0,MGEM20020,,"Discrete Mathematics
+",離散數學,Unlimited,0.0,T567-MB405[GF],3.0,3.0,巫佳煌,Elective
+DMS,517410.0,MGEM20018,,"Technology Management
+",科技管理,30,0.0,W234-MB414[GF],3.0,3.0,王志軒,Elective
+DMS,517411.0,MGEM20021,,"Data Structure
+",資料結構,Unlimited,0.0,R567-MB405[GF],3.0,3.0,待聘,Elective
+DOM,517400.0,MGEM10001,,"Mentor's Hours
+",導師時間,Unlimited,70.0,W78-MB520[GF],0.0,2.0,工管系,Elective
+DOM,517401.0,MGEM10003,,"Work Study
+",工作研究,Unlimited,68.0,M567-MB520[GF],3.0,3.0,待聘,Required
+DOM,517402.0,MGEM10002,,"Engineering Graphics
+",工程圖學,60,68.0,"W7-MB415[GF],W56-MB520[GF]",1.0,3.0,黃博滄,Required
+DOM,517403.0,MGEM20014,,"Conflicts and decisions in information society
+",資訊社會衝突與決策,Unlimited,0.0,F567-MB405[GF],3.0,3.0,林義貴,Elective
+DOM,517404.0,MGEM20006,,"Engineering Economy
+FCQRGECL[ECE,CCS] GECI",工程經濟,60,63.0,T234-MB506[GF],3.0,3.0,董弘平,Required
+DOM,517405.0,MGEM20011,,"Simulation
+GECL[ECE,CCS] GECIDAST",模擬學,60,64.0,R234-MB415[GF],3.0,3.0,陳勝一,Required
+DOM,517406.0,MGEM10005,,"Service Learning II
+",服務學習(二),Unlimited,64.0,,0.0,1.0,工管系,Required
+DOM,517407.0,MGEM20019,,"Independent Study (I)
+",工業工程與管理專題研討（一）,Unlimited,0.0,,3.0,3.0,工管系,Elective
+DOM,517408.0,MGEM20005,,"Genetic Algorithm and Applications in Management Science
+",基因演算法與管理科學應用,30,0.0,M789-MB415[GF],3.0,3.0,林春成,Elective
+DOM,517409.0,MGEM20020,,"Discrete Mathematics
+",離散數學,Unlimited,0.0,T567-MB405[GF],3.0,3.0,巫佳煌,Elective
+DOM,517410.0,MGEM20018,,"Technology Management
+",科技管理,30,0.0,W234-MB414[GF],3.0,3.0,王志軒,Elective
+DOM,517411.0,MGEM20021,,"Data Structure
+",資料結構,Unlimited,0.0,R567-MB405[GF],3.0,3.0,待聘,Elective
+DTM,517400.0,MGEM10001,,"Mentor's Hours
+",導師時間,Unlimited,70.0,W78-MB520[GF],0.0,2.0,工管系,Elective
+DTM,517401.0,MGEM10003,,"Work Study
+",工作研究,Unlimited,68.0,M567-MB520[GF],3.0,3.0,待聘,Required
+DTM,517402.0,MGEM10002,,"Engineering Graphics
+",工程圖學,60,68.0,"W7-MB415[GF],W56-MB520[GF]",1.0,3.0,黃博滄,Required
+DTM,517403.0,MGEM20014,,"Conflicts and decisions in information society
+",資訊社會衝突與決策,Unlimited,0.0,F567-MB405[GF],3.0,3.0,林義貴,Elective
+DTM,517404.0,MGEM20006,,"Engineering Economy
+FCQRGECL[ECE,CCS] GECI",工程經濟,60,63.0,T234-MB506[GF],3.0,3.0,董弘平,Required
+DTM,517405.0,MGEM20011,,"Simulation
+GECL[ECE,CCS] GECIDAST",模擬學,60,64.0,R234-MB415[GF],3.0,3.0,陳勝一,Required
+DTM,517406.0,MGEM10005,,"Service Learning II
+",服務學習(二),Unlimited,64.0,,0.0,1.0,工管系,Required
+DTM,517407.0,MGEM20019,,"Independent Study (I)
+",工業工程與管理專題研討（一）,Unlimited,0.0,,3.0,3.0,工管系,Elective
+DTM,517408.0,MGEM20005,,"Genetic Algorithm and Applications in Management Science
+",基因演算法與管理科學應用,30,0.0,M789-MB415[GF],3.0,3.0,林春成,Elective
+DTM,517409.0,MGEM20020,,"Discrete Mathematics
+",離散數學,Unlimited,0.0,T567-MB405[GF],3.0,3.0,巫佳煌,Elective
+DTM,517410.0,MGEM20018,,"Technology Management
+",科技管理,30,0.0,W234-MB414[GF],3.0,3.0,王志軒,Elective
+DTM,517411.0,MGEM20021,,"Data Structure
+",資料結構,Unlimited,0.0,R567-MB405[GF],3.0,3.0,待聘,Elective

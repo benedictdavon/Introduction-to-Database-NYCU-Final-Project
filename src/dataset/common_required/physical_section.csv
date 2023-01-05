@@ -1,0 +1,65 @@
+﻿college,department,course_id,course_code,memo,summary,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+physical_section,Physical section,565000.0,GEPS10004,含近代物理,,"Physics(II)
+",物理(二)榮譽班,120,117.0,M34R78-SA321[GF],4.0,4.0,簡紋濱,Required
+physical_section,Physical section,565001.0,GEPS10004,含近代物理,,"Physics(II)
+",物理(二)榮譽班,65,65.0,M34R78-SC109[GF],4.0,4.0,楊毅,Required
+physical_section,Physical section,565002.0,GEPS10004,含近代物理[English Medium Course],,"Physics(II)
+ENG",物理(二)榮譽班,80,74.0,M34R78-SA320[GF],4.0,4.0,林俊良,Required
+physical_section,Physical section,565003.0,GEPS10002,[English Medium Course],,"Physics(II)
+ENG",物理(二),65,66.0,M34R78-SC110[GF],4.0,4.0,籔下篤史,Required
+physical_section,Physical section,565004.0,GEPS10002,,,"Physics(II)
+",物理(二),65,66.0,M34R78-SC151[GF],4.0,4.0,鍾介文,Required
+physical_section,Physical section,565005.0,GEPS10002,,,"Physics(II)
+",物理(二),65,49.0,M34R78-SC152[GF],4.0,4.0,吳光雄,Required
+physical_section,Physical section,565006.0,GEPS10002,,,"Physics(II)
+",物理(二),65,64.0,M34R78-SC105[GF],4.0,4.0,李明知,Required
+physical_section,Physical section,565007.0,GEPS10002,"遠距課程, 教室:科學三館SC001",,"Physics(II)
+DL",物理(二),180,178.0,R7-SC001[GF],4.0,4.0,李威儀,Required
+physical_section,Physical section,565008.0,GEPS10004,含近代物理,,"Physics(II)
+",物理(二)榮譽班,65,47.0,T78F34-SC110[GF],4.0,4.0,陳煜璋,Required
+physical_section,Physical section,565009.0,GEPS10004,含近代物理[English Medium Course],,"Physics(II)
+ENG",物理(二)榮譽班,80,79.0,T78F34-SA321[GF],4.0,4.0,郭昌洋,Required
+physical_section,Physical section,565010.0,GEPS10002,[English Medium Course],,"Physics(II)
+ENG",物理(二),65,25.0,T78F34-SC105[GF],4.0,4.0,寺西慶哲,Required
+physical_section,Physical section,565011.0,GEPS10002,,,"Physics(II)
+",物理(二),65,66.0,T78F34-SA320[GF],4.0,4.0,孟心飛,Required
+physical_section,Physical section,565012.0,GEPS10002,,,"Physics(II)
+",物理(二),65,65.0,T78F34-SC151[GF],4.0,4.0,楊本立,Required
+physical_section,Physical section,565013.0,GEPS10008,,,"Physics Recitation(II)
+",物理二(榮譽班)作業演算,Unlimited,0.0,Fbc-SA321[GF],0.0,2.0,簡紋濱,Elective
+physical_section,Physical section,565014.0,GEPS10008,,,"Physics Recitation(II)
+",物理二(榮譽班)作業演算,Unlimited,0.0,Fbc-SC109[GF],0.0,2.0,楊毅,Elective
+physical_section,Physical section,565015.0,GEPS10008,,,"Physics Recitation(II)
+",物理二(榮譽班)作業演算,Unlimited,0.0,Fbc-SA320[GF],0.0,2.0,林俊良,Elective
+physical_section,Physical section,565016.0,GEPS10006,,,"Physics Recitation(II)
+",物理二作業演算,Unlimited,0.0,Fbc-SC110[GF],0.0,2.0,籔下篤史,Elective
+physical_section,Physical section,565017.0,GEPS10006,,,"Physics Recitation(II)
+",物理二作業演算,Unlimited,0.0,Fbc-SC151[GF],0.0,2.0,鍾介文,Elective
+physical_section,Physical section,565018.0,GEPS10006,,,"Physics Recitation(II)
+",物理二作業演算,Unlimited,0.0,Fbc-SC152[GF],0.0,2.0,吳光雄,Elective
+physical_section,Physical section,565019.0,GEPS10006,,,"Physics Recitation(II)
+",物理二作業演算,Unlimited,0.0,Fbc-SC105[GF],0.0,2.0,李明知,Elective
+physical_section,Physical section,565020.0,GEPS10008,,,"Physics Recitation(II)
+",物理二(榮譽班)作業演算,Unlimited,0.0,Fbc-SC157[GF],0.0,2.0,陳煜璋,Elective
+physical_section,Physical section,565021.0,GEPS10008,,,"Physics Recitation(II)
+",物理二(榮譽班)作業演算,Unlimited,0.0,Fbc-SC158[GF],0.0,2.0,郭昌洋,Elective
+physical_section,Physical section,565022.0,GEPS10006,,,"Physics Recitation(II)
+",物理二作業演算,Unlimited,0.0,Fbc-SC159[GF],0.0,2.0,寺西慶哲,Elective
+physical_section,Physical section,565023.0,GEPS10006,,,"Physics Recitation(II)
+",物理二作業演算,Unlimited,0.0,Fbc-SC160[GF],0.0,2.0,孟心飛,Elective
+physical_section,Physical section,515400.0,EEDP10015,,,"Physics Lab. (II)
+",物理實驗(二),60,37.0,M234-SA014[GF],1.0,3.0,杜建明、劉宗哲,Required
+physical_section,Physical section,516104.0,ENME10021,1A,,"Physics Lab(II)
+",物理實驗(二),55,0.0,M567-,1.0,3.0,待聘,Required
+physical_section,Physical section,516110.0,ENME10021,1B,,"Physics Lab(II)
+",物理實驗(二),55,0.0,M567-,1.0,3.0,待聘,Required
+physical_section,Physical section,516202.0,ENCV10021,AB班,,"Physics Lab. (II)
+",物理實驗（二）,56,58.0,F234-SA014[GF],1.0,3.0,劉宗哲,Required
+physical_section,Physical section,516203.0,ENCV10021,[English Medium Course]C班,,"Physics Lab. (II)
+ENG",物理實驗（二）,56,22.0,F234-SA014[GF],1.0,3.0,劉宗哲,Required
+physical_section,Physical section,516318.0,ENMS10029,,,"Physics Labs (II)
+",物理實驗 (二),56,50.0,Wn56-SA014[GF],1.0,3.0,謝東儒、鍾介文,Required
+physical_section,Physical section,516600.0,SCEP00021,A班,,"Physics Labs. (II)
+",物理實驗（二）,Unlimited,0.0,W234-SA014[GF],1.0,3.0,待聘,Required
+physical_section,Physical section,516601.0,SCEP00021,,,"Physics Labs. (II)
+",物理實驗（二）,Unlimited,0.0,W234-SA014[GF],1.0,3.0,待聘,Required

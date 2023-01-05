@@ -1,0 +1,61 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+DPN,310100.0,HKCT20021,,"Final Year Projet(I)
+",畢業專題(上),Unlimited,0.0,Mz1-HK104[LJ],2.0,2.0,傳科系,Required
+DPN,310101.0,HKCT10014,,"Hakka and Communication
+",客家與傳播,Unlimited,0.0,M234-HKB08[LJ],3.0,3.0,賴至慧,Required
+DPN,310102.0,HKCT10003,,"Introduction to Research Methods
+",傳播研究方法,Unlimited,0.0,M567-HKB08[LJ],3.0,3.0,游婉雲,Required
+DPN,310103.0,HKCT20033,,"Social Media and Communication
+ENG",社交媒體與傳播,Unlimited,0.0,T234-HKB08[LJ],3.0,3.0,俞蘋,Elective
+DPN,310104.0,HKCT20025,,"Documentary Storytelling
+",紀實採寫與敘事,Unlimited,0.0,T234-HK104[LJ],3.0,3.0,黃淑鈴,Elective
+DPN,310105.0,HKCT10017,,"Digital image design
+",數位影像設計,Unlimited,0.0,T567-HK114[LJ],3.0,3.0,吳岱芸,Required
+DPN,310106.0,HKCT10004,,"Communication Process and Effect
+",傳播過程與效果,Unlimited,0.0,T567-HKB08[LJ],3.0,3.0,李美華,Required
+DPN,310107.0,HKCT20014,,"Media Internship(I)
+",媒體實習(上),Unlimited,0.0,T8-HKB08[LJ],0.0,1.0,魏玓,Required
+DPN,310108.0,HKCT20004,,"Issues in Communication Technology: 3D Laser scan and Photo Modeling
+",傳播科技專題：3D雷射掃描與影像建模,Unlimited,0.0,W234-HK123[LJ],3.0,3.0,張宏宇,Elective
+DPN,310109.0,HKCT20012,,"Media Management and Entrepreneurship
+GECLDASC",媒體管理與創新,Unlimited,0.0,W234-HK104[LJ],3.0,3.0,黃靜蓉,Elective
+DPN,310110.0,HKCT00001,,"Mentor's Hours
+",導師時間,Unlimited,0.0,W78-HK104[LJ],0.0,2.0,張宏宇、蔡欣怡,Required
+DPN,310111.0,HKCT20016,,"Special Topics on Digital Media Production
+",媒體製作專題,Unlimited,0.0,W9a-HK215[LJ],2.0,2.0,張宏宇,Elective
+DPN,310112.0,HKCT10020,,"Visual Aesthetics and Analysis
+",視覺美學與分析,Unlimited,0.0,R234-HK104[LJ],3.0,3.0,魏玓,Elective
+DPN,310113.0,HKCT10009,,"Innovation and Design
+",創意與設計,Unlimited,0.0,R567-HK114[LJ],3.0,3.0,陳維平,Required
+DPN,310114.0,HKCT20020,,"New Technology and Organizational Communication
+GECL[COM,CHS] GECIDASC",新科技與組織傳播,Unlimited,0.0,R567-ED102[GF],3.0,3.0,李美華,Elective
+DPN,310115.0,HKCT10006,,"Communication Technology and Society
+GECLDASC",傳播科技與社會,Unlimited,0.0,F234-HKB08[LJ],3.0,3.0,蔡欣怡,Required
+DPN,310116.0,HKCT10002,,"Human Computer Interaction
+GECL[ECE,COM] GECIDAST",人機互動概論,Unlimited,0.0,F234-HK114[LJ],3.0,3.0,陳盈羽,Required
+DWA,516000.0,ENPN10009,,"General Biology Lab.
+",普通生物實驗,40,25.0,R234-,1.0,3.0,陳文亮,Required
+DWA,516001.0,ENPN10016,,"Introduction to Computers and Programming
+",計算機概論與程式設計,25,25.0,M234R9ab-,3.0,3.0,温敏淦,Required
+DWA,516002.0,ENPN10012,,"Service Learning I
+",服務學習(一),65,64.0,S34-,0.0,2.0,簡昭欣,Required
+DWA,516003.0,ENPN10014,,"Biochemistry (II)
+",生物化學 (二),27,24.0,F34-,2.0,2.0,蘭宜錚,Required
+DWA,516004.0,ENPN20001,,"Nano science and engineering Lab.
+",奈米科學與工程實驗,25,23.0,M9ab-,1.0,3.0,徐雍鎣、袁俊傑、柯富祥、蘇冠暐,Required
+DWA,516005.0,ENPN10006,,"Research (Ⅰ)
+",專題研究(一),Unlimited,0.0,,1.0,3.0,奈米學位學程,Elective
+DWA,516006.0,ENPN10005,,"Research (II)
+",專題研究 (二),Unlimited,0.0,,1.0,3.0,奈米學位學程,Elective
+DWA,516007.0,ENPN20002,,"Research (III)
+",專題研究 (三),Unlimited,0.0,,1.0,3.0,奈米學位學程,Elective
+DWA,516008.0,ENPN20003,,"Research (IV)
+",專題研究 (四),Unlimited,0.0,,1.0,3.0,奈米學位學程,Elective
+DWA,516009.0,ENPN10003,,"Nano and Career Planning
+",奈米與生涯規劃,25,25.0,,0.0,2.0,梁美智,Required
+DWA,516010.0,ENPN10019,,"Career Planning
+",生涯規劃,40,39.0,W78-EE102[GF],0.0,2.0,簡昭欣,Required
+DWA,516011.0,ENPN10017,,"Modern Physics
+",近代物理,30,25.0,F234-SC206[GF],3.0,3.0,梁興弛,Required
+DWA,516012.0,ENPN10020,,"Linear Algebra
+",線性代數,65,64.0,M5W56-EC016[GF],3.0,3.0,桑梓賢,Required

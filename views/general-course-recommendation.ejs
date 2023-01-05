@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/css/dashboard.css">
+    <link rel="stylesheet" href="/css/navbar.css">
+
+    <title>Document</title>
+</head>
+<body>
+    <%- include('layout/login-navbar') %> 
+    
+    <div class="courses-container">
+        <div class="caption">Here is the top 10 general education course for you to take:</div>
+        <table class="courses">
+            <thead>
+                <tr>
+                    <th>Course ID</th>
+                    <th>Course Code</th>
+                    <th>Course Name</th>
+                    <th>Time</th>
+                    <th>Credit</th>
+                    <th>Hours</th>
+                    <th>Teacher</th>
+                    <th>Likes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% if (courses != null) { %>
+                    <% courses.forEach(row => { %>
+                    <tr>
+                        <td><%= row.course_id %></td>
+                        <td><%= row.course_code %></td>
+                        <td><%= row.course_name %></td>
+                        <td><%= row.schedule %></td>
+                        <td><%= row.credit %></td>
+                        <td><%= row.weekkly_hours %></td>
+                        <td><%= row.lecturer %></td>
+                        <td><%= row.likes  %> </td>
+                    </tr>
+                    <% }) %> 
+                <% } %>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

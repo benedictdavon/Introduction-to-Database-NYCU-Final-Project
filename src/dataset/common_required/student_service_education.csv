@@ -1,0 +1,49 @@
+﻿college,department,course_id,course_code,memo,summary,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+student_service_education,Center for Service-Learning,571000.0,GESL00005,,,"Servicing Learning II
+",健康餐點與關懷弱勢-服務學習(二),30,0.0,MnTn-,1.0,2.0,蕭智尹,Required
+student_service_education,Center for Service-Learning,571001.0,GESL00006,,,"暫定
+",家扶遊戲奇積—服務學習(二),30,0.0,Wbc-SC105[GF],2.0,2.0,陳鏗任,Required
+student_service_education,Center for Service-Learning,571002.0,GESL00007,上課地點:資訊館三樓學務處會議室,,"Sustainable Development and Design Practice-Service Learning II
+",永續發展與設計實踐-服務學習(二),30,0.0,Wabc-,3.0,3.0,潘美玲、許倍銜,Required
+student_service_education,Center for Service-Learning,571003.0,GESL00004,,"校基本素養(106)
+基本素養-組織管理(110)","Social Education and Curation for Sustainable Development- Servicing Learning II
+FCOMGECL",永續教育與策展行動—服務學習(二),30,0.0,Mn56-,3.0,3.0,曾聖凱,Required
+student_service_education,Center for Service-Learning,310002.0,HKHS10012,,,"Student Service Education (I)
+",服務學習（一）,60,52.0,M8-HKB09[LJ],1.0,1.0,劉大和,Required
+student_service_education,Center for Service-Learning,310118.0,HKCT00004,,"校基本素養(106)
+領域課程-個人、社會與文化(110)","Doing Gender in Media Practices - Service Learning II
+GECLDASC",性別與媒體實踐-服務學習二,Unlimited,0.0,M67-HK104[LJ],2.0,2.0,陳維平,Required
+student_service_education,Center for Service-Learning,410058.0,BTBT00002,,,"Service Learning I
+",服務學習(一),Unlimited,0.0,Wab-SC109[GF],1.0,2.0,陳文亮、謝仁俊、林奇宏、吳妍華,Required
+student_service_education,Center for Service-Learning,514112.0,HSFL10021,限外文系,,"Service Learning (II)
+",服務學習(二),Unlimited,0.0,R9-,0.0,1.0,盧郁安、胡心瑜,Required
+student_service_education,Center for Service-Learning,515173.0,EEEC00001,服務學習(二) 請同學注意：服務學習課程分為服務學習(一)及服務學習(二)，須依序修習。且不得同一學期修習服務學習(一)、(二)。,,"Service Learning I
+",服務學習 (一),Unlimited,0.0,W5-EE208[GF],0.0,1.0,陳福川,Required
+student_service_education,Center for Service-Learning,515174.0,EEEC00001,服務學習(二) 請同學注意：服務學習課程分為服務學習(一)及服務學習(二)，須依序修習。且不得同一學期修習服務學習(一)、(二)。,,"Service Learning I
+",服務學習 (一),Unlimited,0.0,W6-EE208[GF],0.0,1.0,陳福川,Required
+student_service_education,Center for Service-Learning,515404.0,EEDP10012,大一必修,,"Service Learning I
+",服務學習(一),Unlimited,37.0,W8-CY202[GF],1.0,1.0,高宗聖、黃嘉彥、張祐嘉,Required
+student_service_education,Center for Service-Learning,515600.0,CSCS00001,限資工系同學選課；請同學注意：學生必修服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習課程。,,"Service Learning I
+",服務學習(一),218,0.0,,0.0,1.0,黃敬群,Required
+student_service_education,Center for Service-Learning,516002.0,ENPN10012,,,"Service Learning I
+",服務學習(一),65,64.0,S34-,0.0,2.0,簡昭欣,Required
+student_service_education,Center for Service-Learning,516102.0,ENME00004,一AB先預選,,"Service Learning II
+",服務學習(二),Unlimited,0.0,T1-EE105[GF],0.0,1.0,黃正昇,Required
+student_service_education,Center for Service-Learning,516201.0,ENCV00001,限土木系大一生。請同學注意：一、服務學習課程分為服務學習(一)及服務學習(二)， 以依序修習為原則，但不得於同一學期修習二門服務學習課程。,,"Service Learning II
+",服務學習 (二),Unlimited,80.0,W9a-EB117[GF],0.0,2.0,張智安,Required
+student_service_education,Center for Service-Learning,516304.0,ENMS10013,限材料系選修,,"Service Learning I
+",服務學習 (一),Unlimited,0.0,F78-,0.0,2.0,楊朝堯,Required
+student_service_education,Center for Service-Learning,516605.0,SCEP00005,,,"Service Learning I
+",服務學習(一),Unlimited,0.0,R56-SC158[GF],0.0,2.0,張文豪,Required
+student_service_education,Center for Service-Learning,516702.0,SCMA00003,,,"Service Learning II
+",服務學習(二),Unlimited,55.0,M9a-SA223[GF],1.0,2.0,康明軒、王國仲,Required
+student_service_education,Center for Service-Learning,516807.0,SCAC10022,,,"Service Learning I
+",服務學習(一),Unlimited,49.0,M56-SB202[GF],1.0,2.0,詹揚翔,Required
+student_service_education,Center for Service-Learning,517201.0,MGTM00003,,,"Service Learning I
+",服務學習(一）,Unlimited,53.0,F7-A901[GF],1.0,1.0,呂錦山,Required
+student_service_education,Center for Service-Learning,517304.0,MGMS00003,,,"Service Learning I
+",服務學習(一),Unlimited,58.0,Wabc-M301[GF],1.0,1.0,吳浩庠,Required
+student_service_education,Center for Service-Learning,517406.0,MGEM10005,限工工系；服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習服務學習(一)、(二),,"Service Learning II
+",服務學習(二),Unlimited,64.0,,0.0,1.0,工管系,Required
+student_service_education,Center for Service-Learning,517500.0,MGIF00002,大一必修；限資財系學生選修；服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習服務學習(一)、(二)。,,"Service Learning II
+",服務學習(二),60,38.0,W56-M-b09[GF],1.0,2.0,李漢星,Required

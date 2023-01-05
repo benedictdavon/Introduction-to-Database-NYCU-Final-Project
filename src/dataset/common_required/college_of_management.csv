@@ -1,0 +1,50 @@
+﻿college,department,course_id,course_code,memo,summary,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+college_of_management,College of Management,517000.0,MGCM10014,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Economics (II)
+FCQR[ECE,CCS,COS,CBT,CHS,CHK] GECI",經濟學(二),135,131.0,W234-M101[GF],3.0,3.0,郭家豪,Required
+college_of_management,College of Management,517001.0,MGCM10014,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Economics (II)
+FCQR[ECE,CCS,COS,CBT,CHS,CHK] GECI",經濟學(二),135,130.0,W234-M-b10[GF],3.0,3.0,黃星華,Required
+college_of_management,College of Management,517003.0,MGCM10005,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限125人，得請授課教師簽准後可放寬至130人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Accounting (II)
+FCQR[ECE,CCS,COS,CBT,CHS] GECI",會計學(二),125,118.0,M567-M-b10[GF],3.0,3.0,陳宗岡,Required
+college_of_management,College of Management,517004.0,MGCM10005,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限135人，得請授課教師簽准後可放寬至140人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Accounting (II)
+FCQR[ECE,CCS,COS,CBT,CHS] GECI",會計學(二),135,136.0,M567-M101[GF],3.0,3.0,蔡璧徽,Required
+college_of_management,College of Management,517005.0,MGCM10005,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人，得請授課教師簽准後可放寬至80人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-量性推理(110)","Accounting (II)
+FCQR[ECE,CCS,COS,CBT,CHS] GECI",會計學(二),75,61.0,M567-M205[GF],3.0,3.0,林瑞嘉,Required
+college_of_management,College of Management,517006.0,MGCM10008,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記，登記時間至開學上課第一週週三(2/15)下午四點截止，於當週四上午分發，逾時不候，因電腦教室座位數上限，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。,,"Programming
+",程式設計,55,56.0,T567-M-b01[GF],3.0,3.0,吳浩庠,Required
+college_of_management,College of Management,517007.0,MGCM10008,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記，登記時間至開學上課第一週週三(2/15)下午四點截止，於當週四上午分發，逾時不候，因電腦教室座位數上限，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。,,"Programming
+",程式設計,55,55.0,T567-MB210[GF],3.0,3.0,陳柏安,Required
+college_of_management,College of Management,517008.0,MGCM10008,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限55人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記，登記時間至開學上課第一週週三(2/15)下午四點截止，於當週四上午分發，逾時不候，因電腦教室座位數上限，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。,,"Programming
+",程式設計,55,68.0,T567-MB415[GF],3.0,3.0,莊詠婷,Required
+college_of_management,College of Management,517009.0,MGCM10015,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限160人，得請授課教師簽准後可放寬至165人。,,"Linear Algebra
+",線性代數,160,130.0,R567-AB103[GF],3.0,3.0,閻姿慧,Required
+college_of_management,College of Management,517010.0,MGCM10015,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限93人，得請授課教師簽准後可放寬至98人。,,"Linear Algebra
+",線性代數,93,87.0,R567-MB520[GF],3.0,3.0,賴學儀,Required
+college_of_management,College of Management,517012.0,MGCM10012,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限85人，得請授課教師簽准後可放寬至90人；管理基礎學分學程課程。,,"Statistics (II)
+",統計學(二),85,87.0,M234-A316[GF],3.0,3.0,巫佳煌,Required
+college_of_management,College of Management,517013.0,MGCM10012,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限85人，得請授課教師簽准後可放寬至90人；管理基礎學分學程課程。,,"Statistics (II)
+",統計學(二),85,87.0,M234-M101[GF],3.0,3.0,謝國文,Required
+college_of_management,College of Management,517014.0,MGCM10012,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限85人，得請授課教師簽准後可放寬至90人；管理基礎學分學程課程。,,"Statistics (II)
+",統計學(二),85,87.0,M234-M205[GF],3.0,3.0,鄧惠文,Required
+college_of_management,College of Management,517015.0,MGCM10003,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人；管理基礎學分學程課程,,"Operations Research (II)
+",作業研究(二),88,90.0,T234-MB520[GF],3.0,3.0,洪暉智,Required
+college_of_management,College of Management,517016.0,MGCM10003,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限88人，得請授課教師簽准後可放寬至93人；管理基礎學分學程課程,,"Operations Research (II)
+",作業研究(二),88,89.0,T234-AB101[GF],3.0,3.0,王晉元,Required
+college_of_management,College of Management,517017.0,MGCM10003,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限20人，得請授課教師簽准後可放寬至25人；管理基礎學分學程課程；英文授課[English Medium Course],,"Operations Research (II)
+ENG",作業研究(二),20,18.0,T234-A309[GF],3.0,3.0,水敬心,Required
+college_of_management,College of Management,517018.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-組織管理(110)","Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,71.0,T567-M-b10[GF],3.0,3.0,黃瓊誼,Required
+college_of_management,College of Management,517019.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-組織管理(110)","Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,71.0,T567-M205[GF],3.0,3.0,蕭嬋,Required
+college_of_management,College of Management,517020.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限75人；管理基礎學分學程課程。,"跨院基本素養(106)
+基本素養-組織管理(110)","Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECI",管理學,75,66.0,T567-A316[GF],3.0,3.0,黃仕斌、林士平,Required
+college_of_management,College of Management,517021.0,MGCM10009,非管院同學請於2月13日上網加選；管院大學部共同必修課程；管院學生優先選課；若有演習課安排於9a；上限30人，得請授課教師簽准後可放寬至35人；管理基礎學分學程課程；英文授課[English Medium Course]。,"跨院基本素養(106)
+基本素養-組織管理(110)","Management
+FCOM[ECE,CCS,COS,CBT,CHS,CHK] GECIENG",管理學,30,0.0,T567-A722[GF],3.0,3.0,陳詩欣,Required

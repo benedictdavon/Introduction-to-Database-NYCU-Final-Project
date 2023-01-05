@@ -1,0 +1,81 @@
+﻿college,department,course_id,course_code,memo,summary,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+college_of_electrical_engineering,College of Electrical Engineering,515100.0,EEEC10007,A班預設英文授課 [English Medium Course],,"Probability
+ENG",機率(英文班),55,0.0,T56F2-ED103[GF],3.0,3.0,高榮鴻,Required
+college_of_electrical_engineering,College of Electrical Engineering,515102.0,EEEC10006,,,"Probability
+",機率,55,0.0,T56F2-ED301[GF],3.0,3.0,林詩淳,Required
+college_of_electrical_engineering,College of Electrical Engineering,515103.0,EEEC10006,,,"Probability
+",機率,55,0.0,T56F2-ED201[GF],3.0,3.0,簡鳳村,Required
+college_of_electrical_engineering,College of Electrical Engineering,515104.0,EEEC10006,,,"Probability
+",機率,55,0.0,T56F2-ED219[GF],3.0,3.0,陳信宏,Required
+college_of_electrical_engineering,College of Electrical Engineering,515105.0,EEEC10006,,,"Probability
+",機率,55,0.0,T56F2-ED303[GF],3.0,3.0,陳稷康,Required
+college_of_electrical_engineering,College of Electrical Engineering,515106.0,EEEC10006,,,"Probability
+",機率,55,0.0,T56F2-EDB26[GF],3.0,3.0,陸曉峰,Required
+college_of_electrical_engineering,College of Electrical Engineering,515107.0,EEEC10035,[English Medium Course],,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED101[GF],3.0,3.0,胡樹,Required
+college_of_electrical_engineering,College of Electrical Engineering,515108.0,EEEC10035,A班預設英文授課[English Medium Course],,"Electromagnetics
+ENG",電磁學(英文班),50,0.0,M56R2-ED219[GF],3.0,3.0,黃謀勤,Required
+college_of_electrical_engineering,College of Electrical Engineering,515109.0,EEEC10032,,,"Electromagnetics
+",電磁學,50,0.0,M56R2-EE209[GF],3.0,3.0,邱一,Required
+college_of_electrical_engineering,College of Electrical Engineering,515110.0,EEEC10032,,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED203[GF],3.0,3.0,唐震寰,Required
+college_of_electrical_engineering,College of Electrical Engineering,515111.0,EEEC10032,,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED303[GF],3.0,3.0,黃瑞彬,Required
+college_of_electrical_engineering,College of Electrical Engineering,515112.0,EEEC10032,,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED301[GF],3.0,3.0,蔡作敏,Required
+college_of_electrical_engineering,College of Electrical Engineering,515113.0,EEEC10032,,,"Electromagnetics
+",電磁學,50,0.0,M56R2-ED201[GF],3.0,3.0,郭建男,Required
+college_of_electrical_engineering,College of Electrical Engineering,515134.0,EEEC10028,A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED203[GF],3.0,4.0,李義明,Required
+college_of_electrical_engineering,College of Electrical Engineering,515136.0,EEEC10028,A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE102[GF],3.0,4.0,洪浩喬,Required
+college_of_electrical_engineering,College of Electrical Engineering,515137.0,EEEC10028,A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE105[GF],3.0,4.0,陳科宏,Required
+college_of_electrical_engineering,College of Electrical Engineering,515138.0,EEEC10028,A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED116[GF],3.0,4.0,陳巍仁,Required
+college_of_electrical_engineering,College of Electrical Engineering,515139.0,EEEC10028,A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-EE209[GF],3.0,4.0,董蘭榮,Required
+college_of_electrical_engineering,College of Electrical Engineering,515140.0,EEEC10028,A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED201[GF],3.0,4.0,蔡嘉明,Required
+college_of_electrical_engineering,College of Electrical Engineering,515141.0,EEEC10031,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先。課程時段於週一Ｍabcd－教室於工四館ED222。,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,王夢偉,Required
+college_of_electrical_engineering,College of Electrical Engineering,515142.0,EEEC10031,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先選課。課程時段與教室Wabcd-ED222。,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,王夢偉,Required
+college_of_electrical_engineering,College of Electrical Engineering,515143.0,EEEC10031,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先、「2A班優先」、醫師工程師組。課程時段教室:Tabcd-ED320。,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,林容瑋、陳柏宏、柯明道,Required
+college_of_electrical_engineering,College of Electrical Engineering,515144.0,EEEC10031,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先。課程時段與教室: Tabcd-ED222。,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Tabcd-,2.0,4.0,陳建安、陳柏宏、柯明道,Required
+college_of_electrical_engineering,College of Electrical Engineering,515145.0,EEEC10031,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 本課程以電機系大二學生優先。課程時間於周一晚上Mabcd－教室於工程四館ED320。,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Mabcd-,2.0,4.0,陳立洲,Required
+college_of_electrical_engineering,College of Electrical Engineering,515146.0,EEEC10031,電子實驗課為電機系學生必修課程，以電機系學生優先修課。 以電機系大二學生優先選課。課程時段與教室:Wabcd-ED320。,,"Electronics Lab. (II)
+",電子實驗(二),52,0.0,Wabcd-,2.0,4.0,陳立洲,Required
+college_of_electrical_engineering,College of Electrical Engineering,515186.0,EEEC10011,A班預設英文授課[English Medium Course],,"Linear Algebra
+ENG",線性代數(英文班),35,0.0,F234-EE118[GF],3.0,3.0,林源倍,Required
+college_of_electrical_engineering,College of Electrical Engineering,515187.0,EEEC10011,,,"Linear Algebra
+",線性代數(英文班),35,0.0,T34R7-ED101[GF],3.0,3.0,馮智豪,Required
+college_of_electrical_engineering,College of Electrical Engineering,515188.0,EEEC10010,,,"Linear Algebra
+",線性代數,Unlimited,0.0,T34R7-ED303[GF],3.0,3.0,吳卓諭,Required
+college_of_electrical_engineering,College of Electrical Engineering,515189.0,EEEC10010,,,"Linear Algebra
+",線性代數,60,0.0,T34R7-EE207[GF],3.0,3.0,李慶鴻,Required
+college_of_electrical_engineering,College of Electrical Engineering,515190.0,EEEC10010,,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED116[GF],3.0,3.0,桑梓賢,Required
+college_of_electrical_engineering,College of Electrical Engineering,515191.0,EEEC10010,,,"Linear Algebra
+",線性代數,60,0.0,T34R7-ED203[GF],3.0,3.0,李佳翰,Required
+college_of_electrical_engineering,College of Electrical Engineering,515192.0,EEEC10017,[English Medium Course],,"Signals and Systems
+ENG",訊號與系統 (英文班),50,0.0,M34W2-EE105[GF],3.0,3.0,羅佩禎,Required
+college_of_electrical_engineering,College of Electrical Engineering,515193.0,EEEC10016,,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED103[GF],3.0,3.0,王忠炫,Required
+college_of_electrical_engineering,College of Electrical Engineering,515194.0,EEEC10016,,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED203[GF],3.0,3.0,張文輝,Required
+college_of_electrical_engineering,College of Electrical Engineering,515195.0,EEEC10016,,,"Signals and Systems
+",訊號與系統,50,0.0,"M34-EE207[GF],W2-EE208[GF]",3.0,3.0,蔡尚澕,Required
+college_of_electrical_engineering,College of Electrical Engineering,515196.0,EEEC10016,,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED116[GF],3.0,3.0,鄭耿璽,Required
+college_of_electrical_engineering,College of Electrical Engineering,515197.0,EEEC10016,,,"Signals and Systems
+",訊號與系統,50,0.0,M34W2-ED303[GF],3.0,3.0,賴青沂,Required
+college_of_electrical_engineering,College of Electrical Engineering,515198.0,EEEC10016,,,"Signals and Systems
+",訊號與系統,50,0.0,R567-EDB06[GF],3.0,3.0,溫 岸,Required
+college_of_electrical_engineering,College of Electrical Engineering,515101.0,EEEC10006,,,"Probability
+",機率,55,0.0,T56F2-ED203[GF],3.0,3.0,李明峻,Required
+college_of_electrical_engineering,College of Electrical Engineering,515135.0,EEEC10028,A~F班 3學分4小時，3小時上課第4小時授權每位老師彈性規劃。,,"Electronics (II)
+",電子學(二),60,0.0,M78R34-ED303[GF],3.0,4.0,孟慶宗,Required

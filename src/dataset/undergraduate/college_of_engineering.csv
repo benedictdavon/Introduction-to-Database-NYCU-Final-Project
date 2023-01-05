@@ -1,0 +1,235 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+DCV,516200.0,ENCV20015,,"Mentor's Hours
+",導師時間,Unlimited,80.0,W78-EB117[GF],0.0,2.0,土木系,Elective
+DCV,516201.0,ENCV00001,,"Service Learning II
+",服務學習 (二),Unlimited,80.0,W9a-EB117[GF],0.0,2.0,張智安,Required
+DCV,516202.0,ENCV10021,,"Physics Lab. (II)
+",物理實驗（二）,56,58.0,F234-SA014[GF],1.0,3.0,劉宗哲,Required
+DCV,516203.0,ENCV10021,,"Physics Lab. (II)
+ENG",物理實驗（二）,56,22.0,F234-SA014[GF],1.0,3.0,劉宗哲,Required
+DCV,516204.0,ENCV20007,,"Chemistry (II)
+DL",化學( 二 ),50,0.0,W12-SC109[GF],3.0,3.0,李大偉,Elective
+DCV,516205.0,ENCV10008,,"Engineering Materials Lab.
+",工程材料實驗,55,45.0,Rabc-EB115[GF],1.0,3.0,袁宇秉,Required
+DCV,516206.0,ENCV10008,,"Engineering Materials Lab.
+ENG",工程材料實驗,55,35.0,Tabc-EB115[GF],1.0,3.0,袁宇秉,Required
+DCV,516207.0,ENCV10018,,"Surveying (I)
+",測量學（一）,55,58.0,M56-EB118[GF],2.0,2.0,張智安,Required
+DCV,516208.0,ENCV10018,,"Surveying (I)
+ENG",測量學（一）,55,22.0,M56-EB115[GF],2.0,2.0,黃金維,Required
+DCV,516209.0,ENCV10019,,"Surveying Practice (I)
+",測量實習（一）,55,45.0,Rn56-EB118[GF],1.0,3.0,黃金維,Required
+DCV,516210.0,ENCV10019,,"Surveying Practice (I)
+ENG",測量實習（一）,55,35.0,Wn56-EB115[GF],1.0,3.0,張智安,Required
+DCV,516211.0,ENCV10025,,"Engineering Graphics (II)
+",工程圖學(二),60,45.0,Mabc-CS-PC4[GF],1.0,3.0,莊子毅,Required
+DCV,516212.0,ENCV10025,,"Engineering Graphics (II)
+ENG",工程圖學(二),50,35.0,Rabc-CS-PC2[GF],1.0,3.0,莊子毅,Required
+DCV,516213.0,ENCV10010,,"Engineering Mathematics(II)
+",工程數學(二),45,0.0,T234-EB118[GF],3.0,3.0,石棟鑫,Required
+DCV,516214.0,ENCV10010,,"Engineering Mathematics(II)
+ENG",工程數學(二),45,0.0,T234-EB227[GF],3.0,3.0,郭心怡,Required
+DCV,516215.0,ENCV10022,,"Theory of Structures (I)
+",結構學（一）,45,0.0,T56F2-EB115[GF],3.0,3.0,黃炯憲,Required
+DCV,516216.0,ENCV10022,,"Theory of Structures (I)
+ENG",結構學（一）,45,0.0,T56-EB108[GF],3.0,3.0,林其穎,Required
+DCV,516217.0,ENCV10002,,"Soil Mechanics
+",土壤力學,45,0.0,M56R2-EB117[GF],3.0,3.0,單信瑜,Required
+DCV,516218.0,ENCV10002,,"Soil Mechanics
+ENG",土壤力學,45,0.0,M56R2-EB108[GF],3.0,3.0,黃郁惟,Required
+DCV,516219.0,ENCV10003,,"Soil Mechanics Lab.
+",土壤力學實驗,45,0.0,"TabWa-EB108[GF],Mn-EB117[GF]",1.0,3.0,翁孟嘉,Required
+DCV,516220.0,ENCV10003,,"Soil Mechanics Lab.
+ENG",土壤力學實驗,45,0.0,"WbRab-EB108[GF],Mn-EB117[GF]",1.0,3.0,翁孟嘉,Required
+DCV,516221.0,ENCV10016,,"Fluid Mechanics
+",流體力學,45,0.0,W234-EB107[GF],3.0,3.0,于弋翔,Required
+DCV,516222.0,ENCV10016,,"Fluid Mechanics
+ENG",流體力學,45,0.0,W234-EB118[GF],3.0,3.0,趙韋安,Required
+DCV,516223.0,ENCV20002,,"Global Positioning System
+[CCS,COS,CHS,CHK] GECIDAST",全球定位系統概論,100,0.0,F567-EB117[GF],3.0,3.0,王成機,Elective
+DCV,516224.0,ENCV10006,,"Engineering Geology
+ENG",工程地質學,70,0.0,M34-EB115[GF],3.0,3.0,羅佳明,Required
+DCV,516225.0,ENCV10014,,"Hydraulic Engineering
+",水利工程,45,0.0,R34-EB118[GF],3.0,3.0,張良正,Elective
+DCV,516226.0,ENCV10014,,"Hydraulic Engineering
+ENG",水利工程,45,0.0,R34-EB107[GF],3.0,3.0,石棟鑫,Elective
+DCV,516227.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EA101[GF],3.0,3.0,楊尊華,Required
+DCV,516228.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EB402[GF],3.0,3.0,袁宇秉,Required
+DCV,516229.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EB403[GF],3.0,3.0,翁孟嘉,Required
+DCV,516230.0,ENCV10024,,"Reinforced Concrete
+",鋼筋混凝土學,80,0.0,T78R2-EB118[GF],3.0,3.0,林子剛,Required
+DCV,516232.0,ENCV10011,,"Engineering Economics
+FCQR[ECE,CCS] GECI",工程經濟學,45,0.0,F34-EB117[GF],3.0,3.0,黃玉霖,Required
+DCV,516233.0,ENCV10011,,"Engineering Economics
+FCQR[ECE,CCS] GECIENG",工程經濟學,45,0.0,F34-EB227[GF],3.0,3.0,王維志,Required
+DCV,516234.0,ENCV20034,,"Design of Steel Structures
+",鋼結構設計,50,0.0,M56-EB107[GF],3.0,3.0,陳垂欣,Elective
+DCV,516235.0,ENCV20025,,"Numerical Methods
+",數值方法,40,0.0,M567-CS-PC3[GF],3.0,3.0,蔡宗哲,Elective
+DCV,516236.0,ENCV20009,,"Independent Study(II)
+",土木專題討論（二）,Unlimited,0.0,,3.0,3.0,土木系,Elective
+DCV,516237.0,ENCV20027,,"Field Practice
+",校外實習,Unlimited,0.0,,6.0,6.0,楊尊華,Elective
+DCV,516238.0,ENCV20038,,"Surveying and Geospatial Information Technology in Engineering Applications
+",空間資訊繪測技術於工程之應用,50,0.0,W4R56-EB108[GF],3.0,3.0,莊子毅,Elective
+DCV,516239.0,ENCV20035,,"Computer Application in Construction Management
+",電腦應用於營建管理,40,0.0,T234-EB108[GF],3.0,3.0,曾仁杰,Elective
+DMA,516200.0,ENCV20015,,"Mentor's Hours
+",導師時間,Unlimited,80.0,W78-EB117[GF],0.0,2.0,土木系,Elective
+DMA,516201.0,ENCV00001,,"Service Learning II
+",服務學習 (二),Unlimited,80.0,W9a-EB117[GF],0.0,2.0,張智安,Required
+DMA,516202.0,ENCV10021,,"Physics Lab. (II)
+",物理實驗（二）,56,58.0,F234-SA014[GF],1.0,3.0,劉宗哲,Required
+DMA,516203.0,ENCV10021,,"Physics Lab. (II)
+ENG",物理實驗（二）,56,22.0,F234-SA014[GF],1.0,3.0,劉宗哲,Required
+DMA,516204.0,ENCV20007,,"Chemistry (II)
+DL",化學( 二 ),50,0.0,W12-SC109[GF],3.0,3.0,李大偉,Elective
+DMA,516205.0,ENCV10008,,"Engineering Materials Lab.
+",工程材料實驗,55,45.0,Rabc-EB115[GF],1.0,3.0,袁宇秉,Required
+DMA,516206.0,ENCV10008,,"Engineering Materials Lab.
+ENG",工程材料實驗,55,35.0,Tabc-EB115[GF],1.0,3.0,袁宇秉,Required
+DMA,516207.0,ENCV10018,,"Surveying (I)
+",測量學（一）,55,58.0,M56-EB118[GF],2.0,2.0,張智安,Required
+DMA,516208.0,ENCV10018,,"Surveying (I)
+ENG",測量學（一）,55,22.0,M56-EB115[GF],2.0,2.0,黃金維,Required
+DMA,516209.0,ENCV10019,,"Surveying Practice (I)
+",測量實習（一）,55,45.0,Rn56-EB118[GF],1.0,3.0,黃金維,Required
+DMA,516210.0,ENCV10019,,"Surveying Practice (I)
+ENG",測量實習（一）,55,35.0,Wn56-EB115[GF],1.0,3.0,張智安,Required
+DMA,516211.0,ENCV10025,,"Engineering Graphics (II)
+",工程圖學(二),60,45.0,Mabc-CS-PC4[GF],1.0,3.0,莊子毅,Required
+DMA,516212.0,ENCV10025,,"Engineering Graphics (II)
+ENG",工程圖學(二),50,35.0,Rabc-CS-PC2[GF],1.0,3.0,莊子毅,Required
+DMA,516213.0,ENCV10010,,"Engineering Mathematics(II)
+",工程數學(二),45,0.0,T234-EB118[GF],3.0,3.0,石棟鑫,Required
+DMA,516214.0,ENCV10010,,"Engineering Mathematics(II)
+ENG",工程數學(二),45,0.0,T234-EB227[GF],3.0,3.0,郭心怡,Required
+DMA,516215.0,ENCV10022,,"Theory of Structures (I)
+",結構學（一）,45,0.0,T56F2-EB115[GF],3.0,3.0,黃炯憲,Required
+DMA,516216.0,ENCV10022,,"Theory of Structures (I)
+ENG",結構學（一）,45,0.0,T56-EB108[GF],3.0,3.0,林其穎,Required
+DMA,516217.0,ENCV10002,,"Soil Mechanics
+",土壤力學,45,0.0,M56R2-EB117[GF],3.0,3.0,單信瑜,Required
+DMA,516218.0,ENCV10002,,"Soil Mechanics
+ENG",土壤力學,45,0.0,M56R2-EB108[GF],3.0,3.0,黃郁惟,Required
+DMA,516219.0,ENCV10003,,"Soil Mechanics Lab.
+",土壤力學實驗,45,0.0,"TabWa-EB108[GF],Mn-EB117[GF]",1.0,3.0,翁孟嘉,Required
+DMA,516220.0,ENCV10003,,"Soil Mechanics Lab.
+ENG",土壤力學實驗,45,0.0,"WbRab-EB108[GF],Mn-EB117[GF]",1.0,3.0,翁孟嘉,Required
+DMA,516221.0,ENCV10016,,"Fluid Mechanics
+",流體力學,45,0.0,W234-EB107[GF],3.0,3.0,于弋翔,Required
+DMA,516222.0,ENCV10016,,"Fluid Mechanics
+ENG",流體力學,45,0.0,W234-EB118[GF],3.0,3.0,趙韋安,Required
+DMA,516223.0,ENCV20002,,"Global Positioning System
+[CCS,COS,CHS,CHK] GECIDAST",全球定位系統概論,100,0.0,F567-EB117[GF],3.0,3.0,王成機,Elective
+DMA,516224.0,ENCV10006,,"Engineering Geology
+ENG",工程地質學,70,0.0,M34-EB115[GF],3.0,3.0,羅佳明,Required
+DMA,516225.0,ENCV10014,,"Hydraulic Engineering
+",水利工程,45,0.0,R34-EB118[GF],3.0,3.0,張良正,Elective
+DMA,516226.0,ENCV10014,,"Hydraulic Engineering
+ENG",水利工程,45,0.0,R34-EB107[GF],3.0,3.0,石棟鑫,Elective
+DMA,516227.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EA101[GF],3.0,3.0,楊尊華,Required
+DMA,516228.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EB402[GF],3.0,3.0,袁宇秉,Required
+DMA,516229.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EB403[GF],3.0,3.0,翁孟嘉,Required
+DMA,516230.0,ENCV10024,,"Reinforced Concrete
+",鋼筋混凝土學,80,0.0,T78R2-EB118[GF],3.0,3.0,林子剛,Required
+DMA,516232.0,ENCV10011,,"Engineering Economics
+FCQR[ECE,CCS] GECI",工程經濟學,45,0.0,F34-EB117[GF],3.0,3.0,黃玉霖,Required
+DMA,516233.0,ENCV10011,,"Engineering Economics
+FCQR[ECE,CCS] GECIENG",工程經濟學,45,0.0,F34-EB227[GF],3.0,3.0,王維志,Required
+DMA,516234.0,ENCV20034,,"Design of Steel Structures
+",鋼結構設計,50,0.0,M56-EB107[GF],3.0,3.0,陳垂欣,Elective
+DMA,516235.0,ENCV20025,,"Numerical Methods
+",數值方法,40,0.0,M567-CS-PC3[GF],3.0,3.0,蔡宗哲,Elective
+DMA,516236.0,ENCV20009,,"Independent Study(II)
+",土木專題討論（二）,Unlimited,0.0,,3.0,3.0,土木系,Elective
+DMA,516237.0,ENCV20027,,"Field Practice
+",校外實習,Unlimited,0.0,,6.0,6.0,楊尊華,Elective
+DMA,516238.0,ENCV20038,,"Surveying and Geospatial Information Technology in Engineering Applications
+",空間資訊繪測技術於工程之應用,50,0.0,W4R56-EB108[GF],3.0,3.0,莊子毅,Elective
+DMA,516239.0,ENCV20035,,"Computer Application in Construction Management
+",電腦應用於營建管理,40,0.0,T234-EB108[GF],3.0,3.0,曾仁杰,Elective
+DME,516200.0,ENCV20015,,"Mentor's Hours
+",導師時間,Unlimited,80.0,W78-EB117[GF],0.0,2.0,土木系,Elective
+DME,516201.0,ENCV00001,,"Service Learning II
+",服務學習 (二),Unlimited,80.0,W9a-EB117[GF],0.0,2.0,張智安,Required
+DME,516202.0,ENCV10021,,"Physics Lab. (II)
+",物理實驗（二）,56,58.0,F234-SA014[GF],1.0,3.0,劉宗哲,Required
+DME,516203.0,ENCV10021,,"Physics Lab. (II)
+ENG",物理實驗（二）,56,22.0,F234-SA014[GF],1.0,3.0,劉宗哲,Required
+DME,516204.0,ENCV20007,,"Chemistry (II)
+DL",化學( 二 ),50,0.0,W12-SC109[GF],3.0,3.0,李大偉,Elective
+DME,516205.0,ENCV10008,,"Engineering Materials Lab.
+",工程材料實驗,55,45.0,Rabc-EB115[GF],1.0,3.0,袁宇秉,Required
+DME,516206.0,ENCV10008,,"Engineering Materials Lab.
+ENG",工程材料實驗,55,35.0,Tabc-EB115[GF],1.0,3.0,袁宇秉,Required
+DME,516207.0,ENCV10018,,"Surveying (I)
+",測量學（一）,55,58.0,M56-EB118[GF],2.0,2.0,張智安,Required
+DME,516208.0,ENCV10018,,"Surveying (I)
+ENG",測量學（一）,55,22.0,M56-EB115[GF],2.0,2.0,黃金維,Required
+DME,516209.0,ENCV10019,,"Surveying Practice (I)
+",測量實習（一）,55,45.0,Rn56-EB118[GF],1.0,3.0,黃金維,Required
+DME,516210.0,ENCV10019,,"Surveying Practice (I)
+ENG",測量實習（一）,55,35.0,Wn56-EB115[GF],1.0,3.0,張智安,Required
+DME,516211.0,ENCV10025,,"Engineering Graphics (II)
+",工程圖學(二),60,45.0,Mabc-CS-PC4[GF],1.0,3.0,莊子毅,Required
+DME,516212.0,ENCV10025,,"Engineering Graphics (II)
+ENG",工程圖學(二),50,35.0,Rabc-CS-PC2[GF],1.0,3.0,莊子毅,Required
+DME,516213.0,ENCV10010,,"Engineering Mathematics(II)
+",工程數學(二),45,0.0,T234-EB118[GF],3.0,3.0,石棟鑫,Required
+DME,516214.0,ENCV10010,,"Engineering Mathematics(II)
+ENG",工程數學(二),45,0.0,T234-EB227[GF],3.0,3.0,郭心怡,Required
+DME,516215.0,ENCV10022,,"Theory of Structures (I)
+",結構學（一）,45,0.0,T56F2-EB115[GF],3.0,3.0,黃炯憲,Required
+DME,516216.0,ENCV10022,,"Theory of Structures (I)
+ENG",結構學（一）,45,0.0,T56-EB108[GF],3.0,3.0,林其穎,Required
+DME,516217.0,ENCV10002,,"Soil Mechanics
+",土壤力學,45,0.0,M56R2-EB117[GF],3.0,3.0,單信瑜,Required
+DME,516218.0,ENCV10002,,"Soil Mechanics
+ENG",土壤力學,45,0.0,M56R2-EB108[GF],3.0,3.0,黃郁惟,Required
+DME,516219.0,ENCV10003,,"Soil Mechanics Lab.
+",土壤力學實驗,45,0.0,"TabWa-EB108[GF],Mn-EB117[GF]",1.0,3.0,翁孟嘉,Required
+DME,516220.0,ENCV10003,,"Soil Mechanics Lab.
+ENG",土壤力學實驗,45,0.0,"WbRab-EB108[GF],Mn-EB117[GF]",1.0,3.0,翁孟嘉,Required
+DME,516221.0,ENCV10016,,"Fluid Mechanics
+",流體力學,45,0.0,W234-EB107[GF],3.0,3.0,于弋翔,Required
+DME,516222.0,ENCV10016,,"Fluid Mechanics
+ENG",流體力學,45,0.0,W234-EB118[GF],3.0,3.0,趙韋安,Required
+DME,516223.0,ENCV20002,,"Global Positioning System
+[CCS,COS,CHS,CHK] GECIDAST",全球定位系統概論,100,0.0,F567-EB117[GF],3.0,3.0,王成機,Elective
+DME,516224.0,ENCV10006,,"Engineering Geology
+ENG",工程地質學,70,0.0,M34-EB115[GF],3.0,3.0,羅佳明,Required
+DME,516225.0,ENCV10014,,"Hydraulic Engineering
+",水利工程,45,0.0,R34-EB118[GF],3.0,3.0,張良正,Elective
+DME,516226.0,ENCV10014,,"Hydraulic Engineering
+ENG",水利工程,45,0.0,R34-EB107[GF],3.0,3.0,石棟鑫,Elective
+DME,516227.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EA101[GF],3.0,3.0,楊尊華,Required
+DME,516228.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EB402[GF],3.0,3.0,袁宇秉,Required
+DME,516229.0,ENCV20037,,"Civil Engineering Capstone Project
+",土木工程實作專題,25,0.0,F234-EB403[GF],3.0,3.0,翁孟嘉,Required
+DME,516230.0,ENCV10024,,"Reinforced Concrete
+",鋼筋混凝土學,80,0.0,T78R2-EB118[GF],3.0,3.0,林子剛,Required
+DME,516232.0,ENCV10011,,"Engineering Economics
+FCQR[ECE,CCS] GECI",工程經濟學,45,0.0,F34-EB117[GF],3.0,3.0,黃玉霖,Required
+DME,516233.0,ENCV10011,,"Engineering Economics
+FCQR[ECE,CCS] GECIENG",工程經濟學,45,0.0,F34-EB227[GF],3.0,3.0,王維志,Required
+DME,516234.0,ENCV20034,,"Design of Steel Structures
+",鋼結構設計,50,0.0,M56-EB107[GF],3.0,3.0,陳垂欣,Elective
+DME,516235.0,ENCV20025,,"Numerical Methods
+",數值方法,40,0.0,M567-CS-PC3[GF],3.0,3.0,蔡宗哲,Elective
+DME,516236.0,ENCV20009,,"Independent Study(II)
+",土木專題討論（二）,Unlimited,0.0,,3.0,3.0,土木系,Elective
+DME,516237.0,ENCV20027,,"Field Practice
+",校外實習,Unlimited,0.0,,6.0,6.0,楊尊華,Elective
+DME,516238.0,ENCV20038,,"Surveying and Geospatial Information Technology in Engineering Applications
+",空間資訊繪測技術於工程之應用,50,0.0,W4R56-EB108[GF],3.0,3.0,莊子毅,Elective
+DME,516239.0,ENCV20035,,"Computer Application in Construction Management
+",電腦應用於營建管理,40,0.0,T234-EB108[GF],3.0,3.0,曾仁杰,Elective

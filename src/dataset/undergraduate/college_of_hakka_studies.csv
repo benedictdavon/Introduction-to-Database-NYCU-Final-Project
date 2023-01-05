@@ -1,0 +1,73 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+DCT,310100.0,HKCT20021,,"Final Year Projet(I)
+",畢業專題(上),Unlimited,0.0,Mz1-HK104[LJ],2.0,2.0,傳科系,Required
+DCT,310101.0,HKCT10014,,"Hakka and Communication
+",客家與傳播,Unlimited,0.0,M234-HKB08[LJ],3.0,3.0,賴至慧,Required
+DCT,310102.0,HKCT10003,,"Introduction to Research Methods
+",傳播研究方法,Unlimited,0.0,M567-HKB08[LJ],3.0,3.0,游婉雲,Required
+DCT,310103.0,HKCT20033,,"Social Media and Communication
+ENG",社交媒體與傳播,Unlimited,0.0,T234-HKB08[LJ],3.0,3.0,俞蘋,Elective
+DCT,310104.0,HKCT20025,,"Documentary Storytelling
+",紀實採寫與敘事,Unlimited,0.0,T234-HK104[LJ],3.0,3.0,黃淑鈴,Elective
+DCT,310105.0,HKCT10017,,"Digital image design
+",數位影像設計,Unlimited,0.0,T567-HK114[LJ],3.0,3.0,吳岱芸,Required
+DCT,310106.0,HKCT10004,,"Communication Process and Effect
+",傳播過程與效果,Unlimited,0.0,T567-HKB08[LJ],3.0,3.0,李美華,Required
+DCT,310107.0,HKCT20014,,"Media Internship(I)
+",媒體實習(上),Unlimited,0.0,T8-HKB08[LJ],0.0,1.0,魏玓,Required
+DCT,310108.0,HKCT20004,,"Issues in Communication Technology: 3D Laser scan and Photo Modeling
+",傳播科技專題：3D雷射掃描與影像建模,Unlimited,0.0,W234-HK123[LJ],3.0,3.0,張宏宇,Elective
+DCT,310109.0,HKCT20012,,"Media Management and Entrepreneurship
+GECLDASC",媒體管理與創新,Unlimited,0.0,W234-HK104[LJ],3.0,3.0,黃靜蓉,Elective
+DCT,310110.0,HKCT00001,,"Mentor's Hours
+",導師時間,Unlimited,0.0,W78-HK104[LJ],0.0,2.0,張宏宇、蔡欣怡,Required
+DCT,310111.0,HKCT20016,,"Special Topics on Digital Media Production
+",媒體製作專題,Unlimited,0.0,W9a-HK215[LJ],2.0,2.0,張宏宇,Elective
+DCT,310112.0,HKCT10020,,"Visual Aesthetics and Analysis
+",視覺美學與分析,Unlimited,0.0,R234-HK104[LJ],3.0,3.0,魏玓,Elective
+DCT,310113.0,HKCT10009,,"Innovation and Design
+",創意與設計,Unlimited,0.0,R567-HK114[LJ],3.0,3.0,陳維平,Required
+DCT,310114.0,HKCT20020,,"New Technology and Organizational Communication
+GECL[COM,CHS] GECIDASC",新科技與組織傳播,Unlimited,0.0,R567-ED102[GF],3.0,3.0,李美華,Elective
+DCT,310115.0,HKCT10006,,"Communication Technology and Society
+GECLDASC",傳播科技與社會,Unlimited,0.0,F234-HKB08[LJ],3.0,3.0,蔡欣怡,Required
+DCT,310116.0,HKCT10002,,"Human Computer Interaction
+GECL[ECE,COM] GECIDAST",人機互動概論,Unlimited,0.0,F234-HK114[LJ],3.0,3.0,陳盈羽,Required
+DCT,310117.0,HKCT20010,,"Fiction Film Production
+",劇情影像創作,Unlimited,0.0,F567-HK104[LJ],3.0,3.0,張宏宇,Elective
+DHS,310100.0,HKCT20021,,"Final Year Projet(I)
+",畢業專題(上),Unlimited,0.0,Mz1-HK104[LJ],2.0,2.0,傳科系,Required
+DHS,310101.0,HKCT10014,,"Hakka and Communication
+",客家與傳播,Unlimited,0.0,M234-HKB08[LJ],3.0,3.0,賴至慧,Required
+DHS,310102.0,HKCT10003,,"Introduction to Research Methods
+",傳播研究方法,Unlimited,0.0,M567-HKB08[LJ],3.0,3.0,游婉雲,Required
+DHS,310103.0,HKCT20033,,"Social Media and Communication
+ENG",社交媒體與傳播,Unlimited,0.0,T234-HKB08[LJ],3.0,3.0,俞蘋,Elective
+DHS,310104.0,HKCT20025,,"Documentary Storytelling
+",紀實採寫與敘事,Unlimited,0.0,T234-HK104[LJ],3.0,3.0,黃淑鈴,Elective
+DHS,310105.0,HKCT10017,,"Digital image design
+",數位影像設計,Unlimited,0.0,T567-HK114[LJ],3.0,3.0,吳岱芸,Required
+DHS,310106.0,HKCT10004,,"Communication Process and Effect
+",傳播過程與效果,Unlimited,0.0,T567-HKB08[LJ],3.0,3.0,李美華,Required
+DHS,310107.0,HKCT20014,,"Media Internship(I)
+",媒體實習(上),Unlimited,0.0,T8-HKB08[LJ],0.0,1.0,魏玓,Required
+DHS,310108.0,HKCT20004,,"Issues in Communication Technology: 3D Laser scan and Photo Modeling
+",傳播科技專題：3D雷射掃描與影像建模,Unlimited,0.0,W234-HK123[LJ],3.0,3.0,張宏宇,Elective
+DHS,310109.0,HKCT20012,,"Media Management and Entrepreneurship
+GECLDASC",媒體管理與創新,Unlimited,0.0,W234-HK104[LJ],3.0,3.0,黃靜蓉,Elective
+DHS,310110.0,HKCT00001,,"Mentor's Hours
+",導師時間,Unlimited,0.0,W78-HK104[LJ],0.0,2.0,張宏宇、蔡欣怡,Required
+DHS,310111.0,HKCT20016,,"Special Topics on Digital Media Production
+",媒體製作專題,Unlimited,0.0,W9a-HK215[LJ],2.0,2.0,張宏宇,Elective
+DHS,310112.0,HKCT10020,,"Visual Aesthetics and Analysis
+",視覺美學與分析,Unlimited,0.0,R234-HK104[LJ],3.0,3.0,魏玓,Elective
+DHS,310113.0,HKCT10009,,"Innovation and Design
+",創意與設計,Unlimited,0.0,R567-HK114[LJ],3.0,3.0,陳維平,Required
+DHS,310114.0,HKCT20020,,"New Technology and Organizational Communication
+GECL[COM,CHS] GECIDASC",新科技與組織傳播,Unlimited,0.0,R567-ED102[GF],3.0,3.0,李美華,Elective
+DHS,310115.0,HKCT10006,,"Communication Technology and Society
+GECLDASC",傳播科技與社會,Unlimited,0.0,F234-HKB08[LJ],3.0,3.0,蔡欣怡,Required
+DHS,310116.0,HKCT10002,,"Human Computer Interaction
+GECL[ECE,COM] GECIDAST",人機互動概論,Unlimited,0.0,F234-HK114[LJ],3.0,3.0,陳盈羽,Required
+DHS,310117.0,HKCT20010,,"Fiction Film Production
+",劇情影像創作,Unlimited,0.0,F567-HK104[LJ],3.0,3.0,張宏宇,Elective

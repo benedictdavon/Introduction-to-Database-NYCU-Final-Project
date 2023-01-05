@@ -1,0 +1,881 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+SET,910000.0,SESE20073,,"Capstone
+",專題實作,Unlimited,0.0,S567-,0.0,3.0,系統工程,Elective
+SET,910001.0,SESE10225,,"System Programming
+",系統程式,Unlimited,0.0,W234-,3.0,3.0,林政寬,Elective
+SET,910002.0,SESE00125,,"Ceramic Materials
+",陶瓷材料,Unlimited,0.0,T234-,3.0,3.0,楊朝堯,Elective
+SET,910003.0,SESE10226,,"Introduction to Recent Advances in Engineering
+",新興工程概論,Unlimited,0.0,Mabc-,3.0,3.0,黃衍佐,Elective
+SET,910004.0,SESE10227,,"Construction Engineering Management
+ENG",營建工程管理,Unlimited,25.0,M34R1-,3.0,3.0,高明秀,Required
+SET,910005.0,SESE10228,,"Satellite Technology and Application
+",衛星科技與應用,Unlimited,0.0,F234-,3.0,3.0,魏世昕,Elective
+SET,910006.0,SESE10229,,"Numerical Methods
+",數值方法,Unlimited,0.0,W234-,3.0,3.0,紀虹名,Elective
+SET,910007.0,SESE10157,,"Electronics Circuits (2)
+",電子學(2),Unlimited,25.0,W234-,3.0,3.0,巫朝陽,Required
+SET,910008.0,SESE10045,,"Engineering Mechanics - Dynamics
+",應用力學-動力學,Unlimited,19.0,T678-,3.0,3.0,金大仁,Required
+SET,910009.0,SESE10231,,"Engineering Mathematics(2)
+",工程數學(2),Unlimited,25.0,W678-,3.0,3.0,曾煜輝,Required
+SET,910010.0,SESE10015,,"Geomorphology
+",地形學,Unlimited,0.0,T234-,3.0,3.0,史天元,Elective
+SET,910011.0,SESE00093,,"Calculus(2)
+",微積分(2),Unlimited,0.0,M34W12-,4.0,4.0,蘇承芳,Required
+SET,910012.0,SESE10055,,"General Physics(2)
+",普通物理(2),Unlimited,0.0,R234-,3.0,3.0,杜建明,Required
+SET,910013.0,SESE10232,,"Seminar and Lab(2)
+",基礎科學講座與實驗(2),Unlimited,0.0,S234567-,0.0,3.0,劉宗哲,Required
+SET,910014.0,SESE00027,,"Programming Language Tutor
+",微積分輔導(2),Unlimited,0.0,Mabc-,0.0,3.0,系統工程,Elective
+SET,910015.0,SESE00037,,"General Physics Tutor(2)
+",普通物理輔導(2),Unlimited,0.0,Wabc-,0.0,3.0,系統工程,Elective
+SET,910016.0,SESE00049,,"Programming Language Tutor
+",程式語言輔導,Unlimited,0.0,Fabc-,0.0,3.0,系統工程,Elective
+SET,910017.0,SESE00126,,"Intermediate English (2)
+",中級英文(2),Unlimited,0.0,T89-,2.0,2.0,系統工程,Elective
+SET,910018.0,SESE00052,,"English(2)
+",英文(2),Unlimited,0.0,Wabc-,3.0,3.0,系統工程,Required
+SET,910019.0,SESE10185,,"Ethics in Engineering
+",工程倫理,Unlimited,0.0,F34-,2.0,2.0,張德仁,Required
+SET,910020.0,SESE10041,,"Psychology
+",心理學,Unlimited,0.0,R12-,2.0,2.0,系統工程,Required
+SET,910021.0,SESE00126,,"Intermediate English (2)
+",中級英文(2),Unlimited,0.0,F12-,2.0,2.0,系統工程,Elective
+SET,910022.0,SESE10041,,"Psychology
+",心理學,Unlimited,0.0,M34-,2.0,2.0,系統工程,Required
+SET,910023.0,SESE00126,,"Intermediate English (2)
+",中級英文(2),Unlimited,0.0,T56-,2.0,2.0,系統工程,Elective
+SET,910024.0,SESE10041,,"Psychology
+",心理學,Unlimited,0.0,R34-,2.0,2.0,系統工程,Required
+SET,910025.0,SESE00126,,"Intermediate English (2)
+",中級英文(2),Unlimited,0.0,T12-,2.0,2.0,系統工程,Elective
+SET,910026.0,SESE10041,,"Psychology
+",心理學,Unlimited,0.0,T34-,2.0,2.0,系統工程,Required
+SET,910027.0,SESE00126,,"Intermediate English (2)
+",中級英文(2),Unlimited,0.0,T34-,2.0,2.0,系統工程,Elective
+SET,910028.0,SESE10146,,"Military Ethics
+",軍事倫理學,Unlimited,24.0,F12-,2.0,2.0,系統工程,Required
+SET,910029.0,SESE10146,,"Military Ethics
+",軍事倫理學,Unlimited,25.0,F34-,2.0,2.0,系統工程,Required
+SET,910030.0,SESE10009,,"Introdution to Philosophy
+",哲學概論,Unlimited,0.0,T34-,2.0,2.0,系統工程,Required
+SET,910031.0,SESE00126,,"Intermediate English (2)
+",中級英文(2),Unlimited,0.0,F34-,2.0,2.0,系統工程,Elective
+SET,910032.0,SESE10009,,"Introdution to Philosophy
+",哲學概論,Unlimited,0.0,T12-,2.0,2.0,系統工程,Required
+SET,910033.0,SESE00001,,"Chinese Modern History
+",中國現代史(含國軍建軍史),Unlimited,21.0,W678-,3.0,3.0,系統工程,Required
+SET,910034.0,SESE00018,,"Studies on Mainland China
+",大陸問題研究,Unlimited,29.0,M567-,3.0,3.0,系統工程,Required
+SET,910035.0,SESE00001,,"Chinese Modern History
+",中國現代史(含國軍建軍史),Unlimited,6.0,R234-,3.0,3.0,系統工程,Required
+SET,910036.0,SESE00018,,"Studies on Mainland China
+",大陸問題研究,Unlimited,36.0,M567-,3.0,3.0,系統工程,Required
+SET,910037.0,SESE00001,,"Chinese Modern History
+",中國現代史(含國軍建軍史),Unlimited,25.0,F234-,3.0,3.0,系統工程,Required
+SET,910038.0,SESE00018,,"Studies on Mainland China
+",大陸問題研究,Unlimited,25.0,W234-,3.0,3.0,系統工程,Required
+SET,910039.0,SESE00018,,"Studies on Mainland China
+",大陸問題研究,Unlimited,32.0,T678-,3.0,3.0,系統工程,Required
+SET,910040.0,SESE10243,,"General Physics Laboratory(2)
+",普通物理實驗(2),Unlimited,0.0,M34-,2.0,2.0,系統工程,Required
+SET,910041.0,SESE00052,,"English(2)
+",英文(2),Unlimited,0.0,T12R1-,3.0,3.0,系統工程,Required
+SET,910042.0,SESE00093,,"Calculus(2)
+",微積分(2),Unlimited,0.0,T34R67-,4.0,4.0,張仁煦,Required
+SET,910043.0,SESE00014,,"Chinese(2)
+",國文(2),Unlimited,0.0,T678-,3.0,3.0,系統工程,Required
+SET,910044.0,SESE00040,,"Introduction to Law
+",法學概論 ,Unlimited,0.0,W12-,2.0,2.0,系統工程,Required
+SET,910045.0,SESE10106,,"Int. to Programming Languages
+",程式語言概論,Unlimited,0.0,F1-,1.0,1.0,張凱威,Required
+SET,910046.0,SESE00093,,"Calculus(2)
+",微積分(2),Unlimited,0.0,M34T12-,4.0,4.0,曾有志,Required
+SET,910047.0,SESE10243,,"General Physics Laboratory(2)
+",普通物理實驗(2),Unlimited,0.0,W12-,2.0,2.0,系統工程,Required
+SET,910048.0,SESE00052,,"English(2)
+",英文(2),Unlimited,0.0,T34R2-,3.0,3.0,系統工程,Required
+SET,910049.0,SESE00040,,"Introduction to Law
+",法學概論 ,Unlimited,0.0,W34-,2.0,2.0,系統工程,Required
+SET,910050.0,SESE00014,,"Chinese(2)
+",國文(2),Unlimited,0.0,W678-,3.0,3.0,系統工程,Required
+SET,910051.0,SESE10106,,"Int. to Programming Languages
+",程式語言概論,Unlimited,0.0,M9-,1.0,1.0,張凱威,Required
+SET,910052.0,SESE10055,,"General Physics(2)
+",普通物理(2),Unlimited,0.0,R34F1-,3.0,3.0,王哲釧,Required
+SET,910053.0,SESE00040,,"Introduction to Law
+",法學概論 ,Unlimited,0.0,M67-,2.0,2.0,系統工程,Required
+SET,910054.0,SESE10106,,"Int. to Programming Languages
+",程式語言概論,Unlimited,0.0,T2-,1.0,1.0,張凱威,Required
+SET,910055.0,SESE10243,,"General Physics Laboratory(2)
+",普通物理實驗(2),Unlimited,0.0,T34-,2.0,2.0,系統工程,Required
+SET,910056.0,SESE00014,,"Chinese(2)
+",國文(2),Unlimited,0.0,T678-,3.0,3.0,系統工程,Required
+SET,910057.0,SESE00052,,"English(2)
+",英文(2),Unlimited,0.0,W34R6-,3.0,3.0,系統工程,Required
+SET,910058.0,SESE00093,,"Calculus(2)
+",微積分(2),Unlimited,0.0,M34R12-,4.0,4.0,張枝成,Required
+SET,910059.0,SESE00040,,"Introduction to Law
+",法學概論 ,Unlimited,0.0,M89-,2.0,2.0,系統工程,Required
+SET,910060.0,SESE10106,,"Int. to Programming Languages
+",程式語言概論,Unlimited,0.0,T1-,1.0,1.0,張凱威,Required
+SET,910061.0,SESE00014,,"Chinese(2)
+",國文(2),Unlimited,0.0,T234-,3.0,3.0,系統工程,Required
+SET,910062.0,SESE00052,,"English(2)
+",英文(2),Unlimited,0.0,W12R5-,3.0,3.0,系統工程,Required
+SET,910063.0,SESE10054,,"General Physics (1)
+",普通物理(1),Unlimited,0.0,Tabc-,3.0,3.0,鄭根發,Required
+SET,910064.0,SESE10243,,"General Physics Laboratory(2)
+",普通物理實驗(2),Unlimited,0.0,F34-,2.0,2.0,賴渝翔,Required
+SET,910065.0,SESE00127,,"Physical Education(8)
+",體育(8),Unlimited,42.0,W12-,0.0,2.0,系統工程,Required
+SET,910066.0,SESE00127,,"Physical Education(8)
+",體育(8),Unlimited,32.0,R12-,0.0,2.0,系統工程,Required
+SET,910067.0,SESE00127,,"Physical Education(8)
+",體育(8),Unlimited,54.0,R56-,0.0,2.0,系統工程,Required
+SET,910068.0,SESE00127,,"Physical Education(8)
+",體育(8),Unlimited,44.0,W12-,0.0,2.0,系統工程,Required
+SET,910069.0,SESE00127,,"Physical Education(8)
+",體育(8),Unlimited,25.0,R12-,0.0,2.0,系統工程,Required
+SET,910070.0,SESE00127,,"Physical Education(8)
+",體育(8),Unlimited,24.0,R56-,0.0,2.0,系統工程,Required
+SET,910071.0,SESE00128,,"Physical Education(6)
+",體育(6),Unlimited,35.0,R34-,0.0,2.0,系統工程,Required
+SET,910072.0,SESE00128,,"Physical Education(6)
+",體育(6),Unlimited,20.0,W34-,0.0,2.0,系統工程,Required
+SET,910073.0,SESE00128,,"Physical Education(6)
+",體育(6),Unlimited,34.0,W34-,0.0,2.0,系統工程,Required
+SET,910074.0,SESE00128,,"Physical Education(6)
+",體育(6),Unlimited,49.0,R34-,0.0,2.0,系統工程,Required
+SET,910075.0,SESE00128,,"Physical Education(6)
+",體育(6),Unlimited,40.0,W34-,0.0,2.0,系統工程,Required
+SET,910076.0,SESE00128,,"Physical Education(6)
+",體育(6),Unlimited,13.0,R34-,0.0,2.0,系統工程,Required
+SET,910077.0,SESE00062,,"Physical Education(4)
+",體育(4),Unlimited,40.0,T34-,0.0,2.0,系統工程,Required
+SET,910078.0,SESE00062,,"Physical Education(4)
+",體育(4),Unlimited,16.0,T12-,0.0,2.0,系統工程,Required
+SET,910079.0,SESE00062,,"Physical Education(4)
+",體育(4),Unlimited,36.0,M34-,0.0,2.0,系統工程,Required
+SET,910080.0,SESE00062,,"Physical Education(4)
+",體育(4),Unlimited,25.0,T34-,0.0,2.0,系統工程,Required
+SET,910081.0,SESE00062,,"Physical Education(4)
+",體育(4),Unlimited,31.0,T12-,0.0,2.0,系統工程,Required
+SET,910082.0,SESE00062,,"Physical Education(4)
+",體育(4),Unlimited,32.0,T12-,0.0,2.0,系統工程,Required
+SET,910083.0,SESE00060,,"Physical Education(2)
+",體育(2),Unlimited,0.0,W67-,0.0,2.0,系統工程,Required
+SET,910084.0,SESE00060,,"Physical Education(2)
+",體育(2),Unlimited,0.0,T67-,0.0,2.0,系統工程,Required
+SET,910085.0,SESE00060,,"Physical Education(2)
+",體育(2),Unlimited,0.0,W67-,0.0,2.0,系統工程,Required
+SET,910086.0,SESE00060,,"Physical Education(2)
+",體育(2),Unlimited,0.0,T67-,0.0,2.0,系統工程,Required
+SET,910087.0,SESE00012,,"Introduction to Defense Technology (2)
+GECLDAST",國防科技概論(2),70,0.0,F567-EE106[GF],3.0,3.0,李永隆,Elective
+SET,910088.0,SESE10113,,"Network Technology and Practice(2)
+",網路技術與實務(2),Unlimited,0.0,R123-,3.0,3.0,曾建超、張凱威,Elective
+SET,910089.0,SESE10113,,"Network Technology and Practice(2)
+",網路技術與實務(2),Unlimited,0.0,R456-,3.0,3.0,張凱威,Elective
+SET,910090.0,SESE10139,,"Mass and Energy Balances
+",質能均衡,Unlimited,0.0,R12-,2.0,2.0,楊琮貿,Required
+SET,910091.0,SESE20081,,"Python Programming Language
+",Python程式設計,Unlimited,0.0,W234-,3.0,3.0,系統工程,Elective
+SET,910092.0,SESE20218,,"Synoptic Meteorology (2)
+",天氣學(2),Unlimited,3.0,T1F12-,3.0,3.0,侯昭平,Required
+SET,910093.0,SESE20083,,"Case Study of Atmospheric Science(4)
+",大氣科學專題實作(4),Unlimited,0.0,M567-,1.0,3.0,蔡世樵,Required
+SET,910094.0,SESE20219,,"Synoptic Meteorology Laboratory(2)
+",天氣學實習(2),Unlimited,3.0,W12-,1.0,2.0,林永慶,Required
+SET,910095.0,SESE20220,,"Dynamic Meteorology (2)
+",大氣動力學(2),Unlimited,3.0,R234-,3.0,3.0,蔡世樵,Required
+SET,910096.0,SESE20086,,"Special Topics in Integration of Disaster Preventio (4)
+",災害防救整合專題實作(4),Unlimited,0.0,M567-,1.0,3.0,簡志峻,Required
+SET,910097.0,SESE20096,,"Geospatial Special Practice(4)
+",空間科學專題實作(4),Unlimited,0.0,M567-,1.0,3.0,蔡明達,Required
+SET,910098.0,SESE20087,,"Special Topics in Engineering Practices(4)
+",軍事工程專題實作(4),Unlimited,0.0,M567-,1.0,3.0,張文南,Required
+SET,910099.0,SESE20221,,"Global Navigation Satellite System
+",全球導航衛星系統,Unlimited,6.0,T678-,3.0,3.0,黃立信,Required
+SET,910100.0,SESE20222,,"Oceanographic Surveying
+",海洋測量學,Unlimited,0.0,W678-,3.0,3.0,崔怡楓,Elective
+SET,910101.0,SESE20090,,"Geospatial Special in Internet of Things Applicatio (4)
+",智慧物聯網環境專題實作(4),Unlimited,0.0,M567-,1.0,3.0,宋欣芳,Required
+SET,910102.0,SESE20223,,"Introduction to GIS
+",地理資訊系統概論,Unlimited,6.0,R234-,3.0,3.0,系統工程,Required
+SET,910103.0,SESE20224,,"Military Map Printing
+",軍圖製印學,Unlimited,6.0,F234-,3.0,3.0,吳憲珉,Required
+SET,910104.0,SESE20094,,"Special Topics in Ntegration of Environmental Information (2)
+",環境資訊及工程整合專題實作(2),Unlimited,0.0,M567-,1.0,3.0,林玉菁,Required
+SET,910105.0,SESE20095,,"Special Topics in Ntegration of Environmental Information (4)
+",環境資訊及工程整合專題實作(4),Unlimited,0.0,M567-,1.0,3.0,蔡營寬,Required
+SET,910106.0,SESE10070,,"Experiments on Materials
+",材料實驗,Unlimited,16.0,T678-,1.0,3.0,黃爾文、林明憲,Required
+SET,910107.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,25.0,M12-,0.0,2.0,林明憲,Required
+SET,910108.0,SESE20097,,"Special Project on Explosive(4)
+",火炸藥專題實作(4),Unlimited,0.0,M567-,1.0,3.0,楊琮貿,Required
+SET,910109.0,SESE20098,,"Special Project on Nuclear, Biological and Chemical Defense (4)
+",核生化防護專題實作(4),Unlimited,0.0,M567-,1.0,3.0,汪成斌,Required
+SET,910110.0,SESE20099,,"Special Project on Materials Science & Engineering (4)
+",材料科學與工程專題實作(4),Unlimited,0.0,M567-,1.0,3.0,王哲釧,Required
+SET,910111.0,SESE20100,,"Special Project on Energy Conversion/ Storage Batteries(4)
+",創/儲能電池專題實作(4),Unlimited,0.0,M567-,1.0,3.0,林明憲,Required
+SET,910112.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,20.0,M12-,0.0,2.0,游竹淋,Required
+SET,910113.0,SESE20101,,"Special Project on Explosive(2)
+",火炸藥專題實作(2),Unlimited,0.0,M567-,1.0,3.0,李金樹,Required
+SET,910114.0,SESE20102,,"Special Project on Nuclear, Biological and Chemical Defense (2)
+",核生化防護專題實作(2),Unlimited,0.0,M567-,1.0,3.0,黃文鍵,Required
+SET,910115.0,SESE20103,,"Special Project on Materials Science & Engineering (2)
+",材料科學與工程專題實作(2),Unlimited,0.0,M567-,1.0,3.0,許宏華,Required
+SET,910116.0,SESE20104,,"Special Project on Functional Coatings(2)
+",功能性鍍膜專題實作(2),Unlimited,0.0,M567-,1.0,3.0,葛明德,Required
+SET,910117.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,16.0,M12-,0.0,2.0,黃文鍵,Required
+SET,910118.0,SESE00022,,"Tutor Guidance(2)
+",導師輔導(2) ,Unlimited,0.0,M12-,0.0,2.0,系統工程,Required
+SET,910119.0,SESE20105,,"Practice of Communication Systems(4)
+",通訊系統專題實作(4),Unlimited,0.0,M567-,1.0,3.0,瞿忠正,Required
+SET,910120.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,16.0,M12-,0.0,2.0,瞿忠正,Required
+SET,910121.0,SESE20106,,"Practice for Applications of Wireless Communications (4)
+",無線通訊應用專題實作(4),Unlimited,0.0,M567-,1.0,3.0,蘇英俊,Required
+SET,910122.0,SESE20107,,"Design Topics of Microwave Devices(4)
+",微波裝置專題實作(4),Unlimited,0.0,M567-,1.0,3.0,陳淑娟,Required
+SET,910123.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,24.0,M12-,0.0,2.0,陳淑娟,Required
+SET,910124.0,SESE20108,,"Design Topics of Microwave Devices(2)
+",微波裝置專題實作(2),Unlimited,0.0,M567-,1.0,3.0,李志國,Required
+SET,910125.0,SESE00022,,"Tutor Guidance(2)
+",導師輔導(2) ,Unlimited,0.0,M12-,0.0,2.0,李志國,Required
+SET,910126.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,25.0,M12-,0.0,2.0,聶若鹽,Required
+SET,910127.0,SESE20109,,"Special Topics in Semiconductor Devices Application
+",半導體元件應用專題實作(2),Unlimited,0.0,M567-,1.0,3.0,謝育立,Required
+SET,910128.0,SESE20110,,"Optoelectronic application project(2)
+",光電應用專題實作(2),Unlimited,0.0,M567-,1.0,3.0,葉宗翰,Required
+SET,910129.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,25.0,M12-,0.0,2.0,葉宗翰,Required
+SET,910130.0,SESE20111,,"Optoelectronic application project(4)
+",光電應用專題實作(4),Unlimited,0.0,M567-,1.0,3.0,謝輝煌,Required
+SET,910131.0,SESE20112,,"Project of Information Security(4)
+",資訊安全專題實作(4),Unlimited,0.0,M567-,1.0,3.0,林宗億,Required
+SET,910132.0,SESE20113,,"Special Topics for the Intelligent Robot(2)
+",智慧型機器人專題實作(2),Unlimited,0.0,M567-,1.0,3.0,藍建武,Required
+SET,910133.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,0.0,M12-,0.0,2.0,藍建武,Required
+SET,910134.0,SESE20114,,"Special topics for the Control and Automation (4)
+",控制與自動化專題實作(4),Unlimited,0.0,M567-,1.0,3.0,談光雄,Required
+SET,910135.0,SESE20115,,"Applied Computer Network Project(4)
+",計算機網路應用專題實作(4),Unlimited,0.0,M567-,1.0,3.0,系統工程,Required
+SET,910136.0,SESE20116,,"Special topics for the Control and Automation (2)
+",控制與自動化專題實作(2),Unlimited,0.0,M567-,1.0,3.0,林振輝,Required
+SET,910137.0,SESE20117,,"Project of Applying Information(2)
+",資訊應用專題實作(2),Unlimited,0.0,M567-,1.0,3.0,張德仁,Required
+SET,910138.0,SESE20118,,"Project of Information Security(2)
+",資訊安全專題實作(2),Unlimited,0.0,M567-,1.0,3.0,張克勤,Required
+SET,910139.0,SESE20119,,"Practice for Applications of Wireless Communications (2)
+",無線通訊應用專題實作(2),Unlimited,0.0,M567-,1.0,3.0,鄭紹宏,Required
+SET,910140.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,16.0,M12-,0.0,2.0,鄭紹宏,Required
+SET,910141.0,SESE20120,,"Failure Analysis of Material
+",材料破損分析,Unlimited,0.0,M4R34-,3.0,3.0,劉益銘,Elective
+SET,910142.0,SESE20121,,"Explosive (Chemical) Plant Design
+",火藥(化)工廠設計,Unlimited,0.0,T67R7-,3.0,3.0,陸開泰,Elective
+SET,910143.0,SESE20122,,"Quantum Chemistry
+",量子化學,Unlimited,0.0,W467-,3.0,3.0,劉敏憲,Elective
+SET,910144.0,SESE20123,,"Nuclear,Chemical,and Biological Defense
+",核生化防護,Unlimited,20.0,M34-,2.0,2.0,吳國輝,Required
+SET,910145.0,SESE20124,,"Heat Treatment of Steel
+",熱處理學,Unlimited,0.0,M9R67-,3.0,3.0,劉益銘,Elective
+SET,910146.0,SESE20125,,"Environmental Chemistry
+",環境化學,Unlimited,0.0,T234-,3.0,3.0,王志嘉,Elective
+SET,910147.0,SESE20126,,"Chemical Reaction Engineering
+",化學反應工程,Unlimited,20.0,T89F1-,3.0,3.0,葛明德,Required
+SET,910148.0,SESE20127,,"Industrial Safety and Hygiene
+",工業安全及衛生,Unlimited,20.0,W12-,2.0,2.0,楊琮貿,Required
+SET,910149.0,SESE20128,,"Physical Metallurgy(2)
+",物理冶金(2),Unlimited,0.0,W6R12-,3.0,3.0,許宏華,Required
+SET,910150.0,SESE20129,,"Organic Materials
+",有機材料,Unlimited,0.0,W6R12-,3.0,3.0,蔡厚仁,Elective
+SET,910151.0,SESE20130,,"Explosives Lab
+",火藥學實驗,Unlimited,20.0,W789-,1.0,3.0,葛明德,Required
+SET,910152.0,SESE20131,,"Detection and Decontamination of Poison Agents
+",毒物偵檢與防護,Unlimited,0.0,F234-,3.0,3.0,賴政國,Required
+SET,910153.0,SESE20132,,"Organic Chemistry(2)
+",有機化學(2),Unlimited,0.0,M34R6-,3.0,3.0,洪耀勳,Elective
+SET,910154.0,SESE20133,,"Inorganic Chemistry(2)
+",無機化學,Unlimited,10.0,M9ab-,3.0,3.0,張章平,Required
+SET,910155.0,SESE10027,,"Engineering Mathematics(2)
+",工程數學(2) ,Unlimited,10.0,T34R6-,3.0,3.0,陸開泰,Required
+SET,910156.0,SESE10053,,"General Chemistry Laboratory
+",普通化學實驗,Unlimited,0.0,W34-,1.0,2.0,黃文鍵,Required
+SET,910157.0,SESE10064,,"Organic Chemistry Lab.(2)
+",有機化學實驗(2),Unlimited,0.0,Tabc-,1.0,3.0,游竹淋,Elective
+SET,910158.0,SESE10098,,"Physical Chemistry Lab.(1)
+",物理化學實驗(1),Unlimited,10.0,W123-,1.0,3.0,劉敏憲,Required
+SET,910159.0,SESE20134,,"Unit Operation & Transport Phenomena (1)
+",單元操作與輸送現象(1),Unlimited,16.0,W67R1-,3.0,3.0,黃其清,Required
+SET,910160.0,SESE10003,,"Analytical Chemistry(2)
+",儀器及分析化學(2),Unlimited,0.0,W89F1-,3.0,3.0,王志嘉,Elective
+SET,910161.0,SESE10097,,"Physical Chemistry(1)
+",物理化學(1),Unlimited,16.0,F234-,3.0,3.0,王哲釧,Required
+SET,910162.0,SESE10110,,"Elements of X-ray Diffraction
+",結晶繞射概論,Unlimited,6.0,M67W4-,3.0,3.0,劉益銘,Required
+SET,910163.0,SESE10066,,"Thermodynamics of Materials(1)
+",材料熱力學(1),Unlimited,6.0,M9T34-,3.0,3.0,王哲釧,Required
+SET,910164.0,SESE10053,,"General Chemistry Laboratory
+",普通化學實驗,Unlimited,0.0,R67-,1.0,2.0,游竹淋,Required
+SET,910165.0,SESE00043,,"Environmental Protection
+",環境保護  ,Unlimited,0.0,W12-,2.0,2.0,鄭根發,Elective
+SET,910166.0,SESE00048,,"Technology and the Future Life
+",科技與未來生活  ,Unlimited,0.0,M34-,2.0,2.0,鄭根發,Elective
+SET,910167.0,SESE00043,,"Environmental Protection
+",環境保護  ,Unlimited,0.0,R67-,2.0,2.0,鄭根發,Elective
+SET,910168.0,SESE00048,,"Technology and the Future Life
+",科技與未來生活  ,Unlimited,0.0,R12-,2.0,2.0,鄭根發,Elective
+SET,910169.0,SESE00020,,"Project Management
+",專案管理,Unlimited,0.0,W34-,2.0,2.0,李金樹,Elective
+SET,910170.0,SESE00116,,"The Art of War and Life
+",孫子兵法與人生,Unlimited,0.0,F12-,2.0,2.0,系統工程,Elective
+SET,910171.0,SESE00116,,"The Art of War and Life
+",孫子兵法與人生,Unlimited,0.0,F34-,2.0,2.0,系統工程,Elective
+SET,910172.0,SESE00118,,"Chinese Military Literature
+",中國兵書選讀,Unlimited,0.0,W12-,2.0,2.0,系統工程,Elective
+SET,910173.0,SESE20135,,"Project on Structure of Military Aircraft(4)
+",戰機結構專題實作(4),Unlimited,0.0,M567-,1.0,3.0,李彥宏,Required
+SET,910174.0,SESE10177,,"Mechatronics
+",機電整合,Unlimited,2.0,R234-,3.0,3.0,孔健君,Required
+SET,910175.0,SESE20136,,"Project on Mechatronics and Aeronautical Control(4)
+",機電航太控制專題實作(4),Unlimited,0.0,M567-,1.0,3.0,孔健君,Required
+SET,910176.0,SESE10178,,"Industry 4.0
+",工業4.0技術,Unlimited,0.0,W234-,3.0,3.0,林聰穎,Elective
+SET,910177.0,SESE20137,,"Project on Mechanical Design and Manufacturing(2)
+",設計製造專題實作(2),Unlimited,0.0,M567-,1.0,3.0,尤懷德,Required
+SET,910178.0,SESE20138,,"Project on Mechanical Design and Manufacturing(4)
+",設計製造專題實作(4),Unlimited,0.0,M567-,1.0,3.0,尤懷德,Required
+SET,910179.0,SESE20139,,"Project on Thermal Fluid(4)
+",熱流量測專題實作(4),Unlimited,0.0,M567-,1.0,3.0,賴渝翔,Required
+SET,910180.0,SESE20140,,"Dynamics
+",動力學,Unlimited,0.0,M9ab-,3.0,3.0,系統工程,Required
+SET,910181.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,13.0,M12-,0.0,2.0,林聰穎,Required
+SET,910182.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,11.0,M12-,0.0,2.0,林聰穎,Required
+SET,910183.0,SESE20141,,"Project on Aerospace(2)
+",太空專題實作(2),Unlimited,0.0,M567-,1.0,3.0,李彥宏,Required
+SET,910184.0,SESE20142,,"Heat Transfer
+",熱傳學,Unlimited,13.0,W123-,3.0,3.0,賴正權,Required
+SET,910185.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,13.0,M12-,0.0,2.0,林聰穎,Required
+SET,910186.0,SESE20143,,"Project on Thermal Fluid(2)
+",熱流量測專題實作(2),Unlimited,0.0,M567-,1.0,3.0,賴渝翔,Required
+SET,910187.0,SESE20144,,"Flight Mechanics
+",飛行力學,Unlimited,10.0,M34-,2.0,2.0,孔健君,Required
+SET,910188.0,SESE20145,,"Aircraft Propulsion System
+",戰機推進系統,Unlimited,0.0,T89F1-,3.0,3.0,夏筱明,Elective
+SET,910189.0,SESE20146,,"Automatic Control
+",自動控制,Unlimited,3.0,T89R6-,3.0,3.0,孔健君,Required
+SET,910190.0,SESE00093,,"Calculus(2)
+",微積分(2),Unlimited,0.0,M34R12-,4.0,4.0,張枝成,Required
+SET,910191.0,SESE10037,,"Calculus (1)
+",微積分(1),Unlimited,0.0,W9abc-,4.0,4.0,張枝成,Required
+SET,910192.0,SESE20140,,"Dynamics
+",動力學,Unlimited,32.0,M678-,3.0,3.0,林聰穎,Required
+SET,910193.0,SESE10234,,"Introduction to Ummannd aircraft system operation
+",無人機系統概論,Unlimited,0.0,T9ab-,3.0,3.0,尤懷德,Elective
+SET,910194.0,SESE10231,,"Engineering Mathematics(2)
+",工程數學(2),Unlimited,32.0,W3F23-,3.0,3.0,張瑞永、賴渝翔,Required
+SET,910195.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,32.0,M12-,0.0,2.0,賴渝翔,Required
+SET,910196.0,SESE10065,,"Mechanics of Materials
+",材料力學,Unlimited,32.0,M34F1-,3.0,3.0,羅本喆,Required
+SET,910197.0,SESE10095,,"Thermodynamics (2)
+",熱力學(2),Unlimited,16.0,W4R12-,3.0,3.0,夏筱明,Required
+SET,910198.0,SESE10235,,"Fluid Mechanics
+",流體力學,Unlimited,32.0,T4R67-,3.0,3.0,賴正權,Required
+SET,910199.0,SESE10235,,"Fluid Mechanics
+",流體力學,Unlimited,0.0,T3R34-,3.0,3.0,賴正權,Required
+SET,910200.0,SESE10117,,"Introduction to Aerospace Engineering
+",航太工程概論,Unlimited,0.0,W67-,2.0,2.0,夏筱明,Required
+SET,910201.0,SESE10116,,"Introduction to Energy
+",能源概論,Unlimited,0.0,T89-,2.0,2.0,賴正權,Required
+SET,910202.0,SESE00022,,"Tutor Guidance(2)
+",導師輔導(2) ,Unlimited,0.0,M12-,0.0,2.0,羅本喆,Required
+SET,910203.0,SESE20147,,"Advanced Mechanics of Materials
+",高等材料力學,Unlimited,0.0,Mabc-,3.0,3.0,系統工程,Elective
+SET,910204.0,SESE20148,,"Heliborne Weapon Systems
+",旋翼機武器系統,Unlimited,0.0,Tabc-,3.0,3.0,系統工程,Elective
+SET,910205.0,SESE20149,,"Mechanical Manufacturing
+",機械製造,Unlimited,0.0,W34-,3.0,3.0,黃國鑫,Required
+SET,910206.0,SESE10031,,"Workshop Practice(1)
+",工廠實習(1),Unlimited,0.0,W678-,1.0,2.0,黃國鑫,Required
+SET,910207.0,SESE20150,,"Aeronautical Engineering Lab
+",航空工程實驗,Unlimited,10.0,W678-,3.0,3.0,戴昌聖,Required
+SET,910208.0,SESE10074,,"Mechanical Dynamics
+",機動學,Unlimited,16.0,W124-,3.0,3.0,蔡林昌,Required
+SET,910209.0,SESE10069,,"Experiment of Materials
+",材料實驗,Unlimited,0.0,W67-,1.0,2.0,蔡林昌,Required
+SET,910210.0,SESE20151,,"Aircraft Structures
+",飛具結構學,Unlimited,10.0,Wab-,2.0,2.0,系統工程,Required
+SET,910211.0,SESE00022,,"Tutor Guidance(2)
+",導師輔導(2) ,Unlimited,0.0,M12-,0.0,2.0,系統工程,Required
+SET,910212.0,SESE00038,,"Service Learning (I)
+",服務學習 (1),Unlimited,0.0,M9-,0.0,1.0,系統工程,Required
+SET,910213.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,19.0,M12-,0.0,2.0,羅序仁,Required
+SET,910214.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,21.0,M12-,0.0,2.0,劉中宇,Required
+SET,910215.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,15.0,M12-,0.0,2.0,周兆龍,Required
+SET,910216.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,20.0,M12-,0.0,2.0,劉芳萍,Required
+SET,910217.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,22.0,,0.0,2.0,賴泰宏,Required
+SET,910218.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,20.0,M12-,0.0,2.0,蔡宗憲,Required
+SET,910219.0,SESE10105,,"Programming Design
+",程式設計,Unlimited,0.0,F234-,3.0,3.0,楊婷婷,Required
+SET,910220.0,SESE10122,,"Window Programming
+",視窗程式設計,Unlimited,0.0,Tabc-,3.0,3.0,陳丙堃,Elective
+SET,910221.0,SESE10124,,"Computer Organization. and Architecture
+",計算機組織,Unlimited,19.0,R123-,3.0,3.0,蔡宗憲,Required
+SET,910222.0,SESE10124,,"Computer Organization. and Architecture
+",計算機組織,Unlimited,21.0,T678-,3.0,3.0,蔡宗憲,Required
+SET,910223.0,SESE10126,,"Computer Networks
+",計算機網路,Unlimited,19.0,W678-,3.0,3.0,劉芳萍,Required
+SET,910224.0,SESE10126,,"Computer Networks
+",計算機網路,Unlimited,21.0,Tabc-,3.0,3.0,劉芳萍,Required
+SET,910225.0,SESE10115,,"Linear Algebra
+",線性代數,Unlimited,19.0,T678-,3.0,3.0,張仁煦,Required
+SET,910226.0,SESE10115,,"Linear Algebra
+",線性代數,Unlimited,21.0,F234-,3.0,3.0,張仁煦,Required
+SET,910227.0,SESE10085,,"Introduction to Algorithms
+",演算法概論,Unlimited,19.0,M34T9-,3.0,3.0,周兆龍,Required
+SET,910228.0,SESE10085,,"Introduction to Algorithms
+",演算法概論,Unlimited,21.0,M34T9-,3.0,3.0,周兆龍,Required
+SET,910229.0,SESE20050,,"Software Design and Practice for Mobile Devices
+",行動裝置軟體設計與實驗,Unlimited,21.0,M678-,3.0,3.0,陳丙堃,Required
+SET,910230.0,SESE20022,,"Introduction to Cryptography
+",密碼學概論,Unlimited,0.0,F234-,3.0,3.0,羅嘉寧,Required
+SET,910231.0,SESE10123,,"Computer Graphic
+",計算機圖學,Unlimited,0.0,Mabc-,3.0,3.0,劉中宇,Elective
+SET,910232.0,SESE10012,,"Civil Engineering Construction
+",土木施工,Unlimited,24.0,T67F2-,3.0,3.0,宋欣芳,Required
+SET,910233.0,SESE10111,,"General Statistics
+",統計學,Unlimited,24.0,T89-,2.0,2.0,沈鴻禧,Required
+SET,910234.0,SESE20153,,"User Interface Design
+",使用者介面設計,Unlimited,0.0,Mabc-,3.0,3.0,系統工程,Elective
+SET,910235.0,SESE10135,,"Information System Practice
+",資訊系統應用實務,Unlimited,0.0,Wabc-,3.0,3.0,陳丙堃,Elective
+SET,910236.0,SESE10125,,"Computer Mathematics
+",計算機數學,Unlimited,0.0,W234-,3.0,3.0,王順吉,Elective
+SET,910237.0,SESE20154,,"Probability and Statistics
+",機率與統計,Unlimited,0.0,W678-,3.0,3.0,張仁煦,Required
+SET,910238.0,SESE20154,,"Probability and Statistics
+",機率與統計,Unlimited,0.0,T4R12-,3.0,3.0,賴泰宏,Required
+SET,910239.0,SESE20155,,"Network Defense Practice
+",網路攻防實務,Unlimited,15.0,W678-,3.0,3.0,羅嘉寧,Required
+SET,910240.0,SESE20156,,"Networks Defense Practice(2)
+",網路攻防專題實作(2),Unlimited,0.0,M567-,1.0,3.0,羅嘉寧,Required
+SET,910241.0,SESE20157,,"System Security Practice(2)
+",系統安全專題實作(2),Unlimited,0.0,M567-,1.0,3.0,系統工程,Required
+SET,910242.0,SESE20158,,"C4ISR System Practice(2)
+",C4ISR 系統專題實作(2),Unlimited,0.0,M567-,1.0,3.0,劉中宇,Required
+SET,910243.0,SESE20159,,"Pattern Recognition Practice(2)
+",圖形識別系統專題實作(2),Unlimited,0.0,M567-,1.0,3.0,翁旭谷,Required
+SET,910244.0,SESE20160,,"Database Practice(2)
+",資料庫專題實作(2),Unlimited,0.0,M567-,1.0,3.0,劉芳萍,Required
+SET,910245.0,SESE10236,,"Information System Practice (2)
+",資訊系統工程專題實作(2),Unlimited,0.0,M567-,1.0,3.0,羅序仁,Required
+SET,910246.0,SESE10237,,"Computer Networks Practice (2)
+",電腦網路專題實作(2),Unlimited,0.0,M567-,1.0,3.0,系統工程,Required
+SET,910247.0,SESE20161,,"Multimedia Design Practice(2)
+",多媒體設計專題實作(2),Unlimited,0.0,M567-,1.0,3.0,蔡宗憲,Required
+SET,910248.0,SESE20162,,"IoT System Practice(2)
+",物聯網系統專題實作(2),Unlimited,0.0,M567-,1.0,3.0,楊婷婷,Required
+SET,910249.0,SESE20163,,"Cryptographic System Practice(2)
+",密碼工程專題實作(2),Unlimited,0.0,M567-,1.0,3.0,賴泰宏,Required
+SET,910250.0,SESE20164,,"Information Operation
+",資訊作戰,Unlimited,0.0,W234-,3.0,3.0,系統工程,Elective
+SET,910251.0,SESE20165,,"Multimedia Security
+",多媒體安全,Unlimited,0.0,T678-,3.0,3.0,王順吉,Elective
+SET,910252.0,SESE20166,,"Computer Attack and Defense
+",電腦攻擊與防禦,Unlimited,0.0,Wabc-,3.0,3.0,陳佑全,Elective
+SET,910253.0,SESE20167,,"Wireless Communication and Network
+",無線通訊與網路,Unlimited,0.0,T123-,3.0,3.0,楊婷婷,Elective
+SET,910254.0,SESE00074,,"Programming Design Practice (2)
+",程式設計實習(2),Unlimited,0.0,R234-,3.0,3.0,周兆龍,Elective
+SET,910255.0,SESE20112,,"Project of Information Security(4)
+",資訊安全專題實作(4),Unlimited,0.0,M567-,1.0,3.0,賴泰宏,Required
+SET,910256.0,SESE20168,,"Networks Defense Practice(4)
+",網路攻防專題實作(4),Unlimited,0.0,M567-,1.0,3.0,羅嘉寧,Required
+SET,910257.0,SESE20169,,"C4ISR System Practice(4)
+",C4ISR 系統專題實作(4),Unlimited,0.0,M567-,1.0,3.0,劉中宇,Required
+SET,910258.0,SESE20170,,"Database Practice(4)
+",資料庫專題實作(4),Unlimited,0.0,M567-,1.0,3.0,劉芳萍,Required
+SET,910259.0,SESE20171,,"Information System Practice(4)
+",資訊系統工程專題實作(4),Unlimited,0.0,M567-,1.0,3.0,羅序仁,Required
+SET,910260.0,SESE20172,,"Multimedia Design Practice(4)
+",多媒體設計專題實作(4),Unlimited,0.0,M567-,1.0,3.0,蔡宗憲,Required
+SET,910261.0,SESE20173,,"IoT System Practice (4)
+",物聯網系統專題實作(4),Unlimited,0.0,M567-,1.0,3.0,楊婷婷,Required
+SET,910262.0,SESE20174,,"Software Security
+",軟體安全,Unlimited,0.0,T678-,3.0,3.0,賴泰宏,Elective
+SET,910263.0,SESE20175,,"Systems Engineering
+",系統工程,Unlimited,0.0,T234-,3.0,3.0,系統工程,Elective
+SET,910264.0,SESE20176,,"Network Management
+",網路管理,Unlimited,0.0,W678-,3.0,3.0,系統工程,Elective
+SET,910265.0,SESE20177,,"Artificial Intelligence
+",人工智慧,Unlimited,0.0,R234-,3.0,3.0,系統工程,Elective
+SET,910266.0,SESE10053,,"General Chemistry Laboratory
+",普通化學實驗,Unlimited,0.0,M89-,1.0,2.0,游竹淋,Required
+SET,910267.0,SESE10053,,"General Chemistry Laboratory
+",普通化學實驗,Unlimited,0.0,M67-,1.0,2.0,游竹淋,Required
+SET,910268.0,SESE10238,,"General Chemistry(2)
+",普通化學(2),Unlimited,0.0,F234-,3.0,3.0,王志嘉,Elective
+SET,910269.0,SESE10051,,"General Chemistry
+",普通化學,Unlimited,0.0,Mabc-,3.0,3.0,鄭根發,Required
+SET,910270.0,SESE00038,,"Service Learning (I)
+",服務學習 (1),Unlimited,0.0,T1-,0.0,1.0,系統工程,Required
+SET,910271.0,SESE10128,,"Signal and System
+",訊號與系統,Unlimited,0.0,T12W1-,3.0,3.0,蘇英俊,Required
+SET,910272.0,SESE20029,,"Digital Signal Processing
+",數位訊號處理,Unlimited,0.0,M349-,3.0,3.0,蘇英俊,Elective
+SET,910273.0,SESE20178,,"Introduction to software defined radio
+",軟體無線電導論,Unlimited,0.0,Tabc-,3.0,3.0,蘇英俊,Elective
+SET,910274.0,SESE10231,,"Engineering Mathematics(2)
+",工程數學(2),Unlimited,0.0,M678-,3.0,3.0,杜博仁,Required
+SET,910275.0,SESE10204,,"Underwater Acoustics
+",水中聲學,Unlimited,0.0,Tabc-,3.0,3.0,系統工程,Elective
+SET,910276.0,SESE20179,,"Introduction to Microwave Engineering
+",微波工程,Unlimited,25.0,Tabc-,3.0,3.0,李志國,Required
+SET,910277.0,SESE10164,,"Electromagnetics
+",電磁學,Unlimited,0.0,F234-,3.0,3.0,李志國,Required
+SET,910278.0,SESE10164,,"Electromagnetics
+",電磁學,Unlimited,25.0,T678-,3.0,3.0,李志國,Required
+SET,910279.0,SESE20180,,"Communication system experiment
+",通訊系統實驗,Unlimited,25.0,W234-,3.0,3.0,聶若鹽、余俊宏,Required
+SET,910280.0,SESE10128,,"Signal and System
+",訊號與系統,Unlimited,25.0,T12W1-,3.0,3.0,聶若鹽,Required
+SET,910281.0,SESE20065,,"Electromagnetic Theory
+",電磁理論,Unlimited,0.0,Mabc-,3.0,3.0,黃宗煥,Elective
+SET,910282.0,SESE20181,,"Communication Electronics
+",通訊電子學,Unlimited,0.0,Tabc-,3.0,3.0,系統工程,Elective
+SET,910283.0,SESE10159,,"Experiments of Electrical Engineering(2)
+",電子實驗(2),Unlimited,0.0,T678-,1.0,3.0,謝育立,Required
+SET,910284.0,SESE10159,,"Experiments of Electrical Engineering(2)
+",電子實驗(2),Unlimited,25.0,R234-,1.0,3.0,謝育立,Required
+SET,910285.0,SESE20182,,"Semiconductor Device Phyiscs
+",半導體元件物理,Unlimited,0.0,M34W6-,3.0,3.0,謝育立,Elective
+SET,910286.0,SESE10165,,"Fundamental of Electric Circuits (1)
+",電路學(1),Unlimited,0.0,W9R12-,3.0,3.0,葉宗翰,Required
+SET,910287.0,SESE20026,,"Microelectronic Technology
+",微電子技術,Unlimited,0.0,W678-,3.0,3.0,葉宗翰,Elective
+SET,910288.0,SESE20183,,"Optoelectronics
+",光電子學,Unlimited,0.0,M349-,3.0,3.0,葉宗翰,Elective
+SET,910289.0,SESE20184,,"Optical Communications
+",光電通訊,Unlimited,0.0,Wabc-,3.0,3.0,系統工程,Elective
+SET,910290.0,SESE20185,,"The Experimental of Automatic Control
+",自動控制實驗,Unlimited,24.0,W234-,1.0,3.0,藍建武,Required
+SET,910291.0,SESE10230,,"Electronics Circuits (2)
+",電子學(2),Unlimited,0.0,W678-,3.0,3.0,談光雄,Required
+SET,910292.0,SESE20186,,"Power Electronics
+",電力電子學,Unlimited,0.0,T234-,3.0,3.0,談光雄,Elective
+SET,910293.0,SESE20187,,"Automatic Control Systems(2)
+",自動控制系統(2),Unlimited,24.0,T126-,3.0,3.0,楊家宏,Required
+SET,910294.0,SESE20188,,"Industrial electronics
+",工業電子,Unlimited,0.0,Wabc-,3.0,3.0,劉貞灝,Elective
+SET,910295.0,SESE10049,,"Digital logic design
+",數位邏輯設計,Unlimited,0.0,F234-,3.0,3.0,林振輝,Required
+SET,910296.0,SESE10039,,"Micro Process Theory and Experiment
+",微算機原理與實驗,Unlimited,0.0,Wabc-,3.0,3.0,林振輝,Elective
+SET,910297.0,SESE20064,,"Computer Aided Logic Circuit Design
+",電腦輔助邏輯電路設計,Unlimited,0.0,W678-,3.0,3.0,張德仁,Elective
+SET,910298.0,SESE20189,,"Operating System
+",作業系統,Unlimited,0.0,Wabc-,3.0,3.0,張德仁,Elective
+SET,910299.0,SESE10130,,"Introduction to Information Security
+",資訊安全,Unlimited,0.0,W789-,3.0,3.0,張克勤,Elective
+SET,910300.0,SESE10239,,"Data Structure
+",資料結構,Unlimited,0.0,M34W6-,3.0,3.0,張克勤,Elective
+SET,910301.0,SESE10055,,"General Physics(2)
+",普通物理(2),Unlimited,0.0,R34F1-,3.0,3.0,鄭紹宏,Required
+SET,910302.0,SESE20084,,"Regulation and Contract Management for Construction
+",工程法規及採購,Unlimited,22.0,M34R1-,3.0,3.0,張文南,Required
+SET,910303.0,SESE20190,,"Electrics for Civil Constructions
+",設施水電工程及實習,Unlimited,25.0,T67W67-,3.0,4.0,趙振宇,Required
+SET,910304.0,SESE20088,,"Introduction of Fortification Engineering
+",軍事防護工程,Unlimited,22.0,W34-,2.0,2.0,蔡營寬,Required
+SET,910305.0,SESE20191,,"Reinforced Concrete
+",鋼筋混凝土,Unlimited,25.0,R234-,3.0,3.0,張文南,Required
+SET,910306.0,SESE20192,,"Application of Computer in Engineering and Practice
+",計算機在工程之應用及實習,Unlimited,0.0,F12-,2.0,2.0,張文南,Elective
+SET,910307.0,SESE20089,,"Climatology
+",氣候學,Unlimited,10.0,M34W3-,3.0,3.0,系統工程,Required
+SET,910308.0,SESE20193,,"Numerical Weather Prediction and Practice
+",數值天氣預報及實習,Unlimited,3.0,T34R1-,3.0,3.0,林永慶,Required
+SET,910309.0,SESE10240,,"Tropical Meteorology
+",熱帶氣象學,Unlimited,0.0,W678-,3.0,3.0,系統工程,Elective
+SET,910310.0,SESE20093,,"Radar Meteorology
+",雷達氣象學,Unlimited,0.0,W678-,3.0,3.0,蔡世樵,Elective
+SET,910311.0,SESE20194,,"Meso-scale Meteorology
+",中尺度氣象學,Unlimited,0.0,W4F12-,3.0,3.0,系統工程,Elective
+SET,910312.0,SESE20082,,"Land Law
+",土地法,Unlimited,0.0,T123-,3.0,3.0,系統工程,Elective
+SET,910313.0,SESE20085,,"Mobile Positioning and Battlefield Management
+",行動定位與戰場管理,Unlimited,0.0,T467-,3.0,3.0,系統工程,Elective
+SET,910314.0,SESE20195,,"GIS Mapping
+",地理資訊製圖,Unlimited,0.0,W678-,3.0,3.0,吳憲珉,Elective
+SET,910315.0,SESE20196,,"Architecture Design
+",建築設計,Unlimited,0.0,W12-,2.0,2.0,張又升,Elective
+SET,910316.0,SESE10076,,"Concepts of Weapon and Fighting Vehicles
+",武器及戰鬥載具概論,Unlimited,0.0,Tabc-,3.0,3.0,雷清宇、王翔正,Required
+SET,910317.0,SESE10161,,"Computer Aided Mechanical Drawing
+",電腦輔助機械製圖,Unlimited,0.0,W678-,1.0,3.0,朱子文,Required
+SET,910318.0,SESE10161,,"Computer Aided Mechanical Drawing
+",電腦輔助機械製圖,Unlimited,0.0,F234-,1.0,3.0,朱子文,Required
+SET,910319.0,SESE10231,,"Engineering Mathematics(2)
+",工程數學(2),Unlimited,31.0,M678-,3.0,3.0,陳竺博淵、潘冠呈,Required
+SET,910320.0,SESE10235,,"Fluid Mechanics
+",流體力學,Unlimited,31.0,M34F1-,3.0,3.0,林俊成,Required
+SET,910321.0,SESE10167,,"An Introduction to Circuit and Experiments Analysis
+",電路學及實驗,Unlimited,31.0,F234-,3.0,3.0,李永隆,Required
+SET,910322.0,SESE10029,,"Engineering Software Practice
+",工程軟體實務,Unlimited,0.0,Tabc-,3.0,3.0,徐守仁,Elective
+SET,910323.0,SESE10169,,"Advanced Programming Language
+",高階程式語言,Unlimited,0.0,Mabc-,3.0,3.0,雷賀君,Elective
+SET,910324.0,SESE10241,,"Experiments Design
+",實驗設計法,Unlimited,0.0,W678-,3.0,3.0,系統工程,Elective
+SET,910325.0,SESE20146,,"Automatic Control
+",自動控制,Unlimited,40.0,M34W2-,3.0,3.0,朱子文,Required
+SET,910326.0,SESE20197,,"An Introduction to Systems Engineering
+",系統工程概論,Unlimited,40.0,W678-,3.0,3.0,鄧世剛,Required
+SET,910327.0,SESE20147,,"Advanced Mechanics of Materials
+",高等材料力學,Unlimited,0.0,T678-,3.0,3.0,王樂民,Elective
+SET,910328.0,SESE20198,,"Combat System Design
+",載具戰鬥系統設計,Unlimited,0.0,W234-,3.0,3.0,李永隆,Elective
+SET,910329.0,SESE10034,,"Ballistics and Experiments (1)
+",彈道學及實驗(1),Unlimited,12.0,R234-,3.0,3.0,系統工程,Required
+SET,910330.0,SESE10045,,"Engineering Mechanics - Dynamics
+",應用力學-動力學,Unlimited,12.0,T678-,3.0,3.0,陳幼良,Required
+SET,910331.0,SESE20199,,"Weapon System Engineering Project(2)
+",兵器工程專題實作(2),Unlimited,0.0,M567-,1.0,3.0,李永隆,Required
+SET,910332.0,SESE20199,,"Weapon System Engineering Project(2)
+",兵器工程專題實作(2),Unlimited,0.0,M567-,1.0,3.0,鄧世剛,Required
+SET,910333.0,SESE20200,,"Missile Systems
+",飛彈系統,Unlimited,24.0,R234-,3.0,3.0,李永隆,Required
+SET,910334.0,SESE10209,,"Ordnance Engineering and Workshop (2)
+",兵器工程及實習(2),Unlimited,0.0,T678-,3.0,3.0,孫懷谷,Elective
+SET,910335.0,SESE20201,,"Weapon System Engineering Project(4)
+",兵器工程專題實作(4),Unlimited,0.0,M567-,1.0,3.0,陳幼良,Required
+SET,910336.0,SESE20201,,"Weapon System Engineering Project(4)
+",兵器工程專題實作(4),Unlimited,0.0,M567-,1.0,3.0,葉昭南,Required
+SET,910337.0,SESE20202,,"Weapons Design Practice
+",兵器設計實務,Unlimited,0.0,T234-,3.0,3.0,系統工程,Elective
+SET,910338.0,SESE10242,,"Automotive Diagnosis and Service
+",車輛檢修實務,Unlimited,13.0,R234-,3.0,3.0,黃寶錩,Required
+SET,910339.0,SESE10140,,"Automotive Sensors and Control
+",車輛感測元件與控制,Unlimited,0.0,W678-,3.0,3.0,蘭真,Elective
+SET,910340.0,SESE10143,,"Vehicle's Triboloical System Design
+",車輛磨潤系統設計,Unlimited,0.0,T34R1-,3.0,3.0,黃寶錩,Elective
+SET,910341.0,SESE20203,,"Internal Combustion Engine Testing
+",內燃機實務,Unlimited,8.0,R234-,1.0,3.0,周志正,Required
+SET,910342.0,SESE20204,,"Simple Vehicle Design and Manufacture Project(2)
+",車輛設計製造專題實作(2),Unlimited,0.0,M567-,1.0,3.0,宋易哲,Required
+SET,910343.0,SESE20205,,"Vehicle Structure Analysis
+",車輛結構分析,Unlimited,8.0,W1F12-,3.0,3.0,曾有志,Required
+SET,910344.0,SESE20206,,"Electric and Hybrid Vehicles
+",電動車及混合動力車,Unlimited,0.0,T34R1-,3.0,3.0,周志正,Elective
+SET,910345.0,SESE20207,,"Simple Vehicle Power Engineering Project(4)
+",車輛動力工程專題實作(4),Unlimited,0.0,M567-,1.0,3.0,周志正,Required
+SET,910346.0,SESE20208,,"Simple Vehicle Control Engineering Project(4)
+",車輛控制工程專題實作(4),Unlimited,0.0,M567-,1.0,3.0,許曆山,Required
+SET,910347.0,SESE20209,,"Simple Vehicle Design and Manufacture Project(4)
+",車輛設計製造專題實作(4),Unlimited,0.0,M567-,1.0,3.0,黃寶錩,Required
+SET,910348.0,SESE20210,,"Transportation Engineering
+",車輛運輸工程學,Unlimited,0.0,Tabc-,3.0,3.0,侯光煦,Elective
+SET,910349.0,SESE10231,,"Engineering Mathematics(2)
+",工程數學(2),Unlimited,0.0,Tabc-,3.0,3.0,宋易哲,Required
+SET,910350.0,SESE10205,,"Systems Engineering Management
+",系統工程管理概論,Unlimited,0.0,T234-,3.0,3.0,鄧世剛,Required
+SET,910351.0,SESE10235,,"Fluid Mechanics
+",流體力學,Unlimited,0.0,Mabc-,3.0,3.0,系統工程,Required
+SET,910352.0,SESE10151,,"Principles of Naval Architecture (1)
+",造船原理(1),Unlimited,6.0,R234-,3.0,3.0,潘冠呈,Required
+SET,910353.0,SESE20211,,"Special Ship Design Project(2)
+",特殊船舶設計專題實作(2),Unlimited,0.0,M567-,1.0,3.0,林俊成,Required
+SET,910354.0,SESE20212,,"Marine Engineering (1)
+",輪機工程(1),Unlimited,8.0,R234-,3.0,3.0,劉思遠,Required
+SET,910355.0,SESE20213,,"Basic Electronics for Marine Engineering
+",船用電學,Unlimited,0.0,W1F34-,3.0,3.0,林俊成,Elective
+SET,910356.0,SESE20214,,"Special Ship Design Project(4)
+",特殊船舶設計專題實作(4),Unlimited,0.0,M567-,1.0,3.0,劉宗龍,Required
+SET,910357.0,SESE20215,,"Ship Structural
+",船舶結構學,Unlimited,0.0,T234-,3.0,3.0,王樂民,Required
+SET,910358.0,SESE20216,,"Marine Engineering (2)
+",輪機工程(2),Unlimited,0.0,W234-,3.0,3.0,林俊成,Elective
+SET,910359.0,SESE20217,,"Introduction of Welding Technology
+",焊接學概論,Unlimited,0.0,W678-,3.0,3.0,王樂民,Elective
+SET,910360.0,SESE20225,,"Soil Mechanical Testing
+",土壤力學實驗,Unlimited,0.0,W234-,2.0,3.0,系統工程,Elective
+SET,910361.0,SESE10065,,"Mechanics of Materials
+",材料力學,Unlimited,24.0,W678-,3.0,3.0,蔡營寬,Required
+SET,910362.0,SESE10013,,"Soil Mechanical Testing
+",土壤力學,Unlimited,24.0,R1F34-,3.0,3.0,系統工程,Required
+SET,910363.0,SESE10244,,"Tests of Engineering Materials
+",工程材料實驗,Unlimited,0.0,R234-,2.0,3.0,系統工程,Elective
+SET,910364.0,SESE10231,,"Engineering Mathematics(2)
+",工程數學(2),Unlimited,24.0,T234-,3.0,3.0,石棟鑫、楊順欽,Required
+SET,910365.0,SESE10111,,"General Statistics
+",統計學,Unlimited,12.0,T67-,2.0,2.0,沈鴻禧,Required
+SET,910366.0,SESE00115,,"Thermodynamics
+",熱力學,Unlimited,3.0,W678-,3.0,3.0,系統工程,Required
+SET,910367.0,SESE10245,,"Electromagnetics
+",電磁學,Unlimited,0.0,R234-,3.0,3.0,系統工程,Elective
+SET,910368.0,SESE10019,,"Atmospheric Physics
+",大氣物理學,Unlimited,3.0,F234-,3.0,3.0,林永慶,Required
+SET,910369.0,SESE10081,,"Surveying Program Design
+",測量程式設計,Unlimited,9.0,W234-,3.0,3.0,蔡明達,Required
+SET,910370.0,SESE10119,,"Photogrammetry Practice
+",航空攝影測量學實習,Unlimited,9.0,W678-,1.0,3.0,林玉菁,Required
+SET,910371.0,SESE10022,,"Engineering Surveying
+",工程測量學,Unlimited,9.0,R1F12-,3.0,3.0,李宜珊,Required
+SET,910372.0,SESE10118,,"Photogrammetry Practice
+",航空攝影測量學,Unlimited,9.0,R234-,3.0,3.0,林玉菁,Required
+SET,910373.0,SESE10023,,"Practice of Engineering Surveying
+",工程測量學實習,Unlimited,9.0,F34-,1.0,2.0,李宜珊,Required
+SET,910374.0,SESE10084,,"Surveying and Practice
+",測量學及實習,Unlimited,0.0,T89W34-,3.0,4.0,吳憲珉、林思源,Required
+SET,910375.0,SESE10103,,"Introduction to Environment Information and Engineering
+",環境資訊及工程概論,Unlimited,0.0,W678-,3.0,3.0,林永慶、簡志峻,Required
+SET,910376.0,SESE00038,,"Service Learning (I)
+",服務學習 (1),Unlimited,0.0,F2-,0.0,1.0,系統工程,Required
+SET,910377.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,9.0,M12-,0.0,2.0,沈鴻禧,Required
+SET,910378.0,SESE20226,,"Case Study of Atmospheric Science(2)
+",大氣科學專題實作(2),Unlimited,0.0,M567-,1.0,3.0,沈鴻禧,Required
+SET,910379.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,10.0,M12-,0.0,2.0,林永慶,Required
+SET,910380.0,SESE20227,,"Geospatial Special Practice(2)
+",空間科學專題實作(2),Unlimited,0.0,M567-,1.0,3.0,黃立信,Required
+SET,910381.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,12.0,M12-,0.0,2.0,吳憲珉,Required
+SET,910382.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,12.0,M12-,0.0,2.0,李宜珊,Required
+SET,910383.0,SESE20228,,"Special Topics in Integration of Disaster Prevention and Protection(2)
+",災害防救整合專題實作(2),Unlimited,0.0,M567-,1.0,3.0,李宏輝,Required
+SET,910384.0,SESE20229,,"Special Topics in Engineering Practices(2)
+",軍事工程專題實作(2),Unlimited,0.0,T89W8-,1.0,3.0,張又升,Required
+SET,910385.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,25.0,M12-,0.0,2.0,張文南,Required
+SET,910386.0,SESE00022,,"Tutor Guidance(2)
+",導師輔導(2) ,Unlimited,0.0,M12-,0.0,2.0,簡志峻,Required
+SET,910387.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,24.0,M12-,0.0,2.0,宋欣芳,Required
+SET,910388.0,SESE00022,,"Tutor Guidance(2)
+",導師輔導(2) ,Unlimited,0.0,M12-,0.0,2.0,周志正,Required
+SET,910389.0,SESE00022,,"Tutor Guidance(2)
+",導師輔導(2) ,Unlimited,0.0,M12-,0.0,2.0,系統工程,Required
+SET,910390.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,12.0,M12-,0.0,2.0,李永隆,Required
+SET,910391.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,13.0,M12-,0.0,2.0,曾有志,Required
+SET,910392.0,SESE00024,,"Tutor Guidance(4)
+",導師輔導(4),Unlimited,6.0,M12-,0.0,2.0,劉宗龍,Required
+SET,910393.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,24.0,M12-,0.0,2.0,陳幼良,Required
+SET,910394.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,8.0,M12-,0.0,2.0,宋易哲,Required
+SET,910395.0,SESE00064,,"Tutor Guidance(6)
+",導師輔導(6),Unlimited,8.0,M12-,0.0,2.0,林俊成,Required
+SET,910396.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,25.0,M12-,0.0,2.0,葉昭南,Required
+SET,910397.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,18.0,M12-,0.0,2.0,朱子文,Required
+SET,910398.0,SESE10233,,"Tutor Guidance(8)
+",導師輔導(8),Unlimited,11.0,M12-,0.0,2.0,系統工程,Required
+SET,910399.0,SESE10185,,"Ethics in Engineering
+",工程倫理,Unlimited,0.0,F34-,2.0,2.0,張枝成,Required
+SET,910400.0,SESE10185,,"Ethics in Engineering
+",工程倫理,Unlimited,0.0,F34-,2.0,2.0,羅本喆,Required
+SET,910401.0,SESE10185,,"Ethics in Engineering
+",工程倫理,Unlimited,0.0,F34-,2.0,2.0,劉思遠,Required
+SET,910402.0,SESE00118,,"Chinese Military Literature
+",中國兵書選讀,Unlimited,0.0,W34-,2.0,2.0,系統工程,Elective
+SET,910403.0,SESE00032,,"War and Literature
+",戰爭與文學,Unlimited,0.0,R34-,2.0,2.0,系統工程,Elective
+SET,910404.0,SESE00032,,"War and Literature
+",戰爭與文學,Unlimited,0.0,R67-,2.0,2.0,系統工程,Elective
+SET,910405.0,SESE00006,,"Introduction to All-out National Defense
+",全民國防概論  ,Unlimited,0.0,T67-,2.0,2.0,系統工程,Elective
+SET,910406.0,SESE00006,,"Introduction to All-out National Defense
+",全民國防概論  ,Unlimited,0.0,T89-,2.0,2.0,系統工程,Elective
+SET,910407.0,SESE00005,,"Biographical Literature
+",傳記文學賞析,Unlimited,0.0,W67-,2.0,2.0,系統工程,Elective
+SET,910408.0,SESE00009,,"History of Taiwan
+",台灣史,Unlimited,0.0,W89-,2.0,2.0,系統工程,Elective
+SET,910409.0,SESE00010,,"Philosophy and Life
+",哲學與人生,Unlimited,0.0,W67-,2.0,2.0,系統工程,Elective
+SET,910410.0,SESE00010,,"Philosophy and Life
+",哲學與人生,Unlimited,0.0,W89-,2.0,2.0,系統工程,Elective
+SET,910411.0,SESE00129,,"Appreciation of Literature
+",文學鑑賞,Unlimited,0.0,M34-,2.0,2.0,系統工程,Elective
+SET,910412.0,SESE00047,,"Analysis and Appreciation of the Science Fiction
+",科幻文學賞析  ,Unlimited,0.0,R34-,2.0,2.0,系統工程,Elective
+SET,910413.0,SESE00047,,"Analysis and Appreciation of the Science Fiction
+",科幻文學賞析  ,Unlimited,0.0,R67-,2.0,2.0,系統工程,Elective
+SET,910414.0,SESE00050,,"Aesthetics and Life
+",美學與人生  ,Unlimited,0.0,W34-,2.0,2.0,系統工程,Elective
+SET,910415.0,SESE00033,,"Drama and Life
+",戲劇與人生 ,Unlimited,0.0,W67-,2.0,2.0,系統工程,Elective
+SET,910416.0,SESE00044,,"The Study of Death
+",生死學,Unlimited,0.0,R67-,2.0,2.0,系統工程,Elective
+SET,910417.0,SESE00030,,"Gender Education
+",性別教育,Unlimited,0.0,T12-,2.0,2.0,系統工程,Elective
+SET,910418.0,SESE00130,,"History and Leadership
+",歷史與領導,Unlimited,0.0,R67-,2.0,2.0,系統工程,Elective
+SET,910419.0,SESE00016,,"International Relations
+",國際關係,Unlimited,0.0,R34-,2.0,2.0,系統工程,Elective
+SET,910420.0,SESE00016,,"International Relations
+",國際關係,Unlimited,0.0,R12-,2.0,2.0,系統工程,Elective
+SET,910421.0,SESE00046,,"Modern Politics Thoughe
+",當代政治思潮,Unlimited,0.0,F12-,2.0,2.0,系統工程,Elective
+SET,910422.0,SESE00046,,"Modern Politics Thoughe
+",當代政治思潮,Unlimited,0.0,F34-,2.0,2.0,系統工程,Elective
+SET,910423.0,SESE00055,,"Financial Management
+",財務管理 ,Unlimited,0.0,T67-,2.0,2.0,系統工程,Elective
+SET,910424.0,SESE00055,,"Financial Management
+",財務管理 ,Unlimited,0.0,T89-,2.0,2.0,系統工程,Elective
+SET,910425.0,SESE00055,,"Financial Management
+",財務管理 ,Unlimited,0.0,F12-,2.0,2.0,系統工程,Elective
+SET,910426.0,SESE00055,,"Financial Management
+",財務管理 ,Unlimited,0.0,F34-,2.0,2.0,系統工程,Elective
+SET,910427.0,SESE00008,,"Crisis Management
+",危機管理,Unlimited,0.0,M34-,2.0,2.0,系統工程,Elective
+SET,910428.0,SESE00122,,"Introduction to Kinematics
+",運動科學概論,Unlimited,0.0,M34-,2.0,2.0,系統工程,Elective
+SET,910429.0,SESE00124,,"Fitness and Health
+",體適能與健康,Unlimited,0.0,R67-,2.0,2.0,系統工程,Elective
+SET,910430.0,SESE00019,,"Practical English
+",實用英文  ,Unlimited,0.0,R67-,2.0,2.0,系統工程,Elective
+SET,910431.0,SESE00054,,"English Composition
+",英文寫作,Unlimited,0.0,T89-,2.0,2.0,系統工程,Elective
+SET,910432.0,SESE00034,,"japanese(I)
+",日文(一) ,Unlimited,0.0,F12-,2.0,2.0,系統工程,Elective
+SET,910433.0,SESE00034,,"japanese(I)
+",日文(一) ,Unlimited,0.0,F34-,2.0,2.0,系統工程,Elective
+SET,910434.0,SESE00041,,"French(1)
+",法文(一)  ,Unlimited,0.0,R12-,2.0,2.0,系統工程,Elective
+SET,910435.0,SESE00041,,"French(1)
+",法文(一)  ,Unlimited,0.0,R34-,2.0,2.0,系統工程,Elective
+SET,910436.0,SESE00028,,"German(1)
+",德文(一)  ,Unlimited,0.0,T67-,2.0,2.0,系統工程,Elective
+SET,910437.0,SESE10231,,"Engineering Mathematics(2)
+",工程數學(2),Unlimited,3.0,T234-,3.0,3.0,郭心怡、楊順欽,Required
+SET,910438.0,SESE20230,,"System Security Practice(4)
+",系統安全專題實作(4),Unlimited,0.0,M567-,1.0,3.0,賴泰宏,Required
+SET,910439.0,SESE10162,,"Computer Aided Drawing
+",電腦輔助製圖,Unlimited,16.0,W89-,1.0,2.0,系統工程,Required

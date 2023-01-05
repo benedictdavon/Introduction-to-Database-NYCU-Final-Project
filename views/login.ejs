@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/css/login_style.css">
+    <link rel="stylesheet" href="/css/navbar.css">
+    <link rel="stylesheet" href="/css/toast.css">
+    
+    <link href='https://fonts.googleapis.com/css?family=Alegreya Sans SC' rel='stylesheet'>
+
+    <title>Login</title>
+</head>
+
+<body>
+    <%- include('layout/navbar') %> 
+
+    <div class="center">
+        <h1>Login</h1>
+        <form method="post" id="login-form" action="/log-in">
+            <div class="txt_field">
+                <input type="text" id="username" name="username" required>
+                <span></span>
+                <label>Student ID (學號)</label>
+            </div>
+            <div class="txt_field">
+                <input type="password" id="password" name="password" required>
+                <span></span>
+                <label>Password (密碼)</label>
+            </div>
+            <div class="pass">Forgot Password?</div>
+            <input type="submit" value="Login">
+        </form>
+    </div>
+    <script type="text/javascript" src="src/js/login_script.js"></script>
+</body>
+
+</html>

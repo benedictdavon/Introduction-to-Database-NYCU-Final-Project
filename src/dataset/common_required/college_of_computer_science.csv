@@ -1,0 +1,44 @@
+﻿college,department,course_id,course_code,memo,summary,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+college_of_computer_science,College of Computer Science,515500.0,CSCS10025,主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；電子，應數系及管理學院不同意所屬學生採計通識學分[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously];開放隨班附讀,"跨院基本素養(106)
+校基本素養(106),基本素養-量性推理(110)","Discrete Mathematics
+FCQRGECL[COE,CI] GECI",離散數學,100,0.0,F34-EC022[GF],3.0,3.0,林政寬,Required
+college_of_computer_science,College of Computer Science,515501.0,CSCS10025,主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；電子，應數系及管理學院不同意所屬學生採計通識學分[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],"跨院基本素養(106)
+校基本素養(106),基本素養-量性推理(110)","Discrete Mathematics
+FCQRGECL[COE,CI] GECI",離散數學,100,0.0,F34-EDB27[GF],3.0,3.0,紀虹名,Required
+college_of_computer_science,College of Computer Science,515502.0,CSCS10025,[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；電子，應數系及管理學院不同意所屬學生採計通識學分[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously];開放隨班附讀,"跨院基本素養(106)
+校基本素養(106),基本素養-量性推理(110)","Discrete Mathematics
+FCQRGECL[COE,CI] GECIENG",離散數學,100,0.0,F34-ED117[GF],3.0,3.0,嚴力行,Required
+college_of_computer_science,College of Computer Science,515503.0,CSCS10005,主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Digital Circuit Design
+",數位電路設計,100,0.0,W34-EC015[GF],3.0,3.0,張明峰,Required
+college_of_computer_science,College of Computer Science,515504.0,CSCS10005,主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Digital Circuit Design
+",數位電路設計,100,0.0,W34-EC016[GF],3.0,3.0,范倫達,Required
+college_of_computer_science,College of Computer Science,515505.0,CSCS10005,[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Digital Circuit Design
+ENG",數位電路設計,100,0.0,W34-EC122[GF],3.0,3.0,單智君,Required
+college_of_computer_science,College of Computer Science,515506.0,CSCS10021,主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；Mabc上課教室:EC315、EC316,,"Data Structures and Object-oriented Programming
+",資料結構與物件導向程式設計,100,0.0,"M56R2-EC114[GF],Tabc-EC315[GF],Tabc-EC316[GF],Tabc-EC324[GF]",3.0,5.0,詹力韋,Required
+college_of_computer_science,College of Computer Science,515507.0,CSCS10021,主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；Tabc上課教室:EC315、EC316,,"Data Structures and Object-oriented Programming
+",資料結構與物件導向程式設計,100,0.0,"M56R2-EC122[GF],Mabc-EC315[GF],Mabc-EC316[GF],Mabc-EC324[GF]",3.0,5.0,袁賢銘,Required
+college_of_computer_science,College of Computer Science,515508.0,CSCS10021,[English Medium Course]主開：一年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；Rabc上課教室:EC315、EC316;開放隨班附讀,,"Data Structures and Object-oriented Programming
+ENG",資料結構與物件導向程式設計,100,0.0,"M56R2-EC015[GF],Rabc-EC315[GF],Rabc-EC316[GF],Rabc-EC324[GF]",3.0,5.0,黃世強,Required
+college_of_computer_science,College of Computer Science,515509.0,CSCS10014,主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Computer Organization
+",計算機組織,100,0.0,R56-ED117[GF],3.0,3.0,李毅郎,Required
+college_of_computer_science,College of Computer Science,515510.0,CSCS10014,主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously];開放隨班附讀,,"Computer Organization
+",計算機組織,100,0.0,R56-EC016[GF],3.0,3.0,蔡文錦,Required
+college_of_computer_science,College of Computer Science,515511.0,CSCS10014,[English Medium Course]主開：二年級，其他年級請於第二階段選課初選，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Computer Organization
+ENG",計算機組織,100,0.0,R56-EC015[GF],3.0,3.0,蔡淳仁,Required
+college_of_computer_science,College of Computer Science,515512.0,CSCS20047,主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；學士班七大主題學程；原課名「網路通訊原理」與「通訊原理與無線網路」新舊課程僅能採計一門為畢業學分，不能重覆採計。[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Principles of Communications and Wireless Networks
+",通訊原理與無線網路,100,0.0,W34-EDB27[GF],3.0,3.0,許騰尹,Elective
+college_of_computer_science,College of Computer Science,515513.0,CSCS20047,主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；學士班七大主題學程；原課名「網路通訊原理」與「通訊原理與無線網路」新舊課程僅能採計一門為畢業學分，不能重覆採計。[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Principles of Communications and Wireless Networks
+",通訊原理與無線網路,100,0.0,W34-ED117[GF],3.0,3.0,趙禧綠,Elective
+college_of_computer_science,College of Computer Science,515514.0,CSCS10004,主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程,,"Numerical Methods
+",數值方法,100,0.0,M7R34-EC015[GF],3.0,3.0,林文杰,Elective
+college_of_computer_science,College of Computer Science,515515.0,CSCS10004,主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程,,"Numerical Methods
+",數值方法,100,0.0,M7R34-EC016[GF],3.0,3.0,莊榮宏,Elective
+college_of_computer_science,College of Computer Science,515516.0,CSCS20007,主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；學士班七大主題學程[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Intro. to Artificial Intelligence
+",人工智慧概論,100,0.0,T56-ED117[GF],3.0,3.0,彭文志,Elective
+college_of_computer_science,College of Computer Science,515517.0,CSCS20007,[English Medium Course]主開：二年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；學士班七大主題學程[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously],,"Intro. to Artificial Intelligence
+ENG",人工智慧概論,100,0.0,T56-EC122[GF],3.0,3.0,陳奕廷,Elective
+college_of_computer_science,College of Computer Science,515518.0,CSCS10003,主開：三年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously];開放隨班附讀,,"Introduction to Image Processing
+",影像處理概論,100,0.0,F34-EC122[GF],3.0,3.0,陳冠文,Elective
+college_of_computer_science,College of Computer Science,515519.0,CSCS10003,主開：三年級，外系生請於開學後選課階段網路選課；資工系與電資學士班學生優先選課；請依各組入學年度之「必修科目表」選課；學士班七大主題學程[另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously];開放隨班附讀,,"Introduction to Image Processing
+",影像處理概論,100,0.0,F34-EC114[GF],3.0,3.0,蕭旭峰,Elective

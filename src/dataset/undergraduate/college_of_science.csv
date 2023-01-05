@@ -1,0 +1,217 @@
+﻿department,course_id,course_code,memo,name,chinese_name,limit,reg_num,time,credit,hours,lecturer,type
+DAC,516800.0,SCAC00002,,"Chemistry (II)
+",化學(二),Unlimited,0.0,T56F2-SB211[GF],3.0,3.0,刁維光,Required
+DAC,516801.0,SCAC00002,,"Chemistry (II)
+ENG",化學(二),Unlimited,15.0,T56F2-SC109[GF],3.0,3.0,平松弘嗣,Required
+DAC,516802.0,SCAC00002,,"Chemistry (II)
+",化學(二),Unlimited,0.0,M56T9-SC109[GF],3.0,3.0,黃立心,Required
+DAC,516803.0,SCAC00004,,"Chemistry Labs. (2)
+",化學實驗(二),55,49.0,R234-SB119[GF],1.0,3.0,刁維光,Required
+DAC,516804.0,SCAC00004,,"Chemistry Labs. (2)
+",化學實驗(二),Unlimited,0.0,T234-SB119[GF],1.0,3.0,黃立心,Required
+DAC,516805.0,SCAC00009,,"Physics Labs. (2)
+",物理實驗(二),55,50.0,Wn56-SA014[GF],1.0,3.0,謝東儒,Required
+DAC,516806.0,SCAC00005,,"Mentor's Hours
+",導師時間,Unlimited,49.0,W78-SB202[GF],0.0,2.0,張君輔,Required
+DAC,516807.0,SCAC10022,,"Service Learning I
+",服務學習(一),Unlimited,49.0,M56-SB202[GF],1.0,2.0,詹揚翔,Required
+DAC,516808.0,SCAC20016,,"Introduction to Computer Science (2)
+",計算機概論(二),50,0.0,T2R56-,3.0,3.0,李大偉,Elective
+DAC,516809.0,SCAC10001,,"Analytical Chemtistry (1)
+",分析化學(一),60,54.0,T34F2-SC159[GF],3.0,3.0,謝有容,Required
+DAC,516810.0,SCAC10003,,"Analytical Chemistry Labs. (1)
+",分析化學實驗(一),53,54.0,T5678-SB120[GF],1.0,4.0,謝有容,Required
+DAC,516811.0,SCAC10013,,"Organic Chemistry (2)
+",有機化學(二),60,54.0,M34W34-SB211[GF],4.0,4.0,孫仲銘,Required
+DAC,516812.0,SCAC10015,,"Organic experiments(2)
+",有機化學實驗(二),50,54.0,R4n5678-SB120[GF],2.0,6.0,孫仲銘、吳彥谷,Required
+DAC,516813.0,SCAC10019,,"Physical Chemistry(II)
+",物理化學(二),60,54.0,R23F56-SC159[GF],4.0,4.0,孫建文,Required
+DAC,516814.0,SCAC10020,,"Physical Chemistry Labs.(I)
+",物化實驗(一),30,0.0,Mn567-SB219[GF],1.0,4.0,吳慶昇,Required
+DAC,516815.0,SCAC10020,,"Physical Chemistry Labs.(I)
+",物化實驗(一),30,0.0,M89ab-SB219[GF],1.0,4.0,吳慶昇,Required
+DAC,516816.0,SCAC10017,,"Inorganic Chemistry (2)
+",無機化學(二),60,53.0,T34R3-SB210[GF],3.0,3.0,李積琛,Required
+DAC,516817.0,SCAC10004,,"Laboratory in Analytical Chemistry (2)
+",分析化學實驗(二),30,0.0,Rn567-SB219[GF],1.0,4.0,吳慶昇,Required
+DAC,516818.0,SCAC10004,,"Laboratory in Analytical Chemistry (2)
+",分析化學實驗(二),30,0.0,R89ab-SB219[GF],1.0,4.0,吳慶昇,Required
+DAC,516820.0,SCAC20009,,"Spectroscopic Analysis of Organic Compounds
+",有機光譜分析,50,0.0,T78W7-SB211[GF],3.0,3.0,鍾文聖,Elective
+DAC,516821.0,SCAC20003,,"Group Theory for Chemistry
+ENG",化學應用群論,60,0.0,W567-SC159[GF],3.0,3.0,杉山輝樹,Elective
+DAC,516822.0,SCAC20001,,"Analytical Chemistry (III)
+",分析化學(三),35,0.0,T56R4-SB522[GF],3.0,3.0,詹揚翔,Elective
+DAC,516823.0,SCAC10007,,"Seminar A (2)
+ENG",書報討論A(二),22,0.0,R34-SB203[GF],1.0,2.0,莊士卿,Required
+DAC,516824.0,SCAC10009,,"Seminar B (2)
+ENG",書報討論B(二),22,0.0,M34-SB201[GF],1.0,2.0,曾建銘,Required
+DAC,516825.0,SCAC20005,,"Research(3)
+",專題研究(三),0,0.0,S234-,1.0,3.0,吳淑褓,Elective
+DAC,516826.0,SCAC20007,,"Integrated Chemistry Laboratory
+",整合型化學實驗,10,0.0,R567-SB321[GF],3.0,3.0,黃立心,Elective
+DAC,516827.0,SCAC20018,,"Principles and Practice of Virtual Chemistry Labs
+",虛擬化學實驗的原理與實踐,30,0.0,F56-,2.0,2.0,李大偉,Elective
+DAM,516800.0,SCAC00002,,"Chemistry (II)
+",化學(二),Unlimited,0.0,T56F2-SB211[GF],3.0,3.0,刁維光,Required
+DAM,516801.0,SCAC00002,,"Chemistry (II)
+ENG",化學(二),Unlimited,15.0,T56F2-SC109[GF],3.0,3.0,平松弘嗣,Required
+DAM,516802.0,SCAC00002,,"Chemistry (II)
+",化學(二),Unlimited,0.0,M56T9-SC109[GF],3.0,3.0,黃立心,Required
+DAM,516803.0,SCAC00004,,"Chemistry Labs. (2)
+",化學實驗(二),55,49.0,R234-SB119[GF],1.0,3.0,刁維光,Required
+DAM,516804.0,SCAC00004,,"Chemistry Labs. (2)
+",化學實驗(二),Unlimited,0.0,T234-SB119[GF],1.0,3.0,黃立心,Required
+DAM,516805.0,SCAC00009,,"Physics Labs. (2)
+",物理實驗(二),55,50.0,Wn56-SA014[GF],1.0,3.0,謝東儒,Required
+DAM,516806.0,SCAC00005,,"Mentor's Hours
+",導師時間,Unlimited,49.0,W78-SB202[GF],0.0,2.0,張君輔,Required
+DAM,516807.0,SCAC10022,,"Service Learning I
+",服務學習(一),Unlimited,49.0,M56-SB202[GF],1.0,2.0,詹揚翔,Required
+DAM,516808.0,SCAC20016,,"Introduction to Computer Science (2)
+",計算機概論(二),50,0.0,T2R56-,3.0,3.0,李大偉,Elective
+DAM,516809.0,SCAC10001,,"Analytical Chemtistry (1)
+",分析化學(一),60,54.0,T34F2-SC159[GF],3.0,3.0,謝有容,Required
+DAM,516810.0,SCAC10003,,"Analytical Chemistry Labs. (1)
+",分析化學實驗(一),53,54.0,T5678-SB120[GF],1.0,4.0,謝有容,Required
+DAM,516811.0,SCAC10013,,"Organic Chemistry (2)
+",有機化學(二),60,54.0,M34W34-SB211[GF],4.0,4.0,孫仲銘,Required
+DAM,516812.0,SCAC10015,,"Organic experiments(2)
+",有機化學實驗(二),50,54.0,R4n5678-SB120[GF],2.0,6.0,孫仲銘、吳彥谷,Required
+DAM,516813.0,SCAC10019,,"Physical Chemistry(II)
+",物理化學(二),60,54.0,R23F56-SC159[GF],4.0,4.0,孫建文,Required
+DAM,516814.0,SCAC10020,,"Physical Chemistry Labs.(I)
+",物化實驗(一),30,0.0,Mn567-SB219[GF],1.0,4.0,吳慶昇,Required
+DAM,516815.0,SCAC10020,,"Physical Chemistry Labs.(I)
+",物化實驗(一),30,0.0,M89ab-SB219[GF],1.0,4.0,吳慶昇,Required
+DAM,516816.0,SCAC10017,,"Inorganic Chemistry (2)
+",無機化學(二),60,53.0,T34R3-SB210[GF],3.0,3.0,李積琛,Required
+DAM,516817.0,SCAC10004,,"Laboratory in Analytical Chemistry (2)
+",分析化學實驗(二),30,0.0,Rn567-SB219[GF],1.0,4.0,吳慶昇,Required
+DAM,516818.0,SCAC10004,,"Laboratory in Analytical Chemistry (2)
+",分析化學實驗(二),30,0.0,R89ab-SB219[GF],1.0,4.0,吳慶昇,Required
+DAM,516820.0,SCAC20009,,"Spectroscopic Analysis of Organic Compounds
+",有機光譜分析,50,0.0,T78W7-SB211[GF],3.0,3.0,鍾文聖,Elective
+DAM,516821.0,SCAC20003,,"Group Theory for Chemistry
+ENG",化學應用群論,60,0.0,W567-SC159[GF],3.0,3.0,杉山輝樹,Elective
+DAM,516822.0,SCAC20001,,"Analytical Chemistry (III)
+",分析化學(三),35,0.0,T56R4-SB522[GF],3.0,3.0,詹揚翔,Elective
+DAM,516823.0,SCAC10007,,"Seminar A (2)
+ENG",書報討論A(二),22,0.0,R34-SB203[GF],1.0,2.0,莊士卿,Required
+DAM,516824.0,SCAC10009,,"Seminar B (2)
+ENG",書報討論B(二),22,0.0,M34-SB201[GF],1.0,2.0,曾建銘,Required
+DAM,516825.0,SCAC20005,,"Research(3)
+",專題研究(三),0,0.0,S234-,1.0,3.0,吳淑褓,Elective
+DAM,516826.0,SCAC20007,,"Integrated Chemistry Laboratory
+",整合型化學實驗,10,0.0,R567-SB321[GF],3.0,3.0,黃立心,Elective
+DAM,516827.0,SCAC20018,,"Principles and Practice of Virtual Chemistry Labs
+",虛擬化學實驗的原理與實踐,30,0.0,F56-,2.0,2.0,李大偉,Elective
+DEP,516800.0,SCAC00002,,"Chemistry (II)
+",化學(二),Unlimited,0.0,T56F2-SB211[GF],3.0,3.0,刁維光,Required
+DEP,516801.0,SCAC00002,,"Chemistry (II)
+ENG",化學(二),Unlimited,15.0,T56F2-SC109[GF],3.0,3.0,平松弘嗣,Required
+DEP,516802.0,SCAC00002,,"Chemistry (II)
+",化學(二),Unlimited,0.0,M56T9-SC109[GF],3.0,3.0,黃立心,Required
+DEP,516803.0,SCAC00004,,"Chemistry Labs. (2)
+",化學實驗(二),55,49.0,R234-SB119[GF],1.0,3.0,刁維光,Required
+DEP,516804.0,SCAC00004,,"Chemistry Labs. (2)
+",化學實驗(二),Unlimited,0.0,T234-SB119[GF],1.0,3.0,黃立心,Required
+DEP,516805.0,SCAC00009,,"Physics Labs. (2)
+",物理實驗(二),55,50.0,Wn56-SA014[GF],1.0,3.0,謝東儒,Required
+DEP,516806.0,SCAC00005,,"Mentor's Hours
+",導師時間,Unlimited,49.0,W78-SB202[GF],0.0,2.0,張君輔,Required
+DEP,516807.0,SCAC10022,,"Service Learning I
+",服務學習(一),Unlimited,49.0,M56-SB202[GF],1.0,2.0,詹揚翔,Required
+DEP,516808.0,SCAC20016,,"Introduction to Computer Science (2)
+",計算機概論(二),50,0.0,T2R56-,3.0,3.0,李大偉,Elective
+DEP,516809.0,SCAC10001,,"Analytical Chemtistry (1)
+",分析化學(一),60,54.0,T34F2-SC159[GF],3.0,3.0,謝有容,Required
+DEP,516810.0,SCAC10003,,"Analytical Chemistry Labs. (1)
+",分析化學實驗(一),53,54.0,T5678-SB120[GF],1.0,4.0,謝有容,Required
+DEP,516811.0,SCAC10013,,"Organic Chemistry (2)
+",有機化學(二),60,54.0,M34W34-SB211[GF],4.0,4.0,孫仲銘,Required
+DEP,516812.0,SCAC10015,,"Organic experiments(2)
+",有機化學實驗(二),50,54.0,R4n5678-SB120[GF],2.0,6.0,孫仲銘、吳彥谷,Required
+DEP,516813.0,SCAC10019,,"Physical Chemistry(II)
+",物理化學(二),60,54.0,R23F56-SC159[GF],4.0,4.0,孫建文,Required
+DEP,516814.0,SCAC10020,,"Physical Chemistry Labs.(I)
+",物化實驗(一),30,0.0,Mn567-SB219[GF],1.0,4.0,吳慶昇,Required
+DEP,516815.0,SCAC10020,,"Physical Chemistry Labs.(I)
+",物化實驗(一),30,0.0,M89ab-SB219[GF],1.0,4.0,吳慶昇,Required
+DEP,516816.0,SCAC10017,,"Inorganic Chemistry (2)
+",無機化學(二),60,53.0,T34R3-SB210[GF],3.0,3.0,李積琛,Required
+DEP,516817.0,SCAC10004,,"Laboratory in Analytical Chemistry (2)
+",分析化學實驗(二),30,0.0,Rn567-SB219[GF],1.0,4.0,吳慶昇,Required
+DEP,516818.0,SCAC10004,,"Laboratory in Analytical Chemistry (2)
+",分析化學實驗(二),30,0.0,R89ab-SB219[GF],1.0,4.0,吳慶昇,Required
+DEP,516820.0,SCAC20009,,"Spectroscopic Analysis of Organic Compounds
+",有機光譜分析,50,0.0,T78W7-SB211[GF],3.0,3.0,鍾文聖,Elective
+DEP,516821.0,SCAC20003,,"Group Theory for Chemistry
+ENG",化學應用群論,60,0.0,W567-SC159[GF],3.0,3.0,杉山輝樹,Elective
+DEP,516822.0,SCAC20001,,"Analytical Chemistry (III)
+",分析化學(三),35,0.0,T56R4-SB522[GF],3.0,3.0,詹揚翔,Elective
+DEP,516823.0,SCAC10007,,"Seminar A (2)
+ENG",書報討論A(二),22,0.0,R34-SB203[GF],1.0,2.0,莊士卿,Required
+DEP,516824.0,SCAC10009,,"Seminar B (2)
+ENG",書報討論B(二),22,0.0,M34-SB201[GF],1.0,2.0,曾建銘,Required
+DEP,516825.0,SCAC20005,,"Research(3)
+",專題研究(三),0,0.0,S234-,1.0,3.0,吳淑褓,Elective
+DEP,516826.0,SCAC20007,,"Integrated Chemistry Laboratory
+",整合型化學實驗,10,0.0,R567-SB321[GF],3.0,3.0,黃立心,Elective
+DEP,516827.0,SCAC20018,,"Principles and Practice of Virtual Chemistry Labs
+",虛擬化學實驗的原理與實踐,30,0.0,F56-,2.0,2.0,李大偉,Elective
+DPS,516800.0,SCAC00002,,"Chemistry (II)
+",化學(二),Unlimited,0.0,T56F2-SB211[GF],3.0,3.0,刁維光,Required
+DPS,516801.0,SCAC00002,,"Chemistry (II)
+ENG",化學(二),Unlimited,15.0,T56F2-SC109[GF],3.0,3.0,平松弘嗣,Required
+DPS,516802.0,SCAC00002,,"Chemistry (II)
+",化學(二),Unlimited,0.0,M56T9-SC109[GF],3.0,3.0,黃立心,Required
+DPS,516803.0,SCAC00004,,"Chemistry Labs. (2)
+",化學實驗(二),55,49.0,R234-SB119[GF],1.0,3.0,刁維光,Required
+DPS,516804.0,SCAC00004,,"Chemistry Labs. (2)
+",化學實驗(二),Unlimited,0.0,T234-SB119[GF],1.0,3.0,黃立心,Required
+DPS,516805.0,SCAC00009,,"Physics Labs. (2)
+",物理實驗(二),55,50.0,Wn56-SA014[GF],1.0,3.0,謝東儒,Required
+DPS,516806.0,SCAC00005,,"Mentor's Hours
+",導師時間,Unlimited,49.0,W78-SB202[GF],0.0,2.0,張君輔,Required
+DPS,516807.0,SCAC10022,,"Service Learning I
+",服務學習(一),Unlimited,49.0,M56-SB202[GF],1.0,2.0,詹揚翔,Required
+DPS,516808.0,SCAC20016,,"Introduction to Computer Science (2)
+",計算機概論(二),50,0.0,T2R56-,3.0,3.0,李大偉,Elective
+DPS,516809.0,SCAC10001,,"Analytical Chemtistry (1)
+",分析化學(一),60,54.0,T34F2-SC159[GF],3.0,3.0,謝有容,Required
+DPS,516810.0,SCAC10003,,"Analytical Chemistry Labs. (1)
+",分析化學實驗(一),53,54.0,T5678-SB120[GF],1.0,4.0,謝有容,Required
+DPS,516811.0,SCAC10013,,"Organic Chemistry (2)
+",有機化學(二),60,54.0,M34W34-SB211[GF],4.0,4.0,孫仲銘,Required
+DPS,516812.0,SCAC10015,,"Organic experiments(2)
+",有機化學實驗(二),50,54.0,R4n5678-SB120[GF],2.0,6.0,孫仲銘、吳彥谷,Required
+DPS,516813.0,SCAC10019,,"Physical Chemistry(II)
+",物理化學(二),60,54.0,R23F56-SC159[GF],4.0,4.0,孫建文,Required
+DPS,516814.0,SCAC10020,,"Physical Chemistry Labs.(I)
+",物化實驗(一),30,0.0,Mn567-SB219[GF],1.0,4.0,吳慶昇,Required
+DPS,516815.0,SCAC10020,,"Physical Chemistry Labs.(I)
+",物化實驗(一),30,0.0,M89ab-SB219[GF],1.0,4.0,吳慶昇,Required
+DPS,516816.0,SCAC10017,,"Inorganic Chemistry (2)
+",無機化學(二),60,53.0,T34R3-SB210[GF],3.0,3.0,李積琛,Required
+DPS,516817.0,SCAC10004,,"Laboratory in Analytical Chemistry (2)
+",分析化學實驗(二),30,0.0,Rn567-SB219[GF],1.0,4.0,吳慶昇,Required
+DPS,516818.0,SCAC10004,,"Laboratory in Analytical Chemistry (2)
+",分析化學實驗(二),30,0.0,R89ab-SB219[GF],1.0,4.0,吳慶昇,Required
+DPS,516820.0,SCAC20009,,"Spectroscopic Analysis of Organic Compounds
+",有機光譜分析,50,0.0,T78W7-SB211[GF],3.0,3.0,鍾文聖,Elective
+DPS,516821.0,SCAC20003,,"Group Theory for Chemistry
+ENG",化學應用群論,60,0.0,W567-SC159[GF],3.0,3.0,杉山輝樹,Elective
+DPS,516822.0,SCAC20001,,"Analytical Chemistry (III)
+",分析化學(三),35,0.0,T56R4-SB522[GF],3.0,3.0,詹揚翔,Elective
+DPS,516823.0,SCAC10007,,"Seminar A (2)
+ENG",書報討論A(二),22,0.0,R34-SB203[GF],1.0,2.0,莊士卿,Required
+DPS,516824.0,SCAC10009,,"Seminar B (2)
+ENG",書報討論B(二),22,0.0,M34-SB201[GF],1.0,2.0,曾建銘,Required
+DPS,516825.0,SCAC20005,,"Research(3)
+",專題研究(三),0,0.0,S234-,1.0,3.0,吳淑褓,Elective
+DPS,516826.0,SCAC20007,,"Integrated Chemistry Laboratory
+",整合型化學實驗,10,0.0,R567-SB321[GF],3.0,3.0,黃立心,Elective
+DPS,516827.0,SCAC20018,,"Principles and Practice of Virtual Chemistry Labs
+",虛擬化學實驗的原理與實踐,30,0.0,F56-,2.0,2.0,李大偉,Elective
