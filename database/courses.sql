@@ -7,7 +7,11 @@
 -- 110550204 choochoo     3     2        DCP
 -- 110550205 water        4     1        DCP
 -- 110550206 110550206    4     2        DCP
-
+CREATE TABLE users(
+  student_id NUMERIC(9, 0),
+  student_password VARCHAR(255),
+  PRIMARY KEY (student_id)
+);
 
 -- 1 for required, 2 for elective, 3 for core curiculum, 4 for physicial education, 5 for language and communication
 CREATE TABLE course_category (
